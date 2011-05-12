@@ -1,0 +1,272 @@
+
+if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
+    dojo._hasResource["translations.Maps"] = true;
+    dojo.provide("translations.Maps");
+
+(function(){
+    translations.Maps.phrases     = {
+        'Normal': { 
+            'es_ES' : 'Normal',
+            'af_ZA' : 'Padkaart',
+            'fr_FR' : 'Normal',
+            'ms_MY' : 'Normal',
+            'nl_NL' : 'Kaart',
+            'id_ID' : 'Normal',
+            'th_TH' : 'ปกติ',
+		'pt_BR' : 'Normal'
+           },
+        'Satellite': { 
+            'es_ES' : 'Satélite',
+            'af_ZA' : 'Sateliet',
+            'fr_FR' : 'Satellite',
+            'ms_MY' : 'Satelit',
+            'nl_NL' : 'Sateliet',
+            'id_ID' : 'Satelit',
+            'th_TH' : 'ดาวเทียม',
+		'pt_BR' : 'Satélite'
+           },
+        'Hybrid': { 
+            'es_ES' : 'Hibrido',
+            'af_ZA' : 'Kombinasie',
+            'fr_FR' : 'Hybride',
+            'ms_MY' : 'Hibrid',
+            'nl_NL' : 'Gemengd',
+            'id_ID' : 'Hybrid',
+            'th_TH' : 'ลูกผสม',
+		'pt_BR' : 'Híbrido'
+           },
+        'Action Required': { 
+            'es_ES' : 'Acción Requerida',
+            'af_ZA' : 'Benodig Aksie',
+            'fr_FR' : 'Action requise',
+            'ms_MY' : 'Tindakan diperlukan',
+            'nl_NL' : 'Actie verplicht',
+            'id_ID' : 'Tindakan dibutuhkan',
+            'th_TH' : 'ต้องการการกระทำ',
+		'pt_BR' : 'Ação Requerida'
+           },
+        'New position': { 
+            'es_ES' : 'Nueva posición',
+            'af_ZA' : 'Nuwe posisie',
+            'fr_FR' : 'Nouvelle position',
+            'ms_MY' : 'Posisi baru',
+            'nl_NL' : 'Nieuwe positie',
+            'id_ID' : 'Posisi Baru',
+            'th_TH' : 'ตำแหน่งใหม่',
+		'pt_BR' : 'Nova posição'
+           },
+        'Longitude': { 
+            'es_ES' : 'Longitud',
+            'af_ZA' : 'Breedtegraad',
+            'fr_FR' : 'Longitude',
+            'ms_MY' : 'Longitud',
+            'nl_NL' : 'Breedtegraad',
+            'id_ID' : 'Garis Bujur',
+            'th_TH' : 'ลองจิจูด',
+		'pt_BR' : 'Longitude'
+           },
+        'Latitude': { 
+            'es_ES' : 'Latitud',
+            'af_ZA' : 'Lentegraad',
+            'fr_FR' : 'latitude',
+            'ms_MY' : 'Latitud',
+            'nl_NL' : 'Lengtegraad',
+            'id_ID' : 'Garis Lintang',
+            'th_TH' : 'ละติจูด',
+		'pt_BR' : 'Latitude'
+           },
+        'Save': { 
+            'es_ES' : 'Guardar',
+            'af_ZA' : 'Stoor',
+            'fr_FR' : 'Sauver',
+            'ms_MY' : 'Simpan',
+            'nl_NL' : 'Opslaan',
+            'id_ID' : 'Simpan',
+            'th_TH' : 'จัดเก็บ',
+		'pt_BR' : 'Salvar'
+           },
+        'Cancel': { 
+            'es_ES' : 'Cancelar',
+            'af_ZA' : 'Kanselleer',
+            'fr_FR' : 'Annuler',
+            'ms_MY' : 'Batal',
+            'nl_NL' : 'Annuleren',
+            'id_ID' : 'Batal',
+            'th_TH' : 'ยกเลิก',
+		'pt_BR' : 'Cancelar'
+           },
+        'Delete': { 
+            'es_ES' : 'Eliminar',
+            'af_ZA' : 'Verwyder',
+            'fr_FR' : 'Supprimer',
+            'ms_MY' : 'Padam',
+            'nl_NL' : 'Verwijder',
+            'id_ID' : 'Hapus',
+            'th_TH' : 'ลบ',
+		'pt_BR' : 'Deletar'
+           },
+        'New marker already on map': { 
+            'es_ES' : 'Nuevo marcador ya en el mapa',
+            'af_ZA' : 'Nuwe merker reeds op kaart geplaas',
+            'fr_FR' : 'La nouvelle marque est déjà sur la carte',
+            'ms_MY' : 'Penanda baru sudah berada diatas peta',
+            'nl_NL' : 'Nieuwe marker bestaat al',
+            'id_ID' : 'Tanda baru sudah ada di peta',
+            'th_TH' : 'มีผู้ทำเครื่องหมายบนแผนที่แล้ว',
+		'pt_BR' : 'Novo marcador já no mapa'
+           },
+        'Add Marker': { 
+            'es_ES' : 'Añadir Marcador',
+            'af_ZA' : 'Nuwe Merker',
+            'fr_FR' : 'Ajouter une marque',
+            'ms_MY' : 'Tambah Penanda',
+            'nl_NL' : 'Marker toevoegen',
+            'id_ID' : 'Tambah marker',
+            'th_TH' : 'เพิ่มเครื่องหมาย',
+		'pt_BR' : 'Adicionar Marcador'
+           },
+        'Available': { 
+            'es_ES' : 'Disponible',
+            'af_ZA' : 'Beskikbaar',
+            'fr_FR' : 'Disponible',
+            'ms_MY' : 'Tersedia',
+            'nl_NL' : 'Beschikbaar',
+            'id_ID' : 'Tersedia',
+            'th_TH' : 'สามารถใช้ได้',
+		'pt_BR' : 'Disponível'
+           },
+        'Drag and drop marker to required position': { 
+            'es_ES' : 'Arrastrar y soltar marcador a la posición deseada',
+            'af_ZA' : 'Gryp en skuif merker na nuwe posisie',
+            'fr_FR' : "Déplacer la marque jusqu'é la position désiré",
+            'ms_MY' : 'Tarik dan lepas penanda pada posisi yang diingini',
+            'nl_NL' : 'Sleep de marker naar de gewenste positie',
+            'id_ID' : 'Tarik dan pasang marker pada posisi yang diinginkan',
+            'th_TH' : 'ลากแล้วปล่อยเครื่องหมายยังตำแหน่งที่ต้องการ',
+		'pt_BR' : 'Arraste e solte o marcador na posição requerida'
+           },
+        'Edit a marker': { 
+            'es_ES' : 'Editar un marcador',
+            'af_ZA' : "Redigeer 'n merker",
+            'fr_FR' : 'Editer une marque',
+            'ms_MY' : 'Ubah Penanda',
+            'nl_NL' : 'Wijzig marker',
+            'id_ID' : 'Edit Marker',
+            'th_TH' : 'แก้ไขเครื่องหมาย',
+		'pt_BR' : 'Editar um marcador'
+           },
+        'Instructions': { 
+            'es_ES' : 'Instrucciones',
+            'af_ZA' : 'Instruksies',
+            'fr_FR' : 'Intsruction',
+            'ms_MY' : 'Arahan',
+            'nl_NL' : 'Instructies',
+            'id_ID' : 'Petunjuk',
+            'th_TH' : 'วิธีใช้',
+		'pt_BR' : 'Instruções'
+           },
+        'Simply drag a marker to its new postition and click on the save link in the balloon': { 
+            'es_ES' : 'Simplemente arrastre un marcador a su nueva posición y haga click en el link guardar del globo',
+            'af_ZA' : "Gryp en skuif 'n merker na nuwe posisie en klik op die stoor skakel in die ballon",
+            'fr_FR' : "Déplacer simplement la marque jusqu' à sa nouvelle postion et cliquer sur le lien de sauvegarde",
+            'ms_MY' : 'Hanya tarik penanda ke posisi baru dan klik pautan simpan di dalam belon',
+            'nl_NL' : 'Sleep de marker naar de nieuwe positie en klik op de opslaanlink in de ballon',
+            'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
+            'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกด save ในบอลลูน',
+		'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
+           },
+        'Delete a marker': { 
+            'es_ES' : 'Eliminar un marcador',
+            'af_ZA' : "Verwyder 'n merker",
+            'fr_FR' : 'Supprimer une marque',
+            'ms_MY' : 'Padam Penanda',
+            'nl_NL' : 'Verwijder een marker',
+            'id_ID' : 'Hapus Marker',
+            'th_TH' : 'ลบเครื่องหมาย',
+		'pt_BR' : 'Deletar um marcador'
+           },
+        'Simply drag a marker to its new postition and click on the save link in the balloon': { 
+            'es_ES' : 'Simplemente arrastre un marcador a su nueva posición y haga click en el link guardar del globo',
+            'af_ZA' : "Gryp en skuif 'n merker na nuwe posisie en klik op die verwyder skakel in die ballon",
+            'fr_FR' : "Déplacer simplement la marque jusqu'à sa nouvelle postion et cliquer sur le lien de suppression",
+            'ms_MY' : 'Hanya tarik penanda ke posisi baru dan klik pautan simpan di dalam belon',
+            'nl_NL' : 'Sleep de marker naar de nieuwe positie en klik op de opslaanlink in de ballon',
+            'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
+            'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกด save ในบอลลูน',
+		'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
+           },
+        'Preferences': { 
+            'es_ES' : 'Preferencias',
+            'af_ZA' : 'Voorkeure',
+            'fr_FR' : 'Préférences',
+            'ms_MY' : 'Pilihan',
+            'nl_NL' : 'Voorkeuren',
+            'id_ID' : 'Preferensi',
+            'th_TH' : 'ตั้งค่า',
+		'pt_BR' : 'Preferências'
+           },
+        'Zoom Level': { 
+            'es_ES' : 'Nivel Zoom',
+            'af_ZA' : 'Hoeveel Zoom',
+            'fr_FR' : 'Niveau de zoom',
+            'ms_MY' : 'Tahap Zum',
+            'nl_NL' : 'Zoomniveau',
+            'id_ID' : 'Level Zoom',
+            'th_TH' : 'ระดับการซูม',
+		'pt_BR' : 'Nível de Zoom'
+           },
+        'Type': { 
+            'es_ES' : 'Tipo',
+            'af_ZA' : 'Tipe',
+            'fr_FR' : 'Type',
+            'ms_MY' : 'Jenis',
+            'nl_NL' : 'Type',
+            'id_ID' : 'Tipe',
+            'th_TH' : 'ชนิด',
+		'pt_BR' : 'Tipo'
+           },
+        'Preferences updated OK': { 
+            'es_ES' : 'Preferencias actualizadas OK',
+            'af_ZA' : 'Voorkeure opgedateer',
+            'fr_FR' : 'Préférences mise à jour OK',
+            'ms_MY' : 'Berjaya mengubah Pilihan',
+            'nl_NL' : 'Voorkeuren opgeslagen',
+            'id_ID' : 'Update Preferensi Berhasil',
+            'th_TH' : 'ปรับปรุงการตั้งค่าเรียบร้อยแล้ว',
+		'pt_BR' : 'Preferências atualizadas OK'
+           },
+        'Problems updating Preferences': { 
+            'es_ES' : 'Problemas actualizando preferencias',
+            'af_ZA' : 'Probleme ondervind',
+            'fr_FR' : 'Problèmes de mise à jour Préférences',
+            'ms_MY' : 'Gagal mengubah Pilihan',
+            'nl_NL' : 'Voorkeuren opslaan mislukt',
+            'id_ID' : 'Update Preferensi Bermasalah',
+            'th_TH' : 'มีปัญหาในการปรับปรุงการตั้งค่า',
+		'pt_BR' : 'Problemas ao atualizar as preferências'
+           },
+        'Update completed': { 
+            'es_ES' : 'Actualización completada',
+            'af_ZA' : 'Opgedateer',
+            'fr_FR' : 'Mise à jour terminée',
+            'ms_MY' : 'Perubahan selesai',
+            'nl_NL' : 'Markers gewijzigd',
+            'id_ID' : 'Update Selesai',
+            'th_TH' : 'ปรับปรุงเสร็จสมบูรณ์',
+		'pt_BR' : 'Atualização completada'
+           },
+        'Problems updating markers': { 
+            'es_ES' : 'Problemas actualizando marcadores',
+            'af_ZA' : 'Probleme om op te dateer',
+            'fr_FR' : 'Problèmes de mise à jour des marqueurs',
+            'ms_MY' : 'Gagal mengubah penanda',
+            'nl_NL' : 'Markers wijzigen mislukt',
+            'id_ID' : 'Update marker bermasalah',
+            'th_TH' : 'มีปัญหาในการปรับปรุงเครื่องหมาย',
+		'pt_BR' : 'Problemas ao atualizar os marcadores'
+           }
+    };
+
+})();//(function(){
+
+}
