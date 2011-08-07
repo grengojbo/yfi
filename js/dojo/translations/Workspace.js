@@ -8,14 +8,15 @@ if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by
 
     translations.Workspace.phrases     = {
         'Loading': { 
-	        'es_ES' : 'Cargando: ',
+'de_DE' : 'Laden ...',
+            'es_ES' : 'Cargando: ',
             'af_ZA' : 'Laai sub-blaai:',
             'fr_FR' : 'En cours de chargement ...',
             'ms_MY' : 'Memuat',
-		    'nl_NL' : 'Bezig met laden van tabblad:',
+	     'nl_NL' : 'Bezig met laden van tabblad:',
             'id_ID' : '',
-		'pt_BR' : 'Carregando'
-        }
+            'pt_BR' : 'Carregando'
+		        }
     };
 
 })();//(function(){

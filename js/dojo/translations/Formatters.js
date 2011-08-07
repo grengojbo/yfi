@@ -8,6 +8,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
 
     translations.Formatters.phrases     = {
          'Gb': { 
+'de_DE' : 'Gb',
             'es_ES' : 'Gb',
             'af_ZA' : 'Gb',
             'fr_FR' : 'Gb',
@@ -15,9 +16,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Gb',
             'id_ID' : 'Gb',
             'th_TH' : 'กิกะบิท',
-		'pt_BR' : 'Gb'
+	     'pt_BR' : 'Gb'
            },
         'Mb': { 
+'de_DE' : 'Mb',
             'es_ES' : 'Mb',
             'af_ZA' : 'Mb',
             'fr_FR' : 'Mb',
@@ -25,9 +27,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Mb',
             'id_ID' : 'Mb',
             'th_TH' : 'เมกะบิท',
-		'pt_BR' : 'Mb'
+	     'pt_BR' : 'Mb'
            },
         'Kb': { 
+'de_DE' : 'Kb',
             'es_ES' : 'Kb',
             'af_ZA' : 'Kb',
             'fr_FR' : 'Kb',
@@ -35,9 +38,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Kb',
             'id_ID' : 'Kb',
             'th_TH' : 'กิโลบิท',
-		'pt_BR' : 'Kb'
+	     'pt_BR' : 'Kb'
            },
         'bytes': { 
+'de_DE' : 'Bytes',
             'es_ES' : 'bytes',
             'af_ZA' : 'grepe',
             'fr_FR' : 'octets',
@@ -45,9 +49,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'bytes',
             'id_ID' : 'byte',
             'th_TH' : 'ไบท์',
-		'pt_BR' : 'bytes'
+	     'pt_BR' : 'bytes'
            },
         'Negative': { 
+'de_DE' : 'Negativ',
             'es_ES' : 'Negativo',
             'af_ZA' : 'Negatief',
             'fr_FR' : 'Négatif',
@@ -55,9 +60,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Negatief',
             'id_ID' : 'Negatif',
             'th_TH' : 'ปฎิเสธ',
-		'pt_BR' : 'Negativo'
+	     'pt_BR' : 'Negativo'
            },
         'days': { 
+'de_DE' : 'Tage',
             'es_ES' : 'días',
             'af_ZA' : 'dae',
             'fr_FR' : 'jours',
@@ -65,9 +71,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'dagen',
             'id_ID' : 'Hari',
             'th_TH' : 'วัน',
-		'pt_BR' : 'dias'
+            'pt_BR' : 'dias'
            },
         'hours': { 
+'de_DE' : 'Stunden',
             'es_ES' : 'horas',
             'af_ZA' : 'ure',
             'fr_FR' : 'heures',
@@ -75,9 +82,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'uren',
             'id_ID' : 'Jam',
             'th_TH' : 'ชั่วโมง',
-		'pt_BR' : 'horas'
+	     'pt_BR' : 'horas'
            },
         'minutes': { 
+'de_DE' : 'Minuten',
             'es_ES' : 'minutos',
             'af_ZA' : 'minute',
             'fr_FR' : 'minutes',
@@ -88,6 +96,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
 		'pt_BR' : 'minutos'
            },
         'seconds': { 
+'de_DE' : 'Sekunden',
             'es_ES' : 'segundos',
             'af_ZA' : 'sekondes',
             'fr_FR' : 'secondes',
@@ -95,9 +104,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'seconden',
             'id_ID' : 'Detik',
             'th_TH' : 'วินาที',
-		'pt_BR' : 'segundos'
+	     'pt_BR' : 'segundos'
            },
         'Check':{ 
+'de_DE' : 'Kontrollieren',
             'es_ES' : 'Comprobación',
             'af_ZA' : 'Kontroleer',
             'fr_FR' : 'Vérification',
@@ -105,9 +115,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Check',
             'id_ID' : 'Check',
             'th_TH' : 'ตรวจสอบ',
-		'pt_BR' : 'Check'
+	     'pt_BR' : 'Check'
            },
         'Reply':{ 
+'de_DE' : 'Antworten',
             'es_ES' : 'Respuesta',
             'af_ZA' : 'Antwoord',
             'fr_FR' : 'Réponse',
@@ -115,9 +126,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Reply',
             'id_ID' : 'Reply',
             'th_TH' : 'ตอบกลับ',
-		'pt_BR' : 'Reply'
+	     'pt_BR' : 'Reply'
            },
         'Still Active':{ 
+'de_DE' : 'Noch Aktiv',
             'es_ES' : 'Permanece Activo',
             'af_ZA' : 'Tans Ingeteken',
             'fr_FR' : 'Toujours actif',
@@ -125,9 +137,10 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Reeds actief',
             'id_ID' : 'Masih aktif',
             'th_TH' : 'ยังคงใช้งานอยู่',
-		'pt_BR' : 'Ainda Ativo'
+	     'pt_BR' : 'Ainda Ativo'
            },
         'Complete':{ 
+'de_DE' : 'Fertig',
             'es_ES' : 'Completado',
             'af_ZA' : 'Voltooid',
             'fr_FR' : 'Terminé',
@@ -135,7 +148,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'nl_NL' : 'Voltooid',
             'id_ID' : 'Selesai',
             'th_TH' : 'สมบูรณ์',
-		'pt_BR' : 'Completo'
+	     'pt_BR' : 'Completo'
            }
     };
 

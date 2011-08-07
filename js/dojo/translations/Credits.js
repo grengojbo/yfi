@@ -7,7 +7,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
 (function(){
 
     translations.Credits.phrases     = {
-        'Kb': { 
+        'Kb':{ 
+'de_DE' : 'Kb',
             'es_ES' : 'Kb',
             'af_ZA' : 'Kb',
             'fr_FR' : 'Kb',
@@ -15,9 +16,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Kb',
             'id_ID' : 'Kb',
             'th_TH' : 'กิโลบิท',
-		'pt_BR' : 'Kb'
+	     'pt_BR' : 'Kb'
            },
-        'Mb': { 
+        'Mb':{ 
+'de_DE' : 'Mb',
             'es_ES' : 'Mb',
             'af_ZA' : 'Mb',
             'fr_FR' : 'Mb',
@@ -25,9 +27,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Mb',
             'id_ID' : 'Mb',
             'th_TH' : 'เมกะบิท',
-		'pt_BR' : 'Mb'
+	     'pt_BR' : 'Mb'
            },
-        'Gb': { 
+        'Gb':{ 
+'de_DE' : 'Gb',
             'es_ES' : 'Gb',
             'af_ZA' : 'Gb',
             'fr_FR' : 'Gb',
@@ -35,9 +38,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Gb',
             'id_ID' : 'Gb',
             'th_TH' : 'กิกะบิท',
-		'pt_BR' : 'Gb'
+            'pt_BR' : 'Gb'
            },
-        'Minutes': { 
+        'Minutes':{ 
+'de_DE' : 'Minuten',
             'es_ES' : 'Minutos',
             'af_ZA' : 'Minute',
             'fr_FR' : 'Minutes',
@@ -45,9 +49,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Minuten',
             'id_ID' : 'Menit',
             'th_TH' : 'นาที',
-		'pt_BR' : 'Minutos'
+	     'pt_BR' : 'Minutos'
            },
-        'Hours': { 
+        'Hours':{ 
+'de_DE' : 'Stunden',
             'es_ES' : 'Horas',
             'af_ZA' : 'Ure',
             'fr_FR' : 'Heures',
@@ -55,9 +60,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Uren',
             'id_ID' : 'Jam',
             'th_TH' : 'ชั่วโมง',
-		'pt_BR' : 'Horas'
+	     'pt_BR' : 'Horas'
            },
-        'Days': { 
+        'Days':{ 
+'de_DE' : 'Tage',
             'es_ES' : 'Días',
             'af_ZA' : 'Dae',
             'fr_FR' : 'Jours',
@@ -65,9 +71,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Dagen',
             'id_ID' : 'Hari',
             'th_TH' : 'วัน',
-		'pt_BR' : 'Dias'
+	     'pt_BR' : 'Dias'
            },
-        'Filter': {
+        'Filter':{
+'de_DE' : 'Filter',
             'es_ES' : 'Filtro', 
             'af_ZA' : 'Deursif',
             'fr_FR' : 'Filtre',
@@ -75,9 +82,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Filter',
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
-		'pt_BR' : 'Filtro'
+	     'pt_BR' : 'Filtro'
            },
-        'Field': { 
+        'Field':{ 
+'de_DE' : 'Feld',
             'es_ES' : 'Campo',
             'af_ZA' : 'Veld',
             'fr_FR' : 'Champ',
@@ -85,9 +93,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Veld',
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
-		'pt_BR' : 'Campo'
+	     'pt_BR' : 'Campo'
            },
-        'Id': { 
+        'Id':{ 
+'de_DE' : 'Id',
             'es_ES' : 'Id',
             'af_ZA' : 'Id',
             'fr_FR' : 'Id',
@@ -95,9 +104,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Veld',
             'id_ID' : 'Id',
             'th_TH' : 'หมายเลข',
-		'pt_BR' : 'Id'
+	     'pt_BR' : 'Id'
            },
-        'Realm': { 
+        'Realm':{ 
+'de_DE' : 'Standort',
             'es_ES' : 'Zona',
             'af_ZA' : 'Gebied',
             'fr_FR' : 'Domaine',
@@ -105,9 +115,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Realm',
             'id_ID' : 'Realm',
             'th_TH' : 'อาณาเขต',
-		'pt_BR' : 'Zona'
+	     'pt_BR' : 'Zona'
            },
         'Expiry date': { 
+'de_DE' : 'Ablaufdatum',
             'es_ES' : 'Fecha expiración',
             'af_ZA' : 'Vervaldatum',
             'fr_FR' : "Date d'expiration",
@@ -115,9 +126,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Vervaldatum',
             'id_ID' : 'Tanggal Expire/Kadaluarsa',
             'th_TH' : 'วันที่หมดอายุ',
-		'pt_BR' : 'Data de expiração'
+	     'pt_BR' : 'Data de expiração'
            },
-        'Creator': { 
+        'Creator':{ 
+'de_DE' : 'Ersteller',
             'es_ES' : 'Creador',
             'af_ZA' : 'Skepper',
             'fr_FR' : 'Créateur',
@@ -125,9 +137,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Aangemaakt door',
             'id_ID' : 'Pembuat',
             'th_TH' : 'ผู้สร้าง',
-		'pt_BR' : 'Criador'
+	     'pt_BR' : 'Criador'
            },
-        'User': { 
+        'User':{ 
+'de_DE' : 'Benutzer',
             'es_ES' : 'Usuario',
             'af_ZA' : 'Gebruiker',
             'fr_FR' : 'Utilisateur',
@@ -135,9 +148,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Gebruiker',
             'id_ID' : 'User',
             'th_TH' : 'ผู้ใช้',
-		'pt_BR' : 'Usuário'
+	     'pt_BR' : 'Usuário'
            },
-        'Time': { 
+        'Time':{ 
+'de_DE' : 'Zeit',
             'es_ES' : 'Tiempo',
             'af_ZA' : 'Tyd',
             'fr_FR' : 'Temps',
@@ -145,9 +159,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Tijd',
             'id_ID' : 'Waktu',
             'th_TH' : 'เวลา',
-		'pt_BR' : 'Tempo'
+	     'pt_BR' : 'Tempo'
            },
-        'Data': { 
+        'Data':{ 
+'de_DE' : 'Daten',
             'es_ES' : 'Datos',
             'af_ZA' : 'Data',
             'fr_FR' : 'Données',
@@ -155,9 +170,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Data',
             'id_ID' : 'Data',
             'th_TH' : 'ข้อมูล',
-		'pt_BR' : 'Dados'
+	     'pt_BR' : 'Dados'
            },
-        'Attached to': { 
+        'Attached to':{ 
+'de_DE' : 'Angef&uuml;gt zu',
             'es_ES' : 'Adjunto a',
             'af_ZA' : 'Gekoppel aan',
             'fr_FR' : 'Attaché à',
@@ -165,9 +181,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Toegevoegd aan',
             'id_ID' : 'Ditujukan ke',
             'th_TH' : 'แนบไปกับ',
-		'pt_BR' : 'Anexado à'
+	     'pt_BR' : 'Anexado à'
            },
-        'Result count': { 
+        'Result count':{ 
+'de_DE' : 'Summe',
             'es_ES' : 'Registros',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -175,9 +192,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-		'pt_BR' : 'Total'
+	     'pt_BR' : 'Total'
            },
-        'Add Internet Credit': { 
+        'Add Internet Credit':{ 
+'de_DE' : 'Internet Kredit hinzuf&uuml;gen',
             'es_ES' : 'Añadir Crédito Internet',
             'af_ZA' : 'Nuwe Internetkrediet',
             'fr_FR' : 'Ajouter des crédits Internet',
@@ -185,9 +203,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toevoegen',
             'id_ID' : 'Tambah Kredit Internet',
             'th_TH' : 'เพิ่มเครดิตอินเตอร์เนต',
-		'pt_BR' : 'Adicionar Crédito de Internet'
+	     'pt_BR' : 'Adicionar Crédito de Internet'
            },
-        'Unit': { 
+        'Unit':{ 
+'de_DE' : 'Einheit',
             'es_ES' : 'Unidad',
             'af_ZA' : 'Eenheid',
             'fr_FR' : 'Unité',
@@ -195,9 +214,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Eenheid',
             'id_ID' : 'Unit',
             'th_TH' : 'หน่วย',
-		'pt_BR' : 'Unidade'
+	     'pt_BR' : 'Unidade'
            },
-        'Save': { 
+        'Save':{ 
+'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -205,9 +225,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-		'pt_BR' : 'Salvar'
+	     'pt_BR' : 'Salvar'
            },
-        'Internet Credit added OK': { 
+        'Internet Credit added OK':{ 
+'de_DE' : 'Internet Kredit hinzugef&uuml;gt',
             'es_ES' : 'Crédito Internet añadido OK',
             'af_ZA' : 'Internetkrediet bygevoeg',
             'fr_FR' : 'Crédits Internet ajoutés avec succès',
@@ -215,9 +236,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toegevoegd',
             'id_ID' : 'Penambahan Credit Internet berhasil',
             'th_TH' : 'เพิ่มเครดิตอินเตอร์เนตเรียบร้อยแล้ว',
-		'pt_BR' : 'Crédito de Internet adicionado OK'
+	     'pt_BR' : 'Crédito de Internet adicionado OK'
            },
-        'Problems adding Internet Credit': { 
+        'Problems adding Internet Credit':{ 
+'de_DE' : 'Probleme beim hinzuf&uuml;gen Internet Kredit',
             'es_ES' : 'Problemas añadiendo Crédito Internet',
             'af_ZA' : 'Probleme met Internetkrediet byvoeging',
             'fr_FR' : "Des problèmes sont survenus lors de l'ajout de crédits",
@@ -225,9 +247,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toevoegen mislukt',
             'id_ID' : 'Penambahan Credit Internet bermasalah',
             'th_TH' : 'มีปัญหาในการเพิ่มเครดิตอินเตอร์เนต',
-		'pt_BR' : 'Problemas ao adicionar Créditos de Internet'
+	     'pt_BR' : 'Problemas ao adicionar Créditos de Internet'
            },
-        'Edit of Internet Credit limited to one': { 
+        'Edit of Internet Credit limited to one':{ 
+'de_DE' : 'Aktualisierung von Internet Kredit auf 1 limitiert',
             'es_ES' : 'Edición del Crédito Internet limitado a uno',
             'af_ZA' : 'Kan slegs een kies om te redigeer',
             'fr_FR' : 'Veuillez sélectionner un seul crédit',
@@ -235,9 +258,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Selecteer max. 1 Internetkrediet',
             'id_ID' : 'Edit Credit Internet dibatasi satu',
             'th_TH' : 'แก้ไขอินเตอร์เน็ตเครดิตได้ทีละหนึ่ง',
-		'pt_BR' : 'Edição do Crédito de Internet limitado à um'
+	     'pt_BR' : 'Edição do Crédito de Internet limitado à um'
         },
-        'No Selection made': { 
+        'No Selection made':{ 
+'de_DE' : 'Keine Auswahl getroffen',
             'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies nie',
             'fr_FR' : 'Veuillez faire une sélection',
@@ -245,9 +269,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-		'pt_BR' : 'Não há nada selecionado'
+	     'pt_BR' : 'Não há nada selecionado'
            },
-        'Attachment of Internet Credit limited to one': { 
+        'Attachment of Internet Credit limited to one':{ 
+'de_DE' : 'Anf&uuml;gen von Internet Kredit auf 1 limitiert',
             'es_ES' : 'Adjuntar Crédito Internet limitado a uno',
             'af_ZA' : 'Koppeling slegs op een',
             'fr_FR' : 'Un seul attachement de crédit est autorisé',
@@ -255,9 +280,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Selecteer max. 1 internetkrediet',
             'id_ID' : 'Pelampiran Credit Internet dibatasi satu',
             'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิตได้ทีละหนึ่ง',
-		'pt_BR' : 'Anexar o Crédito de Internet limitado à um'
+	     'pt_BR' : 'Anexar o Crédito de Internet limitado à um'
         },
-        'Edit Internet Credit': { 
+        'Edit Internet Credit':{ 
+'de_DE' : 'Internet Kredit bearbeiten',
             'es_ES' : 'Editar Crédito Internet',
             'af_ZA' : 'Redigeer Internetkrediet',
             'fr_FR' : 'Editer le crédit Internet',
@@ -265,9 +291,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Wijzig internetkrediet',
             'id_ID' : 'Edit Credit Internet',
             'th_TH' : 'แก้ไขอินเตอร์เน็ตเครดิต',
-		'pt_BR' : 'Editar Crédito de Internet'
+	     'pt_BR' : 'Editar Crédito de Internet'
            },
-        'Internet Credit attached OK': { 
+        'Internet Credit attached OK':{ 
+'de_DE' : 'Internet Kredit hinzugef&uuml;gt',
             'es_ES' : 'Crédito Internet adjuntado OK',
             'af_ZA' : 'Koppel van Internentkrediet gedoen',
             'fr_FR' : 'Crédit attaché avec succès',
@@ -275,9 +302,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toegevoegd',
             'id_ID' : 'Pelampiran Credit Internet Berhasil',
             'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิตเรียบร้อยแล้ว',
-		'pt_BR' : 'Crédito de Internet anexado OK'
+	     'pt_BR' : 'Crédito de Internet anexado OK'
            },
-        'Problems attaching Internet Credit': { 
+        'Problems attaching Internet Credit':{ 
+'de_DE' : 'Problem beim hinzuf&uuml;gen Internet Kredit',
             'es_ES' : 'Problemas adjuntando Crédito Internet',
             'af_ZA' : 'Sukkel om Internentkrediet te koppel',
             'fr_FR' : "Des problèmes sont survenus lors de l'attachement du crédit",
@@ -285,9 +313,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toevoegen mislukt',
             'id_ID' : 'Pelampiran Credit Internet Bermasalah',
             'th_TH' : 'มีปัญหาในการผูกติดอินเตอร์เน็ตเครดิต',
-		'pt_BR' : 'Problemas ao adicionar Crédito de Internet'
+	     'pt_BR' : 'Problemas ao adicionar Crédito de Internet'
            },
-        'Attach Internet Credit': { 
+        'Attach Internet Credit':{ 
+'de_DE' : 'Internet Kredit anf&uuml;gen',
             'es_ES' : 'Adjuntar Crédito Internet',
             'af_ZA' : 'Koppel Internetkrediet',
             'fr_FR' : 'Attacher un crédit',
@@ -295,9 +324,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Internetkrediet toevoegen',
             'id_ID' : 'Melampirkan Credit Internet',
             'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิต',
-		'pt_BR' : 'Anexar Crédito de Internet'
+	     'pt_BR' : 'Anexar Crédito de Internet'
            },
-        'Prepaid user' : { 
+        'Prepaid user' :{ 
+'de_DE' : 'Prepaid Benutzer',
             'es_ES' : 'Usuario de prepago',
             'af_ZA' : 'Vooruitbetaaler',
             'fr_FR' : 'Utilisateur prépayé',
@@ -305,9 +335,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Prepaid-gebruiker',
             'id_ID' : 'User Prepaid',
             'th_TH' : 'ผู้ใช้ระบบเติมเงิน',
-		'pt_BR' : 'Usuário Pré-Pago'
+	     'pt_BR' : 'Usuário Pré-Pago'
            },
-        'Deleting Internet Credit(s)': { 
+        'Deleting Internet Credit(s)':{ 
+'de_DE' : 'Internet Kredit(e) l&ouml;schen',
             'es_ES' : 'Eliminando Crédito(s) Internet',
             'af_ZA' : 'Verwyder Internetkrediet(e)',
             'fr_FR' : 'Crédits Internet en cours de suppression',
@@ -315,9 +346,10 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Verwijder internetkrediet(en)',
             'id_ID' : 'Menghapus Credit Internet',
             'th_TH' : 'กำลังลบอินเตอร์เน็ตเครดิต',
-		'pt_BR' : 'Deletando Crédito(s) de Internet'
+	     'pt_BR' : 'Deletando Crédito(s) de Internet'
            },
-        'Complete': { 
+        'Complete':{ 
+'de_DE' : 'Fertig',
             'es_ES' : 'Completado',
             'af_ZA' : 'Voltooid',
             'fr_FR' : 'Terminé',
@@ -325,7 +357,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'nl_NL' : 'Voltooid',
             'id_ID' : 'Selesai',
             'th_TH' : 'สมบูรณ์',
-		'pt_BR' : 'Completo'
+	     'pt_BR' : 'Completo'
            }
 
     };

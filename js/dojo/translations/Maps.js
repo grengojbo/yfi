@@ -6,6 +6,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
 (function(){
     translations.Maps.phrases     = {
         'Normal': { 
+'de_DE' : 'Normal',
             'es_ES' : 'Normal',
             'af_ZA' : 'Padkaart',
             'fr_FR' : 'Normal',
@@ -13,9 +14,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Kaart',
             'id_ID' : 'Normal',
             'th_TH' : 'ปกติ',
-		'pt_BR' : 'Normal'
+	     'pt_BR' : 'Normal'
            },
         'Satellite': { 
+'de_DE' : 'Satellit',
             'es_ES' : 'Satélite',
             'af_ZA' : 'Sateliet',
             'fr_FR' : 'Satellite',
@@ -23,9 +25,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Sateliet',
             'id_ID' : 'Satelit',
             'th_TH' : 'ดาวเทียม',
-		'pt_BR' : 'Satélite'
+	     'pt_BR' : 'Satélite'
            },
         'Hybrid': { 
+'de_DE' : 'Hybrid',
             'es_ES' : 'Hibrido',
             'af_ZA' : 'Kombinasie',
             'fr_FR' : 'Hybride',
@@ -33,9 +36,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Gemengd',
             'id_ID' : 'Hybrid',
             'th_TH' : 'ลูกผสม',
-		'pt_BR' : 'Híbrido'
+	     'pt_BR' : 'Híbrido'
            },
         'Action Required': { 
+'de_DE' : 'Aktion ben&ouml;tigt',
             'es_ES' : 'Acción Requerida',
             'af_ZA' : 'Benodig Aksie',
             'fr_FR' : 'Action requise',
@@ -43,9 +47,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Actie verplicht',
             'id_ID' : 'Tindakan dibutuhkan',
             'th_TH' : 'ต้องการการกระทำ',
-		'pt_BR' : 'Ação Requerida'
+	     'pt_BR' : 'Ação Requerida'
            },
         'New position': { 
+'de_DE' : 'Neue Position',
             'es_ES' : 'Nueva posición',
             'af_ZA' : 'Nuwe posisie',
             'fr_FR' : 'Nouvelle position',
@@ -53,9 +58,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Nieuwe positie',
             'id_ID' : 'Posisi Baru',
             'th_TH' : 'ตำแหน่งใหม่',
-		'pt_BR' : 'Nova posição'
+	     'pt_BR' : 'Nova posição'
            },
         'Longitude': { 
+'de_DE' : 'Laengengrad',
             'es_ES' : 'Longitud',
             'af_ZA' : 'Breedtegraad',
             'fr_FR' : 'Longitude',
@@ -63,9 +69,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Breedtegraad',
             'id_ID' : 'Garis Bujur',
             'th_TH' : 'ลองจิจูด',
-		'pt_BR' : 'Longitude'
+	     'pt_BR' : 'Longitude'
            },
         'Latitude': { 
+'de_DE' : 'Breitengrad',
             'es_ES' : 'Latitud',
             'af_ZA' : 'Lentegraad',
             'fr_FR' : 'latitude',
@@ -73,9 +80,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Lengtegraad',
             'id_ID' : 'Garis Lintang',
             'th_TH' : 'ละติจูด',
-		'pt_BR' : 'Latitude'
+            'pt_BR' : 'Latitude'
            },
         'Save': { 
+'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -83,9 +91,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-		'pt_BR' : 'Salvar'
+	     'pt_BR' : 'Salvar'
            },
         'Cancel': { 
+'de_DE' : 'Abrechen',
             'es_ES' : 'Cancelar',
             'af_ZA' : 'Kanselleer',
             'fr_FR' : 'Annuler',
@@ -93,9 +102,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Annuleren',
             'id_ID' : 'Batal',
             'th_TH' : 'ยกเลิก',
-		'pt_BR' : 'Cancelar'
+	     'pt_BR' : 'Cancelar'
            },
         'Delete': { 
+'de_DE' : 'L&ouml;schen',
             'es_ES' : 'Eliminar',
             'af_ZA' : 'Verwyder',
             'fr_FR' : 'Supprimer',
@@ -103,9 +113,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Verwijder',
             'id_ID' : 'Hapus',
             'th_TH' : 'ลบ',
-		'pt_BR' : 'Deletar'
+	     'pt_BR' : 'Deletar'
            },
         'New marker already on map': { 
+'de_DE' : 'Neue Markierung bereits auf Karte ',
             'es_ES' : 'Nuevo marcador ya en el mapa',
             'af_ZA' : 'Nuwe merker reeds op kaart geplaas',
             'fr_FR' : 'La nouvelle marque est déjà sur la carte',
@@ -113,9 +124,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Nieuwe marker bestaat al',
             'id_ID' : 'Tanda baru sudah ada di peta',
             'th_TH' : 'มีผู้ทำเครื่องหมายบนแผนที่แล้ว',
-		'pt_BR' : 'Novo marcador já no mapa'
+	     'pt_BR' : 'Novo marcador já no mapa'
            },
         'Add Marker': { 
+'de_DE' : 'Markierung hinzuf&uuml;gen',
             'es_ES' : 'Añadir Marcador',
             'af_ZA' : 'Nuwe Merker',
             'fr_FR' : 'Ajouter une marque',
@@ -123,9 +135,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Marker toevoegen',
             'id_ID' : 'Tambah marker',
             'th_TH' : 'เพิ่มเครื่องหมาย',
-		'pt_BR' : 'Adicionar Marcador'
+	     'pt_BR' : 'Adicionar Marcador'
            },
         'Available': { 
+'de_DE' : 'Verfuegbar',
             'es_ES' : 'Disponible',
             'af_ZA' : 'Beskikbaar',
             'fr_FR' : 'Disponible',
@@ -133,9 +146,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Beschikbaar',
             'id_ID' : 'Tersedia',
             'th_TH' : 'สามารถใช้ได้',
-		'pt_BR' : 'Disponível'
+	     'pt_BR' : 'Disponível'
            },
         'Drag and drop marker to required position': { 
+'de_DE' : 'Markierung zu neuer Postion ziehen',
             'es_ES' : 'Arrastrar y soltar marcador a la posición deseada',
             'af_ZA' : 'Gryp en skuif merker na nuwe posisie',
             'fr_FR' : "Déplacer la marque jusqu'é la position désiré",
@@ -143,9 +157,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Sleep de marker naar de gewenste positie',
             'id_ID' : 'Tarik dan pasang marker pada posisi yang diinginkan',
             'th_TH' : 'ลากแล้วปล่อยเครื่องหมายยังตำแหน่งที่ต้องการ',
-		'pt_BR' : 'Arraste e solte o marcador na posição requerida'
+	     'pt_BR' : 'Arraste e solte o marcador na posição requerida'
            },
         'Edit a marker': { 
+'de_DE' : 'Makierung bearbeiten',
             'es_ES' : 'Editar un marcador',
             'af_ZA' : "Redigeer 'n merker",
             'fr_FR' : 'Editer une marque',
@@ -153,9 +168,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Wijzig marker',
             'id_ID' : 'Edit Marker',
             'th_TH' : 'แก้ไขเครื่องหมาย',
-		'pt_BR' : 'Editar um marcador'
+	     'pt_BR' : 'Editar um marcador'
            },
         'Instructions': { 
+'de_DE' : 'Instruktionen',
             'es_ES' : 'Instrucciones',
             'af_ZA' : 'Instruksies',
             'fr_FR' : 'Intsruction',
@@ -163,9 +179,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Instructies',
             'id_ID' : 'Petunjuk',
             'th_TH' : 'วิธีใช้',
-		'pt_BR' : 'Instruções'
+	     'pt_BR' : 'Instruções'
            },
         'Simply drag a marker to its new postition and click on the save link in the balloon': { 
+'de_DE' : 'Markierung in die neue Position ziehen und im Ballon auf speichern klicken',
             'es_ES' : 'Simplemente arrastre un marcador a su nueva posición y haga click en el link guardar del globo',
             'af_ZA' : "Gryp en skuif 'n merker na nuwe posisie en klik op die stoor skakel in die ballon",
             'fr_FR' : "Déplacer simplement la marque jusqu' à sa nouvelle postion et cliquer sur le lien de sauvegarde",
@@ -173,9 +190,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Sleep de marker naar de nieuwe positie en klik op de opslaanlink in de ballon',
             'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
             'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกด save ในบอลลูน',
-		'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
+	     'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
            },
         'Delete a marker': { 
+'de_DE' : 'Markierung l&ouml;schen',
             'es_ES' : 'Eliminar un marcador',
             'af_ZA' : "Verwyder 'n merker",
             'fr_FR' : 'Supprimer une marque',
@@ -183,9 +201,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Verwijder een marker',
             'id_ID' : 'Hapus Marker',
             'th_TH' : 'ลบเครื่องหมาย',
-		'pt_BR' : 'Deletar um marcador'
+	     'pt_BR' : 'Deletar um marcador'
            },
         'Simply drag a marker to its new postition and click on the save link in the balloon': { 
+'de_DE' : 'Markierung in die neue Postion ziehen und im Ballon speichern klicken',
             'es_ES' : 'Simplemente arrastre un marcador a su nueva posición y haga click en el link guardar del globo',
             'af_ZA' : "Gryp en skuif 'n merker na nuwe posisie en klik op die verwyder skakel in die ballon",
             'fr_FR' : "Déplacer simplement la marque jusqu'à sa nouvelle postion et cliquer sur le lien de suppression",
@@ -193,9 +212,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Sleep de marker naar de nieuwe positie en klik op de opslaanlink in de ballon',
             'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
             'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกด save ในบอลลูน',
-		'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
+	     'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão'
            },
         'Preferences': { 
+'de_DE' : 'Einstellungen',
             'es_ES' : 'Preferencias',
             'af_ZA' : 'Voorkeure',
             'fr_FR' : 'Préférences',
@@ -203,9 +223,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Voorkeuren',
             'id_ID' : 'Preferensi',
             'th_TH' : 'ตั้งค่า',
-		'pt_BR' : 'Preferências'
+	     'pt_BR' : 'Preferências'
            },
         'Zoom Level': { 
+'de_DE' : 'Zoom Level',
             'es_ES' : 'Nivel Zoom',
             'af_ZA' : 'Hoeveel Zoom',
             'fr_FR' : 'Niveau de zoom',
@@ -213,9 +234,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Zoomniveau',
             'id_ID' : 'Level Zoom',
             'th_TH' : 'ระดับการซูม',
-		'pt_BR' : 'Nível de Zoom'
+            'pt_BR' : 'Nível de Zoom'
            },
         'Type': { 
+'de_DE' : 'Type',
             'es_ES' : 'Tipo',
             'af_ZA' : 'Tipe',
             'fr_FR' : 'Type',
@@ -223,9 +245,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Type',
             'id_ID' : 'Tipe',
             'th_TH' : 'ชนิด',
-		'pt_BR' : 'Tipo'
+	     'pt_BR' : 'Tipo'
            },
         'Preferences updated OK': { 
+'de_DE' : 'Einstellungen aktualisiert',
             'es_ES' : 'Preferencias actualizadas OK',
             'af_ZA' : 'Voorkeure opgedateer',
             'fr_FR' : 'Préférences mise à jour OK',
@@ -233,9 +256,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Voorkeuren opgeslagen',
             'id_ID' : 'Update Preferensi Berhasil',
             'th_TH' : 'ปรับปรุงการตั้งค่าเรียบร้อยแล้ว',
-		'pt_BR' : 'Preferências atualizadas OK'
+	     'pt_BR' : 'Preferências atualizadas OK'
            },
         'Problems updating Preferences': { 
+'de_DE' : 'Probleme beim aktualisieren der VEinstellungen',
             'es_ES' : 'Problemas actualizando preferencias',
             'af_ZA' : 'Probleme ondervind',
             'fr_FR' : 'Problèmes de mise à jour Préférences',
@@ -243,9 +267,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Voorkeuren opslaan mislukt',
             'id_ID' : 'Update Preferensi Bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงการตั้งค่า',
-		'pt_BR' : 'Problemas ao atualizar as preferências'
+	     'pt_BR' : 'Problemas ao atualizar as preferências'
            },
         'Update completed': { 
+'de_DE' : 'Aktualisierung abgeschlossen',
             'es_ES' : 'Actualización completada',
             'af_ZA' : 'Opgedateer',
             'fr_FR' : 'Mise à jour terminée',
@@ -253,9 +278,10 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Markers gewijzigd',
             'id_ID' : 'Update Selesai',
             'th_TH' : 'ปรับปรุงเสร็จสมบูรณ์',
-		'pt_BR' : 'Atualização completada'
+	     'pt_BR' : 'Atualização completada'
            },
         'Problems updating markers': { 
+'de_DE' : 'Problem beim aktualisieren der Markierung',
             'es_ES' : 'Problemas actualizando marcadores',
             'af_ZA' : 'Probleme om op te dateer',
             'fr_FR' : 'Problèmes de mise à jour des marqueurs',
@@ -263,7 +289,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'nl_NL' : 'Markers wijzigen mislukt',
             'id_ID' : 'Update marker bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงเครื่องหมาย',
-		'pt_BR' : 'Problemas ao atualizar os marcadores'
+	     'pt_BR' : 'Problemas ao atualizar os marcadores'
            }
     };
 

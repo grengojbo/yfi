@@ -8,6 +8,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
 
     translations.APViewRogues.phrases     = {
         'Known': { 
+'de_DE' : 'Bekannt',
             'es_ES' : 'Conocido',
             'af_ZA' : 'Bekend',
             'fr_FR' : 'Connu',
@@ -17,6 +18,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ที่รู้จัก'
            },
         'Unknown': { 
+'de_DE' : 'Unbekannt',
             'es_ES' : 'Desconocido',
             'af_ZA' : 'Onbekend',
             'fr_FR' : 'Inconnu',
@@ -26,6 +28,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ที่ไม่รู้จัก'
            },
         'SSID': { 
+'de_DE' : 'SSID',
             'es_ES' : 'SSID',
             'af_ZA' : 'SSID',
             'fr_FR' : 'SSID',
@@ -35,6 +38,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'SSID'
            },
         'MAC': { 
+'de_DE' : 'MAC',
             'es_ES' : 'MAC',
             'af_ZA' : 'MAC',
             'fr_FR' : 'MAC',
@@ -44,6 +48,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'MAC'
            },
         'Mode': { 
+'de_DE' : 'Modus',
             'es_ES' : 'Modo',
             'af_ZA' : 'Modus',
             'fr_FR' : 'Mode',
@@ -53,6 +58,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'โหมด'
            },
         'Channel': { 
+'de_DE' : 'Kanal',
             'es_ES' : 'Canal',
             'af_ZA' : 'Kanaal',
             'fr_FR' : 'Canal',
@@ -62,6 +68,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ช่องสัญญาณ'
            },
         'Encryption': { 
+'de_DE' : 'Verschl&uuml;sselung',
             'es_ES' : 'Encriptación',
             'af_ZA' : 'Enkripsie',
             'fr_FR' : 'Cryptage',
@@ -71,6 +78,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'การเข้ารหัส'
            },
         'Last Seen': { 
+'de_DE' : 'Letztes gesehen',
             'es_ES' : 'Último Visto',
             'af_ZA' : 'Laas gesien',
             'fr_FR' : 'Vu en dernier',
@@ -80,6 +88,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'เห็นครั้งสุดท้าย'
            },
         'Known / Unknown': { 
+'de_DE' : 'Bekannt / Unbekannt',
             'es_ES' : 'Conocido / Desconocido',
             'af_ZA' : 'Bekend / Onbekend',
             'fr_FR' : 'Connu/Inconnu',
@@ -89,6 +98,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ที่รู้จัก/ที่ไม่รู้จัก'
            },
         'Result count': { 
+'de_DE' : 'Summe',
             'es_ES' : 'Registros',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -98,6 +108,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'จำนวนผลลัพธ์'
            },
         'No Selection made': {
+'de_DE' : 'Keine Auswahl getroffen',
             'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies nie',
             'fr_FR' : 'Aucun élément sélectionné',
@@ -107,6 +118,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ไม่มีการเลือก'
            },
         'Delete Nearby Device(s)': { 
+'de_DE' : 'Nahegelegene Ger&auml;t(e) l&ouml;schen',
             'es_ES' : 'Eliminar Dispositivo(s) Cercano(s)',
             'af_ZA' : 'Verwyder Nabye Toestel(le)',
             'fr_FR' : 'Supprimer les équipements voisins',
@@ -116,6 +128,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'ลบอุปกรณ์ข้างเคียง'
            },
         'Save': { 
+'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -125,6 +138,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'จัดเก็บ'
            },
         'Change State of Device(s)': { 
+'de_DE' : 'Ger&auml;t(e)status &auml;ndern',
             'es_ES' : 'Cambiar Estado de Dispositivo(s)',
             'af_ZA' : 'Verander stand van toestel(le)',
             'fr_FR' : "Changer l'état de l'équipement",
@@ -134,6 +148,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'th_TH' : 'เปลี่ยนสถานะของอุปกรณ์'
            },
         'Problems changing state of Device(s)': { 
+'de_DE' : 'Problem beim &auml;ndern des Ger&auml;t(e)status',
             'es_ES' : 'Problemas cambiando estado de Dispositivo(s)',
             'af_ZA' : 'Probleme om stand te verander',
             'fr_FR' : "Des problèmes sont survenus lors du changement d'état",

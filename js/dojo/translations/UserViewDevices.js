@@ -7,7 +7,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
 (function(){
 
     translations.UserViewDevices.phrases     = {
-        'MAC': { 
+        'MAC':{ 
+'de_DE' : 'MAC',
             'es_ES' : 'MAC',
             'af_ZA' : 'MAC',
             'fr_FR' : 'MAC',
@@ -15,9 +16,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'MAC',
             'id_ID' : 'MAC',
             'th_TH' : 'MAC',
-		'pt_BR' : 'MAC'
+	     'pt_BR' : 'MAC'
            },
-        'Description': { 
+        'Description':{ 
+'de_DE' : 'Beschreibung',            
             'es_ES' : 'Descripción',
             'af_ZA' : 'Beskrywing',
             'fr_FR' : 'Description',
@@ -25,9 +27,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Beschrijving',
             'id_ID' : 'Deskripsi',
             'th_TH' : 'คำอธิบาย',
-		'pt_BR' : 'Descrição'
+	     'pt_BR' : 'Descrição'
            },
-        'Last Contact': { 
+        'Last Contact':{ 
+'de_DE' : 'Letzter Kontakt',            
             'es_ES' : 'Último Contacto',
             'af_ZA' : 'Laaste Kontak',
             'fr_FR' : 'Dernier contact',
@@ -35,19 +38,21 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Laatste verbinding',
             'id_ID' : 'Terakhir Koneksi',
             'th_TH' : 'ติดต่อครั้งล่าสุด',
-		'pt_BR' : 'Último Contato'
+	     'pt_BR' : 'Último Contato'
            },
-        'Result count': { 
-	    'es_ES' : 'Registros',
+        'Result count':{ 
+'de_DE' : 'Summe',	    
+            'es_ES' : 'Registros',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
-	  	    'ms_MY' : 'Bilangan hasil',
-		    'nl_NL' : 'Aantal',
+	     'ms_MY' : 'Bilangan hasil',
+	     'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-		'pt_BR' : 'Total'
+	     'pt_BR' : 'Total'
            },
-        'Add Device': { 
+        'Add Device':{ 
+'de_DE' : 'Ger&auml;t hinzuf&uuml;gen',            
             'es_ES' : 'Añadir Dispositivo',
             'af_ZA' : 'Nuwe Toestel',
             'fr_FR' : 'Ajouter un équipement',
@@ -55,9 +60,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Apparaat toevoegen',
             'id_ID' : 'Tambah perangkat',
             'th_TH' : 'เพิ่มอุปกรณ์',
-		'pt_BR' : 'Adicionar Dispositivo'
+	     'pt_BR' : 'Adicionar Dispositivo'
            },
-        'MAC Address': { 
+        'MAC Address':{ 
+'de_DE' : 'MAC Adresse',            
             'es_ES' : 'Dirección MAC',
             'af_ZA' : 'MAC-adres',
             'fr_FR' : 'Adresse MAC',
@@ -65,9 +71,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'MAC-adres',
             'id_ID' : 'MAC Address',
             'th_TH' : 'MAC Address',
-		'pt_BR' : 'Endereço MAC'
+	     'pt_BR' : 'Endereço MAC'
            },
         'Save':{ 
+'de_DE' : 'Speichern',            
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -75,9 +82,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-		'pt_BR' : 'Salvar'
+	     'pt_BR' : 'Salvar'
            },
-        'Device added OK' : { 
+        'Device added OK':{ 
+'de_DE' : 'Ger&auml;t hinzugef&uuml;gt',           
             'es_ES' : 'Dispositivo añadido OK',
             'af_ZA' : 'Toestel bygevoeg',
             'fr_FR' : "L'équipement a été ajouté avec succès",
@@ -85,9 +93,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Apparaat toegevoegd',
             'id_ID' : 'Penambahan Perangkat berhasil',
             'th_TH' : 'เพิ่มอุปกรณ์เรียบร้อยแล้ว',
-		'pt_BR' : 'Dispositivo adicionado OK'
+	     'pt_BR' : 'Dispositivo adicionado OK'
            },
-        'Problems adding device' : { 
+        'Problems adding device':{ 
+'de_DE' : 'Probleme beim hinzuf&uuml;gen des Ger&auml;tes',            
             'es_ES' : 'Problemas añadiendo dispositivo',
             'af_ZA' : 'Probleme ondervind',
             'fr_FR' : "Des problèmes sont survenus lors de l'ajout de l'équipement",
@@ -95,19 +104,21 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Apparaat toevoegen mislukt',
             'id_ID' : 'Penambahan Perangkat bermasalah',
             'th_TH' : 'มีปัญหาในการเพิ่มอุปกรณ์',
-		'pt_BR' : 'Problemas ao adicionar novo dispositivo'
+	     'pt_BR' : 'Problemas ao adicionar novo dispositivo'
            },
         'No Selection made':{ 
-            'es_ES' : 'No ha seleccionado nada',
+'de_DE' : 'Keine Auswahl getroffen',      
+      'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies',
             'fr_FR' : 'Aucun sélectionné',
             'ms_MY' : 'Tiada pilihan dibuat',
             'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-		'pt_BR' : 'Não há nada selecionado'
+	     'pt_BR' : 'Não há nada selecionado'
            },
-        'Deleting Device(s)' : { 
+        'Deleting Device(s)':{ 
+'de_DE' : 'Ger&auml;t(e) l&ouml;schen',
             'es_ES' : 'Eliminando Dispositivo(s)',
             'af_ZA' : 'Verwyder toestel(le)',
             'fr_FR' : 'Equipement(s) en cours de suppression',
@@ -115,9 +126,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Verwijder appara(a)t(en)',
             'id_ID' : 'Menghapus perangkat',
             'th_TH' : 'กำลังลบอุปกรณ์',
-		'pt_BR' : 'Deletando Dispositivo(s)'
+	     'pt_BR' : 'Deletando Dispositivo(s)'
            },
         'Complete':{ 
+'de_DE' : 'Fertig',            
             'es_ES' : 'Completado',
             'af_ZA' : 'Voltooid',
             'fr_FR' : 'Terminé',
@@ -125,9 +137,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Voltooid',
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
-		'pt_BR' : 'Completo'
+	     'pt_BR' : 'Completo'
            },
-        'never' : { 
+        'never':{ 
+'de_DE' : 'niemals',            
             'es_ES' : 'nunca',
             'af_ZA' : 'nog nooit',
             'fr_FR' : 'jamais',
@@ -135,9 +148,10 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'nooit',
             'id_ID' : 'Tidak pernah',
             'th_TH' : 'ไม่เคย',
-		'pt_BR' : 'nunca'
+	     'pt_BR' : 'nunca'
            },
-        'Reload Data': { 
+        'Reload Data':{ 
+'de_DE' : 'Seite neu laden',           
             'es_ES' : 'Actualizar Datos',
             'af_ZA' : 'Verkry Nuutste',
             'fr_FR' : 'Recharger la page',
@@ -145,7 +159,7 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Ververs data',
             'id_ID' : 'Reload Data',
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
-		'pt_BR' : 'Recarregar Dados'
+	     'pt_BR' : 'Recarregar Dados'
            }
     };
 

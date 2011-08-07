@@ -8,34 +8,37 @@ if(!dojo._hasResource["translations.PlanView"]){ //_hasResource checks added by 
 
     translations.PlanView.phrases     = {
         'Basic': { 
-	        'es_ES' : 'Básico',
+'de_DE' : 'Basis',
+	     'es_ES' : 'Básico',
             'af_ZA' : 'Basies',
             'fr_FR' : 'Basique',
-		    'ms_MY' : 'Asas',
-		    'nl_NL' : 'Basis',	
-		    'id_ID' : 'Basic',
+	     'ms_MY' : 'Asas',
+	     'nl_NL' : 'Basis',	
+	     'id_ID' : 'Basic',
             'th_TH' : 'ขั้นพื้นฐาน',
-		'pt_BR' : 'Básico'
+	     'pt_BR' : 'Básico'
            },
         'Promotions': { 
-	        'es_ES' : 'Promociones',
+'de_DE' : 'Promotion',
+	     'es_ES' : 'Promociones',
             'af_ZA' : 'Promosies',
             'fr_FR' : 'Promotions',
-		    'ms_MY' : 'Promosi',	
-		    'nl_NL' : 'Promoties',
-		    'id_ID' : 'Promosi',
+	     'ms_MY' : 'Promosi',	
+	     'nl_NL' : 'Promoties',
+	     'id_ID' : 'Promosi',
             'th_TH' : 'โปรโมชั่น',
-		'pt_BR' : 'Promoções'
+	     'pt_BR' : 'Promoções'
            },
         'Extra Caps': { 
-	        'es_ES' : 'Extras',
+'de_DE' : 'Extra Kapazit&auml;t',
+	     'es_ES' : 'Extras',
             'af_ZA' : 'Ekstra Kapasiteit',
             'fr_FR' : 'Capacité(s) supplementaire(s)',
-		    'ms_MY' : 'Pemotongan Tambahan',	
-		    'nl_NL' : 'Extra capaciteit',
-		    'id_ID' : 'Caps tambahan',
+	     'ms_MY' : 'Pemotongan Tambahan',	
+	     'nl_NL' : 'Extra capaciteit',
+	     'id_ID' : 'Caps tambahan',
             'th_TH' : 'Cap พิเศษ',
-		'pt_BR' : 'Extras'
+	     'pt_BR' : 'Extras'
            }
     };
 

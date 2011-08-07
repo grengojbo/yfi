@@ -6,6 +6,7 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
 
     translations.StatsUser.phrases     = {
         'Filter': { 
+'de_DE' : 'Filter',
             'es_ES' : 'Filtro',
             'af_ZA' : 'Deursif',
             'fr_FR' : 'Filtre',
@@ -13,9 +14,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Filter',
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
-		'pt_BR' : 'Filtro'
+	     'pt_BR' : 'Filtro'
            },
          'Field': { 
+'de_DE' : 'Feld',            
             'es_ES' : 'Campo',
             'af_ZA' : 'Veld',
             'fr_FR' : 'Champ',
@@ -23,9 +25,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Veld',
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
-		'pt_BR' : 'Campo'
+	     'pt_BR' : 'Campo'
            },
         'Realm': { 
+'de_DE' : 'Standort',            
             'es_ES' : 'Lugar',
             'af_ZA' : 'Gebied',
             'fr_FR' : 'Domaine',
@@ -33,9 +36,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
             'th_TH' : 'อาณาเขต',
-		'pt_BR' : 'Zonas'
+	     'pt_BR' : 'Zonas'
            },
          'Username':{ 
+'de_DE' : 'Benutzername',       
             'es_ES' : 'Nombre Usuario',
             'af_ZA' : 'Gebruikersnaam',
             'fr_FR' : "Nom d'utilisateur",
@@ -43,9 +47,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Gebruikersnaam',
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
-		'pt_BR' : 'Nome do Usuário'
+	     'pt_BR' : 'Nome do Usuário'
            },
          'Start':{ 
+'de_DE' : 'Anfang',           
             'es_ES' : 'Inicio',
             'af_ZA' : 'Begin',
             'fr_FR' : 'Début',
@@ -53,9 +58,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Begin',
             'id_ID' : 'Mulai',
             'th_TH' : 'เริ่ม',
-		'pt_BR' : 'Início'
+	     'pt_BR' : 'Início'
            },
          'Stop':{ 
+'de_DE' : 'Ende',            
             'es_ES' : 'Fin',
             'af_ZA' : 'Eindig',
             'fr_FR' : 'Fin',
@@ -63,9 +69,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Eind',
             'id_ID' : 'Berhenti',
             'th_TH' : 'หยุด',
-		'pt_BR' : 'Término'
+	     'pt_BR' : 'Término'
            },
         'Time Total':{ 
+'de_DE' : 'Summe Zeit',           
             'es_ES' : 'Tiempo Total',
             'af_ZA' : 'Totale Tyd',
             'fr_FR' : 'Temps total',
@@ -73,9 +80,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Totale tijd',
             'id_ID' : 'Total Waktu',
             'th_TH' : 'เวลารวม',
-		'pt_BR' : 'Tempo Total'
+	     'pt_BR' : 'Tempo Total'
            },
         'Reload List': { 
+'de_DE' : 'Aktualisieren',         
             'es_ES' : 'Recargar Lista',
             'af_ZA' : 'Wys Nuutste',
             'fr_FR' : 'Recharger la liste',
@@ -83,29 +91,32 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Ververs lijst', 
             'id_ID' : 'Reload daftar',
             'th_TH' : 'เรียกลิสต์มาดูใหม่',
-		'pt_BR' : 'Recarregar Lista'
+	     'pt_BR' : 'Recarregar Lista'
            },
         'Start Date': {
+'de_DE' : 'Startdatum',           
             'es_ES' : 'Fecha Inicio', 
             'af_ZA' : 'Begindatum',
             'fr_FR' : 'Date de début',
-		    'ms_MY' : 'Tarikh Mula',	
-		    'nl_NL' : 'Begindatum', 
-		    'id_ID' : 'Tanggal Mulai',
+            'ms_MY' : 'Tarikh Mula',	
+	     'nl_NL' : 'Begindatum', 
+	     'id_ID' : 'Tanggal Mulai',
             'th_TH' : 'วันเริ่มต้น',
-		'pt_BR' : 'Data Inicial'
+	     'pt_BR' : 'Data Inicial'
            },
         'End Date': {
+'de_DE' : 'Enddatum',           
             'es_ES' : 'Fecha Fin', 
             'af_ZA' : 'Entdatum',
             'fr_FR' : 'Date de fin',
-		    'ms_MY' : 'Tarikh Tamat',	
-		    'nl_NL' : 'Einddatum', 
-		    'id_ID' : 'Tanggal berhenti',
+	     'ms_MY' : 'Tarikh Tamat',	
+	     'nl_NL' : 'Einddatum', 
+	     'id_ID' : 'Tanggal berhenti',
             'th_TH' : 'วันสิ้นสุด',
-		'pt_BR' : 'Data Final'
+	     'pt_BR' : 'Data Final'
            },
         'Data TX': {
+'de_DE' : 'Daten empfangen',           
             'es_ES' : 'Datos TX',
             'af_ZA' : 'Data versend',
             'fr_FR' : 'Données TX',
@@ -113,9 +124,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Data verzonden', 
             'id_ID' : 'Data TX',
             'th_TH' : 'ข้อมูลที่ส่งไป',
-		'pt_BR' : 'Dados TX'
+	     'pt_BR' : 'Dados TX'
            },
         'Data RX': {
+'de_DE' : 'Daten gesendet',            
             'es_ES' : 'Datos RX',
             'af_ZA' : 'Data ontvang',
             'fr_FR' : 'Données RX',
@@ -123,9 +135,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Data ontvangen', 
             'id_ID' : 'Data RX',
             'th_TH' : 'ข้อมูลที่รับมา',
-		'pt_BR' : 'Dados RX'
+	     'pt_BR' : 'Dados RX'
            },
         'Data Total': {
+'de_DE' : 'Daten Gesamt',           
             'es_ES' : 'Datos Totales',
             'af_ZA' : 'Totale data',
             'fr_FR' : 'Données totales',
@@ -133,9 +146,10 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Totaal data', 
             'id_ID' : 'Total Data',
             'th_TH' : 'ข้อมูลทั้งหมด',
-		'pt_BR' : 'Dados Totais'
+	     'pt_BR' : 'Dados Totais'
            },
         'Result count':{
+'de_DE' : 'Summe',          
             'es_ES' : 'Número',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -143,16 +157,17 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'nl_NL' : 'Aantal', 
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-		'pt_BR' : 'Total'
+	     'pt_BR' : 'Total'
            },
         'Invalid Dates - Using Defaults':{
+'de_DE' : 'Ung&uuml;ltige Daten - Standardwerte verwenden',           
             'es_ES' : 'Datos Inválidos - Usando Datos por Defecto',
             'af_ZA' : 'Ongeldige Datums - Gebruik Verstek',
             'fr_FR' : 'Données invalides - Valeurs par défaut',
             'ms_MY' : 'Tarikh tidak sah - Gunakan asal',   
             'nl_NL' : 'Ongeldige datums - Standaardwaarden worden gebruikt', 
             'id_ID' : 'Tanggal tidak valid, Gunakan Default',
-		'pt_BR' : 'Dados Inválidos - Usando valores padrões'
+	     'pt_BR' : 'Dados Inválidos - Usando valores padrões'
         }
     };
 

@@ -8,6 +8,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 
     translations.AccountViewPayments.phrases     = {
         'Result count': {
+			'de_DE' : 'Summe',
 	        'es_ES' : 'Número', 
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -15,9 +16,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-		'pt_BR' : 'Total'
+			'pt_BR' : 'Total'
            },
         'Date': { 
+			'de_DE' : 'Datum',
 	        'es_ES' : 'Fecha',
             'af_ZA' : 'Datum',
             'fr_FR' : 'Date',
@@ -25,9 +27,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Datum',
             'id_ID' : 'Tanggal',
             'th_TH' : 'วันที่',
-		'pt_BR' : 'Data'
+			'pt_BR' : 'Data'
            },
         'Amount': { 
+			'de_DE' : 'Betrag',
 	        'es_ES' : 'Cantidad',
             'af_ZA' : 'Bedrag',
             'fr_FR' : 'Montant',
@@ -35,9 +38,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Bedrag',
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวน',
-		'pt_BR' : 'Quantia'
+			'pt_BR' : 'Quantia'
            },
         'Total': { 
+			'de_DE' : 'Summe',
 	        'es_ES' : 'Total',
             'af_ZA' : 'Totaal',
             'fr_FR' : 'Total',
@@ -45,9 +49,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Totaal',
             'id_ID' : 'Total',
             'th_TH' : 'รวม',
-		'pt_BR' : 'Total'
+			'pt_BR' : 'Total'
            },
         'Sum of Invoices': { 
+			'de_DE' : 'Rechungssumme',
 	        'es_ES' : 'Suma de Facturas',
             'af_ZA' : 'Rekening Totale',
             'fr_FR' : 'Somme des factures',
@@ -55,9 +60,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Totaal van facturen',
             'id_ID' : 'Jumlah Tagihan',
             'th_TH' : 'ผลรวมใบกำกับสินค้า/ใบแจ้งหนี้',
-		'pt_BR' : 'Soma das Faturas'
+			'pt_BR' : 'Soma das Faturas'
            },
         'Sum of Payments': { 
+			'de_DE' : 'Summe Zahlungen',
 	        'es_ES' : 'Suma de Pagos',
             'af_ZA' : 'Betaling Totale',
             'fr_FR' : 'Somme des paiements',
@@ -65,9 +71,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Totaal van betalingen',
             'id_ID' : 'Jumlah pembayaran',
             'th_TH' : 'ผลรวมการชำระเงิน',
-		'pt_BR' : 'Soma dos Pagamentos'
+			'pt_BR' : 'Soma dos Pagamentos'
            },
         'Outstanding' : { 
+			'de_DE' : 'Ausstehend',
     	    'es_ES' : 'Pendientes',
             'af_ZA' : 'Uitstaande',
             'fr_FR' : 'Montants dûs',
@@ -75,9 +82,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Openstaand',
             'id_ID' : 'Belum Lunas',
             'th_TH' : 'ค้างชำระ',
-		'pt_BR' : 'Pendentes'
+			'pt_BR' : 'Pendentes'
            },
         'No Selection made': {
+			'de_DE' : 'Keine Auswahl getroffen',
 	        'es_ES' : 'No se ha seleccionado nada',
             'af_ZA' : 'Niks gekies nie',
             'fr_FR' : 'Aucun élément sélectionné',
@@ -85,9 +93,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-		'pt_BR' : 'Não há nada selecionado'
+			'pt_BR' : 'Não há nada selecionado'
            },
         'Save' : {
+			'de_DE' : 'Speichern',
 	        'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -95,9 +104,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-		'pt_BR' : 'Salvar'
+			'pt_BR' : 'Salvar'
            },
         'Delete Payment(s)': {
+			'de_DE' : 'Zahlung(en) loeschen',
 	        'es_ES' : 'Eliminar Pago(s)',
             'af_ZA' : 'Verwyder Betaling(s)',
             'fr_FR' : 'Supprimer le paiement',
@@ -105,9 +115,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Verwijder betaling(en)',
             'id_ID' : 'Hapus pembayaran',
             'th_TH' : 'ลบการชำระเงิน',
-		'pt_BR' : 'Deletar Pagamento(s)'
+			'pt_BR' : 'Deletar Pagamento(s)'
            },
         'New Payment' : {
+			'de_DE' : 'Neue Zahlung',
 	        'es_ES' : 'Nuevo Pago',
             'af_ZA' : 'Nuwe Betaling',
             'fr_FR' : 'Nouveau paiement',
@@ -115,9 +126,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Nieuwe betaling',
             'id_ID' : 'Pembayaran baru',
             'th_TH' : 'การชำระเงินใหม่',
-		'pt_BR' : 'Novo Pagamento'
+			'pt_BR' : 'Novo Pagamento'
            },
         'Save' : {
+			'de_DE' : 'Speichern',
 	        'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -125,9 +137,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-		'pt_BR' : 'Salvar'
+			'pt_BR' : 'Salvar'
            },
         'New payment(s) added': {
+			'de_DE' : 'Neue Zahlung(en) hinzugef&uuml;gt',
 	        'es_ES' : 'Nuevo(s) pago(s) añadido(s)',
             'af_ZA' : 'Nuwe betaling(s) bygevoeg',
             'fr_FR' : 'Nouveau paiement ajouté avec succès',
@@ -135,9 +148,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Nieuwe betaling(en) toegevoegd',
             'id_ID' : 'Pembayaran telah ditambahkan',
             'th_TH' : 'การชำระเงินใหม่ถูกเพิ่มแล้ว',
-		'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)'
+			'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)'
            },
        'Send e-Mail to user':{
+			'de_DE' : 'E-Mail an Benutzer senden',
 	        'es_ES' : 'Enviar email a usuario', 
             'af_ZA' : 'Stuur e-pos na gebruiker',
             'fr_FR' : "Envoyer un email à l'utilisateur",
@@ -145,9 +159,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Stuur e-mail naar gebruiker',
             'id_ID' : 'Kirim email ke User',
             'th_TH' : 'ส่งอีเมล์หาผู้ใช้',
-		'pt_BR' : 'Enviar email ao usuário'
+			'pt_BR' : 'Enviar email ao usuário'
            },
         'Subject': {
+			'de_DE' : 'Betreff',
 	        'es_ES' : 'Asunto',
             'af_ZA' : 'Onderwerp',
             'fr_FR' : 'Sujet',
@@ -155,9 +170,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Onderwerp',
             'id_ID' : 'Judul',
             'th_TH' : 'หัวเรื่อง',
-		'pt_BR' : 'Assunto'
+			'pt_BR' : 'Assunto'
            },
         'Message': {
+			'de_DE' : 'Nachricht',
 	        'es_ES' : 'Mensaje',
             'af_ZA' : 'Boodskap',
             'fr_FR' : 'Message',
@@ -165,9 +181,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Bericht',
             'id_ID' : 'Pesan',
             'th_TH' : 'ข้อความ',
-		'pt_BR' : 'Mensagem'
+			'pt_BR' : 'Mensagem'
            },
         'Attach Payment(s)': {
+			'de_DE' : 'Zahlung(en) hinzuf&uuml;gen',
 	        'es_ES' : 'Adjuntar Pago(s)',
             'af_ZA' : 'Heg Kwitansie(s) Aan',
             'fr_FR' : 'Ajouter un(des) paiement(s)',
@@ -175,9 +192,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Voeg betaling(en) toe',
             'id_ID' : 'Ikutkan pembayaran',
             'th_TH' : 'แนบการชำระเงิน',
-		'pt_BR' : 'Anexar Pagamento(s)'
+			'pt_BR' : 'Anexar Pagamento(s)'
            },
         'OK': {
+			'de_DE' : 'OK',
 	        'es_ES' : 'OK',
             'af_ZA' : 'OK',
             'fr_FR' : 'OK',
@@ -185,9 +203,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'OK',
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
-		'pt_BR' : 'OK'
+			'pt_BR' : 'OK'
            },
         'e-Mail send OK': {
+			'de_DE' : 'E-Mail versendet',
 	        'es_ES' : 'Email enviado OK',
             'af_ZA' : 'e-pos is gestuur',
             'fr_FR' : 'Email envoyé avec succès',
@@ -195,9 +214,10 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'E-mail succesvol verzonden',
             'id_ID' : 'Pengiriman email berhasil',
             'th_TH' : 'ส่งอีเมล์เรียบร้อย',
-		'pt_BR' : 'Email enviado OK'
+			'pt_BR' : 'Email enviado OK'
            },
         'Problems adding new payments': {
+			'de_DE' : 'Probleme beim hinzuf&uuml;gen von Zahlungen',
 	        'es_ES' : 'Problemas añadiendo nuevos pagos',
             'af_ZA' : 'Probleme met die byvoeg van betaling',
             'fr_FR' : "Des problèmes sont survenus lors de l'ajout des nouveaux paiements",
@@ -205,7 +225,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 		    'nl_NL' : 'Nieuwe betalingen toevoegen mislukt',
             'id_ID' : 'Bermasalah dalam penambhana pembayaran baru',
             'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงินใหม่',
-		'pt_BR' : 'Problemas ao adicionar novos pagamentos'
+			'pt_BR' : 'Problemas ao adicionar novos pagamentos'
            }
     };
 

@@ -8,6 +8,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 
     translations.Activity.phrases     = {
         'Filter': {
+			'de_DE' : 'Filter',
 	        'es_ES' : 'Filtro', 
             'af_ZA' : 'Deursif',
             'fr_FR' : 'Filtre',
@@ -15,9 +16,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Filter',
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
-		'pt_BR' : 'Filtro'
+			'pt_BR' : 'Filtro'
            },
         'Field': { 
+			'de_DE' : 'Feld',
 	        'es_ES' : 'Campo',
             'af_ZA' : 'Veld',
             'fr_FR' : 'Champ',
@@ -25,9 +27,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Veld',
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
-		'pt_BR' : 'Campo'
+			'pt_BR' : 'Campo'
            },
-        'Username': { 
+        'Username': {
+			'de_DE' : 'Benutzername', 
 	        'es_ES' : 'Nombre Usuario',
             'af_ZA' : 'Gebruikersnaam',
             'fr_FR' : "Nom d'utilisateur",
@@ -35,9 +38,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Gebruikersnaam',
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
-		'pt_BR' : 'Nome do Usuário'
+			'pt_BR' : 'Nome do Usuário'
            },
-        'Realm': { 
+        'Realm': {
+			'de_DE' : 'Standort', 
 	        'es_ES' : 'Lugar',
             'af_ZA' : 'Gebied',
             'fr_FR' : 'Domaine',
@@ -45,9 +49,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
             'th_TH' : 'อาณาเขต',
-		'pt_BR' : 'Zona'
+			'pt_BR' : 'Zona'
            },
         'NAS Device': { 
+			'de_DE' : 'NAS Ger&auml;t',
 	        'es_ES' : 'Dispositivo NAS',
             'af_ZA' : 'NAS Toestel',
             'fr_FR' : 'Equipement NAS',
@@ -55,9 +60,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'NAS-apparaat',
             'id_ID' : 'Perangkat NAS',
             'th_TH' : 'อุปกรณ์ NAS',
-		'pt_BR' : 'Dispositivo NAS'
+			'pt_BR' : 'Dispositivo NAS'
            },
         'IP Address': { 
+			'de_DE' : 'IP Adresse',
 	        'es_ES' : 'Dirección IP',
             'af_ZA' : 'IP-Adres',
             'fr_FR' : 'Adresse IP',
@@ -65,9 +71,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'IP-adres',
             'id_ID' : 'Alamat IP',
             'th_TH' : 'IP Address',
-		'pt_BR' : 'Endereço de IP'
+			'pt_BR' : 'Endereço de IP'
            },
         'Refresh every': { 
+			'de_DE' : 'Alle aktualisieren',
 	        'es_ES' : 'Actualizar cada',
             'af_ZA' : 'Herlaai elke',
             'fr_FR' : 'Recharger toutes les',
@@ -75,9 +82,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Ververs elke',
             'id_ID' : 'Refresh tiap',
             'th_TH' : 'รีเฟรชทุกๆ',
-		'pt_BR' : 'Atualizar a cada'
+			'pt_BR' : 'Atualizar a cada'
            },
         'seconds': { 
+			'de_DE' : 'Sekunden',
 	        'es_ES' : 'segundos',
             'af_ZA' : 'sekondes',
             'fr_FR' : 'secondes',
@@ -85,9 +93,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'seconden',
             'id_ID' : 'detik',
             'th_TH' : 'วินาที',
-		'pt_BR' : 'segundos'
+			'pt_BR' : 'segundos'
            },
         'Result count': { 
+			'de_DE' : 'Total',
  	        'es_ES' : 'Número',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -95,9 +104,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-		'pt_BR' : 'Total'
+			'pt_BR' : 'Total'
            },
         'Duration': {
+			'de_DE' : 'Dauer',
 	        'es_ES' : 'Duración',
             'af_ZA' : 'Tydsduur',
             'fr_FR' : 'Durée',
@@ -105,9 +115,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Tijdsduur',
             'id_ID' : 'Durasi',
             'th_TH' : 'ช่วงเวลา',
-		'pt_BR' : 'Duração'
+			'pt_BR' : 'Duração'
            },
         'No Selection made': {
+			'de_DE' : 'Keine Auswahl getroffen',
 	        'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies nie',
             'fr_FR' : 'Aucun élément sélectionné',
@@ -115,9 +126,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-		'pt_BR' : 'Não há nada selecionado'
+			'pt_BR' : 'Não há nada selecionado'
            },
         'Attempt to close open session': {
+			'de_DE' : 'Es wird versucht die offene Session zu schliessen',
 	        'es_ES' : 'Intento de cerrar la sesión abierta',
             'af_ZA' : 'Poog om oop konneksie te sluit',
             'fr_FR' : 'Tentative de fermeture de la session',
@@ -125,9 +137,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Probeer open sessie te sluiten',
             'id_ID' : 'Menutup sesi yang terbuka',
             'th_TH' : 'พยายามปิดเซสชั่น',
-		'pt_BR' : 'Tentativas para fechar a sessão aberta'
+			'pt_BR' : 'Tentativas para fechar a sessão aberta'
            },
         'Opening detail for' :{
+			'de_DE' : 'Eigenschaften &ouml;ffnen f&uuml;r',
 	        'es_ES' : 'Detalle de apertura de',
             'af_ZA' : 'Maak detail oop vir',
             'fr_FR' : 'Ouverture des détails pour',
@@ -135,9 +148,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Details openen voor',
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
-		'pt_BR' : 'Abrindo detalhes de'
+			'pt_BR' : 'Abrindo detalhes de'
            },
         'Left Us' :{
+			'de_DE' : 'hat uns verlassen',
 	        'es_ES' : 'Nos Dejó',
             'af_ZA' : 'Het ons verlaat',
             'fr_FR' : 'nous a quitté',
@@ -145,9 +159,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'heeft de verbinding verbroken',
             'id_ID' : 'Meninggalkan kita',
             'th_TH' : 'ปล่อยฉันไว้',
-		'pt_BR' : 'Deixou-nos'
+			'pt_BR' : 'Deixou-nos'
            },
         'Joined Us' :{
+			'de_DE' : 'ist beigetreten',
 	        'es_ES' : 'Se Unió a Nosostros',
             'af_ZA' : 'Is nou by ons',
             'fr_FR' : 'nous a rejoint',
@@ -155,9 +170,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'heeft verbinding gemaakt',
             'id_ID' : 'Bergabung dengan kita',
             'th_TH' : 'มาจอยกัน',
-		'pt_BR' : 'Juntou-se a nós'
+			'pt_BR' : 'Juntou-se a nós'
            },
         'Fetching latest' :{
+			'de_DE' : 'Letzte Auswahl holen',
 	        'es_ES' : 'Buscando ultimo',
             'af_ZA' : 'Verkry die nuutste',
             'fr_FR' : 'Chargement des derniers',
@@ -165,9 +181,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Haal laatste op',
             'id_ID' : 'Lihat yang terakhir',
             'th_TH' : 'ดึงมาล่าสุด',
-		'pt_BR' : 'Buscando último'
+			'pt_BR' : 'Buscando último'
            },
         'Activity' :{
+			'de_DE' : 'Aktivit&auml;t',
 	        'es_ES' : 'Actividad',
             'af_ZA' : 'Aktiviteits',
             'fr_FR' : 'Activité',
@@ -175,9 +192,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Activiteiten',
             'id_ID' : 'Aktivitas',
             'th_TH' : 'กิจกรรม',
-		'pt_BR' : 'Atividade'
+			'pt_BR' : 'Atividade'
            },
         'data' :{
+			'de_DE' : 'Daten',
 	        'es_ES' : 'datos',
             'af_ZA' : 'data',
             'fr_FR' : 'données',
@@ -185,9 +203,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'data',
             'id_ID' : 'Data',
             'th_TH' : 'ข้อมูล',
-		'pt_BR' : 'dados'
+			'pt_BR' : 'dados'
            },
         'Data RX' :{
+			'de_DE' : 'Daten empfangen',
 	        'es_ES' : 'Datos RX',
             'af_ZA' : 'Grepe Gestuur',
             'fr_FR' : 'Données RX',
@@ -195,9 +214,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Data verzonden',
             'id_ID' : 'Data RX',
             'th_TH' : 'ข้อมูลที่รับมา',
-		'pt_BR' : 'Dados RX'
+			'pt_BR' : 'Dados RX'
            },
         'Data TX' :{
+			'de_DE' : 'Daten gesendet',
 	        'es_ES' : 'Datos TX',
             'af_ZA' : 'Grepe Ontvang',
             'fr_FR' : 'Données TX',
@@ -205,9 +225,10 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Data ontvangen',
             'id_ID' : 'Data TX',
             'th_TH' : 'ข้อมูลที่ส่งไป',
-		'pt_BR' : 'Dados TX'
+			'pt_BR' : 'Dados TX'
            },
         'Data Total' :{
+			'de_DE' : 'Daten Gesamt',
 	        'es_ES' : 'Total Datos',
             'af_ZA' : 'Totale Grepe',
             'fr_FR' : 'Données totales',
@@ -215,7 +236,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
 		    'nl_NL' : 'Totaal data',
             'id_ID' : 'Total data',
             'th_TH' : 'ข้อมูลทั้งหมด',
-		'pt_BR' : 'Total de Dados'
+			'pt_BR' : 'Total de Dados'
            }
     };
 

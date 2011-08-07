@@ -8,6 +8,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
 
     translations.ASView.phrases     = {
         'Network': { 
+'de_DE' : 'Netzwerk',
             'es_ES' : 'Red',
             'af_ZA' : 'Netwerk',
             'fr_FR' : 'Réseau',
@@ -18,6 +19,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
            },
  
         'Wireless' : {
+'de_DE' : 'Wireless',
             'es_ES' : 'Wireless',
             'af_ZA' : 'Koordloos',
             'fr_FR' : 'Sans fil',
@@ -27,6 +29,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'th_TH' : 'ระบบวิทยุ'
            },
         'OpenVPN' : {
+'de_DE' : 'OpenVPN',
             'es_ES' : 'OpenVPN',
             'af_ZA' : 'OpenVPN',
             'fr_FR' : 'OpenVPN',
