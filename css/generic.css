@@ -574,6 +574,19 @@ color: green;
     width:48px;
 }
 
+.FancyIcon .de_DE {
+    background-image:url('../img/flags/de_DE.png');
+    height:32px;
+    width:32px;
+}
+
+.FancyIcon .de_DE:hover {
+    background-image:url('../img/flags/de_DE_over.png');
+    height:48px;
+    width:48px;
+}
+
+
 .FancyIcon .settings {
     background-image:url('../img/actions/settings.png');
     height:32px;
