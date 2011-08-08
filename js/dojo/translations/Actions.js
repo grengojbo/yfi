@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.Actions"]){ //_hasResource checks added by b
 		    'nl_NL' : 'geselecteerd',
             'id_ID' : 'Terpilih',
             'th_TH' : 'ถูกเลือก',
-			'pt_BR' : 'selecionado'
+			'pt_BR' : 'selecionado',
+            'da_DK' : 'Valgt'
            }
     };
 
