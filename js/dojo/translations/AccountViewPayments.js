@@ -76,7 +76,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'nl_NL' : 'Totaal van betalingen',
             'id_ID' : 'Jumlah pembayaran',
             'th_TH' : 'ผลรวมการชำระเงิน',
-            'pt_BR' : 'Soma dos Pagamentos'
+            'pt_BR' : 'Soma dos Pagamentos',
             'da_DK' : 'Samlede betalinger'
            },
         'Outstanding' : { 
