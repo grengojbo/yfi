@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Ververs lijst',
             'id_ID' : 'Refresh Daftar',
             'th_TH' : 'เรียกลิสต์มาดูใหม่',
-            'pt_BR' : 'Recarregar Lista'
+            'pt_BR' : 'Recarregar Lista',
+            'da_DK' : 'Genindlæs liste'
            },
         'Change Password' : {
             'de_DE' : 'Kennwort aendern',
@@ -27,7 +28,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Wijzig wachtwoord',
             'id_ID' : 'Ganti kata sandi',
             'th_TH' : 'เปลี่ยนรหัสผ่าน',
-            'pt_BR' : 'Alterar Senha'
+            'pt_BR' : 'Alterar Senha',
+            'da_DK' : 'Skift adgangskode'
            },
         'Edit Selected' : {
             'de_DE' : 'Auswahl bearbeiten',
@@ -38,7 +40,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Wijzig selectie',
             'id_ID' : 'Ubah yang terpilih',
             'th_TH' : 'แก้ไขที่เลือก',
-            'pt_BR' : 'Editar Selecionado'
+            'pt_BR' : 'Editar Selecionado',
+            'da_DK' : 'Rediger det valgte'
            },
         'Add' : {
             'de_DE' : 'Hinzufuegen',
@@ -49,7 +52,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Nieuw',
             'id_ID' : 'Tambah',
             'th_TH' : 'เพิ่ม',
-            'pt_BR' : 'Adicionar'
+            'pt_BR' : 'Adicionar',
+            'da_DK' : 'Tilføj'
            },
         'Delete Selected' : {
             'de_DE' : 'Auswahl loeschen',
@@ -60,7 +64,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Verwijder selectie',
             'id_ID' : 'Hapus yang terpilih',
             'th_TH' : 'ลบที่เลือก',
-            'pt_BR' : 'Deletar Selecionado'
+            'pt_BR' : 'Deletar Selecionado',
+            'da_DK' : 'Slet det valgte'
            },
         'Username' : {
             'de_DE' : 'Benutzername',
@@ -71,7 +76,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Gebruikersnaam',
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
-            'pt_BR' : 'Nome do Usuário'
+            'pt_BR' : 'Nome do Usuário',
+            'da_DK' : 'Brugernavn'
            },
         'Name' : {
             'de_DE' : 'Vorname',
@@ -82,7 +88,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Voornaam',
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
-            'pt_BR' : 'Nome'
+            'pt_BR' : 'Nome',
+            'da_DK' : 'Fornavn'
            },
         'Surname' : {
             'de_DE' : 'Nachname',
@@ -93,7 +100,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Achternaam',
             'id_ID' : 'Nama Belakang',
             'th_TH' : 'นามสกุล',
-            'pt_BR' : 'Sobrenome'
+            'pt_BR' : 'Sobrenome',
+            'da_DK' : 'Efternavn'
            },
         'Phone' : {
             'de_DE' : 'Telefon',
@@ -104,7 +112,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telpon',
             'th_TH' : 'เบอร์โทร.',
-            'pt_BR' : 'Telefone'
+            'pt_BR' : 'Telefone',
+            'da_DK' : 'Telefon'
             },
         'Email' : {
             'de_DE' : 'E-Mail',
@@ -115,7 +124,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
             'th_TH' : 'อีเมล์',
-            'pt_BR' : 'Email'
+            'pt_BR' : 'Email',
+            'da_DK' : 'E-mailadresse'
             },
         'Active' : {
             'de_DE' : 'Aktiv',
@@ -126,7 +136,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Actief',
             'id_ID' : 'Aktif',
             'th_TH' : 'ที่กำลังทำงานอยู่',
-            'pt_BR' : 'Ativo'
+            'pt_BR' : 'Ativo',
+            'da_DK' : 'Aktive'
             },
         'Realms' : {
             'de_DE' : 'Standort',
@@ -137,7 +148,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Locaties',
             'id_ID' : 'Realms',
             'th_TH' : 'อาณาเขต',
-            'pt_BR' : 'Zonas'
+            'pt_BR' : 'Zonas',
+            'da_DK' : 'Hotspot zone'
             },
         'Result count' : {
             'de_DE' : 'Summe',
@@ -148,7 +160,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Aantal',
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวนผลลัพธ์',
-            'pt_BR' : 'Total'
+            'pt_BR' : 'Total',
+            'da_DK' : 'Antal'
             },
         'Add Access Provider' : {
             'de_DE' : 'Dienstanbieter hinzufuegen',
@@ -159,7 +172,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Nieuwe leverancier',
             'id_ID' : 'Tambah Penyedia Akses',
             'th_TH' : 'เพิ่มผู้ให้บริการแอคเซส',
-            'pt_BR' : 'Adicionar Provedor de Acesso'
+            'pt_BR' : 'Adicionar Provedor de Acesso',
+            'da_DK' : 'Tilføj udbyder'
             },
         'Password' : {
             'de_DE' : 'Kennwort',
@@ -170,7 +184,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Wachtwoord',
             'id_ID' : 'Kata Sandi',
             'th_TH' : 'รหัสผ่าน',
-            'pt_BR' : 'Senha'
+            'pt_BR' : 'Senha',
+            'da_DK' : 'Adgangskode'
             },
         'Address' : {
             'de_DE' : 'Adresse',
@@ -181,7 +196,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Adres',
             'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่',
-            'pt_BR' : 'Endereço'
+            'pt_BR' : 'Endereço',
+            'da_DK' : 'Adresse'
             },
         'e-mail' : {
             'de_DE' : 'E-Mail',
@@ -192,7 +208,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
             'th_TH' : 'อีเมล์',
-            'pt_BR' : 'email'
+            'pt_BR' : 'email',
+            'da_DK' : 'E-mail'
             },
          'Activate' : {
             'de_DE' : 'Aktivieren',
@@ -203,7 +220,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Activeer',
             'id_ID' : 'Aktifkan',
             'th_TH' : 'เปิดใช้งาน',
-            'pt_BR' : 'Ativar'
+            'pt_BR' : 'Ativar',
+            'da_DK' : 'Aktiv'
             },
         'Save': {
             'de_DE' : 'Speichern',
@@ -214,7 +232,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-            'pt_BR' : 'Salvar'
+            'pt_BR' : 'Salvar',
+            'da_DK' : 'Gem'
             },
         'Access Provider added OK':{
             'de_DE' : 'Dienstanbieter hinzugefuegt',
@@ -225,7 +244,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Leverancier succesvol toegevoegd',
             'id_ID' : 'Penambahan Penyedia Akses OK',
             'th_TH' : 'เพิ่ม ผู้ให้บริการการเข้าใช้ เรียบร้อยแล้ว',
-            'pt_BR' : 'Provedor de Acesso adicionado OK'
+            'pt_BR' : 'Provedor de Acesso adicionado OK',
+            'da_DK' : 'Udbyder tilføjet!'
             },
         'Problems adding Access Provider': {
             'de_DE' : 'Problem beim hinzufuegen des Dienstanbieters',
@@ -236,7 +256,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Leverancier toevoegen mislukt',
             'id_ID' : 'Penambahan Penyedia Akses bermasalah',
             'th_TH' : 'มีปัญหาในการเพิ่มผู้ให้บริการการเข้าใช้',
-            'pt_BR' : 'Problemas ao adicionar o Provedor de Acesso'
+            'pt_BR' : 'Problemas ao adicionar o Provedor de Acesso',
+            'da_DK' : 'Problemer med at tilføje udbyder'
             },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -247,7 +268,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-            'pt_BR' : 'Não há nada selecionado'
+            'pt_BR' : 'Não há nada selecionado',
+            'da_DK' : 'Intet valgt'
             },
         'Deleting Access Providers': {
             'de_DE' : 'Dienstanbieter loeschen',
@@ -258,7 +280,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Leverancier verwijderen',
             'id_ID' : 'Menghapus penyedia Akses',
             'th_TH' : 'กำลังลบผู้ให้บริการการเข้าใช้',
-            'pt_BR' : 'Deletando Provedores de Acesso'
+            'pt_BR' : 'Deletando Provedores de Acesso',
+            'da_DK' : 'Sletter udbyder'
             },
         'Complete' : {
             'de_DE' : 'Fertig',
@@ -269,7 +292,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Voltooid',
             'id_ID' : 'Lengkap',
             'th_TH' : 'สมบูรณ์',
-            'pt_BR' : 'Completado'
+            'pt_BR' : 'Completado',
+            'da_DK' : 'Afsluttet'
             },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -280,7 +304,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Details openen voor',
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
-            'pt_BR' : 'Abrindo detalhes de'
+            'pt_BR' : 'Abrindo detalhes de',
+            'da_DK' : 'Åbner detaljer for'
             },
         'Password Change selection limit to one' :  {
             'de_DE' : 'Kennwort kann nur fuer einen Benutzer ge&auml;ndert werden',
@@ -290,7 +315,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Penukaran Katalaluan terpilih dihadkan kepada satu',
             'nl_NL' : 'Het wachtwoord dient per gebruiker gewijzigd te worden',
             'id_ID' : 'Penggantian kata sandi dibatasi satu',
-            'pt_BR' : 'A alteração da senha deve ser feita por usuário'
+            'pt_BR' : 'A alteração da senha deve ser feita por usuário',
+            'da_DK' : 'Kun en adgangskode af gangen kan ændres'
             },
         'Change Password for' : {
             'de_DE' : 'Kennwort &auml;ndern f&uuml;r',
@@ -301,7 +327,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Wijzig wachtwoord voor',
             'id_ID' : 'Ganti kata sandi untuk',
             'th_TH' : 'เปลี่ยนรหัสผ่านสำหรับ',
-            'pt_BR' : 'Alterar Senha de'
+            'pt_BR' : 'Alterar Senha de',
+            'da_DK' : 'Skift adgangskode for'
             },
         'New Password': {
             'de_DE' : 'Neues Kennwort',
@@ -312,7 +339,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Nieuw wachtwoord',
             'id_ID' : 'Kata sandi baru',
             'th_TH' : 'รหัสผ่านใหม่',
-            'pt_BR' : 'Nova Senha'
+            'pt_BR' : 'Nova Senha',
+            'da_DK' : 'Ny adgangskode'
             },
         'Password Changed OK' : {
             'de_DE' : 'Kennwort ge&auml;ndert',
@@ -323,7 +351,8 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'nl_NL' : 'Wachtwoord succesvol gewijzigd',
             'id_ID' : 'Penggantian Kata sandi OK',
             'th_TH' : 'เปลี่ยนรหัสผ่านเรียบร้อยแล้ว',
-            'pt_BR' : 'Senha Alterada OK'
+            'pt_BR' : 'Senha Alterada OK',
+            'da_DK' : 'Adgangskode skiftet!'
             }
     };
 

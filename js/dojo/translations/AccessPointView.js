@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'nl_NL' : 'Apparaatinfo',
             'id_ID' : 'Informasi perangkat',
             'th_TH' : 'ข้อมูลอุปกรณ์',
-            'pt_BR' : 'Informação do Dispositivo'
+            'pt_BR' : 'Informação do Dispositivo',
+            'da_DK' : 'Information om enheden'
            },
         'Wireless Clients': {
             'de_DE' : 'Wireless Clients',
@@ -27,7 +28,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'nl_NL' : 'Draadloze clients',
             'id_ID' : 'Client Wireless',
             'th_TH' : 'ผู้ใช้ระบบวิทยุ',
-            'pt_BR' : 'Clientes Wireless'
+            'pt_BR' : 'Clientes Wireless',
+            'da_DK' : 'Trådløse klienter'
            },
         'Nearby Devices': { 
             'de_DE' : 'Ger&auml;te in Reichweite',
@@ -38,7 +40,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'nl_NL' : 'Apparaten dichtbij',
             'id_ID' : 'Perangkat Terdekat',
             'th_TH' : 'อุปกรณ์ข้างเคียง',
-            'pt_BR' : 'Dispositivos Próximos'
+            'pt_BR' : 'Dispositivos Próximos',
+            'da_DK' : 'Enheder i nærheden'
            }
     };
 
