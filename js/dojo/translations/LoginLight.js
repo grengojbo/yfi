@@ -8,70 +8,76 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
 
     translations.LoginLight.phrases     = {
         'Username': {
-'de_DE' : 'Benutzer',
-	     'es_ES' : 'Nombre Usuario', 
+            'de_DE' : 'Benutzer',
+            'es_ES' : 'Nombre Usuario', 
             'af_ZA' : 'Gebruikersnaam',
             'fr_FR' : 'Nom',
             'ms_MY' : 'Nama Pengguna',
-	     'nl_NL' : 'Gebruikersnaam',
+            'nl_NL' : 'Gebruikersnaam',
             'id_ID' : 'Pemakai',
             'th_TH' : 'ชื่อผู้ใช้',
-	     'pt_BR' : 'Nome do Usuário'
+            'pt_BR' : 'Nome do Usuário',
+            'da_DK' : 'Brugernavn'
            },
         'Password': { 
-'de_DE' : 'Passwort',
-	     'es_ES' : 'Contraseña',
+            'de_DE' : 'Passwort',
+            'es_ES' : 'Contraseña',
             'af_ZA' : 'Wagwoord',
             'fr_FR' : 'Mot de passe',
             'ms_MY' : 'Katalaluan',
-	     'nl_NL' : 'Wachtwoord',
+            'nl_NL' : 'Wachtwoord',
             'id_ID' : 'Kata Sandi',
             'th_TH' : 'รหัสผ่าน',
-	     'pt_BR' : 'Senha'
+            'pt_BR' : 'Senha',
+            'da_DK' : 'Adgangskode'
            },
         'Language': { 
-'de_DE' : 'Sprache',
-	     'es_ES' : 'Idioma',
+            'de_DE' : 'Sprache',
+            'es_ES' : 'Idioma',
             'af_ZA' : 'Taalvoorkeur',
             'fr_FR' : 'Langue',
             'ms_MY' : 'Bahasa',
-	     'nl_NL' : 'Taal',
+            'nl_NL' : 'Taal',
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
-	     'pt_BR' : 'Idioma'
+            'pt_BR' : 'Idioma',
+            'da_DK' : 'Sprog'
            },
         'Clear': { 
-'de_DE' : 'Leeren',
-	     'es_ES' : 'Limpiar',
+            'de_DE' : 'Leeren',
+            'es_ES' : 'Limpiar',
             'af_ZA' : 'Maak skoon',
             'fr_FR' : 'Vider',
             'ms_MY' : 'Kosongkan',
-	     'nl_NL' : 'Leegmaken',
+            'nl_NL' : 'Leegmaken',
             'id_ID' : 'Hapus',
             'th_TH' : 'ลบทั้งหมด',
-	     'pt_BR' : 'Limpar'
+            'pt_BR' : 'Limpar',
+            'da_DK' : 'Slet'
            },
         'OK': { 	
-'de_DE' : 'OK',
-	     'es_ES' : 'OK',
+            'de_DE' : 'OK',
+            'es_ES' : 'OK',
             'af_ZA' : 'OK',
             'fr_FR' : 'OK',
             'ms_MY' : 'OK',
-	     'nl_NL' : 'OK',
+            'nl_NL' : 'OK',
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
-	     'pt_BR' : 'OK'
+            'pt_BR' : 'OK',
+            'da_DK' : 'OK'
            },
         'Authentication Failed' :{ 
-'de_DE' : 'Authentifizierung fehlgeschlagen',
-	     'es_ES' : 'Falló la Autenticación',
+            'de_DE' : 'Authentifizierung fehlgeschlagen',
+            'es_ES' : 'Falló la Autenticación',
             'af_ZA' : 'Geldigvastelling het gevaal',
             'fr_FR' : 'Authentification échouée',
             'ms_MY' : 'Pengesahan Gagal',
-	     'nl_NL' : 'Aanmelden mislukt',
+            'nl_NL' : 'Aanmelden mislukt',
             'id_ID' : 'Autentikasi Gagal',
             'th_TH' : 'ไม่สามารถรับรองความถูกต้อง',
-	     'pt_BR' : 'Falha na Autenticação'
+            'pt_BR' : 'Falha na Autenticação',
+            'da_DK' : 'Godkendelse slået fejl'
            }
     };
 
