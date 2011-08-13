@@ -8,81 +8,88 @@ if(!dojo._hasResource["translations.PermanentGeneralPersonal"]){ //_hasResource 
 
     translations.PermanentGeneralPersonal.phrases     = {
         'Cap Type': {
-'de_DE' : 'Kapazitaets Type',
-	     'es_ES' : 'Tipo de Capacidad', 
+            'de_DE' : 'Kapazitaets Type',
+            'es_ES' : 'Tipo de Capacidad', 
             'af_ZA' : 'Tipe Kapasiteit',
             'fr_FR' : 'Type de capacité',
-	     'ms_MY' : 'Jenis Pemotongan',
-	     'nl_NL' : 'Capaciteitstype',	
-	     'id_ID' : 'Type Cap',
+            'ms_MY' : 'Jenis Pemotongan',
+            'nl_NL' : 'Capaciteitstype',	
+            'id_ID' : 'Type Cap',
             'th_TH' : 'ชนิดของ Cap',
-	     'pt_BR' : 'Tipo de Capacidade'
+            'pt_BR' : 'Tipo de Capacidade',
+            'da_DK' : 'Forbrugsgrænse'
            },
         'Name':{ 
-'de_DE' : 'Vorname',
-	     'es_ES' : 'Nombre',
+            'de_DE' : 'Vorname',
+            'es_ES' : 'Nombre',
             'af_ZA' : 'Naam',
             'fr_FR' : 'Nom',
-	     'ms_MY' : 'Nama',	
-	     'nl_NL' : 'Voornaam',
-	     'id_ID' : 'Nama',
+            'ms_MY' : 'Nama',	
+            'nl_NL' : 'Voornaam',
+            'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
-	     'pt_BR' : 'Nome'
+            'pt_BR' : 'Nome',
+            'da_DK' : 'Navn'
            },
         'Surname':{ 	
-'de_DE' : 'Nachname',
-	     'es_ES' : 'Apellidos',
+            'de_DE' : 'Nachname',
+            'es_ES' : 'Apellidos',
             'af_ZA' : 'Van',
             'fr_FR' : 'Prénom',
-	     'ms_MY' : 'Nama Akhir',	
-	     'nl_NL' : 'Achternaam',
-	     'id_ID' : 'Nama belakang',
+            'ms_MY' : 'Nama Akhir',	
+            'nl_NL' : 'Achternaam',
+            'id_ID' : 'Nama belakang',
             'th_TH' : 'นามสกุล',
-	     'pt_BR' : 'Sobrenome'
+            'pt_BR' : 'Sobrenome',
+            'da_DK' : 'Efternavn'
            },
         'Address':{ 
-'de_DE' : 'Adresse',
-	     'es_ES' : 'Dirección',
+            'de_DE' : 'Adresse',
+            'es_ES' : 'Dirección',
             'af_ZA' : 'Adres',
             'fr_FR' : 'Adresse',
-	     'ms_MY' : 'Alamat',	
-	     'nl_NL' : 'Adres',
-	     'id_ID' : 'Alamat',
+            'ms_MY' : 'Alamat',	
+            'nl_NL' : 'Adres',
+            'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่',
-	     'pt_BR' : 'Endereço'
+            'pt_BR' : 'Endereço',
+            'da_DK' : 'Adresse'
            },
         'e-mail':{ 
-'de_DE' : 'E-Mail',
-	     'es_ES' : 'Email',
+            'de_DE' : 'E-Mail',
+            'es_ES' : 'Email',
             'af_ZA' : 'e-pos',
             'fr_FR' : 'Email',
-	     'ms_MY' : 'e-mel',	
-	     'nl_NL' : 'E-mail',
-	     'id_ID' : 'Email',
+            'ms_MY' : 'e-mel',	
+            'nl_NL' : 'E-mail',
+            'id_ID' : 'Email',
             'th_TH' : 'อีเมล์',
-	     'pt_BR' : 'Email'
+            'pt_BR' : 'Email',
+            'da_DK' : 'E-mail'
            },
         'Phone':{ 
-'de_DE' : 'Telefon',
-	     'es_ES' : 'Teléfono',
+            'de_DE' : 'Telefon',
+            'es_ES' : 'Teléfono',
             'af_ZA' : 'Telefoon',
             'fr_FR' : 'Téléphone',
-	     'ms_MY' : 'Telefon',	
-	     'nl_NL' : 'Telefoon',
-	     'id_ID' : 'Telepon',
+            'ms_MY' : 'Telefon',	
+            'nl_NL' : 'Telefoon',
+            'id_ID' : 'Telepon',
             'th_TH' : 'เบอร์โทร.',
-	     'pt_BR' : 'Telefone'
+            'pt_BR' : 'Telefone',
+            'da_DK' : 'Telefon'
             },
         'Language':{ 
-'de_DE' : 'Sprache',
-	     'es_ES' : 'Idioma',
+            'de_DE' : 'Sprache',
+            'es_ES' : 'Idioma',
             'af_ZA' : 'Taalvoorkeur',
             'fr_FR' : 'Langue',
-	     'ms_MY' : 'Bahasa',	
-	     'nl_NL' : 'Taal',
-	     'id_ID' : 'Bahasa',
+            'ms_MY' : 'Bahasa',	
+            'nl_NL' : 'Taal',
+            'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
-	     'pt_BR' : 'Idioma'
+            'pt_BR' : 'Idioma',
+            'da_DK' : 'Sprog'
             }
     };
 
