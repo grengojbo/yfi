@@ -586,14 +586,14 @@ color: green;
     width:48px;
 }
 
-.FancyIcon .de_DE {
-    background-image:url('../img/flags/de_DE.png');
+.FancyIcon .da_DK {
+    background-image:url('../img/flags/da_DK.png');
     height:32px;
     width:32px;
 }
 
-.FancyIcon .de_DE:hover {
-    background-image:url('../img/flags/de_DE_over.png');
+.FancyIcon .da_DK:hover {
+    background-image:url('../img/flags/da_DK_over.png');
     height:48px;
     width:48px;
 }
