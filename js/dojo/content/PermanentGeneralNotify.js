@@ -29,7 +29,7 @@ dojo.require('components.Translator');
                 { id : 'email',    name: tr.tr({'module': 'PermanentGeneralNotify','phrase':"e-mail",'lang':l})}
             ]}};
 
-    cpgn.add   = function(divContainer,id){
+    cpgn.create   = function(divContainer,id){
         dojo.xhrGet({
             url: urlUserNotifyDetail+id,
             preventCache: true,

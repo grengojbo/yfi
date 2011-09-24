@@ -24,7 +24,7 @@ dojo.require('components.Translator');
     var gridProfile;
     var userID;
 
-    cpgp.add   = function(divParent,id){
+    cpgp.create   = function(divParent,id){
 
         userID = id;
         console.log('Profile Detail');

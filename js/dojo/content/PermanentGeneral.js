@@ -68,7 +68,7 @@ dojo.require('components.Translator');
                                     dojo.require(item.module);
                                     dojo.addOnLoad(function(){
                                         console.log("Tab Module Loaded Fine ",item.module);
-                                        content[item.file]['add'](d,userID);
+                                        content[item.file]['create'](d,userID);
                                     });
                                 }
                             }
@@ -82,7 +82,7 @@ dojo.require('components.Translator');
                             dojo.require(item.module);
                             dojo.addOnLoad(function(){
                                 console.log("Tab Module Loaded Fine ",item.module);
-                                content[item.file]['add'](first,userID);
+                                content[item.file]['create'](first,userID);
                             });
 
                         }

@@ -32,7 +32,7 @@ dojo.require('components.Translator');
         ]}};
 
 
-    cpgp.add   = function(divContainer,id){
+    cpgp.create   = function(divContainer,id){
         dojo.xhrGet({
             url: urlUserDetail+id,
             preventCache: true,

@@ -22,7 +22,7 @@ dojo.require('components.Translator');
     var gridPrivate;
     var userID;
 
-    cpgp.add    = function(divParent,id){
+    cpgp.create    = function(divParent,id){
 
         userID = id;
         var divGridAction     = document.createElement('div');

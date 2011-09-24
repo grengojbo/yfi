@@ -24,7 +24,7 @@ dojo.require('components.Translator');
     var userID;
     var urlUserActivity         = components.Const.cake+'permanent_users/json_view_activity/';
 
-    cpga.add   = function(divParent,id){
+    cpga.create   = function(divParent,id){
         userID = id
         console.log('Activity Detail');
 

@@ -26,7 +26,7 @@ dojo.require('components.Translator');
     var urlUserChangeProfile    = components.Const.cake+'permanent_users/json_change_profile/';
     var urlProfileList          = components.Const.cake+'profiles/json_index';
 
-    cpgu.add   = function(divParent,id){
+    cpgu.create   = function(divParent,id){
 
         userID = id;
         console.log('Usage Detail');
