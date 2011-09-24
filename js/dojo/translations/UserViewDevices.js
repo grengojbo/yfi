@@ -88,7 +88,7 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'จัดเก็บ',
-            'pt_BR' : 'Salvar'
+            'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
         'Device added OK':{ 

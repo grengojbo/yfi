@@ -28,7 +28,7 @@ if(!dojo._hasResource["translations.PermanentGeneralActivity"]){ //_hasResource 
             'nl_NL' : 'Ververs gegevens',
             'id_ID' : 'Reload data',
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
-            'pt_BR' : 'Recarregar Dados,
+            'pt_BR' : 'Recarregar Dados',
             'da_DK' : 'Genindlæs data'
            },
         'MAC': { 
