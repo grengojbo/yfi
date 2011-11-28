@@ -58,6 +58,9 @@ dojo.require('components.Common');
             //Tab
             var tcFour  = new dijit.layout.ContentPane({title : tr.tr({'module': 'NasView','phrase':"Photo",'lang':l})});
             tcFour.nID = nasID;
+            //Tab
+            var tcFive  = new dijit.layout.ContentPane({title : 'Actions'});
+            tcFive.nID = nasID;
 
 
             //----------------------------------------------------------------
@@ -121,6 +124,22 @@ dojo.require('components.Common');
                 }
                 //----------------------------
 
+                //------------------------------
+                if(e == tcFive){
+                    if(e.domNode.childNodes.length == 0){
+
+                        var divActions = document.createElement("div");
+                        dojo.addClass(divActions, 'divTabInTab' );
+                        tcFive.attr('content',divActions);
+                        dojo.require("content.NasViewActions");
+                        dojo.addOnLoad(function(){
+                            console.log("Nas View Actions loaded fine");
+                            content.NasViewActions.create(divActions,tcFive.nID);
+                        });
+                    }
+                }
+                //----------------------------
+
             });
             //-----------------------------
 
@@ -128,6 +147,7 @@ dojo.require('components.Common');
             tc.addChild(tcTwo);
             tc.addChild(tcThree);
             tc.addChild(tcFour);
+            tc.addChild(tcFive);
         //---------------------
 
         //Initialise the tabs
