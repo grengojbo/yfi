@@ -157,8 +157,6 @@ dojo.require('components.Common');
         dlgAdd.show();
     }
 
-
-
     cnva.del      = function(){
 
         console.log('Delete Action');
