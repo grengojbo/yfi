@@ -73,13 +73,9 @@ dojo.require('custom.PhotoUploader');
             //Tab for images of Realm (Eye candy for login pages)
             var tcThree     = new dijit.layout.ContentPane({title : tr.tr({'module': 'RealmView','phrase':"Gallery",'lang':l}), id: 'ContentViewRealmGallery'+id});
 
-             //Tab for map of address
-            var tcFour     = new dijit.layout.ContentPane({title : tr.tr({'module': 'RealmView','phrase':"Map",'lang':l}), id: 'ContentViewRealmMap'+id});
-
         tc.addChild(tcOne);
         tc.addChild(tcTwo);
         tc.addChild(tcThree);
-        tc.addChild(tcFour);
 
         //-----------------------------------------------
         dojo.connect(tc, 'selectChild',function(e){
@@ -106,30 +102,12 @@ dojo.require('custom.PhotoUploader');
                 }
             }
 
-              if(e == tcFour){
-                console.log('Map');
-                if(e.domNode.childNodes.length == 0){
-                    var divFour    = document.createElement('div');
-                   // dojo.addClass(divThree, 'divTabForm');
-                    cvu.getMapDetail(divFour,id);    //Populate the container div
-                    e.attr('content',divFour);
-                }
-            }
         });
         //---------------------
 
         //Initialise the tabs
         tc.startup();
     }
-
-    //------ Get the MAP Detail--------
-    cvu.getMapDetail        = function(divContainer,id){
-
-
-
-
-    }
-
 
     //----- Get the Gallery Detail-----
     cvu.getGalleryDetail    = function(divContainer,id){
