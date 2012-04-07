@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'ms_MY' : 'Klien Wayarles',
             'nl_NL' : 'Draadloze clients',
             'id_ID' : 'Client Wireless',
-            'th_TH' : 'ผู้ใช้ระบบวิทยุ',
+            'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'ms_MY' : 'Alat Terdekat',
             'nl_NL' : 'Apparaten dichtbij',
             'id_ID' : 'Perangkat Terdekat',
-            'th_TH' : 'อุปกรณ์ข้างเคียง',
+            'th_TH' : 'Nearby Devices',
             'pt_BR' : 'Dispositivos Próximos',
             'da_DK' : 'Enheder i nærheden'
            }

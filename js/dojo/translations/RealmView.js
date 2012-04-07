@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Telefon',
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telepon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทรศัพท์',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Tel. Bimbit',
             'nl_NL' : 'Mobiel',
             'id_ID' : 'HP',
-            'th_TH' : 'เซลล์',
+            'th_TH' : 'มือถือ',
             'pt_BR' : 'Celular',
             'da_DK' : 'Mobil'
             },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
             },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Tambah Cawangan',
             'nl_NL' : 'Locatie toevoegen', 
             'id_ID' : 'Tambahkan realm',
-            'th_TH' : 'เพิ่มอาณาเขต',
+            'th_TH' : 'เพิ่มเขตพื้นที่',
             'pt_BR' : 'Adicionar Zona',
             'da_DK' : 'Tilføj hotspot zone'
             },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Kata Gabung',
             'nl_NL' : 'Toevoeging',
             'id_ID' : 'String yang ditampilkan',
-            'th_TH' : 'ข้อความผนวก',
+            'th_TH' : 'ผนวกข้อความ',
             'pt_BR' : 'Adicionar Texto',
             'da_DK' : 'Tilføj tekststreng'
             },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'URL',
             'nl_NL' : 'URL',
             'id_ID' : 'URL',
-            'th_TH' : 'url',
+            'th_TH' : 'URL',
             'pt_BR' : 'url',
             'da_DK' : 'url'
             },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
             },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Berjaya mengubah Cawangan',
             'nl_NL' : 'Locatie succesvol gewijzigd',
             'id_ID' : 'Update Realm berhasil',
-            'th_TH' : 'ปรับปรุงอาณาเขตเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงเขตพื้นที่เรียบร้อยแล้ว',
             'pt_BR' : 'Zona atualizada OK',
             'da_DK' : 'Hotspot zone opdateret!'
             },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Gagal mengubah Cawangan',
             'nl_NL' : 'Locatie wijzigen mislukt',
             'id_ID' : 'Update Realm bermasalah',
-            'th_TH' : 'มีปัญหาในการปรับปรุงอาณาเขต',
+            'th_TH' : 'มีปัญหาในการปรับปรุงเขตพื้นที่',
             'pt_BR' : 'Problemas ao atualizar a zona',
             'da_DK' : 'Problemer med at opdatere hotspot zone'
             },
@@ -219,6 +219,7 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'ms_MY' : 'Sedang memuat-naik, sila tunggu',
             'nl_NL' : 'Bezig met opslaan - een moment',
             'id_ID' : 'Mengupload, Silahkan tunggu',
+            'th_TH' : 'กำลังอัพโหลด กรุณารอ',
             'pt_BR' : 'Fazendo upload, por favor aguarde',
             'da_DK' : 'Uploader, vent venligst...'
         },

@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserRights"]){ //_hasResource checks added b
             'ms_MY' : 'Alih keadaan yang terpilih',
             'nl_NL' : 'Wijzig status van selectie',
             'id_ID' : 'Toggle state yang terpilih',
-            'th_TH' : 'เปลี่ยนสถานะของที่เลือกกลับไป-มา',
+            'th_TH' : 'เปลี่ยนสถานะที่เลือกกลับไป-มา',
             'pt_BR' : 'Alternar estado da seleção',
             'da_DK' : 'Skift tilstand for det valgte'
            },
@@ -102,7 +102,7 @@ if(!dojo._hasResource["translations.UserRights"]){ //_hasResource checks added b
             'ms_MY' : 'Alih Hak Pengguna',
             'nl_NL' : 'Wijzig gebruikersrechten',
             'id_ID' : 'Toggle hak AP',
-            'th_TH' : 'เปลี่ยนสิทธิผู้ใช้กลับไป-มา',
+            'th_TH' : 'เปลี่ยนสิทธิ์ผู้ใช้กลับไป-มา',
             'pt_BR' : 'Alternar Permissão do Usuário',
             'da_DK' : 'Skift brugerrettighed til/fra'
            },

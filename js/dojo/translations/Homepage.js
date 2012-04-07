@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'ms_MY' : 'Anda boleh menutup tab maklumbalas pada bila-bila masa supaya tidak kelihatan padat.',
             'nl_NL' : 'Om overzicht te houden, kunt u tabbladen sluiten.',
             'id_ID' : 'Anda selalu bisa menutup umpan balik jika ingin membuatnya sederhana',
-            'th_TH' : 'คุณสามารถปิดแท็บความคิดเห็นเพื่อการใช้งานที่สะดวกขึ้น',
+            'th_TH' : 'คุณสามารถปิดแท็บที่แสดงบนหน้าจอเพื่อการใช้งานที่สะดวกขึ้น',
             'pt_BR' : 'Você pode sempre fechar a aba de detalhes para simplificar a visualização.',
             'da_DK' : 'For at forenkle skærmbilledet kan du altid lukke fanerne med tilbagemeldinger.'
         }

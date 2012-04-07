@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },

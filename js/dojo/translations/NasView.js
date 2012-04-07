@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Maklumat Perlu',
             'nl_NL' : 'Verplichte gegevens',
             'id_ID' : 'Info Compulsory',
-            'th_TH' : 'ข้อมูลเชิงบังคับ',
+            'th_TH' : 'ข้อมูลที่จำเป็น',
             'pt_BR' : 'Informação Obrigatória',
             'da_DK' : 'Obligatoriske oplysninger'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Secret',
             'nl_NL' : 'Sleutel',
             'id_ID' : 'Secret',
-            'th_TH' : 'ความลับ',
+            'th_TH' : 'Secret',
             'pt_BR' : 'Chave Secreta',
             'da_DK' : 'Hemmelig'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Tersedia hanya untuk',
             'nl_NL' : 'Alleen beschikbaar voor',
             'id_ID' : 'Hanya tersedia untuk',
-            'th_TH' : 'สามารถใช้ได้กับ',
+            'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
             'da_DK' : 'Kun til rådighed for'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Berjaya mengubah data perlu NAS',
             'nl_NL' : 'Verplichte NAS-gegegevens gewijzigd',
             'id_ID' : 'Data compulsory NAS sudah terupdate',
-            'th_TH' : 'ปรับข้อมูลเชิงบังคับของอุปกรณ์ NAS',
+            'th_TH' : 'ปรับปรุงข้อมูลที่จำเป็นของอุปกรณ์ NAS',
             'pt_BR' : 'Dados obrigatórios do NAS atualizados',
             'da_DK' : 'NAS enhedens obligatoriske oplysninger er opdateret'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Gagal mengubah data perlu NAS',
             'nl_NL' : 'Verplichte NAS-gegegevens wijzigen mislukt ',
             'id_ID' : 'Bermasalah dalam mengupdate Data compulsory',
-            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลเชิงบังคับ',
+            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลที่จำเป็น',
             'pt_BR' : 'Problemas ao atualizar dados obrigatórios',
             'da_DK' : 'Problemer med at opdatere de obligatoriske indstillinger'
            },
@@ -423,7 +423,7 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Hidup',
             'nl_NL' : 'Beschikbaar',
             'id_ID' : 'Up',
-            'th_TH' : 'ขึ้น',
+            'th_TH' : 'Up',
             'pt_BR' : 'Para cima',
             'da_DK' : 'Oppe'
            },
@@ -435,9 +435,15 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'ms_MY' : 'Mati',
             'nl_NL' : 'Niet beschikbaar',
             'id_ID' : 'Down',
-            'th_TH' : 'ลง',
+            'th_TH' : 'Down',
             'pt_BR' : 'Para baixo',
             'da_DK' : 'Nede'
+           }
+        'Photo':{
+            'th_TH' : 'รูปภาพ'
+           }
+        'Actions':{
+            'th_TH' : 'คำสั่ง'
            }
     };
 

@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profile',
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'ms_MY' : 'Dicipta',
             'nl_NL' : 'Aangemaakt',
             'id_ID' : 'Dibuat',
-            'th_TH' : 'สร้าง',
+            'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
             'da_DK' : 'Oprettet'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'ms_MY' : 'baru',
             'nl_NL' : 'nieuw',
             'id_ID' : 'Baru',
-            'th_TH' : 'ใหม่',
+            'th_TH' : 'สร้างใหม่',
             'pt_BR' : 'novo',
             'da_DK' : 'ny'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'ms_MY' : 'diguna',
             'nl_NL' : 'verbruikt',
             'id_ID' : 'terpakai',
-            'th_TH' : 'ใช้แล้ว',
+            'th_TH' : 'ใช้ไป',
             'pt_BR' : 'usado',
             'da_DK' : 'udnyttet'
            },

@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'ms_MY' : 'Segarkan setiap',
             'nl_NL' : 'Ververs elke',
             'id_ID' : 'Refresh tiap',
-            'th_TH' : 'รีเฟรชทุกๆ',
+            'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Forny hver'
            },
@@ -41,7 +41,7 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'SSID',
             'th_TH' : 'SSID',
             'pt_BR' : 'SSID',
-            'da_DK' : 'SSID
+            'da_DK' : 'SSID'
            },
         'MAC': { 
             'de_DE' : 'MAC',
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'ms_MY' : 'Kali Terakhir Kelihatan',
             'nl_NL' : 'Laatste keer gezien',
             'id_ID' : 'Terakhir terlihat',
-            'th_TH' : 'เห็นครั้งสุดท้าย',
+            'th_TH' : 'เห็นครั้งล่าสุด',
             'pt_BR' : 'Visto pela última vez',
             'da_DK' : 'Sidst set'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'ms_MY' : 'Klien Wayarles',
             'nl_NL' : 'Draadloze clients',
             'id_ID' : 'Client Wireless',
-            'th_TH' : 'ผู้ใช้ระบบวิทยุ',
+            'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter'
            }

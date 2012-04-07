@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Pengesahan gagal',
             'nl_NL' : 'Aanmelden mislukt',
             'id_ID' : 'Authentikasi gagal',
-            'th_TH' : 'ไม่สามารถรับรองความถูกต้อง',
+            'th_TH' : 'การยืนยันตัวตนล้มเหลว',
             'pt_BR' : 'Falha na Autenticação',
             'da_DK' : 'Godkendelse slået fejl'
            },
@@ -75,6 +75,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Sedang bekerja - Sila tunggu',
             'nl_NL' : 'Bezig - een moment...',
             'id_ID' : 'Sedang bekerja - Silahkan tunggu',
+            'th_TH' : 'กำลังทำงาน - โปรดรอ',
             'pt_BR' : 'Trabalhando - Por favor aguarde',
             'da_DK' : 'Arbejder - vent venligst'
         },
@@ -86,6 +87,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Bukan Hotspot',
             'nl_NL' : 'Geen hotspot',
             'id_ID' : 'Bukan hotspot',
+            'th_TH' : 'ไม่มี hotspot',
             'pt_BR' : 'Não é um Hotspot',
             'da_DK' : 'Ikke et hotspot'
         },
@@ -97,6 +99,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Maklumbalas dalam pop-up',
             'nl_NL' : 'Feedback in pop-up',
             'id_ID' : 'Feed back di Pop Up',
+            'th_TH' : 'แสดงหน้าต่าง Pop Up',
             'pt_BR' : 'Resultados em um popup',
             'da_DK' : 'Tilbagemelding i pop-op'
         },
@@ -108,6 +111,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Penggunaan',
             'nl_NL' : 'Verbruik',
             'id_ID' : 'Pemakaian',
+            'th_TH' : 'ใช้งาน',
             'pt_BR' : 'Uso',
             'da_DK' : 'Brug'
         },
@@ -119,6 +123,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Statistik',
             'nl_NL' : 'Statistieken',
             'id_ID' : 'Statistik',
+            'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
             'da_DK' : 'Statistik'
         },
@@ -130,6 +135,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Masa Digunakan',
             'nl_NL' : 'Verbruikte tijd',
             'id_ID' : 'Waktu terpakai',
+            'th_TH' : 'เวลาที่ใช้ไป',
             'pt_BR' : 'Tempo de Uso',
             'da_DK' : 'Tid udnyttet'
         },
@@ -141,6 +147,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Data Digunakan',
             'nl_NL' : 'Verbruikte data',
             'id_ID' : 'Data terpakai',
+            'th_TH' : 'ข้อมูลที่ใช้ไป',
             'pt_BR' : 'Dados Usados',
             'da_DK' : 'Datamængde udnyttet'
         },
@@ -152,6 +159,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Digunakan',
             'nl_NL' : 'Verbruikt',
             'id_ID' : 'Terpakai',
+            'th_TH' : 'ใช้ไป',
             'pt_BR' : 'Usado',
             'da_DK' : 'Benyttet'
         },
@@ -163,6 +171,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tersedia',
             'nl_NL' : 'Beschikbaar',
             'id_ID' : 'Tersedia',
+            'th_TH' : 'คงเหลือใช้ได้',
             'pt_BR' : 'Disponível',
             'da_DK' : 'Tilgængelig'
         },
@@ -174,6 +183,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Adakah anda pasti untuk memutuskan sambungan',
             'nl_NL' : 'Weet u zeker dat u de verbinding wilt verbreken',
             'id_ID' : 'Apa anda yakin anda akan memutuskan koneksi',
+            'th_TH' : 'คุณแน่ใจหรือไม่ที่จะตัดการเชื่อมต่อ?',
             'pt_BR' : 'Você está certo de que deseja desconectar',
             'da_DK' : 'Er du sikker på du ønsker at afbryde'
         },
@@ -185,6 +195,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Bersambung',
             'nl_NL' : 'Verbonden',
             'id_ID' : 'Tersambung',
+            'th_TH' : 'เชื่อมต่อแล้ว',
             'pt_BR' : 'Conectado',
             'da_DK' : 'Tilsluttet'
         },
@@ -196,6 +207,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'ID sesi',
             'nl_NL' : 'Sessie-ID',
             'id_ID' : 'ID sesi',
+            'th_TH' : 'หมายเลข Session',
             'pt_BR' : 'ID da Sessão',
             'da_DK' : 'Forbindelses ID'
         },
@@ -207,6 +219,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tidak tersedia',
             'nl_NL' : 'Niet beschikbaar',
             'id_ID' : 'Tidak tersedia',
+            'th_TH' : 'ใช้งานไม่ได้',
             'pt_BR' : 'Não disponível',
             'da_DK' : 'Ikke tilgængelig'
         },
@@ -218,6 +231,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tempoh Sesi Tertinggi',
             'nl_NL' : 'Max. sessieduur',
             'id_ID' : 'Sesi waktu maksimal',
+            'th_TH' : 'เวลาสูงสุดที่ใช้งานได้ต่อครั้ง',
             'pt_BR' : 'Tempo Máximo da Sessão',
             'da_DK' : 'Maksimal tilsluttet tid'
         },
@@ -229,6 +243,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'tidak terhad',
             'nl_NL' : 'onbeperkt',
             'id_ID' : 'Tak terbatas',
+            'th_TH' : 'ไม่จำกัด',
             'pt_BR' : 'Ilimitado',
             'da_DK' : 'ubegrænset'
         },
@@ -240,6 +255,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tempoh Diam Tertinggi',
             'nl_NL' : 'Max. idle-duur',
             'id_ID' : 'Waktu Maximum idle',
+            'th_TH' : 'เวลาปล่อยว่างสูงสุด',
             'pt_BR' : 'Tempo Máximo de Inatividade',
             'da_DK' : 'Maksimal inaktiv periode'
         },
@@ -251,6 +267,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Masa Mula',
             'nl_NL' : 'Begintijd',
             'id_ID' : 'Waktu Mulai',
+            'th_TH' : 'เวลาเริ่มต้น',
             'pt_BR' : 'Hora de Início',
             'da_DK' : 'Starttid'
         },
@@ -262,6 +279,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tempoh Sesi',
             'nl_NL' : 'Sessieduur',
             'id_ID' : 'Sesi',
+            'th_TH' : 'เวลาใช้งาน',
             'pt_BR' : 'Tempo da Sessão',
             'da_DK' : 'Tid tilsluttet'
         },
@@ -273,6 +291,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Tempoh Diam',
             'nl_NL' : 'Idle-duur',
             'id_ID' : 'Waktu Idle',
+            'th_TH' : 'เวลาปล่อยว่าง',
             'pt_BR' : 'Tempo de Inatividade',
             'da_DK' : 'Inaktiv periode'
         },
@@ -284,6 +303,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Dimuat-turun',
             'nl_NL' : 'Gedownload',
             'id_ID' : 'Di Download',
+            'th_TH' : 'ดาวน์โหลด',
             'pt_BR' : 'Download realizado',
             'da_DK' : 'Hentet'
         },
@@ -295,6 +315,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Dimuat-naik',
             'nl_NL' : 'Geupload',
             'id_ID' : 'Di Upload',
+            'th_TH' : 'อัพโหลด',
             'pt_BR' : 'Upload Realizado',
             'da_DK' : 'Sendt'
         },
@@ -306,6 +327,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'URL Asal',
             'nl_NL' : 'Oorspronkelijke URL',
             'id_ID' : 'URL asli',
+            'th_TH' : 'URL เริ่มใช้',
             'pt_BR' : 'URL Original',
             'da_DK' : 'Original URL'
         },
@@ -317,6 +339,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'keluar',
             'nl_NL' : 'Uitloggen',
             'id_ID' : 'Keluar',
+            'th_TH' : 'ออกจากระบบ',
             'pt_BR' : 'Efetuar logout',
             'da_DK' : 'log ud'
         },
@@ -328,6 +351,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Sambung',
             'nl_NL' : 'Verbinden',
             'id_ID' : 'Sambung',
+            'th_TH' : 'เชื่อมต่อ',
             'pt_BR' : 'Conectar',
             'da_DK' : 'Opret forbindelse'
         },
@@ -339,6 +363,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Putus',
             'nl_NL' : 'Verbinding verbreken',
             'id_ID' : 'Putuskan',
+            'th_TH' : 'ตัดการเชื่อมต่อ',
             'pt_BR' : 'Desconectar',
             'da_DK' : 'Afbryd forbindelse'
         },
@@ -350,6 +375,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Sedang log-masuk - Sila tunggu',
             'nl_NL' : 'Inloggen - een moment...',
             'id_ID' : 'Login - Silahkan tunggu',
+            'th_TH' : 'กำลังเข้าสู่ระบบ - กรุณารอ',
             'pt_BR' : 'Efetuando o Login - Por favor aguarde',
             'da_DK' : 'Logger ind - vent venligst'
         },
@@ -361,6 +387,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Bait',
             'nl_NL' : 'Bytes',
             'id_ID' : 'Bytes',
+            'th_TH' : 'ไบต์',
             'pt_BR' : 'Bytes',
             'da_DK' : 'Bytes'
         },
@@ -372,6 +399,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Kilobait',
             'nl_NL' : 'Kilobytes',
             'id_ID' : 'Kilobytes',
+            'th_TH' : 'กิโลไบต์',
             'pt_BR' : 'Kilobytes',
             'da_DK' : 'Kilobytes'
         },
@@ -383,6 +411,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Megabait',
             'nl_NL' : 'Megabytes',
             'id_ID' : 'Megabytes',
+            'th_TH' : 'เมกะไบต์',
             'pt_BR' : 'Megabytes',
             'da_DK' : 'Megabytes'
         },
@@ -394,6 +423,7 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'ms_MY' : 'Gigabait',
             'nl_NL' : 'Gigabytes',
             'id_ID' : 'Gigabytes',
+            'th_TH' : 'กิกะไบต์',
             'pt_BR' : 'Gigabytes',
             'da_DK' : 'Gigabytes'
         }

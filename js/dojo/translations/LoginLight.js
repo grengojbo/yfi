@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'ms_MY' : 'Pengesahan Gagal',
             'nl_NL' : 'Aanmelden mislukt',
             'id_ID' : 'Autentikasi Gagal',
-            'th_TH' : 'ไม่สามารถรับรองความถูกต้อง',
+            'th_TH' : 'การยืนยันตัวตนล้มเหลว',
             'pt_BR' : 'Falha na Autenticação',
             'da_DK' : 'Godkendelse slået fejl'
            }

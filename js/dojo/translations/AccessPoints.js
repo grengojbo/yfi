@@ -62,7 +62,7 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'ms_MY' : 'Segarkan setiap',
             'nl_NL' : 'Ververs elke',
             'id_ID' : 'Refresh tiap',
-            'th_TH' : 'รีเฟรชทุกๆ',
+            'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Genindlæs'
            },
@@ -98,7 +98,7 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'ms_MY' : 'Klien Wayarles',
             'nl_NL' : 'Draadloze clients',
             'id_ID' : 'Client Wireless',
-            'th_TH' : 'ผู้ใช้ระบบวิทยุ',
+            'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter'
            },
@@ -170,7 +170,7 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'ms_MY' : 'Pusat Akses',
             'nl_NL' : 'Translate me',
             'id_ID' : 'Akses Point',
-            'th_TH' : 'จุดแอคเซส',
+            'th_TH' : 'Access Point',
             'pt_BR' : 'Ponto de Acesso',
             'da_DK' : 'Access points'
            }

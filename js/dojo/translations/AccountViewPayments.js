@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah',
             'nl_NL' : 'Totaal',
             'id_ID' : 'Total',
-            'th_TH' : 'รวม',
+            'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
             'da_DK' : 'I alt'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah Invois',
             'nl_NL' : 'Totaal van facturen',
             'id_ID' : 'Jumlah Tagihan',
-            'th_TH' : 'ผลรวมใบกำกับสินค้า/ใบแจ้งหนี้',
+            'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
             'da_DK' : 'Samlet opgørelse'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah Bayaran',
             'nl_NL' : 'Totaal van betalingen',
             'id_ID' : 'Jumlah pembayaran',
-            'th_TH' : 'ผลรวมการชำระเงิน',
+            'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
             'da_DK' : 'Samlede betalinger'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Bayaran Baru',
             'nl_NL' : 'Nieuwe betaling',
             'id_ID' : 'Pembayaran baru',
-            'th_TH' : 'การชำระเงินใหม่',
+            'th_TH' : 'เพิ่มการชำระเงิน',
             'pt_BR' : 'Novo Pagamento',
             'da_DK' : 'Ny betaling'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Berjaya menambah Bayaran baru',
             'nl_NL' : 'Nieuwe betaling(en) toegevoegd',
             'id_ID' : 'Pembayaran telah ditambahkan',
-            'th_TH' : 'การชำระเงินใหม่ถูกเพิ่มแล้ว',
+            'th_TH' : 'เพิ่มการชำระเงินแล้ว',
             'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)',
             'da_DK' : 'Ny betaling tilføjet'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Hantar e-mel kepada pengguna',
             'nl_NL' : 'Stuur e-mail naar gebruiker',
             'id_ID' : 'Kirim email ke User',
-            'th_TH' : 'ส่งอีเมล์หาผู้ใช้',
+            'th_TH' : 'ส่งอีเมลหาผู้ใช้',
             'pt_BR' : 'Enviar email ao usuário',
             'da_DK' : 'Send e-mail til bruger'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Berjaya menghantar e-mel',
             'nl_NL' : 'E-mail succesvol verzonden',
             'id_ID' : 'Pengiriman email berhasil',
-            'th_TH' : 'ส่งอีเมล์เรียบร้อย',
+            'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!'
            },
@@ -231,7 +231,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Gagal menambah Bayaran baru',
             'nl_NL' : 'Nieuwe betalingen toevoegen mislukt',
             'id_ID' : 'Bermasalah dalam penambhana pembayaran baru',
-            'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงินใหม่',
+            'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงิน',
             'pt_BR' : 'Problemas ao adicionar novos pagamentos',
             'da_DK' : 'Problemer med at tilføje nye betalinger'
            }

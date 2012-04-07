@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Saiz',
             'nl_NL' : 'Grootte',
             'id_ID' : 'Jumlah',
-            'th_TH' : 'ขนาด',
+            'th_TH' : 'จำนวน',
             'pt_BR' : 'Tamanho',
             'da_DK' : 'Størrelse'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Dicipta',
             'nl_NL' : 'Aangemaakt',
             'id_ID' : 'Dibuat',
-            'th_TH' : 'สร้าง',
+            'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
             'da_DK' : 'Dannet'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Nama Pukal',
             'nl_NL' : 'Bundelnaam',
             'id_ID' : 'Nama batches',
-            'th_TH' : 'ชื่อชุด/รุ่น',
+            'th_TH' : 'ชื่อชุดคูปอง',
             'pt_BR' : 'Nome do Lote',
             'da_DK' : 'Navn på parti'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Baucer Pukal yang baru',
             'nl_NL' : 'Nieuwe bundel coupons',
             'id_ID' : 'Batch baru untuk voucher',
-            'th_TH' : 'ชื่อชุด/รุ่นของคูปอง',
+            'th_TH' : 'การเพิ่มชุดคูปอง',
             'pt_BR' : 'Novo Lote de Vales',
             'da_DK' : 'Nyt parti af adgangskort'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Saiz Pukal',
             'nl_NL' : 'Bundelgrootte',
             'id_ID' : 'Ukuran batch',
-            'th_TH' : 'ขนาดชุด/รุ่น',
+            'th_TH' : 'จำนวน',
             'pt_BR' : 'Tamanho do Lote',
             'da_DK' : 'Partistørrelse'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil',
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'hari dari log-masuk pertama',
             'nl_NL' : 'dag vanaf de eerste inlog',
             'id_ID' : 'Hari setelah login',
-            'th_TH' : 'วัน นับจากการเข้าระบบครั้งแรก',
+            'th_TH' : 'วัน นับจากเริ่มเข้าใช้งาน',
             'pt_BR' : 'dia desde o primeiro login',
             'da_DK' : 'Dag fra første log-in'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'hari dari log-masuk pertama',
             'nl_NL' : 'dagen vanaf de eerste inlog',
             'id_ID' : 'Hari setelah login',
-            'th_TH' : 'วัน นับจากการเข้าระบบครั้งแรก',
+            'th_TH' : 'วัน นับจากเริ่มเข้าใช้งาน',
             'pt_BR' : 'dias desde o primeiro login',
             'da_DK' : 'Dage fra første log-in'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Berjaya mencipta Pukal baru',
             'nl_NL' : 'Nieuwe bundel succesvol aangemaakt',
             'id_ID' : 'Pembuatan bacth berhasil',
-            'th_TH' : 'ชุด/รุ่นใหม่ถูกสร้างเรียบร้อยแล้ว',
+            'th_TH' : 'สร้างชุดคูปองเรียบร้อยแล้ว',
             'pt_BR' : 'Novo lote criado OK',
             'da_DK' : 'Nyt parti adgangskort oprettet!'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Gagal mencipta Pukal baru',
             'nl_NL' : 'Nieuwe bundel aanmaken mislukt',
             'id_ID' : 'bermasalah dalam pembuatan bacth',
-            'th_TH' : 'มีปัญหาในการสร้างชุด/รุ่นใหม่',
+            'th_TH' : 'มีปัญหาในการสร้างชุดคูปอง',
             'pt_BR' : 'Problemas ao criar lote',
             'da_DK' : 'Problemer med at oprette et parti adgangskort'
            },
@@ -255,7 +255,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Membuang Pukal',
             'nl_NL' : 'Verwijder bundels',
             'id_ID' : 'Hapus batch',
-            'th_TH' : 'กำลังเอาชุด/รุ่นออก',
+            'th_TH' : 'ลบชุดคูปอง',
             'pt_BR' : 'Removendo Lotes',
             'da_DK' : 'Sletter partier af adgangskort'
            },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'ms_MY' : 'Berjaya membuang Pukal',
             'nl_NL' : 'Bundel(s) succesvol verwijderd',
             'id_ID' : 'Hapus batch berhasil',
-            'th_TH' : 'ชุด/รุ่นถูกเอาออกเรียบร้อยแล้ว',
+            'th_TH' : 'ลบชุดคูปองออกเรียบร้อยแล้ว',
             'pt_BR' : 'Lote(s) Removido(s) OK',
             'da_DK' : 'Parti(er) slettet!'
            },

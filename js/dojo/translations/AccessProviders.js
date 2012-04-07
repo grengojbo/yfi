@@ -1,5 +1,3 @@
-﻿
-
 if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AccessProviders"] = true;
     dojo.provide("translations.AccessProviders");
@@ -15,7 +13,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Senaraikan Semula',
             'nl_NL' : 'Ververs lijst',
             'id_ID' : 'Refresh Daftar',
-            'th_TH' : 'เรียกลิสต์มาดูใหม่',
+            'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Recarregar Lista',
             'da_DK' : 'Genindlæs liste'
            },
@@ -111,7 +109,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Telefon',
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telpon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },
@@ -123,7 +121,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'E-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mailadresse'
             },
@@ -135,7 +133,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Aktif',
             'nl_NL' : 'Actief',
             'id_ID' : 'Aktif',
-            'th_TH' : 'ที่กำลังทำงานอยู่',
+            'th_TH' : 'ทำงาน',
             'pt_BR' : 'Ativo',
             'da_DK' : 'Aktive'
             },
@@ -147,7 +145,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locaties',
             'id_ID' : 'Realms',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
             },
@@ -171,7 +169,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Tambah Pembekal Akses',
             'nl_NL' : 'Nieuwe leverancier',
             'id_ID' : 'Tambah Penyedia Akses',
-            'th_TH' : 'เพิ่มผู้ให้บริการแอคเซส',
+            'th_TH' : 'เพิ่มผู้บริหารการเข้าใช้',
             'pt_BR' : 'Adicionar Provedor de Acesso',
             'da_DK' : 'Tilføj udbyder'
             },
@@ -207,7 +205,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'email',
             'da_DK' : 'E-mail'
             },
@@ -231,7 +229,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
             },
@@ -243,7 +241,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Berjaya menambah Pembekal Akses',
             'nl_NL' : 'Leverancier succesvol toegevoegd',
             'id_ID' : 'Penambahan Penyedia Akses OK',
-            'th_TH' : 'เพิ่ม ผู้ให้บริการการเข้าใช้ เรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มผู้บริหารการเข้าใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Provedor de Acesso adicionado OK',
             'da_DK' : 'Udbyder tilføjet!'
             },
@@ -255,7 +253,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'MY_MY' : 'Gagal menambah Pembekal Akses',
             'nl_NL' : 'Leverancier toevoegen mislukt',
             'id_ID' : 'Penambahan Penyedia Akses bermasalah',
-            'th_TH' : 'มีปัญหาในการเพิ่มผู้ให้บริการการเข้าใช้',
+            'th_TH' : 'มีปัญหาในการเพิ่มผู้บริหารการเข้าใช้',
             'pt_BR' : 'Problemas ao adicionar o Provedor de Acesso',
             'da_DK' : 'Problemer med at tilføje udbyder'
             },
@@ -279,7 +277,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Memadam Pembekal Akses',
             'nl_NL' : 'Leverancier verwijderen',
             'id_ID' : 'Menghapus penyedia Akses',
-            'th_TH' : 'กำลังลบผู้ให้บริการการเข้าใช้',
+            'th_TH' : 'ลบผู้บริหารการเข้าใช้',
             'pt_BR' : 'Deletando Provedores de Acesso',
             'da_DK' : 'Sletter udbyder'
             },
@@ -315,6 +313,7 @@ if(!dojo._hasResource["translations.AccessProviders"]){ //_hasResource checks ad
             'ms_MY' : 'Penukaran Katalaluan terpilih dihadkan kepada satu',
             'nl_NL' : 'Het wachtwoord dient per gebruiker gewijzigd te worden',
             'id_ID' : 'Penggantian kata sandi dibatasi satu',
+			'th_TH' : 'เปลี่ยนรหัสผ่านได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'A alteração da senha deve ser feita por usuário',
             'da_DK' : 'Kun en adgangskode af gangen kan ændres'
             },

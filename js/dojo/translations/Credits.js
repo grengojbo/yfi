@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Kb',
             'nl_NL' : 'Kb',
             'id_ID' : 'Kb',
-            'th_TH' : 'กิโลบิท',
+            'th_TH' : 'กิโลบิต',
             'pt_BR' : 'Kb',
             'da_DK' : 'Kb'
            },
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Mb',
             'nl_NL' : 'Mb',
             'id_ID' : 'Mb',
-            'th_TH' : 'เมกะบิท',
+            'th_TH' : 'เมกะบิต',
             'pt_BR' : 'Mb',
             'da_DK' : 'MB'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Gb',
             'nl_NL' : 'Gb',
             'id_ID' : 'Gb',
-            'th_TH' : 'กิกะบิท',
+            'th_TH' : 'กิกะบิต',
             'pt_BR' : 'Gb',
             'da_DK' : 'Gb'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Realm',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Dilampirkan Ke',
             'nl_NL' : 'Toegevoegd aan',
             'id_ID' : 'Ditujukan ke',
-            'th_TH' : 'แนบไปกับ',
+            'th_TH' : 'เติมให้กับ',
             'pt_BR' : 'Anexado à',
             'da_DK' : 'Vedhæft til'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Tambah Kredit Internet',
             'nl_NL' : 'Internetkrediet toevoegen',
             'id_ID' : 'Tambah Kredit Internet',
-            'th_TH' : 'เพิ่มเครดิตอินเตอร์เนต',
+            'th_TH' : 'เพิ่มเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Adicionar Crédito de Internet',
             'da_DK' : 'Tilføj Internet kredit'
            },
@@ -243,7 +243,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -255,7 +255,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Berjaya menambah Kredit Internet',
             'nl_NL' : 'Internetkrediet toegevoegd',
             'id_ID' : 'Penambahan Credit Internet berhasil',
-            'th_TH' : 'เพิ่มเครดิตอินเตอร์เนตเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มเครดิตอินเตอร์เน็ตเรียบร้อยแล้ว',
             'pt_BR' : 'Crédito de Internet adicionado OK',
             'da_DK' : 'Internet kredit tilføjet!'
             },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Gagal menambah Kredit Internet',
             'nl_NL' : 'Internetkrediet toevoegen mislukt',
             'id_ID' : 'Penambahan Credit Internet bermasalah',
-            'th_TH' : 'มีปัญหาในการเพิ่มเครดิตอินเตอร์เนต',
+            'th_TH' : 'มีปัญหาในการเพิ่มเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Problemas ao adicionar Créditos de Internet',
             'da_DK' : 'Problemer med at vedhæfte Internet kredit'
            },
@@ -279,7 +279,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Perubahan Kredit Internet dihadkan kepada satu',
             'nl_NL' : 'Selecteer max. 1 Internetkrediet',
             'id_ID' : 'Edit Credit Internet dibatasi satu',
-            'th_TH' : 'แก้ไขอินเตอร์เน็ตเครดิตได้ทีละหนึ่ง',
+            'th_TH' : 'แก้ไขเครดิตอินเตอร์เน็ตได้ทีละหนึ่งรายการ',
             'pt_BR' : 'Edição do Crédito de Internet limitado à um',
             'da_DK' : 'Kun én Internet kredit kan redigeres af gangen'
         },
@@ -303,7 +303,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Pelampiran Kredit Internet dihadkan kepada satu',
             'nl_NL' : 'Selecteer max. 1 internetkrediet',
             'id_ID' : 'Pelampiran Credit Internet dibatasi satu',
-            'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิตได้ทีละหนึ่ง',
+            'th_TH' : 'เติมเครดิตอินเตอร์เน็ตได้ทีละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Anexar o Crédito de Internet limitado à um',
             'da_DK' : 'Kun én Internet kredit kan vedhæftes'
         },
@@ -315,7 +315,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Ubah Kredit Internet',
             'nl_NL' : 'Wijzig internetkrediet',
             'id_ID' : 'Edit Credit Internet',
-            'th_TH' : 'แก้ไขอินเตอร์เน็ตเครดิต',
+            'th_TH' : 'แก้ไขเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Editar Crédito de Internet',
             'da_DK' : 'Redigér Internet kredit'
            },
@@ -327,7 +327,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Berjaya melampirkan Kredit Internet',
             'nl_NL' : 'Internetkrediet toegevoegd',
             'id_ID' : 'Pelampiran Credit Internet Berhasil',
-            'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิตเรียบร้อยแล้ว',
+            'th_TH' : 'เติมเครดิตอินเตอร์เน็ตเรียบร้อยแล้ว',
             'pt_BR' : 'Crédito de Internet anexado OK',
             'da_DK' : 'Internet kredit vedhæftet!'
            },
@@ -339,7 +339,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Gagal melampirkan Kredit Internet',
             'nl_NL' : 'Internetkrediet toevoegen mislukt',
             'id_ID' : 'Pelampiran Credit Internet Bermasalah',
-            'th_TH' : 'มีปัญหาในการผูกติดอินเตอร์เน็ตเครดิต',
+            'th_TH' : 'มีปัญหาในการเติมเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Problemas ao adicionar Crédito de Internet',
             'da_DK' : 'Problemer med at vedhæfte Internet kredit'
            },
@@ -351,7 +351,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Lampirkan Kredit Internet',
             'nl_NL' : 'Internetkrediet toevoegen',
             'id_ID' : 'Melampirkan Credit Internet',
-            'th_TH' : 'ผูกติดอินเตอร์เน็ตเครดิต',
+            'th_TH' : 'เติมเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Anexar Crédito de Internet',
             'da_DK' : 'Vedhæft Internet kredit'
            },
@@ -375,7 +375,7 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'ms_MY' : 'Memadam Kredit Internet',
             'nl_NL' : 'Verwijder internetkrediet(en)',
             'id_ID' : 'Menghapus Credit Internet',
-            'th_TH' : 'กำลังลบอินเตอร์เน็ตเครดิต',
+            'th_TH' : 'ลบเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Deletando Crédito(s) de Internet',
             'da_DK' : 'Sletter Internet kredit(ter)'
            },

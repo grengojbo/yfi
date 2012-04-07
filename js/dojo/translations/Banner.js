@@ -64,7 +64,7 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'ms_MY' : 'Keluar',
             'nl_NL' : 'Uitloggen',
             'id_ID' : 'Keluar',
-            'th_TH' : 'ทางออก',
+            'th_TH' : 'ออกจากระบบ',
             'pt_BR' : 'Sair',
             'da_DK' : 'Afslut'
            },
@@ -100,7 +100,7 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -160,7 +160,7 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'ms_MY' : 'Log-keluar untuk mengaktifkan',
             'nl_NL' : 'Log uit om te activeren',
             'id_ID' : 'Log out untuk mengaktifkan',
-            'th_TH' : 'ออกจากระบบเพื่อกระตุ้นการทำงาน',
+            'th_TH' : 'ออกจากระบบเพื่อให้มีผล',
             'pt_BR' : 'Fazer o logout para ativar',
             'da_DK' : 'Log ud for at aktivere ændringer'
            }

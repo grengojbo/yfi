@@ -92,7 +92,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'ms_MY' : 'Kali Terakhir Kelihatan',
             'nl_NL' : 'Laatst gezien',
             'id_ID' : 'Terakhir terlihat',
-            'th_TH' : 'เห็นครั้งสุดท้าย',
+            'th_TH' : 'เห็นครั้งล่าสุด',
             'da_DK' : 'Sidst set'
            },
         'Known / Unknown': { 
@@ -136,7 +136,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'ms_MY' : 'Padam Alat Terdekat',
             'nl_NL' : 'Verwijder apparaten dichtbij',
             'id_ID' : 'Menghapus Perangkat Nearby',
-            'th_TH' : 'ลบอุปกรณ์ข้างเคียง',
+            'th_TH' : 'ลบ Nearby Device',
             'da_DK' : 'Slet enhed(er) i nærheden'
            },
         'Save': { 
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'da_DK' : 'Gem'
            },
         'Change State of Device(s)': { 

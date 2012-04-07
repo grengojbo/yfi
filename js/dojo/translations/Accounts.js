@@ -1,5 +1,3 @@
-﻿
-
 if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Accounts"] = true;
     dojo.provide("translations.Accounts");
@@ -51,7 +49,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -111,7 +109,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Dibayar',
             'nl_NL' : 'Betaald',
             'id_ID' : 'Telah Dibayar',
-            'th_TH' : 'จ่ายแล้ว',
+            'th_TH' : 'จ่ายเงิน',
             'pt_BR' : 'Pago',
             'da_DK' : 'Betalt'
            },
@@ -160,7 +158,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Padam Invois Terakhir',
             'nl_NL' : 'Verwijder laatste factuur',
             'id_ID' : 'Hapus tagihan terakhir',
-            'th_TH' : 'ลบใบกำกับสินค้า/ใบแจ้งหนี้/ใบแจ้งหนี้ครั้งสุดท้าย',
+            'th_TH' : 'ลบใบกำกับสินค้า/ใบแจ้งหนี้/ใบแจ้งหนี้ล่าสุด',
             'pt_BR' : 'Deletar Última Fatura',
             'da_DK' : 'Slet seneste opgørelse'
            },
@@ -172,7 +170,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Hantar e-mel kepada pengguna',
             'nl_NL' : 'Stuur e-mail naar gebruikers',
             'id_ID' : 'Kirim email ke User',
-            'th_TH' : 'ส่งอีเมล์ถึงผู้ใช้',
+            'th_TH' : 'ส่งอีเมลถึงผู้ใช้',
             'pt_BR' : 'Enviar email aos usuários',
             'da_DK' : 'Send e-mail til brugere'
            },
@@ -232,7 +230,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Berjaya menghantar e-mel',
             'nl_NL' : 'E-mail verzonden',
             'id_ID' : 'Pengiriman email berhasil',
-            'th_TH' : 'ส่งอีเมล์เรียบร้อย',
+            'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!'
            },
@@ -268,7 +266,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Berjaya menambah Bayaran baru',
             'nl_NL' : 'Nieuwe betaling(en) toegevoegd',
             'id_ID' : 'Pembayaran baru telah ditambahkan',
-            'th_TH' : 'การชำระเงินใหม่ถูกเพิ่มแล้ว',
+            'th_TH' : 'เพิ่มการชำระเงินแล้ว',
             'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)',
             'da_DK' : 'Ny(e) betaling(er) tilføjet'
            },
@@ -280,7 +278,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Gagal menambah Bayaran baru',
             'nl_NL' : 'Nieuwe betaling(en) toevoegen mislukt',
             'id_ID' : 'Ada permasalahan ketika penambahan pembayaran',
-            'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงินใหม่',
+            'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงิน',
             'pt_BR' : 'Problemas ao adicionar novos pagamentos',
             'da_DK' : 'Problemer med at registrere nye betalinger'
            },
@@ -304,7 +302,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -316,7 +314,7 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'ms_MY' : 'Cipta set Invois yang baru',
             'nl_NL' : 'Genereer nieuwe set facturen',
             'id_ID' : 'Buat tagihan baru',
-            'th_TH' : 'สร้างชุด/รุ่นของใบกำกับสินค้า/ใบแจ้งหนี้ชุดใหม่',
+            'th_TH' : 'สร้างชุดของใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Criar Novo Conjunto de Faturas',
             'da_DK' : 'Generér nyt sæt opgørelser'
            },

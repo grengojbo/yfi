@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Bilangan Atribut Reply',
             'nl_NL' : 'Aantal reply-eigenschappen',
             'id_ID' : 'Jumlah attribute reply',
-            'th_TH' : 'นับจำนวนการตอบกลับคุณลักษณะ',
+            'th_TH' : 'Reply Attribute Count',
             'pt_BR' : 'Reply Attibute Count',
             'da_DK' : 'Optæl Reply-attribut'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Bilangan Atribut Check',
             'nl_NL' : 'Aantal check-eigenschappen',
             'id_ID' : 'Jumlah check attribute',
-            'th_TH' : 'นับจำนวนการส่งตรวจคุณลักษณะ',
+            'th_TH' : 'Check Attribute Count',
             'pt_BR' : 'Check Attribute Count',
             'da_DK' : 'Optæl Check-attribut'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Tambah Acuan Profail',
             'nl_NL' : 'Nieuw profielsjabloon',
             'id_ID' : 'Tambahkan template profil',
-            'th_TH' : 'เพิ่มข้อมูลแม่แบบ',
+            'th_TH' : 'เพิ่มแม่แบบกลุ่มผู้ใช้',
             'pt_BR' : 'Adicionar Modelo de Perfil',
             'da_DK' : 'Tilføj profilskabelon'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Tersedia hanya untuk',
             'nl_NL' : 'Alleen beschikbaar voor',
             'id_ID' : 'Hanya tersedia untuk',
-            'th_TH' : 'สามารถใช้ได้กับ',
+            'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
             'da_DK' : 'Kun til rådighed for'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Berjaya menambah Acuan Profail',
             'nl_NL' : 'Profielsjabloon succesvol toegevoegd',
             'id_ID' : 'Penambahan Template Profil berhasil',
-            'th_TH' : 'เพิ่มข้อมูลแม่แบบเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มแม่แบบกลุ่มผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Modelo de Perfil adicionado OK',
             'da_DK' : 'Profilskabelon tilføjet!'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Gagal menambah Acuan Profail',
             'nl_NL' : 'Profielsjabloon toevoegen mislukt',
             'id_ID' : 'Penambahan Template Profil bermasalah',
-            'th_TH' : 'มีปัญหาในการเพิ่มข้อมูลแม่แบบ',
+            'th_TH' : 'มีปัญหาในการเพิ่มแม่แบบกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas ao adicionar Modelo de Perfil',
             'da_DK' : 'Problemer med at tilføje profilskabelon'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Gagal mencipta Pelan Pembayaran',
             'nl_NL' : 'Betaalplan toevoegen mislukt',
             'id_ID' : 'Pembuatan Rencana billing bermasalah',
-            'th_TH' : 'มีปัญหาในการสร้างแผนการเรียกเก็บเงิน',
+            'th_TH' : 'มีปัญหาในการเพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Problemas ao criar Plano de Bilhetagem',
             'da_DK' : 'Problemer med at oprette faktureringsplan'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Memadam Acuan',
             'nl_NL' : 'Sjablonen verwijderen',
             'id_ID' : 'Menghapus Template',
-            'th_TH' : 'กำลังลบแม่แบบ',
+            'th_TH' : 'ลบแม่แบบกลุ่มผู้ใช้',
             'pt_BR' : 'Deletando Modelos',
             'da_DK' : 'Sletter skabeloner...'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.Templates"]){ //_hasResource checks added by
             'ms_MY' : 'Gagal membuang Acuan',
             'nl_NL' : 'Sjablo(o)n(en) verwijderen mislukkt',
             'id_ID' : 'Bermasalah dalam Menghapus Template',
-            'th_TH' : 'มีปัญหาในการลบแม่แบบ',
+            'th_TH' : 'มีปัญหาในการลบแม่แบบกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas ao remover Perfil',
             'da_DK' : 'Problemer med at fjerne skabelon(er)'
            },

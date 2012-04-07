@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Langganan',	
             'nl_NL' : 'Abonnement',
             'id_ID' : 'Pendaftaran',
-            'th_TH' : 'สมัครสมาชิก',
+            'th_TH' : 'ค่าสมาชิก',
             'pt_BR' : 'Assinatura',
             'da_DK' : 'Abonnement'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Kadar/Bait',	
             'nl_NL' : 'Tarief/byte',
             'id_ID' : 'Biaya/Byte',
-            'th_TH' : 'อัตรา/ไบท์',
+            'th_TH' : 'อัตรา/ไบต์',
             'pt_BR' : 'Taxa/Byte',
             'da_DK' : 'Afgift/byte'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Cawangan',	
             'nl_NL' : 'Locaties',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Pelan Pembayaran baru',	
             'nl_NL' : 'Nieuw betaalplan',
             'id_ID' : 'Rencana billing baru',
-            'th_TH' : 'แผนการเรียกเก็บเงินใหม่',
+            'th_TH' : 'เพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Novo Plano de Bilhetagem',
             'da_DK' : 'Ny faktureringsoversigt'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Tersedia hanya untuk',	
             'nl_NL' : 'Alleen beschikbaar voor',
             'id_ID' : 'Tersedia hanya untuk',
-            'th_TH' : 'สามารถใช้ได้กับ',
+            'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
             'da_DK' : 'Kun til rådighed for'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Simpan',	
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Berjaya mencipta Pelan Pembayaran baru',	
             'nl_NL' : 'Nieuw betaalplan aangemaakt',
             'id_ID' : 'Buat rencana billing baru',
-            'th_TH' : 'สร้างแผนการเรียกเก็บเงินใหม่',
+            'th_TH' : 'เพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Novo Plano de Bilhetagem Criado',
             'da_DK' : 'Ny faktureringsoversigt oprettet!'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Gagal mencipta Pelan Pembayaran baru',	
             'nl_NL' : 'Nieuw betaalplan aanmaken mislukt',
             'id_ID' : 'Bermasalah dalam pembuatan rencana billing',
-            'th_TH' : 'มีปัญหาในการสร้างแผนการเรียกเก็บเงิน',
+            'th_TH' : 'มีปัญหาในการเพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Problemas ao criar Plano de Bilhetagem',
             'da_DK' : 'Problemer med at oprette faktureringsoversigt'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'ms_MY' : 'Memadam Pelan Pembayaran',	
             'nl_NL' : 'Verwijder betaalplan(nen)',
             'id_ID' : 'Hapus rencana billing',
-            'th_TH' : 'กำลังลบแผนการเรียกเก็บเงิน',
+            'th_TH' : 'ลบแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Deletando Plano(s) de Bilhetagem',
             'da_DK' : 'Slet faktureringsoversigt(er)'
            },

@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'ms_MY' : 'Padam rekod Aktiviti',
             'nl_NL' : 'Activiteitgegevens verwijderen',
             'id_ID' : 'Menghapus rekaman aktifitas',
-            'th_TH' : 'ลบบันทึกกิจกรรม',
+            'th_TH' : 'ลบบันทึกความเคลื่อนไหว',
             'pt_BR' : 'Deletar registro de Atividades',
             'da_DK' : 'Slet aktivitetsposteringer'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'ms_MY' : 'Berjaya memadam rekod Aktiviti',
             'nl_NL' : 'Activiteitgegevens succesvol verwijderd',
             'id_ID' : 'Menghapus rekaman aktifitas berhasil',
-            'th_TH' : 'ลบบันทึกกิจกรรมเสร็จสมบูรณ์',
+            'th_TH' : 'ลบบันทึกความเคลื่อนไหวเสร็จสมบูรณ์',
             'pt_BR' : 'Registro de Atividades deletado',
             'da_DK' : 'Aktivitetsposteringer slettet'
            }

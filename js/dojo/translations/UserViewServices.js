@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Jumlah',
             'nl_NL' : 'Bedrag',
             'id_ID' : 'Jumlah' , 
-            'th_TH' : 'จำนวน',
+            'th_TH' : 'ราคา',
             'pt_BR' : 'Quantia',
             'da_DK' : 'Mængde'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Tambah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst toevoegen',
             'id_ID' : 'Tambah service extra' , 
-            'th_TH' : 'เพิ่มบริการพิเศษ',
+            'th_TH' : 'เพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Adicionar Serviço Extra',
             'da_DK' : 'Tilføj ekstra tjeneste'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan' , 
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Berjaya menambah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst succesvol toegevoegd',
             'id_ID' : 'Penambahan service extra berhasil' , 
-            'th_TH' : 'เพิ่มบริการพิเศษเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço extra adicionado OK',
             'da_DK' : 'Ekstra tjeneste tilføjet!'
             },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Gagal menambah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst toevoegen mislukt',
             'id_ID' : 'Penambahan service extra bermasalah' , 
-            'th_TH' : 'มีปัญหาในการเพิ่มบริการพิเศษ',
+            'th_TH' : 'มีปัญหาในการเพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao adicionar serviço extra',
             'da_DK' : 'Problemer med at tilføje ekstra tjeneste'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Memadam Khidmat Tambahan',
             'nl_NL' : 'Extra dienst(en) verwijderen',
             'id_ID' : 'Menghapus service extra' , 
-            'th_TH' : 'กำลังลบบริการพิเศษ',
+            'th_TH' : 'ลบบริการเพิ่มเติม',
             'pt_BR' : 'Deletar Serviço(s) Extra(s)',
             'da_DK' : 'Sletter ekstra tjenester'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Perubahan Khidmat Tambahan dihadkan kepada satu',
             'nl_NL' : 'U kunt slecht een extra dienst per keer wijzigen',
             'id_ID' : 'Edit service extra dibatasi satu' , 
-            'th_TH' : 'แก้ไขการให้บริการพิเศษจำกัดได้ทีละหนึ่ง',
+            'th_TH' : 'แก้ไขการให้บริการเพิ่มเติมได้ทีละรายการเท่านั้น',
             'pt_BR' : 'Edição do Serviço Extra é limitado a um',
             'da_DK' : 'Kun én ekstra tjeneste kan redigeres af gangen'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Ubah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst wijzigen',
             'id_ID' : 'Edit service extra' , 
-            'th_TH' : 'แก้ไขบริการพิเศษ',
+            'th_TH' : 'แก้ไขบริการเพิ่มเติม',
             'pt_BR' : 'Editar Serviço Extra',
             'da_DK' : 'Redigér ekstra tjenester'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Berjaya mengubah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst succesvol gewijzigd',
             'id_ID' : 'Update service extra berhasil' , 
-            'th_TH' : 'ปรับปรุงบริการพิเศษเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço Extra atualizado OK',
             'da_DK' : 'Ekstra tjenester opdateret!'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'ms_MY' : 'Gagal mengubah Khidmat Tambahan',
             'nl_NL' : 'Extra dienst wijzigen mislukt',
             'id_ID' : 'Update service extra bermasalah' , 
-            'th_TH' : 'มีปัญหาในการปรับปรุงบริการพิเศษ',
+            'th_TH' : 'มีปัญหาในการปรับปรุงบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao atualizar o serviço extra',
             'da_DK' : 'Problemer med at opdatere ekstra tjenester'
            }

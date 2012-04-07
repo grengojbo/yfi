@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Ikon Info memaparkan maklumat pada item terpilih',
             'nl_NL' : 'Het infopictogram geeft informatie over het geselecteerde item',
             'id_ID' : 'Info icon menampilkan info pada item yang terpilih',
-            'th_TH' : 'ไอคอน info แสดงข้อมูลในรายการที่เลือก',
+            'th_TH' : 'ไอคอนข้อมูล แสดงในรายการที่เลือก',
             'pt_BR' : 'Ícone de Informação mostra a informação do objeto selecionado',
             'da_DK' : 'Info-ikonen viser information om det valgte emne'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Lalukan',
             'nl_NL' : 'Beweeg',
             'id_ID' : 'Dilalui',
-            'th_TH' : 'เลื่อน',
+            'th_TH' : 'เลื่อนไปบน',
             'pt_BR' : 'Sobre',
             'da_DK' : 'Placér'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'dengan tetikus diatas ikon info untuk memaparkan tip pada',
             'nl_NL' : 'de mouse over het infopictogram voor een toelichting van de/het',
             'id_ID' : 'Dengan mouse diatas info icon untuk menampilkan tips pada',
-            'th_TH' : 'ด้วยการนำเมาส์ไปวางบนไอคอน info จะแสดง tooltip บน',
+            'th_TH' : 'ด้วยการนำเมาส์ไปวางบนไอคอนข้อมูลจะแสดง tooltip',
             'pt_BR' : 'com o ponteiro do mouse sobre o ícone de informação para mostrar uma mensagem do',
             'da_DK' : 'musen over info-ikonen for at få vist et tip om'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Attribute',
-            'th_TH' : 'คุณลักษณะ',
+            'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Nama Atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Nama Attribute',
-            'th_TH' : 'ชื่อคุณลักษณะ',
+            'th_TH' : 'ชื่อ Attribute',
             'pt_BR' : 'Nome do Atributo',
             'da_DK' : 'Attributnavn'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Check / Reply',
             'nl_NL' : 'Check / Reply',
             'id_ID' : 'Check / Reply',
-            'th_TH' : 'ตรวจสอบ/ตอบกลับ',
+            'th_TH' : 'Check / Reply',
             'pt_BR' : 'Check / Reply',
             'da_DK' : 'Kontrollér/svar'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Operator',
             'nl_NL' : 'Operator',
             'id_ID' : 'Operator',
-            'th_TH' : 'ผู้ให้บริการ',
+            'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'diubah ke',
             'nl_NL' : 'gewijzigd in',
             'id_ID' : 'DiUpdate ke',
-            'th_TH' : 'ปรับปรุุงให้เป็น',
+            'th_TH' : 'ปรับปรุงไปยัง',
             'pt_BR' : 'atualizado para',
             'da_DK' : 'opdateret til'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'ms_MY' : 'Memadam Atribut',
             'nl_NL' : 'Eigenschappen verwijderen',
             'id_ID' : 'Menghapus Attribute',
-            'th_TH' : 'กำลังลบคุณลักษณะ',
+            'th_TH' : 'ลบ Attribute',
             'pt_BR' : 'Deletando Atributos',
             'da_DK' : 'Sletter attributter...'
            },

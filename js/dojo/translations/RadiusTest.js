@@ -15,6 +15,7 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'ms_MY' : 'Sedang menguji RADIUS, sila tunggu',
             'nl_NL' : 'Radius testen - een moment',
             'id_ID' : 'Mengetes radius',
+            'th_TH' : 'กำลังทดสอบ RADIUS กรุณารอ',
             'pt_BR' : 'Testando o RADIUS, por favor aguarde',
             'da_DK' : 'Tester RADIUS - vent venligst...'
         },
@@ -26,6 +27,7 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'ms_MY' : 'Hantar',
             'nl_NL' : 'Verzonden',
             'id_ID' : 'Kirim',
+            'th_TH' : 'ส่ง',
             'pt_BR' : 'Enviar',
             'da_DK' : 'Send'
         },
@@ -37,6 +39,7 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'ms_MY' : 'Nama Pengguna',
             'nl_NL' : 'Gebruikersnaam',
             'id_ID' : 'Username',
+            'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
             'da_DK' : 'Brugernavn'
         },
@@ -48,6 +51,7 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'ms_MY' : 'Katalaluan',
             'nl_NL' : 'Wachtwoord',
             'id_ID' : 'Kata sandi',
+            'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
             'da_DK' : 'Adgangskode'
         },
@@ -59,6 +63,7 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'ms_MY' : 'Kembali',
             'nl_NL' : 'Antwoord',
             'id_ID' : 'Kembali',
+            'th_TH' : 'ผลลัพธ์',
             'pt_BR' : 'Retorno',
             'da_DK' : 'Svar'
         }

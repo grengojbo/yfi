@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Kb',
             'nl_NL' : 'Kb',
             'id_ID' : 'Kb', 
-            'th_TH' : 'กิโลบิท',
+            'th_TH' : 'กิโลบิต',
             'pt_BR' : 'Kb',
             'da_DK' : 'Kb'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Mb',
             'nl_NL' : 'Mb',
             'id_ID' : 'Mb', 
-            'th_TH' : 'เมกะบิท',
+            'th_TH' : 'เมกะบิต',
             'pt_BR' : 'Mb',
             'da_DK' : 'Mb'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Gb',
             'nl_NL' : 'Gb',
             'id_ID' : 'Gb', 
-            'th_TH' : 'กิกะบิท',
+            'th_TH' : 'กิกะบิต',
             'pt_BR' : 'Gb',
             'da_DK' : 'Gb'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Masa Tambahan',
             'nl_NL' : 'Extra tijd',
             'id_ID' : 'Waktu Extra', 
-            'th_TH' : 'เวลาพิเศษ',
+            'th_TH' : 'เวลาส่วนที่เพิ่มเติม',
             'pt_BR' : 'Tempo extra',
             'da_DK' : 'Ekstra tidsramme'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Data Tambahan',
             'nl_NL' : 'Extra data',
             'id_ID' : 'Data Extra', 
-            'th_TH' : 'ข้อมูลพิเศษ',
+            'th_TH' : 'ข้อมูลส่วนที่เพิ่มเติม',
             'pt_BR' : 'Dados extras',
             'da_DK' : 'Ekstra datamængde'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Tambah Masa Tambahan',
             'nl_NL' : 'Extra tijd toevoegen',
             'id_ID' : 'Tambah waktu extra', 
-            'th_TH' : 'เพิ่มเวลาพิเศษ',
+            'th_TH' : 'เพิ่มเวลาส่วนเพิ่มเติม',
             'pt_BR' : 'Adicionar Tempo Extra',
             'da_DK' : 'Tilføj ekstra tidsforbrug'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan', 
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Berjaya menambah Masa Tambahan',
             'nl_NL' : 'Extra tijd succesvol toegevoegd',
             'id_ID' : 'Penambahan Waktu extra berhasil', 
-            'th_TH' : 'เพิ่มเวลาพิเศษเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มเวลาส่วนเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Tempo Extra adicionado OK',
             'da_DK' : 'Ekstra tidsforbrug tilføjet!'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Tambah Data Tambahan',
             'nl_NL' : 'Extra data toevoegen',
             'id_ID' : 'Tambah data extra', 
-            'th_TH' : 'เพิ่มข้อมูลพิเศษ',
+            'th_TH' : 'เพิ่มข้อมูลส่วนเพิ่มเติม',
             'pt_BR' : 'Adicionar Dados Extras',
             'da_DK' : 'Tilføj ekstra datamængde'
            },
@@ -255,7 +255,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Berjaya menambah Data Tambahan',
             'nl_NL' : 'Extra data succesvol toegevoegd',
             'id_ID' : 'Penambahan data extra berhasil' , 
-            'th_TH' : 'เพิ่มข้อมูลพิเศษเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มข้อมูลส่วนเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Dados Extras adicionado OK',
             'da_DK' : 'Ekstra datamængde tilføjet!'
            },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Padam Pemotongan Data',
             'nl_NL' : 'Verwijder extra capaciteit',
             'id_ID' : 'Hapus Cap data' , 
-            'th_TH' : 'ลบ Cap แบบข้อมูล',
+            'th_TH' : 'ลบข้อมูล Cap',
             'pt_BR' : 'Deletar Capacidade de Dados',
             'da_DK' : 'Slet datamængdebegrænsning'
            },
@@ -279,7 +279,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Padam Pemotongan Masa',
             'nl_NL' : 'Verwijder extra tijd',
             'id_ID' : 'Hapus Cap waktu' , 
-            'th_TH' : 'ลบ Cap แบบเวลา',
+            'th_TH' : 'ลบเวลา Cap',
             'pt_BR' : 'Deletar Capacidade de Tempo',
             'da_DK' : 'Slet tidsbegrænsning'
            },
@@ -303,7 +303,7 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'ms_MY' : 'Pemotongan Sedia Ada',
             'nl_NL' : 'Bestaande capaciteit',
             'id_ID' : 'Caps yang ada' , 
-            'th_TH' : 'Cap ที่มีอยู่',
+            'th_TH' : 'Cap มีอยู่แล้ว',
             'pt_BR' : 'Capacidades Existentes',
             'da_DK' : 'Nuværende trafikmængdebegrænsninger'
            },

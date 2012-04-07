@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil' ,
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Attribute' ,
-            'th_TH' : 'คุณลักษณะ',
+            'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Check/Reply',
             'nl_NL' : 'Check/Reply',
             'id_ID' : 'Check/Reply' ,
-            'th_TH' : 'ตรวจสอบ/ตอบกลับ',
+            'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
             'da_DK' : 'Kontrollér/svar'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Operator',
             'nl_NL' : 'Operator',
             'id_ID' : 'Operator' ,
-            'th_TH' : 'ผู้ให้บริการ',
+            'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Tukar Profail',
             'nl_NL' : 'Wijzig profiel',
             'id_ID' : 'Ubah profil' ,
-            'th_TH' : 'เปลี่ยนรูปแบบการใช้งาน',
+            'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Alterar Perfil',
             'da_DK' : 'Skift profil'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil' ,
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan' ,
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Berjaya menukar Profail',
             'nl_NL' : 'Profiel succesvol gewijzigd',
             'id_ID' : 'Profil telah diubah' ,
-            'th_TH' : 'รูปแบบการใช้งานถูกเปลี่ยนแปลง',
+            'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้แล้ว',
             'pt_BR' : 'Perfil Alterado',
             'da_DK' : 'Profil skiftet!'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'ms_MY' : 'Gagal menukar Profail',
             'nl_NL' : 'Profiel wijzigen mislukt',
             'id_ID' : 'Perubahan profil bermasalah' ,
-            'th_TH' : 'มีปัญหาในการเปลี่ยนแปลงรูปแบบการใช้งาน',
+            'th_TH' : 'มีปัญหาในการเปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas na alteração do perfil',
             'da_DK' : 'Problemer med at skifte profil'
            }

@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locaties',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Segarkan setiap',
             'nl_NL' : 'Ververs elke',
             'id_ID' : 'Refresh tiap',
-            'th_TH' : 'รีเฟรชทุกๆ',
+            'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Forny hver'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Alat NAS baru',
             'nl_NL' : 'Nieuw NAS-apparaat',
             'id_ID' : 'Perangkat NAS Baru',
-            'th_TH' : 'อุปกรณ์ NAS อันใหม่',
+            'th_TH' : 'เพิ่มอุปกรณ์ NAS',
             'pt_BR' : 'Novo Dispositivo NAS',
             'da_DK' : 'Ny NAS enhed'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Alat NAS bersambungan VPN baru',
             'nl_NL' : 'Nieuw NAS-apparaat met VPN-connectie',
             'id_ID' : 'VPN baru terhubung ke perangkat NAS',
-            'th_TH' : 'ช่องสัญญาณ VPN ใหม่เชื่อมต่ออุปกรณ์ NAS',
+            'th_TH' : 'New VPN connected NAS Device',
             'pt_BR' : 'Novo Dispositivo NAS conectado por VPN',
             'da_DK' : 'Ny VPN-forbundet NAS enhed'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Secret',
             'nl_NL' : 'Sleutel',
             'id_ID' : 'Secret',
-            'th_TH' : 'ความลับ',
+            'th_TH' : 'Secret',
             'pt_BR' : 'Chave Secreta',
             'da_DK' : 'Hemmelig'
            },
@@ -243,7 +243,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Tersedia hanya untuk',
             'nl_NL' : 'Alleen beschikbaar voor',
             'id_ID' : 'Hanya tersedia untuk',
-            'th_TH' : 'สามารถใช้ได้กับ',
+            'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
             'da_DK' : 'Kun til rådighed for'
            },
@@ -255,7 +255,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Berjaya mencipta Alat NAS',
             'nl_NL' : 'NAS-apparaat aangemaakt',
             'id_ID' : 'Buat perangkat NAS',
-            'th_TH' : 'อุปกรณ์ NAS ที่ถูกสร้างแล้ว',
+            'th_TH' : 'เพิ่มอุปกรณ์ NAS แล้ว',
             'pt_BR' : 'Dispositivo NAS criado',
             'da_DK' : 'NAS enhed oprettet'
            },
@@ -279,7 +279,7 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'ms_MY' : 'Gagal mencipta Alat NAS',
             'nl_NL' : 'NAS-apparaat aanmaken mislukt',
             'id_ID' : 'Bermasalah dalam pembuatan perangkat NAS',
-            'th_TH' : 'มีปัญหาในการสร้างอุปกรณ์ NAS',
+            'th_TH' : 'มีปัญหาในการเพิ่มอุปกรณ์ NAS',
             'pt_BR' : 'Problemas ao criar dispositivo NAS',
             'da_DK' : 'Problemer med at oprette NAS enhed'
            },

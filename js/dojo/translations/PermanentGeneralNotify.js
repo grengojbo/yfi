@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'ms_MY' : 'Alamat',	
             'nl_NL' : 'Adres',
             'id_ID' : 'Alamat',
-            'th_TH' : 'ที่อยู่',
+            'th_TH' : 'ที่อยู่อีเมล',
             'pt_BR' : 'Direção',
             'da_DK' : 'Adresse'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'ms_MY' : 'Peratus Mula',	
             'nl_NL' : 'Start percentage',
             'id_ID' : 'Persentase mulai',
-            'th_TH' : 'ร้อยละเริ่มต้น',
+            'th_TH' : 'เปอร์เซ็นต์เริ่มเตือน',
             'pt_BR' : 'Porcentagem de Início',
             'da_DK' : 'Startprocent'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'ms_MY' : 'Langkah Peratus',	
             'nl_NL' : 'Percentage interval',
             'id_ID' : 'Langkah persentase',
-            'th_TH' : 'ขั้นตอนร้อยละ',
+            'th_TH' : 'เตือนเมื่อเพิ่มขึ้นทุก(เปอร์เซ็นต์)',
             'pt_BR' : 'Porcentagem do Passo',
             'da_DK' : 'Procenttrin'
            }

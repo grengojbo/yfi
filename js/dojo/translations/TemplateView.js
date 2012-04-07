@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Pengeluar',
             'nl_NL' : 'Operator',
             'id_ID' : 'Vendor',
-            'th_TH' : 'ผู้ผลิต',
+            'th_TH' : 'Vendor',
             'pt_BR' : 'Distribuidor',
             'da_DK' : 'Leverandør'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Attribute',
-            'th_TH' : 'คุณลักษณะ',
+            'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Ubah atribut terpilih dalam grid',
             'nl_NL' : 'Wijzig geselecteerde eigenschap in lijst',
             'id_ID' : 'Mengedit attribute terpilih dalam grid',
-            'th_TH' : 'แก้ไขคุณลักษณะที่เลือกภายในตาราง',
+            'th_TH' : 'แก้ไข Attribute ที่เลือกภายในตาราง',
             'pt_BR' : 'Editar o atributo selecionado dentro da tabela',
             'da_DK' : 'Redigér den valgte attribut i gitteret'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Nama atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Nama attribute',
-            'th_TH' : 'ชื่อคุณลักษณะ',
+            'th_TH' : 'ชื่อ Attribute',
             'pt_BR' : 'Nome do atributo',
             'da_DK' : 'Navn på attribut'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Check / Reply',
             'nl_NL' : 'Check / Reply',
             'id_ID' : 'Check/Reply',
-            'th_TH' : 'ตรวจสอบ/ตอบกลับ',
+            'th_TH' : 'Check / Reply',
             'pt_BR' : 'Check / Reply',
             'da_DK' : 'Kontrollér/svar'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Berjaya mencipta Pelan Pembayaran baru',
             'nl_NL' : 'Nieuw betaalplan aangemaakt',
             'id_ID' : 'Buat rencana billing baru',
-            'th_TH' : 'สร้างแผนการเรียกเก็บเงินใหม่',
+            'th_TH' : 'เพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Criar novo Plano de Bilhetagem',
             'da_DK' : 'Ny faktureringsoversigt oprettet!'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Gagal mencipta Pelan Pembayaran baru',
             'nl_NL' : 'Nieuw betaalplan aanmaken mislukt',
             'id_ID' : 'Pembuatan rencana billing bermasalah',
-            'th_TH' : 'มีปัญหาในการสร้างแผนการเรียกเก็บเงิน',
+            'th_TH' : 'มีปัญหาในการเพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Problemas ao criar Plano de Bilhetagem',
             'da_DK' : 'Problemer med at oprette faktureringsoversigt'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'Memadam Pelan Pembayaran',
             'nl_NL' : 'Betaalplan(nen) verwijderen',
             'id_ID' : 'Membuat rencana billing',
-            'th_TH' : 'กำลังลบแผนการเรียกเก็บเงิน',
+            'th_TH' : 'ลบแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Deletando Plano(s) de Bilhetagem',
             'da_DK' : 'Sletter faktureringsoversigt(er)'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.TemplateView"]){ //_hasResource checks added
             'ms_MY' : 'diubah ke',
             'nl_NL' : 'gewijzigd in',
             'id_ID' : 'Di update ke',
-            'th_TH' : 'ปรับปรุุงให้เป็น',
+            'th_TH' : 'ปรับปรุงไปยัง',
             'pt_BR' : 'atualizado para',
             'da_DK' : 'opdateret til'
            }

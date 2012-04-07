@@ -40,7 +40,7 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'ms_MY' : 'Langganan',	
                 'nl_NL' : 'Abonnement',
                 'id_ID' : 'Pendaftaran',
-                'th_TH' : 'สมัครสมาชิก',
+                'th_TH' : 'ค่าสมาชิก',
                 'pt_BR' : 'Assinatura',
                 'da_DK' : 'Abonnement'
            },
@@ -64,7 +64,7 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'ms_MY' : 'Kadar/Bait',	
                 'nl_NL' : 'Kosten/byte',
                 'id_ID' : 'Biaya/Byte',
-               'th_TH' : 'อัตรา/ไบท์',
+               'th_TH' : 'อัตรา/ไบต์',
                'pt_BR' : 'Taxa/Byte',
                 'da_DK' : 'Afgift/byte'
            },
@@ -100,7 +100,7 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'ms_MY' : 'Tersedia hanya untuk',	
                 'nl_NL' : 'Alleen beschikbaar voor',
                 'id_ID' : 'Tersedia hanya untuk',
-                'th_TH' : 'สามารถใช้ได้กับ',
+                'th_TH' : 'สามารถใช้ได้เฉพาะ',
                 'pt_BR' : 'Disponível somente para',
                 'da_DK' : 'Kun til rådighed for'
            },
@@ -112,7 +112,7 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'ms_MY' : 'Simpan',	
                 'nl_NL' : 'Opslaan',
                 'id_ID' : 'Simpan',
-                'th_TH' : 'จัดเก็บ',
+                'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
                 'da_DK' : 'Gem'
            },

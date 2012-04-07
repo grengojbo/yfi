@@ -13,7 +13,7 @@ if(!dojo._hasResource["translations.StatsRealm"]){ //_hasResource checks added b
             'ms_MY' : 'Senaraikan Semula',   
             'nl_NL' : 'Ververs lijst', 
             'id_ID' : 'Reload Daftar',
-            'th_TH' : 'เรียกลิสต์มาดูใหม่',
+            'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Recarregar Lista',
             'da_DK' : 'Genindlæs liste'
            },
@@ -121,6 +121,7 @@ if(!dojo._hasResource["translations.StatsRealm"]){ //_hasResource checks added b
             'ms_MY' : 'Tarikh tidak sah - Gunakan asal',   
             'nl_NL' : 'Ongeldige datums - Standaardwaarden worden gebruikt', 
             'id_ID' : 'Tanggal tidak valid, Gunakan Default',
+            'th_TH' : 'วันที่ผิดรูปแบบ - ใช้ค่าเริ่มต้น',
             'pt_BR' : 'Dados Inválidos - Usando valores padrões',
             'da_DK' : 'Ugyldig datoer - anvender standardværdier'
         }

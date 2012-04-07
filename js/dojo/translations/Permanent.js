@@ -87,6 +87,7 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'ms_MY' : 'Tambahan',	
                 'nl_NL' : 'Extra\'s',
                 'id_ID' : 'Tambahan',
+                'th_TH' : 'ส่วนเพิ่มเติม',
                 'pt_BR' : 'Extras',
                 'da_DK' : 'Ekstra'
         },
@@ -110,7 +111,7 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'ms_MY' : 'Yang diguna adalah',	
                 'nl_NL' : 'Verbruikt is',
                 'id_ID' : 'Yang terpakai adalah',
-                'th_TH' : 'ใช้เป็น',
+                'th_TH' : 'ใช้ไป',
                 'pt_BR' : 'Utilizado',
                 'da_DK' : 'Udnyttet er'
            },
@@ -158,6 +159,7 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'ms_MY' : 'Sedang menendang',	
                 'nl_NL' : 'Verbinding verbreken...',
                 'id_ID' : 'Sedang mengkick off',
+				'th_TH' : 'พยายามเตะออก',
                 'pt_BR' : 'Tentar desconectar',
                 'da_DK' : 'Forsøger at afbryde brugeren...'
         },
@@ -169,6 +171,7 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'ms_MY' : 'Berjaya menendang pengguna',	
                 'nl_NL' : 'Verbinding succesvol verbroken',
                 'id_ID' : 'Kick Off user berhasil',
+                'th_TH' : 'เตะผู้ใช้ออกเรียบร้อยแล้ว',
                 'pt_BR' : 'Desconexão de usuário OK',
                 'da_DK' : 'Brugeren afbrudt!'
         }

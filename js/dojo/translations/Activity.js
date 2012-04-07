@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
             'ms_MY' : 'Segarkan setiap',
             'nl_NL' : 'Ververs elke',
             'id_ID' : 'Refresh tiap',
-            'th_TH' : 'รีเฟรชทุกๆ',
+            'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Forny hver'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
             'ms_MY' : 'Meninggalkan Kita',
             'nl_NL' : 'heeft de verbinding verbroken',
             'id_ID' : 'Meninggalkan kita',
-            'th_TH' : 'ปล่อยฉันไว้',
+            'th_TH' : 'ออกไป',
             'pt_BR' : 'Deixou-nos',
             'da_DK' : 'har afbrudt forbindelsen'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
             'ms_MY' : 'Menyertai Kita',
             'nl_NL' : 'heeft verbinding gemaakt',
             'id_ID' : 'Bergabung dengan kita',
-            'th_TH' : 'มาจอยกัน',
+            'th_TH' : 'เข้ามา',
             'pt_BR' : 'Juntou-se a nós',
             'da_DK' : 'har etableret forbindelse'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Activity"]){ //_hasResource checks added by 
             'ms_MY' : 'Aktiviti',
             'nl_NL' : 'Activiteiten',
             'id_ID' : 'Aktivitas',
-            'th_TH' : 'กิจกรรม',
+            'th_TH' : 'ความเคลื่อนไหว',
             'pt_BR' : 'Atividade',
             'da_DK' : 'Aktivitet'
            },

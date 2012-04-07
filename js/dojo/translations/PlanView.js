@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PlanView"]){ //_hasResource checks added by 
             'ms_MY' : 'Pemotongan Tambahan',	
             'nl_NL' : 'Extra capaciteit',
             'id_ID' : 'Caps tambahan',
-            'th_TH' : 'Cap พิเศษ',
+            'th_TH' : 'Cap เพิ่มเติม',
             'pt_BR' : 'Extras',
             'da_DK' : 'Forhøjet forbrugsgrænse'
            }

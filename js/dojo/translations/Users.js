@@ -1,4 +1,4 @@
-﻿
+
 
 if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Users"] = true;
@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Hard',
             'nl_NL' : 'Hard',
             'id_ID' : 'Hard',
-            'th_TH' : 'ฮาร์ด',
+            'th_TH' : 'Hard',
             'pt_BR' : 'Hard',
             'da_DK' : 'Hård'
            },
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Soft',
             'nl_NL' : 'Zacht',
             'id_ID' : 'Soft',
-            'th_TH' : 'ซอฟท์',
+            'th_TH' : 'Soft',
             'pt_BR' : 'Soft',
             'da_DK' : 'Blød'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Prepaid',
             'nl_NL' : 'Prepaid',
             'id_ID' : 'Prepaid',
-            'th_TH' : 'ชำระเงินล่วงหน้า',
+            'th_TH' : 'เติมเงิน',
             'pt_BR' : 'Pré-Pago',
             'da_DK' : 'Forudbetalt'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'e-mel',
             'nl_NL' : 'e-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil',
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Pengguna Kekal baru',
             'nl_NL' : 'Permanente gebruiker toevoegen',
             'id_ID' : 'User permanen baru',
-            'th_TH' : 'สมาชิกใหม่แบบถาวร',
+            'th_TH' : 'เพิ่มผู้ใช้',
             'pt_BR' : 'Novo Usuário Permanente',
             'da_DK' : 'Ny permanent bruger'
            },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Telefon',
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telepon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },
@@ -279,7 +279,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
 		    'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
             },
@@ -327,7 +327,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
             },
@@ -339,7 +339,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Berjaya mencipta Pengguna Kekal baru',
             'nl_NL' : 'Permanente gebruiker succesvol toegevoegd',
             'id_ID' : 'Pembuatan User Permanen baru berhasil',
-            'th_TH' : 'สมาชิกใหม่แบบถาวรถูกสร้างเรียบร้อยแล้ว',
+            'th_TH' : 'เพิ่มผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Novo Usuário Permanente criado OK',
             'da_DK' : 'Ny permanent bruger oprettet!'
             },
@@ -375,7 +375,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Memadam Pengguna Kekal',
             'nl_NL' : 'Permanente gebruikers verwijderen',
             'id_ID' : 'Menghapus user permanen',
-            'th_TH' : 'ลบผู้ใช้งานถาวร',
+            'th_TH' : 'ลบผู้ใช้',
             'pt_BR' : 'Removendo Usuários Permanentes',
             'da_DK' : 'Fjerner permanente brugere'
             },
@@ -399,7 +399,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Berjaya Membenarkan/Melumpuhkan Penguna Kekal',
             'nl_NL' : 'Permanente gebruiker succesvol uitgeschakeld/geactiveerd',
             'id_ID' : 'User permanen Disable/Enable berhasil',
-            'th_TH' : 'ผู้ใช้งานถาวร เปิดใช้งาน/ไม่เปิดใช้งาน เรียบร้อยแล้ว',
+            'th_TH' : 'เปิดใช้งาน/ไม่เปิดใช้งาน ผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Usuário(s) Permanente(s) Desativado(s)/Ativado(s) OK',
             'da_DK' : 'Permanent(e) bruger(e) deaktiveret/aktiveret!'
             },
@@ -411,7 +411,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Penukaran katalaluan terpilih dihadkan kepada satu',
             'nl_NL' : 'Selecteer een gebruiker',
             'id_ID' : 'Pemilihan Penggantian kata sandi dibatasi satu kali',
-            'th_TH' : 'จำกัดการเปลี่ยนรหัสผ่านได้ทีละหนึ่ง',
+            'th_TH' : 'เปลี่ยนรหัสผ่านได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'A alteração da senha é limitada somente a um usuário',
             'da_DK' : 'Kun én adgangskode kan ændres af gangen'
             },
@@ -471,7 +471,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Jenis mesej',
             'nl_NL' : 'Berichttype',
             'id_ID' : 'Type pesan',
-            'th_TH' : 'ข้อความประเภท',
+            'th_TH' : 'ประเภทข้อความ',
             'pt_BR' : 'Tipo de Mensagem',
             'da_DK' : 'Besked type'
             },
@@ -531,7 +531,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'ms_MY' : 'Aktif',
             'nl_NL' : 'Actief',
             'id_ID' : 'Aktif',
-            'th_TH' : 'ที่กำลังทำงานอยู่',
+            'th_TH' : 'เปิดใช้งาน',
             'pt_BR' : 'Ativo',
             'da_DK' : 'Aktiv'
             },

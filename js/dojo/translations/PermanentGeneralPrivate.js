@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'ms_MY' : 'Profail',	
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil',
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'ms_MY' : 'Atribut',	
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Attribute',
-            'th_TH' : 'คุณลักษณะ',
+            'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Egenskab'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'ms_MY' : 'Check/Reply',	
             'nl_NL' : 'Check/Reply',
             'id_ID' : 'Check/Balasan',
-            'th_TH' : 'ตรวจสอบ/ตอบกลับ',
+            'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
             'da_DK' : 'Kontrollér/svar'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'ms_MY' : 'Operator',	
             'nl_NL' : 'Operator',
             'id_ID' : 'Operator',
-            'th_TH' : 'ผู้ให้บริการ',
+            'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør'
            },

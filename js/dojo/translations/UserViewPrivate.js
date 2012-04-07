@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profil' ,
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Atribut',
             'nl_NL' : 'Eigenschap',
             'id_ID' : 'Attribute' ,
-            'th_TH' : 'คุณลักษณะ',
+            'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Check/Reply',
             'nl_NL' : 'Check/Reply',
             'id_ID' : 'Check/Reply' ,
-            'th_TH' : 'ตรวจสอบ/ตอบกลับ',
+            'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
             'da_DK' : 'Kontrollér/svar'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Operator',
             'nl_NL' : 'Operator',
             'id_ID' : 'Operator' ,
-            'th_TH' : 'ผู้ให้บริการ',
+            'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Tambah Atribut Peribadi',
             'nl_NL' : 'Prive-eigenschap toevoegen',
             'id_ID' : 'Tambah attribute pribadi' ,
-            'th_TH' : 'เพิ่มคุณสมบัติส่วนตัว',
+            'th_TH' : 'เพิ่ม Attribute ส่วนตัว',
             'pt_BR' : 'Adicionar Atributo Privado',
             'da_DK' : 'Tilføj privat attribut'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Pengeluar',
             'nl_NL' : 'Operator',
             'id_ID' : 'Vendor' ,
-            'th_TH' : 'ผู้ผลิต',
+            'th_TH' : 'Vendor',
             'pt_BR' : 'Distribuidor',
             'da_DK' : 'Leverandør'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan' ,
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Berjaya menambah Atribut',
             'nl_NL' : 'Eigenschap succesvol toegevoegd',
             'id_ID' : 'Attribute telah ditambahkan' ,
-            'th_TH' : 'คุณลักษณะถูกเพิ่มแล้ว',
+            'th_TH' : 'เพิ่ม Attribute แล้ว',
             'pt_BR' : 'Atributo adicionado',
             'da_DK' : 'Attribut tilføjet!'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Gagal menambah Atribut',
             'nl_NL' : 'Eigenschap toevoegen mislukt',
             'id_ID' : 'Penambahan attribute bermasalah' ,
-            'th_TH' : 'มีปัญหาในการเพิ่มคุณสมบัติ',
+            'th_TH' : 'มีปัญหาในการเพิ่ม Attribute',
             'pt_BR' : 'Problemas ao adicionar o atributo',
             'da_DK' : 'Problemer med at tilføje attribut'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Perubahan terpilih dihadkan kepada satu',
             'nl_NL' : 'U kunt slechts een item per keer wijzigen',
             'id_ID' : 'Pilihan yang diedit dibatasi satu' ,
-            'th_TH' : 'จำกัดการแก้ไขได้ทีละหนึ่ง',
+            'th_TH' : 'แก้ไขได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Editar limite de seleção somente a um',
             'da_DK' : 'Kun én kan ændres af gangen'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Tukar Katalaluan pada Tab Pengguna',
             'nl_NL' : 'Wijzig wachtwoord op gebruikerstabblad',
             'id_ID' : 'Ganti kata sandi untuk pada tab user' ,
-            'th_TH' : 'เปลี่ยนรหัสผ่านบนแท็บผู้ใช้',
+            'th_TH' : 'เปลี่ยนรหัสผ่านบนแท็บของผู้ใช้',
             'pt_BR' : 'Alterar Senha na Aba Usuários',
             'da_DK' : 'Skift adgangskode på brugerfane'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Ubah Atribut Peribadi',
             'nl_NL' : 'Wijzig prive-eigenschap',
             'id_ID' : 'Edit attribute pribadi' ,
-            'th_TH' : 'แก้ไขคุณสมบัติส่วนตัว',
+            'th_TH' : 'แก้ไข Attribute ส่วนตัว',
             'pt_BR' : 'Editar Atributo Privado',
             'da_DK' : 'Redigér den private attribut'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Berjaya mengubah Atribut',
             'nl_NL' : 'Eigenschap succesvol gewijzigd',
             'id_ID' : 'Attribute telah diubah' ,
-            'th_TH' : 'คุณสมบัติส่วนตัวถูกเปลี่ยนแปลง',
+            'th_TH' : 'เปลี่ยนแปลง Attribute แล้ว',
             'pt_BR' : 'Atributo alterado',
             'da_DK' : 'Attribut ændret!'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'ms_MY' : 'Gagal mengubah Atribut',
             'nl_NL' : 'Eigenschap wijzigen mislukt',
             'id_ID' : 'Perubahan Attribute bermasalah' ,
-            'th_TH' : 'มีปัญหาในการเปลี่ยนแปลงคุณสมบัติ',
+            'th_TH' : 'มีปัญหาในการเปลี่ยนแปลง Attribute',
             'pt_BR' : 'Problemas ao alterar o atributo',
             'da_DK' : 'Problemer med at ændre attribut'
            }

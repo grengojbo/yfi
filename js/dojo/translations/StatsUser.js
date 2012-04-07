@@ -37,7 +37,7 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
            },
@@ -85,7 +85,7 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'ms_MY' : 'Jumlah Masa',
             'nl_NL' : 'Totale tijd',
             'id_ID' : 'Total Waktu',
-            'th_TH' : 'เวลารวม',
+            'th_TH' : 'เวลาทั้งหมด',
             'pt_BR' : 'Tempo Total',
             'da_DK' : 'Samlet tidsforbrug'
            },
@@ -97,7 +97,7 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'ms_MY' : 'Senaraikan Semula',   
             'nl_NL' : 'Ververs lijst', 
             'id_ID' : 'Reload daftar',
-            'th_TH' : 'เรียกลิสต์มาดูใหม่',
+            'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Recarregar Lista',
             'da_DK' : 'Genindlæs liste'
            },
@@ -181,6 +181,7 @@ if(!dojo._hasResource["translations.StatsUser"]){ //_hasResource checks added by
             'ms_MY' : 'Tarikh tidak sah - Gunakan asal',   
             'nl_NL' : 'Ongeldige datums - Standaardwaarden worden gebruikt', 
             'id_ID' : 'Tanggal tidak valid, Gunakan Default',
+            'th_TH' : 'วันที่ผิดรูปแบบ - ใช้ค่าเริ่มต้น',
             'pt_BR' : 'Dados Inválidos - Usando valores padrões',
             'da_DK' : 'Ugyldige datoer - anvender standardværdier'
         }

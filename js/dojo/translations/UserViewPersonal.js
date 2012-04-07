@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Hard',
             'nl_NL' : 'Hard',
             'id_ID' : 'Hard',
-            'th_TH' : 'ฮาร์ด',
+            'th_TH' : 'Hard',
             'pt_BR' : 'Hard',
             'da_DK' : 'Hård'
            },
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Soft',
             'nl_NL' : 'Zacht',
             'id_ID' : 'Soft',
-            'th_TH' : 'ซอฟท์',
+            'th_TH' : 'Soft',
             'pt_BR' : 'Soft',
             'da_DK' : 'Blød'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Prepaid',
             'nl_NL' : 'Prepaid',
             'id_ID' : 'Prepaid',
-            'th_TH' : 'ชำระเงินล่วงหน้า',
+            'th_TH' : 'เติมเงิน',
             'pt_BR' : 'Pré-Pago',
             'da_DK' : 'Forudbetalt'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Telefon',
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telepon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
             },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
             },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Berjaya mengubah Pengguna Kekal',
             'nl_NL' : 'Permanente gebruiker succesvol gewijzigd',
             'id_ID' : 'Update user permanen berhasil',
-            'th_TH' : 'ผู้ใช้งานแบบถาวรปรับปรุงเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Usuário Permanente atualizado OK',
             'da_DK' : 'Permanent bruger opdateret!'
             },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Gagal mengubah Pengguna Kekal',
             'nl_NL' : 'Permanente gebruiker wijzigen mislukt',
             'id_ID' : 'Update user permanen bermasalah',
-            'th_TH' : 'มีปัญหาในการปรับปรุงผู้ใช้งานแบบถาวร',
+            'th_TH' : 'มีปัญหาในการปรับปรุงผู้ใช้',
             'pt_BR' : 'Problemas ao atualizar o Usuário Permanente',
             'da_DK' : 'Problemer med at opdatere den permanente bruger'
             }

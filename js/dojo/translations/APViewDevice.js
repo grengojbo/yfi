@@ -41,7 +41,7 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Mengambil Info perangkat terakhir',
             'th_TH' : 'เรียกดูข้อมูลอุปกรณ์ล่าสุด',
             'pt_BR' : 'Informação do último Dispositivo encontrado',
-            'da_DK' : 'Hentet seneste enhedsinfo
+            'da_DK' : 'Hentet seneste enhedsinfo'
            },
         'Firmware': { 
             'de_DE' : 'Firmware',
@@ -51,9 +51,9 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'ms_MY' : 'Firmware',
             'nl_NL' : 'Firmware',
             'id_ID' : 'Firmware',
-            'th_TH' : 'เฟิร์มแวร์',
+            'th_TH' : 'Firmware',
             'pt_BR' : 'Firmware',
-            'da_DK' : 'Firmware
+            'da_DK' : 'Firmware'
            },
         'Time': { 
             'de_DE' : 'Zeit',

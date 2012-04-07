@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPersonal"]){ //_hasResource 
             'ms_MY' : 'e-mel',	
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.PermanentGeneralPersonal"]){ //_hasResource 
             'ms_MY' : 'Telefon',	
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telepon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทรศัพท์',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },

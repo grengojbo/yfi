@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Profail',
             'nl_NL' : 'Profiel',
             'id_ID' : 'Profile',
-            'th_TH' : 'รูปแบบการใช้งาน',
+            'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locatie',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Dicipta',
             'nl_NL' : 'Aangemaakt',
             'id_ID' : 'Dibuat',
-            'th_TH' : 'สร้าง',
+            'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
             'da_DK' : 'Oprettet'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Baucer baru',
             'nl_NL' : 'Nieuwe coupon',
             'id_ID' : 'Voucher baru',
-            'th_TH' : 'คูปองใหม่',
+            'th_TH' : 'เพิ่มคูปอง',
             'pt_BR' : 'Novo Voucher',
             'da_DK' : 'Nyt adgangskort'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'hari dari log-masuk pertama',
             'nl_NL' : 'dag vanaf eerste login',
             'id_ID' : 'Hari setelah login',
-            'th_TH' : 'วัน นับจากการเข้าระบบครั้งแรก',
+            'th_TH' : 'วัน นับจากเริ่มใช้งาน',
             'pt_BR' : 'dia desde o primeiro login',
             'da_DK' : 'dag fra første anvendelse'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'hari dari log-masuk pertama',
             'nl_NL' : 'dagen vanaf eerste login',
             'id_ID' : 'Hari setelah login',
-            'th_TH' : 'วัน นับจากการเข้าระบบครั้งแรก',
+            'th_TH' : 'วัน นับจากเริ่มใช้งาน',
             'pt_BR' : 'dias desde o primeiro login',
             'da_DK' : 'dage fra første anvendelse'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -231,7 +231,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'Gagal mencipta Baucer baru',
             'nl_NL' : 'Nieuwe coupon aanmaken mislukt',
             'id_ID' : 'bermasalah dalam Pembuatan voucher',
-            'th_TH' : 'มีปัญหาในการสร้างคูปองใหม่',
+            'th_TH' : 'มีปัญหาในการสร้างคูปอง',
             'pt_BR' : 'Problemas ao criar o voucher',
             'da_DK' : 'Problemer med at oprette adgangskort'
            },
@@ -279,7 +279,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'baru',
             'nl_NL' : 'nieuw',
             'id_ID' : 'Baru',
-            'th_TH' : 'ใหม่',
+            'th_TH' : 'เพิ่มใหม่',
             'pt_BR' : 'novo',
             'da_DK' : 'ny'
            },
@@ -291,7 +291,7 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'ms_MY' : 'diguna',
             'nl_NL' : 'verbruikt',
             'id_ID' : 'terpakai',
-            'th_TH' : 'ใช้แล้ว',
+            'th_TH' : 'ใช้ไป',
             'pt_BR' : 'usado',
             'da_DK' : 'benyttet'
            },

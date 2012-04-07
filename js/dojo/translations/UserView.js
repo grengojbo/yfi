@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Pemberitahuan',
             'nl_NL' : 'Notificatie',
             'id_ID' : 'Notifikasi',
-            'th_TH' : 'บอกกล่าว',
+            'th_TH' : 'การแจ้งเตือน',
             'pt_BR' : 'Notificação',
             'da_DK' : 'Oplysning'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Atribut Profail',
             'nl_NL' : 'Profieleigenschappen',
             'id_ID' : 'Attribute Profil',
-            'th_TH' : 'คุณลักษณะรูปแบบการใช้งาน',
+            'th_TH' : 'Attribute กลุ่มผู้ใช้',
             'pt_BR' : 'Atributos do Perfil',
             'da_DK' : 'Profilattributter'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Atribut Peribadi',
             'nl_NL' : 'Prive-eigenschappen',
             'id_ID' : 'Attribute Pribadi',
-            'th_TH' : 'คุณลักษณะส่วนตัว',
+            'th_TH' : 'Attribute ส่วนตัว',
             'pt_BR' : 'Atributos Privados',
             'da_DK' : 'Private egenskaber'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Aktiviti',
             'nl_NL' : 'Activiteit',
             'id_ID' : 'Aktifitas',
-            'th_TH' : 'กิจกรรม',
+            'th_TH' : 'ความเคลื่อนไหว',
             'pt_BR' : 'Atividade',
             'da_DK' : 'Aktivitet'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Khidmat Tambahan',
             'nl_NL' : 'Extra services',
             'id_ID' : 'Service Extra',
-            'th_TH' : 'บริการพิเศษ',
+            'th_TH' : 'บริการเพิ่มเติม',
             'pt_BR' : 'Serviços Extras',
             'da_DK' : 'Yderligere tjenester'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'ms_MY' : 'Kredit Internet',
             'nl_NL' : 'Internetkrediet',
             'id_ID' : 'Credit Internet',
-            'th_TH' : 'อินเตอร์เน็ตเครดิต',
+            'th_TH' : 'เครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Crédito de Internet',
             'da_DK' : 'Internetkredit'
            }

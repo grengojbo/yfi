@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Dibuat Dari Acuan',
                 'nl_NL' : 'Gemaakt van sjabloon',
                 'id_ID' : 'Buat dari template',
-                'th_TH' : 'สร้างจากแม่แบบ',
+                'th_TH' : 'สร้างจากแม่แบบกลุ่มผู้ใช้',
                 'pt_BR' : 'Criado a partir do Modelo',
                 'da_DK' : 'Oprettet udfra skabelon'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Bilangan Atribut Reply',
                 'nl_NL' : 'Aantal reply-eigenschappen',
                 'id_ID' : 'Jumlah attribute reply',
-                'th_TH' : 'นับจำนวนการตอบกลับคุณลักษณะ',
+                'th_TH' : 'Reply Attribute Count',
                 'pt_BR' : 'Reply Attribute Count',
                 'da_DK' : 'Optæl Reply-attributten'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Bilangan Atribut Check',
                 'nl_NL' : 'Aantal controleer-eigenschappen',
                 'id_ID' : 'Jumlah check attribute',
-                'th_TH' : 'นับจำนวนการส่งตรวจคุณลักษณะ',
+                'th_TH' : 'Check Attribute Count',
                 'pt_BR' : 'Check Attribute Count',
                 'da_DK' : 'Optæl Check-attributten'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Tambah Profail',
                 'nl_NL' : 'Nieuw profiel',
                 'id_ID' : 'Tambah Profil',
-                'th_TH' : 'เพิ่มรูปแบบการใช้งาน',
+                'th_TH' : 'เพิ่มกลุ่มผู้ใช้',
                 'pt_BR' : 'Adicionar Perfil',
                 'da_DK' : 'Tilføj profil'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Dari Acuan',
                 'nl_NL' : 'Van sjabloon',
                 'id_ID' : 'Dari template',
-                'th_TH' : 'จากแม่แบบ',
+                'th_TH' : 'จากแม่แบบกลุ่มผู้ใช้',
                 'pt_BR' : 'Do Template',
                 'da_DK' : 'Fra skabelon'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Tersedia hanya untuk',
                 'nl_NL' : 'Alleen beschikbaar voor',
                 'id_ID' : 'Hanya tersedia untuk',
-                'th_TH' : 'สามารถใช้ได้กับ',
+                'th_TH' : 'สามารถใช้ได้เฉพาะ',
                 'pt_BR' : 'Disponível somente para',
                 'da_DK' : 'Kun til rådighed for'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Simpan',
                 'nl_NL' : 'Opslaan',
                 'id_ID' : 'Simpan',
-                'th_TH' : 'จัดเก็บ',
+                'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
                 'da_DK' : 'Gem'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Berjaya menambah Profail',
                 'nl_NL' : 'Profiel succesvol toegevoegd',
                 'id_ID' : 'Penambahan profil berhasil',
-                'th_TH' : 'รูปแบบการใช้งานถูกเพิ่มเรียบร้อยแล้ว',
+                'th_TH' : 'เพิ่มกลุ่มผู้ใช้เรียบร้อยแล้ว',
                 'pt_BR' : 'Perfil adicionado OK',
                 'da_DK' : 'Profil tilføjet!'
            },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Gagal menambah Profail',
                 'nl_NL' : 'Profiel toevoegen mislukt',
                 'id_ID' : 'Penambahan profil bermasalah',
-                'th_TH' : 'มีปัญหาในการเพิ่มรูปแบบการใช้งาน',
+                'th_TH' : 'มีปัญหาในการเพิ่มกลุ่มผู้ใช้',
                 'pt_BR' : 'Problemas ao adicionar o Perfil',
                 'da_DK' : 'Problemer med at tilføje profil'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.Profiles"]){ //_hasResource checks added by 
                 'ms_MY' : 'Memadam Profail',
                 'nl_NL' : 'Profielen verwijderen',
                 'id_ID' : 'Menghapus Profil',
-                'th_TH' : 'กำลังลบรูปแบบการใช้งาน',
+                'th_TH' : 'ลบกลุ่มผู้ใช้',
                 'pt_BR' : 'Deletando Profiles',
                 'da_DK' : 'Sletter profiler...'
            },

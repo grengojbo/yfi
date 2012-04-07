@@ -15,6 +15,7 @@ if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by
             'ms_MY' : 'Memuat',
             'nl_NL' : 'Bezig met laden van tabblad:',
             'id_ID' : '',
+            'th_TH' : 'กำลังโหลด',
             'pt_BR' : 'Carregando',
             'da_DK' : 'Indlæser...'
         }

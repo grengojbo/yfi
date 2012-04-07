@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Kb',
                 'nl_NL' : 'Kb',
                 'id_ID' : 'Kb',
-                'th_TH' : 'กิโลบิท',
+                'th_TH' : 'กิโลบิต',
                 'pt_BR' : 'Kb',
                 'da_DK' : 'Kb'
            },
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Mb',
                 'nl_NL' : 'Mb',
                 'id_ID' : 'Mb',
-                'th_TH' : 'เมกะบิท',
+                'th_TH' : 'เมกะบิต',
                 'pt_BR' : 'Mb',
                 'da_DK' : 'Mb'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Gb',
                 'nl_NL' : 'Gb',
                 'id_ID' : 'Gb',
-                'th_TH' : 'กิกะบิท',
+                'th_TH' : 'กิกะบิต',
                 'pt_BR' : 'Gb',
                 'da_DK' : 'Gb'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Data Percuma',
                 'nl_NL' : 'Gratis data',
                 'id_ID' : 'Free Data',
-                'th_TH' : 'ข้อมูลฟรี',
+                'th_TH' : 'ข้อมูล',
                 'pt_BR' : 'Dados Gratuitos',
                 'da_DK' : 'Gratis datatrafik'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Masa Percuma',
                 'nl_NL' : 'Gratis tijd',
                 'id_ID' : 'Waktu free',
-                'th_TH' : 'เวลาฟรี',
+                'th_TH' : 'เวลา',
                 'pt_BR' : 'Tempo Grátis',
                 'da_DK' : 'Gratis tidsrum'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'ms_MY' : 'Simpan',
                 'nl_NL' : 'Opslaan',
                 'id_ID' : 'Simpan',
-                'th_TH' : 'จัดเก็บ',
+                'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
                 'da_DK' : 'Gem'
            },

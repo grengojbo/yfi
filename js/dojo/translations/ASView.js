@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Rangkaian',
             'nl_NL' : 'Network',
             'id_ID' : 'Jaringan',
-            'th_TH' : 'โครงข่าย',
+            'th_TH' : 'เครือข่าย',
             'da_DK' : 'Netværk'
            },
  
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Wayarles',
             'nl_NL' : 'Draadloos',
             'id_ID' : 'Wireless',
-            'th_TH' : 'ระบบวิทยุ',
+            'th_TH' : 'ระบบไร้สาย',
             'da_DK' : 'Trådløs'
            },
         'OpenVPN' : {
@@ -38,7 +38,7 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'ms_MY' : 'OpenVPN',
             'nl_NL' : 'OpenVPN',
             'id_ID' : 'OpenVPN',
-            'th_TH' : 'ระบบ VPN แบบเปิด',
+            'th_TH' : 'OpenVPN',
             'da_DK' : 'OpenVPN'
            }
     };

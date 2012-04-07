@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Gb',
             'nl_NL' : 'Gb',
             'id_ID' : 'Gb',
-            'th_TH' : 'กิกะบิท',
+            'th_TH' : 'กิกะบิต',
             'pt_BR' : 'Gb',
             'da_DK' : 'Gb'
            },
@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Mb',
             'nl_NL' : 'Mb',
             'id_ID' : 'Mb',
-            'th_TH' : 'เมกะบิท',
+            'th_TH' : 'เมกะบิต',
             'pt_BR' : 'Mb',
             'da_DK' : 'Mb'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Kb',
             'nl_NL' : 'Kb',
             'id_ID' : 'Kb',
-            'th_TH' : 'กิโลบิท',
+            'th_TH' : 'กิโลบิต',
             'pt_BR' : 'Kb',
             'da_DK' : 'Kb'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'bait',
             'nl_NL' : 'bytes',
             'id_ID' : 'byte',
-            'th_TH' : 'ไบท์',
+            'th_TH' : 'ไบต์',
             'pt_BR' : 'bytes',
             'da_DK' : 'bytes'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Negatif',
             'nl_NL' : 'Negatief',
             'id_ID' : 'Negatif',
-            'th_TH' : 'ปฎิเสธ',
+            'th_TH' : 'Negative',
             'pt_BR' : 'Negativo',
             'da_DK' : 'Negativ'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Check',
             'nl_NL' : 'Check',
             'id_ID' : 'Check',
-            'th_TH' : 'ตรวจสอบ',
+            'th_TH' : 'Check',
             'pt_BR' : 'Check',
             'da_DK' : 'Kontrollér'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Reply',
             'nl_NL' : 'Reply',
             'id_ID' : 'Reply',
-            'th_TH' : 'ตอบกลับ',
+            'th_TH' : 'Reply',
             'pt_BR' : 'Reply',
             'da_DK' : 'Svar'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'ms_MY' : 'Masih Aktif',
             'nl_NL' : 'Reeds actief',
             'id_ID' : 'Masih aktif',
-            'th_TH' : 'ยังคงใช้งานอยู่',
+            'th_TH' : 'ยังใช้งานอยู่',
             'pt_BR' : 'Ainda Ativo',
             'da_DK' : 'Stadig aktiv'
            },

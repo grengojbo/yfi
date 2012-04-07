@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.Actions"]){ //_hasResource checks added by b
             'ms_MY' : 'dipilih',
 		    'nl_NL' : 'geselecteerd',
             'id_ID' : 'Terpilih',
-            'th_TH' : 'ถูกเลือก',
+            'th_TH' : 'เลือก',
 			'pt_BR' : 'selecionado',
             'da_DK' : 'Valgt'
            }

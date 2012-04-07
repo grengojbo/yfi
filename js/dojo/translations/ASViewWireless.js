@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Tetapan Umum',
             'nl_NL' : 'Algemene instellingen',
             'id_ID' : 'Settingan Umum',
-            'th_TH' : 'การเ้ซ็ตทั่วไป',
+            'th_TH' : 'การตั้งค่าทั่วไป',
             'pt_BR' : 'Configurações Comuns',
             'da_DK' : 'Fælles indstillinger'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'SSID Selamat',
             'nl_NL' : 'Beveiligde SSID',
             'id_ID' : 'Amankan SSID',
-            'th_TH' : 'SSID แบบปลอดภัย',
+            'th_TH' : 'Secure SSID',
             'pt_BR' : 'SSID Seguro',
             'da_DK' : 'Beskyttet SSID'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Shared-Secret',
             'nl_NL' : 'Shared Secret',
             'id_ID' : 'Shared Secret',
-            'th_TH' : 'ข้อความลับที่ใช้ด้วยกัน',
+            'th_TH' : 'Shared Secret',
             'pt_BR' : 'Chave Compartilhada',
             'da_DK' : 'Delt hemmelig nøgle'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Open-SSID',
             'nl_NL' : 'Open SSID',
             'id_ID' : 'Open SSID',
-            'th_TH' : 'เปิด SSID',
+            'th_TH' : 'Open SSID',
             'pt_BR' : 'SSID Aberto',
             'da_DK' : 'Åbent SSID'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Berjaya mengubah Wayarles Auto-Setup',
             'nl_NL' : 'Auto Setup Draadloos succesvol gewijzigd',
             'id_ID' : 'Auto Setup Wireless berhasil terupdate',
-            'th_TH' : 'ปรับปรุงข้อมูลติดตั้ง ระบบวิทยุ แบบอัตโนมัติเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงข้อมูลติดตั้งระบบไร้สายแบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'Wireless Autoconfigurável atualizada OK',
             'da_DK' : 'Den automatiske trådløse konfiguration er opdateret'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'ms_MY' : 'Gagal mengubah Wayarles Auto-Setup',
             'nl_NL' : 'Auto Setup Draadloos wijzigen mislukt',
             'id_ID' : 'Auto Setup Wireless Gagal terupdate',
-            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้ง ระบบวิทยุ แบบอัตโนมัติ',
+            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้งระบบไร้สายแบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar Wireless Autoconfigurável',
             'da_DK' : 'Problemer med at opdatere den automatiske trådløse konfiguration'
            }

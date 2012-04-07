@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Pemberitahuan',
                 'nl_NL' : 'Notificatie',	
                 'id_ID' : 'Notifikasi',
-                'th_TH' : 'บอกกล่าว',
+                'th_TH' : 'การแจ้งเตือน',
                 'pt_BR' : 'Notificação',
                 'da_DK' : 'Besked'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Penggunaan',	
                 'nl_NL' : 'Verbruik',
                 'id_ID' : 'Pemakaian',
-                'th_TH' : 'การใช้',
+                'th_TH' : 'ข้อมูลการใช้',
                 'pt_BR' : 'Uso',
                 'da_DK' : 'Udnyttelse'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Atribut Profail',	
                 'nl_NL' : 'Profielattributen',
                 'id_ID' : 'Attribute Profil',
-                'th_TH' : 'คุณลักษณะรูปแบบการใช้งาน',
+                'th_TH' : 'Attribute กลุ่มผู้ใช้',
                 'pt_BR' : 'Atributos do Perfil',
                 'da_DK' : 'Profilegenskaber'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Atribut Peribadi',	
                 'nl_NL' : 'Prive-attributen',
                 'id_ID' : 'Attribute Pribadi',
-                'th_TH' : 'คุณลักษณะส่วนตัว',
+                'th_TH' : 'Attribute ส่วนตัว',
                 'pt_BR' : 'Atributos Privados',
                 'da_DK' : 'Private egenskaber'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Aktiviti',	
                 'nl_NL' : 'Activiteit',
                 'id_ID' : 'Aktifitas',
-                'th_TH' : 'กิจกรรม',
+                'th_TH' : 'ประวัติการใช้',
                 'pt_BR' : 'Atividade',
                 'da_DK' : 'Aktivitet'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
                 'ms_MY' : 'Khidmat Tambahan',
                 'nl_NL' : 'Extra diensten',	
                 'id_ID' : 'Layanan Extra',
-                'th_TH' : 'บริการพิเศษ',
+                'th_TH' : 'บริการเพิ่มเติม',
                 'pt_BR' : 'Serviços Extras',
                 'da_DK' : 'Ekstra tjenester'
            },
@@ -111,12 +111,17 @@ if(!dojo._hasResource["translations.PermanentGeneral"]){ //_hasResource checks a
             'ms_MY' : 'Kredit Internet',
             'nl_NL' : 'Internetkrediet',
             'id_ID' : 'Credit Internet',
-            'th_TH' : 'อินเตอร์เน็ตเครดิต',
+            'th_TH' : 'เครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Crédito de Internet',
             'da_DK' : 'Internetkredit'
            }
+        'Rights':{ 
+            'th_TH' : 'สิทธิ์เข้าถึง'
+           }
+        'Notes':{ 
+            'th_TH' : 'บันทึกย่อ'
+           }
     };
-
 })();//(function(){
 
 }

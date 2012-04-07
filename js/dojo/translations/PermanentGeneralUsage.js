@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'ms_MY' : 'Masa tambahan',	
             'nl_NL' : 'Extra tijd',
             'id_ID' : 'Waktu extra',
-            'th_TH' : 'เวลาพิเศษ',
+            'th_TH' : 'เวลาส่วนที่เพิ่มเติม',
             'pt_BR' : 'Tempo extra',
             'da_DK' : 'Ekstra tidsrum'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'ms_MY' : 'Data tambahan',	
             'nl_NL' : 'Extra data',
             'id_ID' : 'Data Extra',
-            'th_TH' : 'ข้อมูลพิเศษ',
+            'th_TH' : 'ข้อมูลส่วนที่เพิ่มเติม',
             'pt_BR' : 'Dados extra',
             'da_DK' : 'Ekstra data'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'ms_MY' : 'Masa diguna',	
             'nl_NL' : 'Verbruikte tijd',
             'id_ID' : 'Waktu terpakai',
-            'th_TH' : 'ใช้เวลาไป',
+            'th_TH' : 'เวลาที่ใช้',
             'pt_BR' : 'Tempo Usado',
             'da_DK' : 'Anvendt tidsrum'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'ms_MY' : 'Data diguna',	
             'nl_NL' : 'Verbruikte data',
             'id_ID' : 'Jumlah',
-            'th_TH' : 'ใช้ข้อมูลไป',
+            'th_TH' : 'ข้อมูลที่ใช้',
             'pt_BR' : 'Dados utilizados',
             'da_DK' : 'Anvendt datamængde'
            },

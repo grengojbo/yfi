@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'ms_MY' : 'Langkah Peratus',
             'nl_NL' : 'Percentage interval',
             'id_ID' : 'Step Persentase',
-            'th_TH' : 'ขั้นตอนร้อยละ',
+            'th_TH' : 'ลำดับขั้นร้อยละ',
             'pt_BR' : 'Porcentagem do Passo',
             'da_DK' : 'Procenttrin'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'ms_MY' : 'Berjaya mengubah Pemberitahuan',
             'nl_NL' : 'Notificatie succesvol gewijzigd',
             'id_ID' : 'Update Notifikasi berhasil',
-            'th_TH' : 'ประกาศปรับปรุงเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงการแจ้งเตือนเรียบร้อยแล้ว',
             'pt_BR' : 'Notificação atualizada OK',
             'da_DK' : 'Oplysning opdateret!'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'ms_MY' : 'Gagal mengubah Pemberitahuan',
             'nl_NL' : 'Notificatie wijzigen mislukt',
             'id_ID' : 'Update Notifikasi bermasalah',
-            'th_TH' : 'มีปัญหาในการปรับปรุงประกาศ',
+            'th_TH' : 'มีปัญหาในการปรับปรุงการแจ้งเตือน',
             'pt_BR' : 'Problemas ao atualizar a Notificação',
             'da_DK' : 'Problemer med at opdatere Oplysning'
            }

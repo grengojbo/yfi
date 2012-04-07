@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Kadar Pemotongan Masa Tambahan',
                 'nl_NL' : 'Tarief extra tijd',	
                 'id_ID' : 'Biaya Caps extra untuk tambahan waktu',
-                'th_TH' : 'อัตรา Cap แบบเวลาเพิ่มพิเศษ',
+                'th_TH' : 'อัตราเวลา Cap เพิ่มเติม',
                 'pt_BR' : 'Tarifa por Tempo Extra',
                 'da_DK' : 'Afgift for ekstra tidsrum'
            },
@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Kadar Pemotongan Data Tambahan',	
                 'nl_NL' : 'Tarief extra data',
                 'id_ID' : 'Biaya Caps extra untuk tambahan data',
-                'th_TH' : 'อัตรา Cap แบบข้อมูลเพิ่มพิเศษ',
+                'th_TH' : 'อัตราข้อมูล Cap เพิ่มเติม',
                 'pt_BR' : 'Tarifa por Dados Extra',
                 'da_DK' : 'Afgift for ekstra trafikmængde'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Kadar/Bait',	
                 'nl_NL' : 'Tarief/byte',
                 'id_ID' : 'Biaya/Byte',
-                'th_TH' : 'อัตรา/ไบท์',
+                'th_TH' : 'อัตรา/ไบต์',
                 'pt_BR' : 'Taxa/Byte',
                 'da_DK' : 'Afgift/byte'
            },
@@ -63,7 +63,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Simpan',
                 'nl_NL' : 'Opslaan',	
                 'id_ID' : 'Simpan',
-                'th_TH' : 'จัดเก็บ',
+                'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
                 'da_DK' : 'Gem'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Berjaya mengubah Kadar Pemotongan Tambahan',
                 'nl_NL' : 'Tarief voor extra tijd succesvol gewijzigd',	
                 'id_ID' : 'Update Biaya Caps extra berhasil',
-                'th_TH' : 'ปรับปรุงอัตรา Cap แบบพิเศษเรียบร้อยแล้ว',
+                'th_TH' : 'ปรับปรุงอัตรา Cap ส่วนเพิ่มเติมเรียบร้อยแล้ว',
                 'pt_BR' : 'Tarifa Extra atualizada OK',
                 'da_DK' : 'Afgiften for ekstra trafikmængde opdateret!'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.PlanViewExtra"]){ //_hasResource checks adde
                 'ms_MY' : 'Gagal mengubah Kadar Pemotongan Tambahan',	
                 'nl_NL' : 'Tarief voor extra data wijzigen mislukt',
                 'id_ID' : 'Bermasalah dalam mengupdate Biaya Caps extra',
-                'th_TH' : 'มีปัญหาในการปรับปรุงอัตรา Cap แบบพิเศษ',
+                'th_TH' : 'มีปัญหาในการปรับปรุงอัตรา Cap ส่วนเพิ่มเติม',
                 'pt_BR' : 'Problemas ao atualizar a Tarifa Extra',
                 'da_DK' : 'Problemer med at opdatere afgiften for ekstra trafikmængde'
            }

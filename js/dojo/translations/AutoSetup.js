@@ -15,7 +15,7 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'ms_MY' : 'Senaraikan Semula',
             'nl_NL' : 'Ververs lijst',
             'id_ID' : 'Reload Daftar',
-            'th_TH' : 'เรียกลิสต์มาดูใหม่',
+            'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Atualizar Lista',
             'da_DK' : 'Genindlæs liste'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -219,47 +219,36 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'ms_MY' : 'Berjaya mencipta Alat Auto-Setup baru',
             'nl_NL' : 'Nieuw Auto Setupapparaat toegevoegd',
             'id_ID' : 'Pembuatan Auto setup perangkat baru',
-            'th_TH' : 'ติดตั้งข้อมูลอุปกรณ์ใหม่แบบอัตโนมัติสร้างเสร็จแล้ว',
+            'th_TH' : 'ติดตั้งข้อมูลอุปกรณ์ใหม่แบบอัตโนมัติเสร็จแล้ว',
             'pt_BR' : 'Novo Dispositivo Autoconfigurável Criado'
-           },
-        'Reload List': { 
-            'de_DE' : 'Liste Aktualisieren'
-        },
-        'Add' : {
-            'de_DE' : 'Hinzufuegen'
-           },
-        'Delete Selected' : {
-            'de_DE' : 'Auswahl loeschen'
            },
         'Section' : {
             'de_DE' : 'Abteilung'
+            'th_TH' : 'Section'
            },
         'Note' : {
             'de_DE' : 'Notiz'
+            'th_TH' : 'บันทึกย่อ'
            },
         'Date' : {
             'de_DE' : 'Datum'
-           },
-        'Result count' : {
-            'de_DE' : 'Summe'
-           },
-       'No Selection made' : {
-            'de_DE' : 'Keine Auswahl getroffen'
+            'th_TH' : 'วันที่'
            },
        'Complete' : {
             'de_DE' : 'Fertig'
+            'th_TH' : 'สมบูรณ์'
            },
        'New Note' : {
             'de_DE' : 'Neue Notiz erfassen'
-           },
-       'Save' : {
-            'de_DE' : 'Speichern'
+            'th_TH' : 'เพิ่มบันทึกย่อ'
            },
        'Note added' : {
             'de_DE' : 'Notiz hinzugefuegt'
+            'th_TH' : 'เพิ่มบันทึกย่อแล้ว'
            },
        'Problems adding note' : {
             'de_DE' : 'Probleme beim hnzufuegen der Notiz'
+           'th_TH' : 'มีปัญหาในการเพิ่มบันทึกย่อ'
            },
         'Problems creating Auto Setup Device': { 
             'de_DE' : 'Problem beim hinzuf&uuml;gen Auto-Setup-Ger&auml;t',

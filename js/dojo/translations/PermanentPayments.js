@@ -39,7 +39,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Jana PDF',	
             'nl_NL' : 'Genereer PDF',
             'id_ID' : 'Hasilkan pdf',
-            'th_TH' : 'ทำเป็น PDF',
+            'th_TH' : 'สร้าง PDF',
             'pt_BR' : 'Gerar PDF',
             'da_DK' : 'Opret PDF'
            },
@@ -51,7 +51,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Hantar e-mel',	
             'nl_NL' : 'Stuur e-mail',
             'id_ID' : 'Kirim Email',
-            'th_TH' : 'ส่งอีเมล์',
+            'th_TH' : 'ส่งอีเมล',
             'pt_BR' : 'Enviar Email',
             'da_DK' : 'Send e-mail'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Jumlah',	
             'nl_NL' : 'Totaal',
             'id_ID' : 'Total',
-            'th_TH' : 'รวม',
+            'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
             'da_DK' : 'Samlet'
            },
@@ -111,7 +111,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Jumlah Invois',	
             'nl_NL' : 'Factuurtotaal',
             'id_ID' : 'Jumlah tagihan',
-            'th_TH' : 'ผลรวมใบกำกับสินค้า/ใบแจ้งหนี้',
+            'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
             'da_DK' : 'Samlede opgørelser'
            },
@@ -123,7 +123,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Jumlah Bayaran',	
             'nl_NL' : 'Betalingentotaal',
             'id_ID' : 'Jumlah pembayaran',
-            'th_TH' : 'ผลรวมการชำระเงิน',
+            'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
             'da_DK' : 'Samlede betalinger'
            },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Hantar e-mel kepada diri sendiri',	
             'nl_NL' : 'Stuur e-mail naar mijzelf',
             'id_ID' : 'Kirim email ke saya sendiri',
-            'th_TH' : 'ส่งอีเมล์ถึงตัวเอง',
+            'th_TH' : 'ส่งอีเมลถึงตัวเอง',
             'pt_BR' : 'Enviar email para mim mesmo',
             'da_DK' : 'Send e-mail til mig selv'
            },
@@ -219,7 +219,7 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'ms_MY' : 'Berjaya menghantar e-mel',	
             'nl_NL' : 'E-mail succesvol verzonden',
             'id_ID' : 'Pengiriman email berhasil',
-            'th_TH' : 'ส่งอีเมล์เรียบร้อย',
+            'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!'
            }

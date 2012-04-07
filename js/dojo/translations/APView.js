@@ -27,7 +27,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Hak',
             'nl_NL' : 'Rechten',
             'id_ID' : 'Hak',
-            'th_TH' : 'สิทธิ',
+            'th_TH' : 'สิทธิ์',
             'pt_BR' : 'Permissões',
             'da_DK' : 'Rettigheder'
            },
@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Telefon',
             'nl_NL' : 'Telefoon',
             'id_ID' : 'Telepon',
-            'th_TH' : 'เบอร์โทร.',
+            'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon'
             },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'e-mel',
             'nl_NL' : 'E-mail',
             'id_ID' : 'Email',
-            'th_TH' : 'อีเมล์',
+            'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail'
             },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Cawangan',
             'nl_NL' : 'Locaties',
             'id_ID' : 'Realm',
-            'th_TH' : 'อาณาเขต',
+            'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone'
             },
@@ -147,7 +147,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
             },
@@ -159,7 +159,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Berjaya mengubah Pembekal Akses',
             'nl_NL' : 'Leverancier succesvol toegevoegd',
             'id_ID' : 'Update Penyedia Akses berhasil',
-            'th_TH' : 'ปรับปรุงผู้ให้บริการแอคเซสเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงผู้บริหารการเข้าใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Provedor de Acesso atualizado OK',
             'da_DK' : 'Udbyder opdateret!'
             },
@@ -171,7 +171,7 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'ms_MY' : 'Gagal mengubah Pembekal Akses',
             'nl_NL' : 'Leverancier toevoegen mislukt',
             'id_ID' : 'Bermasalah saat mengupdate penyedia akses',
-            'th_TH' : 'มีปัญหาในการปรับปรุงผู้ให้บริการแอคเซส',
+            'th_TH' : 'มีปัญหาในการปรับปรุงผู้บริหารการเข้าใช้',
             'pt_BR' : 'Problemas ao atualizar o Provedor de Acesso',
             'da_DK' : 'Problemer med at opdatere udbyder'
             }

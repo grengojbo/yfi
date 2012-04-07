@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -135,7 +135,7 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'ms_MY' : 'Memadam Alat',
             'nl_NL' : 'Verwijder appara(a)t(en)',
             'id_ID' : 'Menghapus perangkat',
-            'th_TH' : 'กำลังลบอุปกรณ์',
+            'th_TH' : 'ลบอุปกรณ์',
             'pt_BR' : 'Deletando Dispositivo(s)',
             'da_DK' : 'Sletter enhed(er)'
            },

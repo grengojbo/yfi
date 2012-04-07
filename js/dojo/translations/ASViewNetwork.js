@@ -75,7 +75,7 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -87,7 +87,7 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'ms_MY' : 'Berjaya mengubah Rangkaian Auto-Setup',
             'nl_NL' : 'Auto Setup-netwerk succesvol gewijzigd',
             'id_ID' : 'Auto Setup Jaringan terupdate OK',
-            'th_TH' : 'ปรับปรุงข้อมูลติดตั้งโครงข่ายแบบอัตโนมัติเรียบร้อยแล้ว',
+            'th_TH' : 'ปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'Rede Autoconfigurável atualizada OK',
             'da_DK' : 'Automatisk netværksopsætning opdateret!'
            },
@@ -99,7 +99,7 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'ms_MY' : 'Gagal mengubah Rangkaian Auto-Setup',
             'nl_NL' : 'Auto Setup-netwerk wijzigen mislukt',
             'id_ID' : 'Auto Setup Jaringan gagal terupdate',
-            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้งข้อมูลโครงข่าย แบบอัตโนมัติ',
+            'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar a Rede Autoconfigurável',
             'da_DK' : 'Problemer med at opdatere den automatiske netværksopsætning'
            }

@@ -49,7 +49,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'ms_MY' : 'Tindakan diperlukan',
             'nl_NL' : 'Actie verplicht',
             'id_ID' : 'Tindakan dibutuhkan',
-            'th_TH' : 'ต้องการการกระทำ',
+            'th_TH' : 'จำเป็นต้องทำ',
             'pt_BR' : 'Ação Requerida',
             'da_DK' : 'En handling er nødvendig'
            },
@@ -61,7 +61,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'ms_MY' : 'Posisi baru',
             'nl_NL' : 'Nieuwe positie',
             'id_ID' : 'Posisi Baru',
-            'th_TH' : 'ตำแหน่งใหม่',
+            'th_TH' : 'เพิ่มตำแหน่ง',
             'pt_BR' : 'Nova posição',
             'da_DK' : 'Ny position'
            },
@@ -97,7 +97,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -217,7 +217,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'ms_MY' : 'Hanya tarik penanda ke posisi baru dan klik pautan simpan di dalam belon',
             'nl_NL' : 'Sleep de marker naar de nieuwe positie en klik op de opslaanlink in de ballon',
             'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
-            'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกด save ในบอลลูน',
+            'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกดบันทึก',
             'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão',
             'da_DK' : 'Træk en markør til dens nye position og klik på "Gem"'
            },
@@ -229,7 +229,7 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'ms_MY' : 'Pilihan',
             'nl_NL' : 'Voorkeuren',
             'id_ID' : 'Preferensi',
-            'th_TH' : 'ตั้งค่า',
+            'th_TH' : 'การตั้งค่า',
             'pt_BR' : 'Preferências',
             'da_DK' : 'Indstillinger'
            },

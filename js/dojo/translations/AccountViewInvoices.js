@@ -62,7 +62,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah',
             'nl_NL' : 'Totaal',
             'id_ID' : 'Total',
-            'th_TH' : 'รวม',
+            'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
             'da_DK' : 'I alt'
            },
@@ -74,7 +74,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah Invois',
             'nl_NL' : 'Totaal van de facturen',
             'id_ID' : 'Jumlah tagihan',
-            'th_TH' : 'ผลรวมใบกำกับสินค้า/ใบแจ้งหนี้',
+            'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
             'da_DK' : 'Samlede opgørelser'
            },
@@ -86,7 +86,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Jumlah Bayaran',
             'nl_NL' : 'Totaal van de betalingen',
             'id_ID' : 'Jumlah Pembayaran',
-            'th_TH' : 'ผลรวมการชำระเงิน',
+            'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
             'da_DK' : 'Samlede betalinger'
            },
@@ -122,7 +122,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -146,7 +146,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Cipta Invois Baru',
             'nl_NL' : 'Nieuwe factuur toevoegen',
             'id_ID' : 'Buat tagihan baru',
-            'th_TH' : 'สร้างใบกำกับสินค้า/ใบแจ้งหนี้ใหม่',
+            'th_TH' : 'สร้างใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Criar Nova Fatura',
             'da_DK' : 'Generér ny opgørelse'
            },
@@ -158,7 +158,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Simpan',
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
-            'th_TH' : 'จัดเก็บ',
+            'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem'
            },
@@ -183,7 +183,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Tarikh terpilih dalam Invois sedia ada',
             'nl_NL' : 'Geselecteerde datums komen voor in bestaande factuur',
             'id_ID' : 'Tanggal yang terpilih dalam tagihan yang ada',
-            'th_TH' : 'วันที่ถูกเลือกในใบกำกับสินค้า/ใบแจ้งหนี้ที่มีอยู่',
+            'th_TH' : 'วันที่เลือกในใบกำกับสินค้า/ใบแจ้งหนี้เคยมีอยู่แล้ว',
             'pt_BR' : 'Datas selecionadas na fatura existente',
             'da_DK' : 'Valgte datoer i eksisterende opgørelse'
            },
@@ -195,7 +195,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Invois Baru Ditambah',
             'nl_NL' : 'Nieuwe factuur toegevoegd',
             'id_ID' : 'tagihan telah ditambahkan',
-            'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้อันใหม่ถูกเพิ่มแล้ว',
+            'th_TH' : 'เพิ่มใบกำกับสินค้า/ใบแจ้งหนี้แล้ว',
             'pt_BR' : 'Nova Fatura Adicionada',
             'da_DK' : 'Ny opgørelse tilføjet'
            },
@@ -207,7 +207,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Hantar e-mel kepada pengguna',
             'nl_NL' : 'Stuur e-mail naar gebruiker',
             'id_ID' : 'Kirim email ke User',
-            'th_TH' : 'ส่งอีเมล์หาผู้ใช้',
+            'th_TH' : 'ส่งอีเมลหาผู้ใช้',
             'pt_BR' : 'Enviar email ao usuário',
             'da_DK' : 'Send e-mail til bruger'
            },
@@ -267,7 +267,7 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'ms_MY' : 'Berjaya menghantar e-mel',
             'nl_NL' : 'E-mail succesvol verzonden',
             'id_ID' : 'Pengiriman email berhasil',
-            'th_TH' : 'ส่งอีเมล์เรียบร้อย',
+            'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!'
            }
