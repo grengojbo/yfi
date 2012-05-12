@@ -1,5 +1,4 @@
 
-
 if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AutoSetup"] = true;
     dojo.provide("translations.AutoSetup");
@@ -223,31 +222,31 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'pt_BR' : 'Novo Dispositivo Autoconfigurável Criado'
            },
         'Section' : {
-            'de_DE' : 'Abteilung'
+            'de_DE' : 'Abteilung',
             'th_TH' : 'Section'
            },
         'Note' : {
-            'de_DE' : 'Notiz'
+            'de_DE' : 'Notiz',
             'th_TH' : 'บันทึกย่อ'
            },
         'Date' : {
-            'de_DE' : 'Datum'
+            'de_DE' : 'Datum',
             'th_TH' : 'วันที่'
            },
        'Complete' : {
-            'de_DE' : 'Fertig'
+            'de_DE' : 'Fertig',
             'th_TH' : 'สมบูรณ์'
            },
        'New Note' : {
-            'de_DE' : 'Neue Notiz erfassen'
+            'de_DE' : 'Neue Notiz erfassen',
             'th_TH' : 'เพิ่มบันทึกย่อ'
            },
        'Note added' : {
-            'de_DE' : 'Notiz hinzugefuegt'
+            'de_DE' : 'Notiz hinzugefuegt',
             'th_TH' : 'เพิ่มบันทึกย่อแล้ว'
            },
        'Problems adding note' : {
-            'de_DE' : 'Probleme beim hnzufuegen der Notiz'
+           'de_DE' : 'Probleme beim hnzufuegen der Notiz',
            'th_TH' : 'มีปัญหาในการเพิ่มบันทึกย่อ'
            },
         'Problems creating Auto Setup Device': { 
