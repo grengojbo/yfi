@@ -24,7 +24,7 @@ dojo.require('components.Translator');
         divContainer.innerHTML = "<h2>"+tr.tr({'module': 'Homepage','phrase':"Quick Help",'lang':l})+"</h2>"+
                         '<p>'+
                         tr.tr({'module': 'Homepage','phrase':"The administrative interface to <b>YFi Hotspot Manager</b>.",'lang':l})+'<br>'+
-                        tr.tr({'module': 'Homepage','phrase':"Selecting an action on the left will result on feedback  in this pane.",'lang':l})+'<br>'+
+                        tr.tr({'module': 'Homepage','phrase':"Selecting an action on the left will result on feedback in this pane.",'lang':l})+'<br>'+
                         tr.tr({'module': 'Homepage','phrase':"You can always close the feedback tabs to keep things simple.",'lang':l})+
                        '</p>';
         dojo.place(divContainer,divParent);

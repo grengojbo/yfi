@@ -33,7 +33,7 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'da_DK' : 'Administrationsvindue for <b>YFi Hotspot Manager</b>.',
             'it_IT' : 'Interfaccia di amministrazione di <b> YFi HotSpot Manager</b>'
         },
-        'Selecting an action on the left will result on feedback  in this panel.' : {
+        'Selecting an action on the left will result on feedback in this pane.' : {
             'de_DE' : 'Funktionen k&ouml;nnen links angew&auml;hlt werden.',
             'es_ES' : 'Al seleccionar una acción a la izquierda se mostrarán los resultados en este panel.',
             'af_ZA' : 'Kies aksies links om resultate aan hiedie kant te lewer.',
