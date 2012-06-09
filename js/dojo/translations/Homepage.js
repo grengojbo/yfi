@@ -31,7 +31,7 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'th_TH' : 'ส่วนติดต่อการดูแลระบบของ<b>YFi Hotspot Manager</b>',
             'pt_BR' : 'A interface administrativa do <b>YFI Hotspot Manager</b>',
             'da_DK' : 'Administrationsvindue for <b>YFi Hotspot Manager</b>.',
-            'it_IT' : 'Interfaccia di amministrazione di <b> YFi HotSpot Manager<b>'
+            'it_IT' : 'Interfaccia di amministrazione di <b> YFi HotSpot Manager</b>'
         },
         'Selecting an action on the left will result on feedback  in this panel.' : {
             'de_DE' : 'Funktionen k&ouml;nnen links angew&auml;hlt werden.',
