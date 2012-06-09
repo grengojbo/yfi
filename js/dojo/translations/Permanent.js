@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Reload data',
                 'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
                 'pt_BR' : 'Recarregar Dados',
-                'da_DK' : 'Genindlæs data'
+                'da_DK' : 'Genindlæs data',
+                'it_IT' : 'Ricarica dati'
            },
         'Usage Summary':{ 
                 'de_DE' : 'Nutzung',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Ringkasan Penggunaan',
                'th_TH' : 'สรุปการใช้',
                 'pt_BR' : 'Sumário de Uso',
-                'da_DK' : 'Opsummering af brug'
+                'da_DK' : 'Opsummering af brug',
+                'it_IT' : 'Informazioni di utilizzo'
            },
         'Data':{ 
                 'de_DE' : 'Daten',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Data',
                 'th_TH' : 'ข้อมูล',
                 'pt_BR' : 'Dados',
-                'da_DK' : 'Data'
+                'da_DK' : 'Data',
+                'it_IT' : 'Dati'
            },
         'Time':{ 
                 'de_DE' : 'Zeit',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Waktu',
                 'th_TH' : 'เวลา',
                 'pt_BR' : 'Tempo',
-                'da_DK' : 'Tid'
+                'da_DK' : 'Tid',
+                'it_IT' : 'Tempo'
            },
         'Used':{ 
                 'de_DE' : 'Verbraucht',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Terpakai',
                 'th_TH' : 'ใช้ไป',
                 'pt_BR' : 'Utilizado',
-                'da_DK' : 'Brugt'
+                'da_DK' : 'Brugt',
+                'it_IT' : 'Usato(i)'
            },
         'Available':{ 
                 'de_DE' : 'Verf&uuml;gbar',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Tersedia',
                 'th_TH' : 'สามารถใช้ได้',
                 'pt_BR' : 'Disponível',
-                'da_DK' : 'Tilgængelig'
+                'da_DK' : 'Tilgængelig',
+                'it_IT' : 'Disponibile(i)'
            },
         'Extras':{ 
                 'de_DE' : 'Extras',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Tambahan',
                 'th_TH' : 'ส่วนเพิ่มเติม',
                 'pt_BR' : 'Extras',
-                'da_DK' : 'Ekstra'
+                'da_DK' : 'Ekstra',
+                'it_IT' : 'Extra'
         },
         'Available is':{ 
                 'de_DE' : 'Verf&uuml;gbar ist',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Yang tersedia adalah',
                 'th_TH' : 'ใช้ได้คือ',
                 'pt_BR' : 'Disponível',
-                'da_DK' : 'Til rådighed er'
+                'da_DK' : 'Til rådighed er',
+                'it_IT' : 'Disponibile'
            },
         'Used is':{ 
                 'de_DE' : 'Verbraucht ist',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Yang terpakai adalah',
                 'th_TH' : 'ใช้ไป',
                 'pt_BR' : 'Utilizado',
-                'da_DK' : 'Udnyttet er'
+                'da_DK' : 'Udnyttet er',
+                'it_IT' : 'Usato'
            },
         'From':{ 
                 'de_DE' : 'Von',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Dari',
                 'th_TH' : 'จาก',
                 'pt_BR' : 'Desde',
-                'da_DK' : 'Fra'
+                'da_DK' : 'Fra',
+                'it_IT' : 'Da'
            },
         'Until':{ 
                 'de_DE' : 'Bis',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Hingga',
                 'th_TH' : 'จนถึง',
                 'pt_BR' : 'Até',
-                'da_DK' : 'Indtil'
+                'da_DK' : 'Indtil',
+                'it_IT' : 'Fino'
            },
         'Kick myself off':{ 
                 'de_DE' : 'Verbindung trennen',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Offline kan diri saya',
                 'th_TH' : 'เตะตัวเองออก',
                 'pt_BR' : 'Desconectar-me',
-                'da_DK' : 'Afbryd mig selv!'
+                'da_DK' : 'Afbryd mig selv!',
+                'it_IT' : 'Disconnettimi'
            },
         'Attempt kick off':{ 
                 'de_DE' : 'Verbindung wird getrennt ...',
@@ -159,9 +171,10 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'ms_MY' : 'Sedang menendang',	
                 'nl_NL' : 'Verbinding verbreken...',
                 'id_ID' : 'Sedang mengkick off',
-				'th_TH' : 'พยายามเตะออก',
+                'th_TH' : 'พยายามเตะออก',
                 'pt_BR' : 'Tentar desconectar',
-                'da_DK' : 'Forsøger at afbryde brugeren...'
+                'da_DK' : 'Forsøger at afbryde brugeren...',
+                'it_IT' : 'Tentativo di disconnessione'
         },
         'User kicked off OK':{ 
                 'de_DE' : 'Benutzer wurde getrennt',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.Permanent"]){ //_hasResource checks added by
                 'id_ID' : 'Kick Off user berhasil',
                 'th_TH' : 'เตะผู้ใช้ออกเรียบร้อยแล้ว',
                 'pt_BR' : 'Desconexão de usuário OK',
-                'da_DK' : 'Brugeren afbrudt!'
+                'da_DK' : 'Brugeren afbrudt!',
+                'it_IT' : 'Utente disconnesso!'
         }
     };
 

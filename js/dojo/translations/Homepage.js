@@ -17,10 +17,11 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'id_ID' : 'Bantuan cepat',
             'th_TH' : 'ช่วยเหลือเร่งด่วน',
             'pt_BR' : 'Ajuda Rápida',
-            'da_DK' : 'Hurtig hjælp'
+            'da_DK' : 'Hurtig hjælp',
+            'it_IT' : 'Aiuto veloce'
            },
         'The administrative interface to <b>YFi Hotspot Manager</b>.' : {
-            'de_DE' : '<b>YFi Hotspot Manager</b> Administration',	        
+            'de_DE' : '<b>YFi Hotspot Manager</b> Administration',       
             'es_ES' : 'La interfaz administrativa de <b>YFi Hotspot</b>.',
             'af_ZA' : '<b>YFi Hotspot Manager</b> se bestuurkajuit.',
             'fr_FR' : 'Interface administrative de <b>YFi Hotspot Manager</b>',
@@ -29,9 +30,10 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'id_ID' : 'Interface administrator untuk <b>Hotspot Manager Yfi</b>.',
             'th_TH' : 'ส่วนติดต่อการดูแลระบบของ<b>YFi Hotspot Manager</b>',
             'pt_BR' : 'A interface administrativa do <b>YFI Hotspot Manager</b>',
-            'da_DK' : 'Administrationsvindue for <b>YFi Hotspot Manager</b>.'
+            'da_DK' : 'Administrationsvindue for <b>YFi Hotspot Manager</b>.',
+            'it_IT' : 'Interfaccia di amministrazione di <b> YFi HotSpot Manager<b>'
         },
-        'Selecting an action on the left will result on feedback  in this pane.' : {
+        'Selecting an action on the left will result on feedback  in this panel.' : {
             'de_DE' : 'Funktionen k&ouml;nnen links angew&auml;hlt werden.',
             'es_ES' : 'Al seleccionar una acción a la izquierda se mostrarán los resultados en este panel.',
             'af_ZA' : 'Kies aksies links om resultate aan hiedie kant te lewer.',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'id_ID' : 'Pilih aksi di kanan akan menghasilkan umpan balik di panel ini',
             'th_TH' : 'เลือกการดำเนินการทางซ้ายจะมีผลต่อช่องนี้',
             'pt_BR' : 'Ao selecionar uma ação no lado esquerdo, será mostrado o resultado neste painel.',
-            'da_DK' : 'Vælger du en handling i venstre side vil det resultere i en tilbagemelding i dette panel.'
+            'da_DK' : 'Vælger du en handling i venstre side vil det resultere i en tilbagemelding i dette panel.',
+            'it_IT' : 'Effettuare una scelta nel menù di sinistra e verrà visualizzata in questo pannello'
         },
         'You can always close the feedback tabs to keep things simple.' : {
             'de_DE' : 'Zur besseren Ansicht k&ouml;nnen die Registerkarten jederzeit geschlossen werden. Sollte die Webseite nicht ordnungsgem&auml&szlig; angezeigt werden bitte die Taste "F5" dr&uuml;cken!',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Homepage"]){ //_hasResource checks added by 
             'id_ID' : 'Anda selalu bisa menutup umpan balik jika ingin membuatnya sederhana',
             'th_TH' : 'คุณสามารถปิดแท็บที่แสดงบนหน้าจอเพื่อการใช้งานที่สะดวกขึ้น',
             'pt_BR' : 'Você pode sempre fechar a aba de detalhes para simplificar a visualização.',
-            'da_DK' : 'For at forenkle skærmbilledet kan du altid lukke fanerne med tilbagemeldinger.'
+            'da_DK' : 'For at forenkle skærmbilledet kan du altid lukke fanerne med tilbagemeldinger.',
+            'it_IT' : 'In qualsiasi momento è possibile chiudere il pannello per liberare spazio'
         }
     };
 

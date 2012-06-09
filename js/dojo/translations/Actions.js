@@ -8,16 +8,17 @@ if(!dojo._hasResource["translations.Actions"]){ //_hasResource checks added by b
 
     translations.Actions.phrases     = {
         'selected': {
-			'de_DE' : 'ausgew&auml;hlt',
-	        'es_ES' : 'seleccionado', 
+            'de_DE' : 'ausgew&auml;hlt',
+            'es_ES' : 'seleccionado', 
             'af_ZA' : 'gekies',
             'fr_FR' : 'selectionné',
             'ms_MY' : 'dipilih',
-		    'nl_NL' : 'geselecteerd',
+            'nl_NL' : 'geselecteerd',
             'id_ID' : 'Terpilih',
             'th_TH' : 'เลือก',
-			'pt_BR' : 'selecionado',
-            'da_DK' : 'Valgt'
+            'pt_BR' : 'selecionado',
+            'da_DK' : 'Valgt',
+            'it_IT' : 'selezionato'
            }
     };
 

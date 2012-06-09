@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
-            'da_DK' : 'Filter'
+            'da_DK' : 'Filter',
+            'it_IT' : 'Filtro'
            },
          'Field': { 
             'de_DE' : 'Feld',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
-            'da_DK' : 'Felt'
+            'da_DK' : 'Felt',
+            'it_IT' : 'Campo'
            },
          'Voucher': { 
             'de_DE' : 'Ticket',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Voucher',
             'th_TH' : 'คูปอง',
             'pt_BR' : 'Voucher',
-            'da_DK' : 'Adgangskort'
+            'da_DK' : 'Adgangskort',
+            'it_IT' : 'Voucher'
            },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Profile',
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Creator': { 
             'de_DE' : 'Ersteller',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Pembuat',
             'th_TH' : 'ผู้สร้าง',
             'pt_BR' : 'Criador',
-            'da_DK' : 'Ophavsmand'
+            'da_DK' : 'Ophavsmand',
+            'it_IT' : 'Creato da'
            },
         'Realm': { 
             'de_DE' : 'Standort',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Realm',
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
-            'da_DK' : 'Hotspot zone'
+            'da_DK' : 'Hotspot zone',
+            'it_IT' : 'Dominio'
            },
         'Created': { 
             'de_DE' : 'Erstellt',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Dibuat',
             'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
-            'da_DK' : 'Oprettet'
+            'da_DK' : 'Oprettet',
+            'it_IT' : 'Creato'
            },
         'Status': { 
             'de_DE' : 'Status',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Status',
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
-            'da_DK' : 'Status'
+            'da_DK' : 'Status',
+            'it_IT' : 'Stato'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'New Voucher': { 
             'de_DE' : 'Neues Ticket',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Voucher baru',
             'th_TH' : 'เพิ่มคูปอง',
             'pt_BR' : 'Novo Voucher',
-            'da_DK' : 'Nyt adgangskort'
+            'da_DK' : 'Nyt adgangskort',
+            'it_IT' : 'Nuovo voucher'
            },
         'Precede String': { 
             'de_DE' : 'Zusatzname',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Kode awal',
             'th_TH' : 'คำนำหน้า',
             'pt_BR' : 'Prefixo',
-            'da_DK' : 'Tilføj tekststreng forrest'
+            'da_DK' : 'Tilføj tekststreng forrest',
+            'it_IT' : 'Prefisso'
            },
         'day from first log-in' : {
             'de_DE' : 'Tag ab erster Anmeldung',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Hari setelah login',
             'th_TH' : 'วัน นับจากเริ่มใช้งาน',
             'pt_BR' : 'dia desde o primeiro login',
-            'da_DK' : 'dag fra første anvendelse'
+            'da_DK' : 'dag fra første anvendelse',
+            'it_IT' : 'Giorno dal primo accesso'
            },
         'days from first log-in' : {
             'de_DE' : 'Tage ab erster Anmeldung',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Hari setelah login',
             'th_TH' : 'วัน นับจากเริ่มใช้งาน',
             'pt_BR' : 'dias desde o primeiro login',
-            'da_DK' : 'dage fra første anvendelse'
+            'da_DK' : 'dage fra første anvendelse',
+            'it_IT' : 'Giorni dal primo accesso'
            },
         'Valid for' : {
             'de_DE' : 'Gueltig fuer',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Berlaku sampai',
             'th_TH' : 'มีอายุการใช้งาน',
             'pt_BR' : 'Válido durante',
-            'da_DK' : 'Gyldig til'
+            'da_DK' : 'Gyldig til',
+            'it_IT' : 'Valido per'
            },
         'Expiry date': { 
             'de_DE' : 'Ablaufdatum',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Gunakan voucher sebelum',
             'th_TH' : 'วันที่หมดอายุ',
             'pt_BR' : 'Data de expiração',
-            'da_DK' : 'Udløbsdato'
+            'da_DK' : 'Udløbsdato',
+            'it_IT' : 'Data di scadenza'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'New voucher created OK' : {
             'de_DE' : 'Neues Ticket erstellt',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Pembuatan voucher berhasil',
             'th_TH' : 'สร้างคูปองใหม่เรียบร้อยแล้ว',
             'pt_BR' : 'Novo voucher criado OK',
-            'da_DK' : 'Nyt adgangskort oprettet!'
+            'da_DK' : 'Nyt adgangskort oprettet!',
+            'it_IT' : 'Nuovo voucher creato!'
            },
         'Problems creating voucher' : {
             'de_DE' : 'Problem beim erstellen Ticket',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'bermasalah dalam Pembuatan voucher',
             'th_TH' : 'มีปัญหาในการสร้างคูปอง',
             'pt_BR' : 'Problemas ao criar o voucher',
-            'da_DK' : 'Problemer med at oprette adgangskort'
+            'da_DK' : 'Problemer med at oprette adgangskort',
+            'it_IT' : 'Problemi durante la creazione del voucher'
            },
         'Removing Vouchers': {
             'de_DE' : 'Ticket entfernen',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Hapus Voucher',
             'th_TH' : 'ลบคูปอง',
             'pt_BR' : 'Removendo vouchers',
-            'da_DK' : 'Fjerner adgangskort...'
+            'da_DK' : 'Fjerner adgangskort...',
+            'it_IT' : 'Eliminazione voucher'
            },
         'Voucher(s) Removed OK': {
             'de_DE' : 'Ticket(s) entfernt',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'penghapusan Voucher berhasil',
             'th_TH' : 'คูปองถูกลบแล้ว',
             'pt_BR' : 'Voucher(s) removido(s) OK',
-            'da_DK' : 'Adgangskort fjernet!'
+            'da_DK' : 'Adgangskort fjernet!',
+            'it_IT' : 'Voucher rimosso(i)'
            },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r ',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
-            'da_DK' : 'Åbner detaljer for'
+            'da_DK' : 'Åbner detaljer for',
+            'it_IT' : 'Apri dettagli per'
            },
         'new': {
             'de_DE' : 'neu',
@@ -281,7 +303,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Baru',
             'th_TH' : 'เพิ่มใหม่',
             'pt_BR' : 'novo',
-            'da_DK' : 'ny'
+            'da_DK' : 'ny',
+            'it_IT' : 'nuovo'
            },
         'used': {
             'de_DE' : 'verwendet',
@@ -293,7 +316,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'terpakai',
             'th_TH' : 'ใช้ไป',
             'pt_BR' : 'usado',
-            'da_DK' : 'benyttet'
+            'da_DK' : 'benyttet',
+            'it_IT' : 'usati'
            },
         'depleted': {
             'de_DE' : 'verbraucht',
@@ -305,7 +329,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Habis',
             'th_TH' : 'ถูกทำให้หมดลง',
             'pt_BR' : 'esgotados',
-            'da_DK' : 'udtømt'
+            'da_DK' : 'udtømt',
+            'it_IT' : 'ridotto'
            },
         'Select Format' :{
             'de_DE' : 'Format w&auml;hlen',
@@ -317,7 +342,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Pilih format',
             'th_TH' : 'เลือกรูปแบบ',
             'pt_BR' : 'Selecionar o Formato',
-            'da_DK' : 'Vælg format'
+            'da_DK' : 'Vælg format',
+            'it_IT' : 'Seleziona formato'
            },
         'PDF Output Format' :{
             'de_DE' : 'PDF Ausgabe Format',
@@ -329,7 +355,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Format output PDF',
             'th_TH' : 'รูปแบบ PDF',
             'pt_BR' : 'Formato de Saída PDF',
-            'da_DK' : 'PDF format'
+            'da_DK' : 'PDF format',
+            'it_IT' : 'Formato PDF'
            },
         'Language' : {
             'de_DE' : 'Sprache',
@@ -341,7 +368,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
-            'da_DK' : 'Sprog'
+            'da_DK' : 'Sprog',
+            'it_IT' : 'Lingua'
            },
         'OK':{
             'de_DE' : 'OK',
@@ -353,7 +381,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
-            'da_DK' : 'OK'
+            'da_DK' : 'OK',
+            'it_IT' : 'OK'
            }
     };
 

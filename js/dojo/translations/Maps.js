@@ -15,7 +15,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Normal',
             'th_TH' : 'ปกติ',
             'pt_BR' : 'Normal',
-            'da_DK' : 'Normal'
+            'da_DK' : 'Normal',
+            'it_IT' : 'Normale'
            },
         'Satellite': { 
             'de_DE' : 'Satellit',
@@ -27,7 +28,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Satelit',
             'th_TH' : 'ดาวเทียม',
             'pt_BR' : 'Satélite',
-            'da_DK' : 'Satellit'
+            'da_DK' : 'Satellit',
+            'it_IT' : 'Satellite'
            },
         'Hybrid': { 
             'de_DE' : 'Hybrid',
@@ -39,7 +41,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Hybrid',
             'th_TH' : 'ลูกผสม',
             'pt_BR' : 'Híbrido',
-            'da_DK' : 'Hybrid'
+            'da_DK' : 'Hybrid',
+            'it_IT' : 'Ibrida'
            },
         'Action Required': { 
             'de_DE' : 'Aktion ben&ouml;tigt',
@@ -51,7 +54,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tindakan dibutuhkan',
             'th_TH' : 'จำเป็นต้องทำ',
             'pt_BR' : 'Ação Requerida',
-            'da_DK' : 'En handling er nødvendig'
+            'da_DK' : 'En handling er nødvendig',
+            'it_IT' : 'Azione richiesta'
            },
         'New position': { 
             'de_DE' : 'Neue Position',
@@ -63,7 +67,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Posisi Baru',
             'th_TH' : 'เพิ่มตำแหน่ง',
             'pt_BR' : 'Nova posição',
-            'da_DK' : 'Ny position'
+            'da_DK' : 'Ny position',
+            'it_IT' : 'Nuova posizione'
            },
         'Longitude': { 
             'de_DE' : 'Laengengrad',
@@ -75,7 +80,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Garis Bujur',
             'th_TH' : 'ลองจิจูด',
             'pt_BR' : 'Longitude',
-            'da_DK' : 'Længdegrad'
+            'da_DK' : 'Længdegrad',
+            'it_IT' : 'Longitudine'
            },
         'Latitude': { 
             'de_DE' : 'Breitengrad',
@@ -87,7 +93,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Garis Lintang',
             'th_TH' : 'ละติจูด',
             'pt_BR' : 'Latitude',
-            'da_DK' : 'Breddegrad'
+            'da_DK' : 'Breddegrad',
+            'it_IT' : 'Latitudine'
            },
         'Save': { 
             'de_DE' : 'Speichern',
@@ -99,7 +106,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Cancel': { 
             'de_DE' : 'Abrechen',
@@ -111,7 +119,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Batal',
             'th_TH' : 'ยกเลิก',
             'pt_BR' : 'Cancelar',
-            'da_DK' : 'Fortryd'
+            'da_DK' : 'Fortryd',
+            'it_IT' : 'Annulla'
            },
         'Delete': { 
             'de_DE' : 'L&ouml;schen',
@@ -123,7 +132,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Hapus',
             'th_TH' : 'ลบ',
             'pt_BR' : 'Deletar',
-            'da_DK' : 'Slet'
+            'da_DK' : 'Slet',
+            'it_IT' : 'Elimina'
            },
         'New marker already on map': { 
             'de_DE' : 'Neue Markierung bereits auf Karte ',
@@ -135,7 +145,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tanda baru sudah ada di peta',
             'th_TH' : 'มีผู้ทำเครื่องหมายบนแผนที่แล้ว',
             'pt_BR' : 'Novo marcador já no mapa',
-            'da_DK' : 'Den nye markør er allerede på kortet'
+            'da_DK' : 'Den nye markør er allerede på kortet',
+            'it_IT' : 'La nuova posizione è già presente nella mappa'
            },
         'Add Marker': { 
             'de_DE' : 'Markierung hinzuf&uuml;gen',
@@ -147,7 +158,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tambah marker',
             'th_TH' : 'เพิ่มเครื่องหมาย',
             'pt_BR' : 'Adicionar Marcador',
-            'da_DK' : 'Tilføj markør'
+            'da_DK' : 'Tilføj markør',
+            'it_IT' : 'Aggiungi posizione'
            },
         'Available': { 
             'de_DE' : 'Verfuegbar',
@@ -159,7 +171,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tersedia',
             'th_TH' : 'สามารถใช้ได้',
             'pt_BR' : 'Disponível',
-            'da_DK' : 'Til rådighed'
+            'da_DK' : 'Til rådighed',
+            'it_IT' : 'Disponibile'
            },
         'Drag and drop marker to required position': { 
             'de_DE' : 'Markierung zu neuer Postion ziehen',
@@ -171,7 +184,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tarik dan pasang marker pada posisi yang diinginkan',
             'th_TH' : 'ลากแล้วปล่อยเครื่องหมายยังตำแหน่งที่ต้องการ',
             'pt_BR' : 'Arraste e solte o marcador na posição requerida',
-            'da_DK' : 'Træk og slip en markør ved den ønskede position'
+            'da_DK' : 'Træk og slip en markør ved den ønskede position',
+            'it_IT' : 'Trascinare il punto nella posizione richiesta'
            },
         'Edit a marker': { 
             'de_DE' : 'Makierung bearbeiten',
@@ -183,7 +197,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Edit Marker',
             'th_TH' : 'แก้ไขเครื่องหมาย',
             'pt_BR' : 'Editar um marcador',
-            'da_DK' : 'Redigér en markør'
+            'da_DK' : 'Redigér en markør',
+            'it_IT' : 'Modifica un punto'
            },
         'Instructions': { 
             'de_DE' : 'Instruktionen',
@@ -195,7 +210,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Petunjuk',
             'th_TH' : 'วิธีใช้',
             'pt_BR' : 'Instruções',
-            'da_DK' : 'Vejledning'
+            'da_DK' : 'Vejledning',
+            'it_IT' : 'Istruzioni'
            },
         'Delete a marker': { 
             'de_DE' : 'Markierung l&ouml;schen',
@@ -207,7 +223,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Hapus Marker',
             'th_TH' : 'ลบเครื่องหมาย',
             'pt_BR' : 'Deletar um marcador',
-            'da_DK' : 'Slet en markør'
+            'da_DK' : 'Slet en markør',
+            'it_IT' : 'Elimina un punto'
            },
         'Simply drag a marker to its new postition and click on the save link in the balloon': { 
             'de_DE' : 'Markierung in die neue Postion ziehen und im Ballon speichern klicken',
@@ -219,7 +236,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tarik sebuah marker ke posisinya yang baru dan klik link save in Ballon',
             'th_TH' : 'ง่ายๆเพียงลากเครื่องหมายไปยังตำแหน่งใหม่แล้วกดบันทึก',
             'pt_BR' : 'Simplesmente arraste um marcador para sua nova posição e clique no link salvar no balão',
-            'da_DK' : 'Træk en markør til dens nye position og klik på "Gem"'
+            'da_DK' : 'Træk en markør til dens nye position og klik på "Gem"',
+            'it_IT' : 'Trascinare semplicemente un punto nella nuova posizione e fare click su Salva link'
            },
         'Preferences': { 
             'de_DE' : 'Einstellungen',
@@ -231,7 +249,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Preferensi',
             'th_TH' : 'การตั้งค่า',
             'pt_BR' : 'Preferências',
-            'da_DK' : 'Indstillinger'
+            'da_DK' : 'Indstillinger',
+            'it_IT' : 'Preferenze'
            },
         'Zoom Level': { 
             'de_DE' : 'Zoom Level',
@@ -243,7 +262,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Level Zoom',
             'th_TH' : 'ระดับการซูม',
             'pt_BR' : 'Nível de Zoom',
-            'da_DK' : 'Zoom niveau'
+            'da_DK' : 'Zoom niveau',
+            'it_IT' : 'Livello di zoom'
            },
         'Type': { 
             'de_DE' : 'Type',
@@ -255,7 +275,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Tipe',
             'th_TH' : 'ชนิด',
             'pt_BR' : 'Tipo',
-            'da_DK' : 'Type'
+            'da_DK' : 'Type',
+            'it_IT' : 'Tipo'
            },
         'Preferences updated OK': { 
             'de_DE' : 'Einstellungen aktualisiert',
@@ -267,7 +288,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Update Preferensi Berhasil',
             'th_TH' : 'ปรับปรุงการตั้งค่าเรียบร้อยแล้ว',
             'pt_BR' : 'Preferências atualizadas OK',
-            'da_DK' : 'Indstillinger opdateret!'
+            'da_DK' : 'Indstillinger opdateret!',
+            'it_IT' : 'preferenze aggiornate!'
            },
         'Problems updating Preferences': { 
             'de_DE' : 'Probleme beim aktualisieren der VEinstellungen',
@@ -279,7 +301,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Update Preferensi Bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงการตั้งค่า',
             'pt_BR' : 'Problemas ao atualizar as preferências',
-            'da_DK' : 'Problemer med at opdatere Indstillinger'
+            'da_DK' : 'Problemer med at opdatere Indstillinger',
+            'it_IT' : 'problemi durante l\'aggiornamento delle preferenze'
            },
         'Update completed': { 
             'de_DE' : 'Aktualisierung abgeschlossen',
@@ -291,7 +314,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Update Selesai',
             'th_TH' : 'ปรับปรุงเสร็จสมบูรณ์',
             'pt_BR' : 'Atualização completada',
-            'da_DK' : 'Opdatering afsluttet'
+            'da_DK' : 'Opdatering afsluttet',
+            'it_IT' : 'Aggiornamento completato'
            },
         'Problems updating markers': { 
             'de_DE' : 'Problem beim aktualisieren der Markierung',
@@ -303,7 +327,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'id_ID' : 'Update marker bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงเครื่องหมาย',
             'pt_BR' : 'Problemas ao atualizar os marcadores',
-            'da_DK' : 'Problemer med at opdatere markører'
+            'da_DK' : 'Problemer med at opdatere markører',
+            'it_IT' : 'Problemi durante l\'aggiornamento dei punti'
            }
     };
 

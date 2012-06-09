@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Gb',
             'th_TH' : 'กิกะบิต',
             'pt_BR' : 'Gb',
-            'da_DK' : 'Gb'
+            'da_DK' : 'Gb',
+            'it_IT' : 'Gb'
            },
         'Mb': { 
             'de_DE' : 'Mb',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Mb',
             'th_TH' : 'เมกะบิต',
             'pt_BR' : 'Mb',
-            'da_DK' : 'Mb'
+            'da_DK' : 'Mb',
+            'it_IT' : 'Mb'
            },
         'Kb': { 
             'de_DE' : 'Kb',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Kb',
             'th_TH' : 'กิโลบิต',
             'pt_BR' : 'Kb',
-            'da_DK' : 'Kb'
+            'da_DK' : 'Kb',
+            'it_IT' : 'Kb'
            },
         'bytes': { 
             'de_DE' : 'Bytes',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'byte',
             'th_TH' : 'ไบต์',
             'pt_BR' : 'bytes',
-            'da_DK' : 'bytes'
+            'da_DK' : 'bytes',
+            'it_IT' : 'bytes'
            },
         'Negative': { 
             'de_DE' : 'Negativ',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Negatif',
             'th_TH' : 'Negative',
             'pt_BR' : 'Negativo',
-            'da_DK' : 'Negativ'
+            'da_DK' : 'Negativ',
+            'it_IT' : 'Negativo'
            },
         'days': { 
             'de_DE' : 'Tage',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Hari',
             'th_TH' : 'วัน',
             'pt_BR' : 'dias',
-            'da_DK' : 'dage'
+            'da_DK' : 'dage',
+            'it_IT' : 'giorni'
            },
         'hours': { 
             'de_DE' : 'Stunden',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Jam',
             'th_TH' : 'ชั่วโมง',
             'pt_BR' : 'horas',
-            'da_DK' : 'timer'
+            'da_DK' : 'timer',
+            'it_IT' : 'ore'
            },
         'minutes': { 
             'de_DE' : 'Minuten',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Menit',
             'th_TH' : 'นาที',
             'pt_BR' : 'minutos',
-            'da_DK' : 'minutter'
+            'da_DK' : 'minutter',
+            'it_IT' : 'minuti'
            },
         'seconds': { 
             'de_DE' : 'Sekunden',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Detik',
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
-            'da_DK' : 'sekunder'
+            'da_DK' : 'sekunder',
+            'it_IT' : 'secondi'
            },
         'Check':{ 
             'de_DE' : 'Kontrollieren',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Check',
             'th_TH' : 'Check',
             'pt_BR' : 'Check',
-            'da_DK' : 'Kontrollér'
+            'da_DK' : 'Kontrollér',
+            'it_IT' : 'Verifica'
            },
         'Reply':{ 
             'de_DE' : 'Antworten',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Reply',
             'th_TH' : 'Reply',
             'pt_BR' : 'Reply',
-            'da_DK' : 'Svar'
+            'da_DK' : 'Svar',
+            'it_IT' : 'Risposta'
            },
         'Still Active':{ 
             'de_DE' : 'Noch Aktiv',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Masih aktif',
             'th_TH' : 'ยังใช้งานอยู่',
             'pt_BR' : 'Ainda Ativo',
-            'da_DK' : 'Stadig aktiv'
+            'da_DK' : 'Stadig aktiv',
+            'it_IT' : 'Attivo permanentemente'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'id_ID' : 'Selesai',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            }
     };
 

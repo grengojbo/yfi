@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Info Icon displays info on selected item': { 
             'de_DE' : 'Info Icon zeigt Informationen &uuml;ber ausgew&auml;hlte Element',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Info icon menampilkan info pada item yang terpilih',
             'th_TH' : 'ไอคอนข้อมูล แสดงในรายการที่เลือก',
             'pt_BR' : 'Ícone de Informação mostra a informação do objeto selecionado',
-            'da_DK' : 'Info-ikonen viser information om det valgte emne'
+            'da_DK' : 'Info-ikonen viser information om det valgte emne',
+            'it_IT' : 'L\'icona Info visualizza informazioni sull\'oggetto selezionato'
            },
         'Select': { 
             'de_DE' : 'Ausw&auml;hlen',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Pilih',
             'th_TH' : 'เลือก',
             'pt_BR' : 'Selecionar',
-            'da_DK' : 'Vælg'
+            'da_DK' : 'Vælg',
+            'it_IT' : 'Seleziona'
            },
         'a row in the grid': { 
             'de_DE' : 'eine Zeile in der Tabelle',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Baris dalam lintasan',
             'th_TH' : 'แถวในตาราง',
             'pt_BR' : 'uma linha na tabela',
-            'da_DK' : 'en række i gitteret'
+            'da_DK' : 'en række i gitteret',
+            'it_IT' : 'una riga nella griglia'
            },
         'Hover':{ 
             'de_DE' : 'Bewegen',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Dilalui',
             'th_TH' : 'เลื่อนไปบน',
             'pt_BR' : 'Sobre',
-            'da_DK' : 'Placér'
+            'da_DK' : 'Placér',
+            'it_IT' : 'Sorvolare'
            },
         'with the mouse over the info icon to display a tooltip on the':{ 
             'de_DE' : 'mit der Maus über das Info-Symbol, um eine Quick-Info auf der',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Dengan mouse diatas info icon untuk menampilkan tips pada',
             'th_TH' : 'ด้วยการนำเมาส์ไปวางบนไอคอนข้อมูลจะแสดง tooltip',
             'pt_BR' : 'com o ponteiro do mouse sobre o ícone de informação para mostrar uma mensagem do',
-            'da_DK' : 'musen over info-ikonen for at få vist et tip om'
+            'da_DK' : 'musen over info-ikonen for at få vist et tip om',
+            'it_IT' : 'con il mouse sopra l\'icona info per visualizzare la descrizione del'
            },
         'Attribute':{ 
             'de_DE' : 'Eigenschaft',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute',
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
-            'da_DK' : 'Attribut'
+            'da_DK' : 'Attribut',
+            'it_IT' : 'Attributo'
            },
         'Attribute name':{ 
             'de_DE' : 'Eigenschaftsname',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Nama Attribute',
             'th_TH' : 'ชื่อ Attribute',
             'pt_BR' : 'Nome do Atributo',
-            'da_DK' : 'Attributnavn'
+            'da_DK' : 'Attributnavn',
+            'it_IT' : 'Nome attributo'
            },
         'Check / Reply':{ 
             'de_DE' : '&Uuml;berpr&uuml;fen / Antworten',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Check / Reply',
             'th_TH' : 'Check / Reply',
             'pt_BR' : 'Check / Reply',
-            'da_DK' : 'Kontrollér/svar'
+            'da_DK' : 'Kontrollér/svar',
+            'it_IT' : 'Verifica / Rispondi'
            },
         'Operator':{ 
             'de_DE' : 'Ersteller',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Operator',
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
-            'da_DK' : 'Operatør'
+            'da_DK' : 'Operatør',
+            'it_IT' : 'Operatore'
            },
         'Value':{ 
             'de_DE' : 'W&auml;hrung',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Nilai',
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
-            'da_DK' : 'Værdi'
+            'da_DK' : 'Værdi',
+            'it_IT' : 'Valore'
            },
         'Units':{ 
             'de_DE' : 'Einheiten',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Unit',
             'th_TH' : 'หน่วย',
             'pt_BR' : 'Unidades',
-            'da_DK' : 'Enheder'
+            'da_DK' : 'Enheder',
+            'it_IT' : 'Unità'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Description':{ 
             'de_DE' : 'Beschreibung',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Deskripsi',
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
-            'da_DK' : 'Beskrivelse'
+            'da_DK' : 'Beskrivelse',
+            'it_IT' : 'Descrizione'
            },
         'Field':{ 
             'de_DE' : 'Feld',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
-            'da_DK' : 'Felt'
+            'da_DK' : 'Felt',
+            'it_IT' : 'Campo'
            },
         'updated to':{ 
             'de_DE' : 'aktualisiert, um ',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'DiUpdate ke',
             'th_TH' : 'ปรับปรุงไปยัง',
             'pt_BR' : 'atualizado para',
-            'da_DK' : 'opdateret til'
+            'da_DK' : 'opdateret til',
+            'it_IT' : 'aggiornato da'
            },
         'Deleting Attributes':{ 
             'de_DE' : 'Eigenschaften l&ouml;schen',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Menghapus Attribute',
             'th_TH' : 'ลบ Attribute',
             'pt_BR' : 'Deletando Atributos',
-            'da_DK' : 'Sletter attributter...'
+            'da_DK' : 'Sletter attributter...',
+            'it_IT' : 'Eliminazione attributi'
            },
         'Complete': {
             'de_DE' : 'Fertig',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.ProfileView"]){ //_hasResource checks added 
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completo'
            }
     };
 

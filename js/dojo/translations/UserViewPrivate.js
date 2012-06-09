@@ -17,10 +17,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Hasil perhitungan' ,
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
         },
         'Profile': { 
-            'de_DE' : 'Profil',	      
+            'de_DE' : 'Profil',
             'es_ES' : 'Perfil',
             'af_ZA' : 'Profiel',
             'fr_FR' : 'Profil',
@@ -29,10 +30,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Profil' ,
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Attribute': { 
-            'de_DE' : 'Eigenschaft',	      
+            'de_DE' : 'Eigenschaft',
             'es_ES' : 'Atributo',
             'af_ZA' : 'Eienskap',
             'fr_FR' : 'Attribut',
@@ -41,10 +43,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Attribute' ,
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
-            'da_DK' : 'Attribut'
+            'da_DK' : 'Attribut',
+            'it_IT' : 'Attributi'
            },
         'Check/Reply': { 
-            'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',	      
+            'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',
             'es_ES' : 'Comprobación/Respuesta',
             'af_ZA' : 'Kontroleer/Antwoord',
             'fr_FR' : 'Vérification/Réponse',
@@ -53,10 +56,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Check/Reply' ,
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
-            'da_DK' : 'Kontrollér/svar'
+            'da_DK' : 'Kontrollér/svar',
+            'it_IT' : 'Verifica/Rispondi'
            },
         'Operator':{ 
-            'de_DE' : 'Operator',	      
+            'de_DE' : 'Operator',     
             'es_ES' : 'Operador',
             'af_ZA' : 'Operateur',
             'fr_FR' : 'Opérateur',
@@ -65,10 +69,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Operator' ,
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
-            'da_DK' : 'Operatør'
+            'da_DK' : 'Operatør',
+            'it_IT' : 'Operatore'
            },
         'Value':{ 
-            'de_DE' : 'Wert',	      
+            'de_DE' : 'Wert',
             'es_ES' : 'Valor',
             'af_ZA' : 'Waarde',
             'fr_FR' : 'Valeur',
@@ -77,10 +82,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Nilai' ,
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
-            'da_DK' : 'Værdi'
+            'da_DK' : 'Værdi',
+            'it_IT' : 'Valore'
            },
         'Add Private Attribute':{
-            'de_DE' : 'Pers&ouml;nliche Eigenschaft hinzuf&uuml;gen',	      
+            'de_DE' : 'Pers&ouml;nliche Eigenschaft hinzuf&uuml;gen',
             'es_ES' : 'Añadir Atributo Privado', 
             'af_ZA' : 'Nuwe Privaat Eienskap',
             'fr_FR' : 'Ajouter un attribut privé',
@@ -89,10 +95,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Tambah attribute pribadi' ,
             'th_TH' : 'เพิ่ม Attribute ส่วนตัว',
             'pt_BR' : 'Adicionar Atributo Privado',
-            'da_DK' : 'Tilføj privat attribut'
+            'da_DK' : 'Tilføj privat attribut',
+            'it_IT' : 'Aggiungi attributo privato'
            },
         'Vendor':{ 
-            'de_DE' : 'Hersteller',	      
+            'de_DE' : 'Hersteller',
             'es_ES' : 'Distribuidor',
             'af_ZA' : 'Fabrikant',
             'fr_FR' : 'Fabricant',
@@ -101,10 +108,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Vendor' ,
             'th_TH' : 'Vendor',
             'pt_BR' : 'Distribuidor',
-            'da_DK' : 'Leverandør'
+            'da_DK' : 'Leverandør',
+            'it_IT' : 'Marca'
            },
         'Save':{ 
-            'de_DE' : 'Speichern',		
+            'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -113,10 +121,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Simpan' ,
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Attribute added':{ 
-            'de_DE' : 'Attribut hinzugef&uuml;gt',	      
+            'de_DE' : 'Attribut hinzugef&uuml;gt',
             'es_ES' : 'Atributo añadido',
             'af_ZA' : 'Eieneskap bygevoeg',
             'fr_FR' : 'Attribut ajouté avec succès',
@@ -125,10 +134,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Attribute telah ditambahkan' ,
             'th_TH' : 'เพิ่ม Attribute แล้ว',
             'pt_BR' : 'Atributo adicionado',
-            'da_DK' : 'Attribut tilføjet!'
+            'da_DK' : 'Attribut tilføjet!',
+            'it_IT' : 'Attributo aggiunto'
            },
         'Problems adding attribute':{ 
-            'de_DE' : 'Problem beim hinzuf&uuml;gen der Eigenschaft',	      
+            'de_DE' : 'Problem beim hinzuf&uuml;gen der Eigenschaft',
             'es_ES' : 'Problemas añadiendo atributo',
             'af_ZA' : 'Probleem met byvoeg',
             'fr_FR' : "Des problèmes sont survenus lors de l'ajout de l'attribut",
@@ -137,10 +147,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Penambahan attribute bermasalah' ,
             'th_TH' : 'มีปัญหาในการเพิ่ม Attribute',
             'pt_BR' : 'Problemas ao adicionar o atributo',
-            'da_DK' : 'Problemer med at tilføje attribut'
+            'da_DK' : 'Problemer med at tilføje attribut',
+            'it_IT' : 'Problemi in aggiunta attributo'
            },
         'Edit selection limit to one':{ 
-            'de_DE' : 'Auswahl zum bearbeiten ist auf 1 limitiert',	      
+            'de_DE' : 'Auswahl zum bearbeiten ist auf 1 limitiert',
             'es_ES' : 'Editar límite de selección a uno',
             'af_ZA' : 'Slegs een toegelaat',
             'fr_FR' : 'Un seul attribut peut être édité à la fois',
@@ -149,10 +160,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Pilihan yang diedit dibatasi satu' ,
             'th_TH' : 'แก้ไขได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Editar limite de seleção somente a um',
-            'da_DK' : 'Kun én kan ændres af gangen'
+            'da_DK' : 'Kun én kan ændres af gangen',
+            'it_IT' : 'Modifica possibile ad una sola selezione alla volta'
            },
         'Change Password On Users Tab':{
-            'de_DE' : '&Auml;ndern Sie das Kennwort in der Registerkarte "Benutzer"',	      
+            'de_DE' : '&Auml;ndern Sie das Kennwort in der Registerkarte "Benutzer"',
             'es_ES' : 'Cambiar Contraseña en Pestaña de Usuarios', 
             'af_ZA' : 'Verander Wagwoord Op Gebruikers Paneel',
             'fr_FR' : "Changer le mot de passe dans l'onglet Utilisateurs",
@@ -161,10 +173,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Ganti kata sandi untuk pada tab user' ,
             'th_TH' : 'เปลี่ยนรหัสผ่านบนแท็บของผู้ใช้',
             'pt_BR' : 'Alterar Senha na Aba Usuários',
-            'da_DK' : 'Skift adgangskode på brugerfane'
+            'da_DK' : 'Skift adgangskode på brugerfane',
+            'it_IT' : 'Modifica la password nel campo dell\'utente'
            },
         'No Selection made':{ 
-            'de_DE' : 'Keine Auswahl getroffen',	      
+            'de_DE' : 'Keine Auswahl getroffen',
             'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies nie',
             'fr_FR' : 'Aucun élément sélectionné',
@@ -173,10 +186,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Anda belum memilih' ,
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Edit Private Attribute':{ 
-            'de_DE' : 'Pers&ouml;nliches Eigenschaft bearbeiten',	      
+            'de_DE' : 'Pers&ouml;nliches Eigenschaft bearbeiten',
             'es_ES' : 'Editar Atributo Privado',
             'af_ZA' : 'Verander Privaat Eienskap',
             'fr_FR' : "Editer l'attribut privé",
@@ -185,10 +199,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Edit attribute pribadi' ,
             'th_TH' : 'แก้ไข Attribute ส่วนตัว',
             'pt_BR' : 'Editar Atributo Privado',
-            'da_DK' : 'Redigér den private attribut'
+            'da_DK' : 'Redigér den private attribut',
+            'it_IT' : 'Modifica attributi privati'
            },
         'Attribute changed':{ 
-            'de_DE' : 'Eigenschaft ge&auml;ndert',	      
+            'de_DE' : 'Eigenschaft ge&auml;ndert',
             'es_ES' : 'Atributo cambiado',
             'af_ZA' : 'Eienskap is verander',
             'fr_FR' : "L'attribut a été mis à jour avec succès",
@@ -197,10 +212,11 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Attribute telah diubah' ,
             'th_TH' : 'เปลี่ยนแปลง Attribute แล้ว',
             'pt_BR' : 'Atributo alterado',
-            'da_DK' : 'Attribut ændret!'
+            'da_DK' : 'Attribut ændret!',
+            'it_IT' : 'Attributi modificati'
            },
         'Problems changing attribute':{ 
-            'de_DE' : 'Problem beim &auml;ndern der Eigenschaft',	      
+            'de_DE' : 'Problem beim &auml;ndern der Eigenschaft',
             'es_ES' : 'Problemas cambiando atributo',
             'af_ZA' : 'Probleme om einenskap te verander',
             'fr_FR' : "Des problèmes sont survenus lors de l'édition de l'attribut",
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'id_ID' : 'Perubahan Attribute bermasalah' ,
             'th_TH' : 'มีปัญหาในการเปลี่ยนแปลง Attribute',
             'pt_BR' : 'Problemas ao alterar o atributo',
-            'da_DK' : 'Problemer med at ændre attribut'
+            'da_DK' : 'Problemer med at ændre attribut',
+            'it_IT' : 'Problemi durante la modifica degli attributi'
            }
     };
 

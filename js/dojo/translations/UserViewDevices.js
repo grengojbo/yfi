@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'MAC',
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
-            'da_DK' : 'MAC'
+            'da_DK' : 'MAC',
+            'it_IT' : 'MAC'
            },
         'Description':{ 
             'de_DE' : 'Beschreibung',            
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Deskripsi',
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
-            'da_DK' : 'Beskrivelse'
+            'da_DK' : 'Beskrivelse',
+            'it_IT' : 'Descrizione'
            },
         'Last Contact':{ 
             'de_DE' : 'Letzter Kontakt',            
@@ -41,10 +43,11 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Terakhir Koneksi',
             'th_TH' : 'ติดต่อครั้งล่าสุด',
             'pt_BR' : 'Último Contato',
-            'da_DK' : 'Seneste kontakt'
+            'da_DK' : 'Seneste kontakt',
+            'it_IT' : 'Ultimo contatto'
            },
         'Result count':{ 
-            'de_DE' : 'Summe',	    
+            'de_DE' : 'Summe', 
             'es_ES' : 'Registros',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Add Device':{ 
             'de_DE' : 'Ger&auml;t hinzuf&uuml;gen',            
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Tambah perangkat',
             'th_TH' : 'เพิ่มอุปกรณ์',
             'pt_BR' : 'Adicionar Dispositivo',
-            'da_DK' : 'Tilføj enhed'
+            'da_DK' : 'Tilføj enhed',
+            'it_IT' : 'Aggiungi apparato'
            },
         'MAC Address':{ 
             'de_DE' : 'MAC Adresse',            
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'MAC Address',
             'th_TH' : 'MAC Address',
             'pt_BR' : 'Endereço MAC',
-            'da_DK' : 'MAC adresse'
+            'da_DK' : 'MAC adresse',
+            'it_IT' : 'Indirizzo MAC'
             },
         'Save':{ 
             'de_DE' : 'Speichern',            
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Device added OK':{ 
             'de_DE' : 'Ger&auml;t hinzugef&uuml;gt',           
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Penambahan Perangkat berhasil',
             'th_TH' : 'เพิ่มอุปกรณ์เรียบร้อยแล้ว',
             'pt_BR' : 'Dispositivo adicionado OK',
-            'da_DK' : 'Enhed tilføjet!'
+            'da_DK' : 'Enhed tilføjet!',
+            'it_IT' : 'Dispositivo aggiunto correttamente'
            },
         'Problems adding device':{ 
             'de_DE' : 'Probleme beim hinzuf&uuml;gen des Ger&auml;tes',            
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Penambahan Perangkat bermasalah',
             'th_TH' : 'มีปัญหาในการเพิ่มอุปกรณ์',
             'pt_BR' : 'Problemas ao adicionar novo dispositivo',
-            'da_DK' : 'Problemer med at tilføje enhed'
+            'da_DK' : 'Problemer med at tilføje enhed',
+            'it_IT' : 'Problema in aggiunta dispositivo'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',      
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Deleting Device(s)':{ 
             'de_DE' : 'Ger&auml;t(e) l&ouml;schen',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Menghapus perangkat',
             'th_TH' : 'ลบอุปกรณ์',
             'pt_BR' : 'Deletando Dispositivo(s)',
-            'da_DK' : 'Sletter enhed(er)'
+            'da_DK' : 'Sletter enhed(er)',
+            'it_IT' : 'Eliminazione dispositivo'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',            
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            },
         'never':{ 
             'de_DE' : 'niemals',            
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Tidak pernah',
             'th_TH' : 'ไม่เคย',
             'pt_BR' : 'nunca',
-            'da_DK' : 'aldrig'
+            'da_DK' : 'aldrig',
+            'it_IT' : 'mai'
            },
         'Reload Data':{ 
             'de_DE' : 'Seite neu laden',           
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'id_ID' : 'Reload Data',
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
             'pt_BR' : 'Recarregar Dados',
-            'da_DK' : 'Genindlæs data'
+            'da_DK' : 'Genindlæs data',
+            'it_IT' : 'Ricarica dati'
            }
     };
 

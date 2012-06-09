@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Profil',
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Attribute': { 
             'de_DE' : 'Attribut',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Attribute',
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
-            'da_DK' : 'Egenskab'
+            'da_DK' : 'Egenskab',
+            'it_IT' : 'Attributi'
            },
         'Check/Reply': { 
             'de_DE' : '&Uuml;berpr&Uuml;fen/Antworten',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Check/Balasan',
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
-            'da_DK' : 'Kontrollér/svar'
+            'da_DK' : 'Kontrollér/svar',
+            'it_IT' : 'Verifica/Rispondi'
            },
         'Operator':{ 
             'de_DE' : 'Operator',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Operator',
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
-            'da_DK' : 'Operatør'
+            'da_DK' : 'Operatør',
+            'it_IT' : 'Operatore'
            },
         'Value':{ 
             'de_DE' : 'Wert',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.PermanentGeneralPrivate"]){ //_hasResource c
             'id_ID' : 'Nilai',
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
-            'da_DK' : 'Værdi'
+            'da_DK' : 'Værdi',
+            'it_IT' : 'Valore'
            }
     };
 

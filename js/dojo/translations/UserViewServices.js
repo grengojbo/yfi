@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Hasil Perhitungan' , 
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Date': {
             'de_DE' : 'Datum', 
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Tanggal' , 
             'th_TH' : 'วันที่',
             'pt_BR' : 'Data',
-            'da_DK' : 'Dato'
+            'da_DK' : 'Dato',
+            'it_IT' : 'Data'
            },
         'Title': {
             'de_DE' : 'Titel', 
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Judul' , 
             'th_TH' : 'ชื่อเรื่อง',
             'pt_BR' : 'Título',
-            'da_DK' : 'Titel'
+            'da_DK' : 'Titel',
+            'it_IT' : 'Titolo'
            },
         'Description': { 
             'de_DE' : 'Beschreibung',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Deskripsi' , 
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
-            'da_DK' : 'Beskrivelse'
+            'da_DK' : 'Beskrivelse',
+            'it_IT' : 'Descrizione'
            },
         'Amount': { 
             'de_DE' : 'Betrag',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Jumlah' , 
             'th_TH' : 'ราคา',
             'pt_BR' : 'Quantia',
-            'da_DK' : 'Mængde'
+            'da_DK' : 'Mængde',
+            'it_IT' : 'Totale'
            },
         'Add Extra Service': {
             'de_DE' : 'Extra Service hinzuf&uuml;gen',
@@ -77,10 +82,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Tambah service extra' , 
             'th_TH' : 'เพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Adicionar Serviço Extra',
-            'da_DK' : 'Tilføj ekstra tjeneste'
+            'da_DK' : 'Tilføj ekstra tjeneste',
+            'it_IT' : 'Aggiungi servizi aggiuntivi'
            },
         'Save':{ 
-            'de_DE' : 'Speichern',	      
+            'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -89,10 +95,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Simpan' , 
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Extra service added OK':{
-            'de_DE' : 'Extra Service hinzugef&uuml;gt',	      
+            'de_DE' : 'Extra Service hinzugef&uuml;gt',
             'es_ES' : 'Servicio extra añadido OK', 
             'af_ZA' : 'Ekstra dienste bygevoeg',
             'fr_FR' : 'Le service supplémentaire a été ajouté avec succès',
@@ -101,10 +108,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Penambahan service extra berhasil' , 
             'th_TH' : 'เพิ่มบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço extra adicionado OK',
-            'da_DK' : 'Ekstra tjeneste tilføjet!'
+            'da_DK' : 'Ekstra tjeneste tilføjet!',
+            'it_IT' : 'Servizi aggiuntivi aggiunti!'
             },
         'Problems adding extra service':{ 
-            'de_DE' : 'Problem beim hinzuf&uuml;gen Extra Service',	      
+            'de_DE' : 'Problem beim hinzuf&uuml;gen Extra Service', 
             'es_ES' : 'Problemas añadiendo servicio extra',
             'af_ZA' : 'Probleme om ekstra dienste by te voeg',
             'fr_FR' : "Des problèmes sont survenus lors de l'ajout du service supplémentaire",
@@ -113,10 +121,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Penambahan service extra bermasalah' , 
             'th_TH' : 'มีปัญหาในการเพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao adicionar serviço extra',
-            'da_DK' : 'Problemer med at tilføje ekstra tjeneste'
+            'da_DK' : 'Problemer med at tilføje ekstra tjeneste',
+            'it_IT' : 'Problemi durante l\'aggiunta dei servizi'
            },
         'No Selection made':{ 
-            'de_DE' : 'Keine Auswahl getroffen',	      
+            'de_DE' : 'Keine Auswahl getroffen', 
             'es_ES' : 'No ha seleccionado nada',
             'af_ZA' : 'Niks gekies',
             'fr_FR' : 'Aucun élément sélectionné',
@@ -125,10 +134,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Anda belum memilih' , 
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Deleting Extra Service(s)':{ 
-            'de_DE' : 'Extra Service(s) l&ouml;schen',	      
+            'de_DE' : 'Extra Service(s) l&ouml;schen',
             'es_ES' : 'Eliminando Servicio(s) Extra',
             'af_ZA' : 'Verwyder ekstra diens(te)',
             'fr_FR' : 'Service(s) supplémentaire(s) en cours de suppression',
@@ -137,10 +147,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Menghapus service extra' , 
             'th_TH' : 'ลบบริการเพิ่มเติม',
             'pt_BR' : 'Deletar Serviço(s) Extra(s)',
-            'da_DK' : 'Sletter ekstra tjenester'
+            'da_DK' : 'Sletter ekstra tjenester',
+            'it_IT' : 'Elimina servizi aggiuntivi'
            },
         'Complete':{ 
-            'de_DE' : 'Fertig',	      
+            'de_DE' : 'Fertig',
             'es_ES' : 'Completo',
             'af_ZA' : 'Voltooid',
             'fr_FR' : 'Terminé',
@@ -149,10 +160,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Komplit' , 
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            },
         'Edit of Extra Service Limited to one' :{ 
-            'de_DE' : 'Es kann nur ein Extra Service bearbeitet werden',	      
+            'de_DE' : 'Es kann nur ein Extra Service bearbeitet werden',
             'es_ES' : 'Edición de Servicio Extra Limitado a uno',
             'af_ZA' : "Slegs een op 'n slag",
             'fr_FR' : 'Un seul service supplémentaire peut être édité à la fois',
@@ -161,10 +173,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Edit service extra dibatasi satu' , 
             'th_TH' : 'แก้ไขการให้บริการเพิ่มเติมได้ทีละรายการเท่านั้น',
             'pt_BR' : 'Edição do Serviço Extra é limitado a um',
-            'da_DK' : 'Kun én ekstra tjeneste kan redigeres af gangen'
+            'da_DK' : 'Kun én ekstra tjeneste kan redigeres af gangen',
+            'it_IT' : 'Modifica servizi aggiuntivi limitata ad uno alla volta'
            },
         'Edit Extra Service':{ 
-            'de_DE' : 'Extra Service bearbeiten',	      
+            'de_DE' : 'Extra Service bearbeiten',  
             'es_ES' : 'Editar Servicio Extra',
             'af_ZA' : 'Verander ekstra dienste',
             'fr_FR' : 'Editer un service supplémentaire',
@@ -173,10 +186,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Edit service extra' , 
             'th_TH' : 'แก้ไขบริการเพิ่มเติม',
             'pt_BR' : 'Editar Serviço Extra',
-            'da_DK' : 'Redigér ekstra tjenester'
+            'da_DK' : 'Redigér ekstra tjenester',
+            'it_IT' : 'Modifica servizi aggiuntivi'
            },
         'Extra service updated OK':{ 
-            'de_DE' : 'Extra Service aktualisiert',	      
+            'de_DE' : 'Extra Service aktualisiert',
             'es_ES' : 'Servicio extra actualizado OK',
             'af_ZA' : 'Ekstra dienste opgedateer',
             'fr_FR' : 'Service supplémentaire mis à jour avec succès',
@@ -185,10 +199,11 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Update service extra berhasil' , 
             'th_TH' : 'ปรับปรุงบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço Extra atualizado OK',
-            'da_DK' : 'Ekstra tjenester opdateret!'
+            'da_DK' : 'Ekstra tjenester opdateret!',
+            'it_IT' : 'Servizi aggiuntivi aggiornati'
            },
         'Problems updating extra service':{ 
-            'de_DE' : 'Problem beim aktualisieren Extra Service',	      
+            'de_DE' : 'Problem beim aktualisieren Extra Service',      
             'es_ES' : 'Problemas actualizando servicio extra',
             'af_ZA' : 'Probleme met verander van ekstra dienste',
             'fr_FR' : 'Des problèmes sont survenus lors de la mise à jour du service',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'id_ID' : 'Update service extra bermasalah' , 
             'th_TH' : 'มีปัญหาในการปรับปรุงบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao atualizar o serviço extra',
-            'da_DK' : 'Problemer med at opdatere ekstra tjenester'
+            'da_DK' : 'Problemer med at opdatere ekstra tjenester',
+            'it_IT' : 'problemi durante l\'aggiornamento dei servizi aggiuntivi'
            }
     };
 

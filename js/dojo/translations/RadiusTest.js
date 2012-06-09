@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'id_ID' : 'Mengetes radius',
             'th_TH' : 'กำลังทดสอบ RADIUS กรุณารอ',
             'pt_BR' : 'Testando o RADIUS, por favor aguarde',
-            'da_DK' : 'Tester RADIUS - vent venligst...'
+            'da_DK' : 'Tester RADIUS - vent venligst...',
+            'it_IT' : 'Testa radius in corso, attendere prego'
         },
         'Send': { 
             'de_DE' : 'Senden',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'id_ID' : 'Kirim',
             'th_TH' : 'ส่ง',
             'pt_BR' : 'Enviar',
-            'da_DK' : 'Send'
+            'da_DK' : 'Send',
+            'it_IT' : 'Invia'
         },
         'Username': { 
             'de_DE' : 'Benutzername',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
-            'da_DK' : 'Brugernavn'
+            'da_DK' : 'Brugernavn',
+            'it_IT' : 'Nome utente'
         },
         'Password': { 
             'de_DE' : 'Kennwort',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'id_ID' : 'Kata sandi',
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
-            'da_DK' : 'Adgangskode'
+            'da_DK' : 'Adgangskode',
+            'it_IT' : 'password'
         },
         'Return':{ 
             'de_DE' : 'Zur&uuml;ck',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.RadiusTest"]){ //_hasResource checks added b
             'id_ID' : 'Kembali',
             'th_TH' : 'ผลลัพธ์',
             'pt_BR' : 'Retorno',
-            'da_DK' : 'Svar'
+            'da_DK' : 'Svar',
+            'it_IT' : 'Ritorna'
         }
     };
 

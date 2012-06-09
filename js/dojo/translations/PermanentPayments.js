@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Reload Data': { 
             'de_DE' : 'Daten neu laden',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Reload data',
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
             'pt_BR' : 'Recarregar Dados',
-            'da_DK' : 'Genindlæs data'
+            'da_DK' : 'Genindlæs data',
+            'it_IT' : 'Ricarica dati'
            },
         'Generate PDF': { 
             'de_DE' : 'PDF erstellen',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Hasilkan pdf',
             'th_TH' : 'สร้าง PDF',
             'pt_BR' : 'Gerar PDF',
-            'da_DK' : 'Opret PDF'
+            'da_DK' : 'Opret PDF',
+            'it_IT' : 'Genera PDF'
            },
         'Send e-Mail': { 
             'de_DE' : 'E-Mail senden',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Kirim Email',
             'th_TH' : 'ส่งอีเมล',
             'pt_BR' : 'Enviar Email',
-            'da_DK' : 'Send e-mail'
+            'da_DK' : 'Send e-mail',
+            'it_IT' : 'Invia e-Mail'
            },
         'Start date': { 
             'de_DE' : 'Startdatum',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Tanggal Mulai',
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de início',
-            'da_DK' : 'Startdato'
+            'da_DK' : 'Startdato',
+            'it_IT' : 'Data di inizio'
            },
         'End date': { 
             'de_DE' : 'Enddatum',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Tanggal berhenti',
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data de término',
-            'da_DK' : 'Slutdato'
+            'da_DK' : 'Slutdato',
+            'it_IT' : 'Data di fine'
            },
         'Billing Plan':{ 
             'de_DE' : 'Tarifplan',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Rencana Billing',
             'th_TH' : 'แผนการเรียกเก็บเงิน',
             'pt_BR' : 'Plano de Bilhetagem',
-            'da_DK' : 'Faktureringsoversigt'
+            'da_DK' : 'Faktureringsoversigt',
+            'it_IT' : 'Piani di fatturazione'
            },
         'Total':{ 
             'de_DE' : 'Summe',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Total',
             'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
-            'da_DK' : 'Samlet'
+            'da_DK' : 'Samlet',
+            'it_IT' : 'Totale'
            },
         'Sum of Invoices':{ 
             'de_DE' : 'Rechnungs&uuml;bersicht',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Jumlah tagihan',
             'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
-            'da_DK' : 'Samlede opgørelser'
+            'da_DK' : 'Samlede opgørelser',
+            'it_IT' : 'Totale fatture'
            },
         'Sum of Payments':{ 
             'de_DE' : 'Zahlungs&uuml;bersicht',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Jumlah pembayaran',
             'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
-            'da_DK' : 'Samlede betalinger'
+            'da_DK' : 'Samlede betalinger',
+            'it_IT' : 'Totale pagamenti'
            },
         'Outstanding':{ 
             'de_DE' : 'Ausst&auml;ndig',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Belum Lunas',
             'th_TH' : 'ค้างชำระ',
             'pt_BR' : 'Pendente',
-            'da_DK' : 'Udestående'
+            'da_DK' : 'Udestående',
+            'it_IT' : 'In sospeso'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Send e-Mail to myself':{ 
             'de_DE' : 'E-Mail an mich senden',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Kirim email ke saya sendiri',
             'th_TH' : 'ส่งอีเมลถึงตัวเอง',
             'pt_BR' : 'Enviar email para mim mesmo',
-            'da_DK' : 'Send e-mail til mig selv'
+            'da_DK' : 'Send e-mail til mig selv',
+            'it_IT' : 'Inviami una e-Mail'
            },
         'Subject':{ 
             'de_DE' : 'Betreff',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Judul',
             'th_TH' : 'หัวเรื่อง',
             'pt_BR' : 'Assunto',
-            'da_DK' : 'Emne'
+            'da_DK' : 'Emne',
+            'it_IT' : 'Oggetto'
            },
         'Message':{ 
             'de_DE' : 'Nachricht',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Pesan',
             'th_TH' : 'ข้อความ',
             'pt_BR' : 'Mensagem',
-            'da_DK' : 'Besked'
+            'da_DK' : 'Besked',
+            'it_IT' : 'Messaggio'
            },
         'Attach Invoice(s)':{ 
             'de_DE' : 'Rechnung(en) anf&uuml;gen',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Ikutkan tagihan',
             'th_TH' : 'แนบใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Anexar Fatura(s)',
-            'da_DK' : 'Vedhæft opgørelse(r)'
+            'da_DK' : 'Vedhæft opgørelse(r)',
+            'it_IT' : 'Allega fattura'
            },
         'OK':{ 
             'de_DE' : 'OK',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
-            'da_DK' : 'OK'
+            'da_DK' : 'OK',
+            'it_IT' : 'OK'
            },
         'e-Mail send OK':{
             'de_DE' : 'E-Mail gesendet',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.PermanentPayments"]){ //_hasResource checks 
             'id_ID' : 'Pengiriman email berhasil',
             'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
-            'da_DK' : 'E-mail sendt!'
+            'da_DK' : 'E-mail sendt!',
+            'it_IT' : 'e-Mail inviata correttamente'
            }
     };
 

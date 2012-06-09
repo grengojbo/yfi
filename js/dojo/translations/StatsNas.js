@@ -15,7 +15,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Reload Daftar',
             'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Recarregar Lista',
-            'da_DK' : 'Genindlæs liste'
+            'da_DK' : 'Genindlæs liste',
+            'it_IT' : 'Ricarica lista'
            },
         'Start Date': { 
             'de_DE' : 'Startdatum',
@@ -27,7 +28,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Tanggal Mulai',
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de Início',
-            'da_DK' : 'Startdato'
+            'da_DK' : 'Startdato',
+            'it_IT' : 'Data di inizio'
            },
         'End Date': {
             'de_DE' : 'Enddatum',
@@ -39,7 +41,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Tanggal Berhenti',
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data de Término',
-            'da_DK' : 'Slutdato'
+            'da_DK' : 'Slutdato',
+            'it_IT' : 'Data di fine'
            },
         'IP Address': {        
             'de_DE' : 'IP Adresse',
@@ -51,7 +54,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'IP Address',
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
-            'da_DK' : 'IP adresse'
+            'da_DK' : 'IP adresse',
+            'it_IT' : 'Indirizzo IP'
            },
         'Name': {
             'de_DE' : 'Name',
@@ -63,7 +67,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Availability': {
             'de_DE' : 'Verf&uuml;gbarkeit',
@@ -75,7 +80,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Ketersediaan',
             'th_TH' : 'ที่ใช้ได้',
             'pt_BR' : 'Disponibilidade',
-            'da_DK' : 'Tilgængelighed'
+            'da_DK' : 'Tilgængelighed',
+            'it_IT' : 'Disponibilità'
            },
         'Users': {
             'de_DE' : 'Benutzer',
@@ -87,7 +93,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'User',
             'th_TH' : 'ผู้ใช้',
             'pt_BR' : 'Usuários',
-            'da_DK' : 'Brugere'
+            'da_DK' : 'Brugere',
+            'it_IT' : 'Utenti'
            },
         'Data TX': {
             'de_DE' : 'Daten empfangen',
@@ -99,7 +106,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Data TX',
             'th_TH' : 'ข้อมูลที่ส่งไป',
             'pt_BR' : 'Dados TX',
-            'da_DK' : 'TX data'
+            'da_DK' : 'TX data',
+            'it_IT' : 'Dati inviati'
            },
         'Data RX': {
             'de_DE' : 'Daten gesendet',
@@ -111,7 +119,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Data RX',
             'th_TH' : 'ข้อมูลที่รับมา',
             'pt_BR' : 'Dados RX',
-            'da_DK' : 'RX data'
+            'da_DK' : 'RX data',
+            'it_IT' : 'Dati ricevuti'
            },
         'Data Total': {
             'de_DE' : 'Summe Daten',
@@ -123,7 +132,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Total Data',
             'th_TH' : 'ข้อมูลทั้งหมด',
             'pt_BR' : 'Dados Totais',
-            'da_DK' : 'Samlet datamængde'
+            'da_DK' : 'Samlet datamængde',
+            'it_IT' : 'Dati totali'
            },
         'Result count':{
             'de_DE' : 'Summe',
@@ -135,7 +145,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Invalid Dates - Using Defaults':{
             'de_DE' : 'Ung&uuml;ltige Daten - Standardwerte verwenden',
@@ -147,7 +158,8 @@ if(!dojo._hasResource["translations.StatsNas"]){ //_hasResource checks added by 
             'id_ID' : 'Tanggal tidak valid, Gunakan Default',
             'th_TH' : 'วันที่ผิดรูปแบบ - ใช้ค่าเริ่มต้น',
             'pt_BR' : 'Dados Inválidos - Usando valores padrões',
-            'da_DK' : 'Ugyldige datoer - anvender standardværdier'
+            'da_DK' : 'Ugyldige datoer - anvender standardværdier',
+            'it_IT' : 'Date non valide - uso quelle standard'
         }
     };
 

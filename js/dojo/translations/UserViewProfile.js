@@ -17,10 +17,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Hasil perhitungan' ,
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Profile': { 
-            'de_DE' : 'Profil',	      
+            'de_DE' : 'Profil',
             'es_ES' : 'Perfil',
             'af_ZA' : 'Profiel',
             'fr_FR' : 'Profil',
@@ -29,10 +30,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Profil' ,
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Attribute': { 
-            'de_DE' : 'Eigenschaft',	      
+            'de_DE' : 'Eigenschaft',
             'es_ES' : 'Atributo',
             'af_ZA' : 'Eienskap',
             'fr_FR' : 'Attribut',
@@ -41,10 +43,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Attribute' ,
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
-            'da_DK' : 'Attribut'
+            'da_DK' : 'Attribut',
+            'it_IT' : 'Attributo'
            },
         'Check/Reply': { 
-            'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',	      
+            'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',
             'es_ES' : 'Comprobación/Respuesta',
             'af_ZA' : 'Kontroleer/Antwoord',
             'fr_FR' : 'Vérification/Réponse',
@@ -53,10 +56,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Check/Reply' ,
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
-            'da_DK' : 'Kontrollér/svar'
+            'da_DK' : 'Kontrollér/svar',
+            'it_IT' : 'Verifica/Rispondi'
            },
         'Operator':{ 
-            'de_DE' : 'Ersteller',	      
+            'de_DE' : 'Ersteller',
             'es_ES' : 'Operador',
             'af_ZA' : 'Operateur',
             'fr_FR' : 'Opérateur',
@@ -65,10 +69,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Operator' ,
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
-            'da_DK' : 'Operatør'
+            'da_DK' : 'Operatør',
+            'it_IT' : 'operatore'
            },
         'Value':{ 
-            'de_DE' : 'Wert',	      
+            'de_DE' : 'Wert',
             'es_ES' : 'Valor',
             'af_ZA' : 'Waarde',
             'fr_FR' : 'Valeur',
@@ -77,10 +82,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Nilai' ,
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
-            'da_DK' : 'Værdi'
+            'da_DK' : 'Værdi',
+            'it_IT' : 'Valore'
             },
         'Change Profile':{ 
-            'de_DE' : 'Profil &auml;ndern',	      
+            'de_DE' : 'Profil &auml;ndern',
             'es_ES' : 'Cambiar Perfil',
             'af_ZA' : 'Verander Profiel',
             'fr_FR' : 'Changer de profil',
@@ -89,10 +95,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Ubah profil' ,
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Alterar Perfil',
-            'da_DK' : 'Skift profil'
+            'da_DK' : 'Skift profil',
+            'it_IT' : 'Modifica profilo'
            },
         'Profile':{ 
-            'de_DE' : 'Profil',	      
+            'de_DE' : 'Profil',
             'es_ES' : 'Perfil',
             'af_ZA' : 'Profiel',
             'fr_FR' : 'Profil',
@@ -101,10 +108,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Profil' ,
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Save':{ 
-            'de_DE' : 'Speichern',	      
+            'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -113,10 +121,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Simpan' ,
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Profile Changed':{ 
-            'de_DE' : 'Profil ge&auml;ndert',	      
+            'de_DE' : 'Profil ge&auml;ndert',
             'es_ES' : 'Perfil Cambiado',
             'af_ZA' : 'Profiel het verander',
             'fr_FR' : 'Profil changé avec succès',
@@ -125,10 +134,11 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Profil telah diubah' ,
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้แล้ว',
             'pt_BR' : 'Perfil Alterado',
-            'da_DK' : 'Profil skiftet!'
+            'da_DK' : 'Profil skiftet!',
+            'it_IT' : 'Profilo modificato'
            },
         'Problems changing profile':{ 
-            'de_DE' : 'Problem beim &auml;ndern des Profils',	      
+            'de_DE' : 'Problem beim &auml;ndern des Profils',
             'es_ES' : 'Problemas cambiando perfil',
             'af_ZA' : 'Probleme met verander van profiel',
             'fr_FR' : 'Des problèmes sont survenus lors du changement du profil',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'id_ID' : 'Perubahan profil bermasalah' ,
             'th_TH' : 'มีปัญหาในการเปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas na alteração do perfil',
-            'da_DK' : 'Problemer med at skifte profil'
+            'da_DK' : 'Problemer med at skifte profil',
+            'it_IT' : 'Problemi durante la modifica del profilo'
            }
     };
 

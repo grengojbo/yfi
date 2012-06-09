@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
-            'da_DK' : 'Filter'
+            'da_DK' : 'Filter',
+            'it_IT' : 'Filtro'
            },
         'Field': { 
             'de_DE' : 'Feld',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
-            'da_DK' : 'Felt'
+            'da_DK' : 'Felt',
+            'it_IT' : 'Campo'
            },
         'Username': { 
             'de_DE' : 'Benutzername',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
-            'da_DK' : 'Brugernavn'
+            'da_DK' : 'Brugernavn',
+            'it_IT' : 'Nome utente'
            },
         'Realm': { 
             'de_DE' : 'Standort',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Realm',
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
-            'da_DK' : 'Hotspot zone'
+            'da_DK' : 'Hotspot zone',
+            'it_IT' : 'Dominio'
            },
         'Size': { 
             'de_DE' : 'Groesse',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวน',
             'pt_BR' : 'Tamanho',
-            'da_DK' : 'Størrelse'
+            'da_DK' : 'Størrelse',
+            'it_IT' : 'Dimensione'
            },
         'Created': { 
             'de_DE' : 'erstellt',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Dibuat',
             'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
-            'da_DK' : 'Dannet'
+            'da_DK' : 'Dannet',
+            'it_IT' : 'Creato'
            },
         'Batch Name': { 
             'de_DE' : 'Stapel Name',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Nama batches',
             'th_TH' : 'ชื่อชุดคูปอง',
             'pt_BR' : 'Nome do Lote',
-            'da_DK' : 'Navn på parti'
+            'da_DK' : 'Navn på parti',
+            'it_IT' : 'Nome lotto'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'New Batch of Vouchers': {
             'de_DE' : 'Neuer Stapel von Tickets ',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Batch baru untuk voucher',
             'th_TH' : 'การเพิ่มชุดคูปอง',
             'pt_BR' : 'Novo Lote de Vales',
-            'da_DK' : 'Nyt parti af adgangskort'
+            'da_DK' : 'Nyt parti af adgangskort',
+            'it_IT' : 'Nuovo lotto di Vouchers'
            },
         'Batch Size': { 
             'de_DE' : 'Stapel groesse',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Ukuran batch',
             'th_TH' : 'จำนวน',
             'pt_BR' : 'Tamanho do Lote',
-            'da_DK' : 'Partistørrelse'
+            'da_DK' : 'Partistørrelse',
+            'it_IT' : 'Dimensione lotto'
            },
         'Precede String': { 
             'de_DE' : 'Zusatzname',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Kode awal',
             'th_TH' : 'คำนำหน้า',
             'pt_BR' : 'Prefixo',
-            'da_DK' : 'Foranstillet tekst'
+            'da_DK' : 'Foranstillet tekst',
+            'it_IT' : 'prefisso'
            },
         'Profile' : {
             'de_DE' : 'Profil',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Profil',
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'day from first log-in' : {
             'de_DE' : 'Tag ab erster Anmeldung ',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Hari setelah login',
             'th_TH' : 'วัน นับจากเริ่มเข้าใช้งาน',
             'pt_BR' : 'dia desde o primeiro login',
-            'da_DK' : 'Dag fra første log-in'
+            'da_DK' : 'Dag fra første log-in',
+            'it_IT' : 'giorno dal primo accesso'
            },
         'days from first log-in' : {
             'de_DE' : 'Tage ab erster Anmeldung',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Hari setelah login',
             'th_TH' : 'วัน นับจากเริ่มเข้าใช้งาน',
             'pt_BR' : 'dias desde o primeiro login',
-            'da_DK' : 'Dage fra første log-in'
+            'da_DK' : 'Dage fra første log-in',
+            'it_IT' : 'giorni dal primo accesso'
            },
         'Valid for' : {
             'de_DE' : 'Gueltig fuer',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Berlaku sampai',
             'th_TH' : 'มีอายุการใช้งาน',
             'pt_BR' : 'Válido por',
-            'da_DK' : 'Gyldig til'
+            'da_DK' : 'Gyldig til',
+            'it_IT' : 'Valido per'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'New batch created OK' : {
             'de_DE' : 'neuer Stapel erstellt',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Pembuatan bacth berhasil',
             'th_TH' : 'สร้างชุดคูปองเรียบร้อยแล้ว',
             'pt_BR' : 'Novo lote criado OK',
-            'da_DK' : 'Nyt parti adgangskort oprettet!'
+            'da_DK' : 'Nyt parti adgangskort oprettet!',
+            'it_IT' : 'Nuovo lotto creato!'
            },
         'Problems creating batch' : {
             'de_DE' : 'Problem beim erstellen Stapel',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'bermasalah dalam pembuatan bacth',
             'th_TH' : 'มีปัญหาในการสร้างชุดคูปอง',
             'pt_BR' : 'Problemas ao criar lote',
-            'da_DK' : 'Problemer med at oprette et parti adgangskort'
+            'da_DK' : 'Problemer med at oprette et parti adgangskort',
+            'it_IT' : 'Problemi durante la creazione del lotto'
            },
         'Expiry date': { 
             'de_DE' : 'Ablaufdatum',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Gunakan voucher sebelum',
             'th_TH' : 'วันที่หมดอายุ',
             'pt_BR' : 'Data de expiração',
-            'da_DK' : 'Udløbsdato'
+            'da_DK' : 'Udløbsdato',
+            'it_IT' : 'Data di scadenza'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Removing Batches' : {
             'de_DE' : 'Stapel entfernen',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Hapus batch',
             'th_TH' : 'ลบชุดคูปอง',
             'pt_BR' : 'Removendo Lotes',
-            'da_DK' : 'Sletter partier af adgangskort'
+            'da_DK' : 'Sletter partier af adgangskort',
+            'it_IT' : 'Elimina lotto'
            },
         'Batch(s) Removed OK' : {
             'de_DE' : 'Stapel entfernt',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Hapus batch berhasil',
             'th_TH' : 'ลบชุดคูปองออกเรียบร้อยแล้ว',
             'pt_BR' : 'Lote(s) Removido(s) OK',
-            'da_DK' : 'Parti(er) slettet!'
+            'da_DK' : 'Parti(er) slettet!',
+            'it_IT' : 'Lotto(i) eliminato(i)!'
            },
         'Opening detail for' :{
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -281,7 +303,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
-            'da_DK' : 'Åbner detaljer for'
+            'da_DK' : 'Åbner detaljer for',
+            'it_IT' : 'Apri dettagli per'
            },
         'Select Format' :{
             'de_DE' : 'Ausgew&auml;hltes Format',
@@ -293,7 +316,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Pilih format',
             'th_TH' : 'เลือกรูปแบบ',
             'pt_BR' : 'Selecione o Formato',
-            'da_DK' : 'Vælg format'
+            'da_DK' : 'Vælg format',
+            'it_IT' : 'Seleziona formato'
            },
         'PDF Output Format' :{
             'de_DE' : 'PDF Ausgabeformat',
@@ -305,7 +329,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Format output PDF',
             'th_TH' : 'รูปแบบ PDF',
             'pt_BR' : 'Formato de Saída em PDF',
-            'da_DK' : 'PDF format'
+            'da_DK' : 'PDF format',
+            'it_IT' : 'Formato PDF'
            },
         'Language' : {
             'de_DE' : 'Sprache',
@@ -317,7 +342,8 @@ if(!dojo._hasResource["translations.Batches"]){ //_hasResource checks added by b
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
-            'da_DK' : 'Sprog'
+            'da_DK' : 'Sprog',
+            'it_IT' : 'Lingua'
            }
     };
 

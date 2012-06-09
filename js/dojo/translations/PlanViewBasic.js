@@ -18,19 +18,21 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Nama',
                 'th_TH' : 'ชื่อ',
                 'pt_BR' : 'Nome',
-                'da_DK' : 'Navn'
+                'da_DK' : 'Navn',
+                'it_IT' : 'Nome'
            },
         'Currency':{ 
                 'de_DE' : 'Waehrung',
                 'es_ES' : 'Moneda',
-               'af_ZA' : 'Geldeenheid',
-               'fr_FR' : 'Devise',
+                'af_ZA' : 'Geldeenheid',
+                'fr_FR' : 'Devise',
                 'ms_MY' : 'Mata Wang',	
                 'nl_NL' : 'Valuta',
                 'id_ID' : 'Mata Uang',
-               'th_TH' : 'สกุลเงิน',
-               'pt_BR' : 'Moeda',
-                'da_DK' : 'Valuta'
+                'th_TH' : 'สกุลเงิน',
+                'pt_BR' : 'Moeda',
+                'da_DK' : 'Valuta',
+                'it_IT' : 'Valuta'
            },
         'Subscription':{ 
                 'de_DE' : 'Bestellung',
@@ -42,7 +44,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Pendaftaran',
                 'th_TH' : 'ค่าสมาชิก',
                 'pt_BR' : 'Assinatura',
-                'da_DK' : 'Abonnement'
+                'da_DK' : 'Abonnement',
+                'it_IT' : 'Abbonamento'
            },
         'Rate/Second':{ 
                 'de_DE' : 'Rate/Sekunde',
@@ -54,7 +57,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Biaya/detik',
                 'th_TH' : 'อัตรา/วินาที',
                 'pt_BR' : 'Taxa/Segundo',
-                'da_DK' : 'Afgift/sekund'
+                'da_DK' : 'Afgift/sekund',
+                'it_IT' : 'Tariffa/Secondo'
            },
         'Rate/Byte':{ 
                 'de_DE' : 'Rate/Bytes',
@@ -64,9 +68,10 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'ms_MY' : 'Kadar/Bait',	
                 'nl_NL' : 'Kosten/byte',
                 'id_ID' : 'Biaya/Byte',
-               'th_TH' : 'อัตรา/ไบต์',
-               'pt_BR' : 'Taxa/Byte',
-                'da_DK' : 'Afgift/byte'
+                'th_TH' : 'อัตรา/ไบต์',
+                'pt_BR' : 'Taxa/Byte',
+                'da_DK' : 'Afgift/byte',
+                'it_IT' : 'Tariffa/Byte'
            },
         'Tax':{ 
                 'de_DE' : 'Steuer',
@@ -78,7 +83,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Pajak',
                 'th_TH' : 'ภาษี',
                 'pt_BR' : 'Taxa',
-                'da_DK' : 'Afgift'
+                'da_DK' : 'Afgift',
+                'it_IT' : 'IVA'
            },
         'Available to all':{
                 'de_DE' : 'Verfuegbar fuer alle',
@@ -90,7 +96,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Tersedia untuk semua',
                 'th_TH' : 'สามารถใช้ได้กับทั้งหมด',
                 'pt_BR' : 'Disponível para todos',
-                'da_DK' : 'Til rådighed for alle'
+                'da_DK' : 'Til rådighed for alle',
+                'it_IT' : 'Disponibile per tutti'
            },
         'Available only to':{ 
                 'de_DE' : 'Verfuegbar nur fuer',
@@ -102,7 +109,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Tersedia hanya untuk',
                 'th_TH' : 'สามารถใช้ได้เฉพาะ',
                 'pt_BR' : 'Disponível somente para',
-                'da_DK' : 'Kun til rådighed for'
+                'da_DK' : 'Kun til rådighed for',
+                'it_IT' : 'Disponibile per'
            },
         'Save':{ 
                 'de_DE' : 'Speichern',
@@ -114,7 +122,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Simpan',
                 'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
-                'da_DK' : 'Gem'
+                'da_DK' : 'Gem',
+                'it_IT' : 'Salva'
            },
         'Basic Billing Plan updated OK':{
                 'de_DE' : 'Aktualisierung des einfachen Tarifplans',
@@ -126,7 +135,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Update Rencana billing basic berhasil',
                 'th_TH' : 'ปรับปรุงแผนการเรียกเก็บเงินขั้นพื้นฐานเรียบร้อยแล้ว',
                 'pt_BR' : 'Plano de Bilhetagem Básico atualizado OK',
-                'da_DK' : 'Standardfaktureringsoversigten opdateret!'
+                'da_DK' : 'Standardfaktureringsoversigten opdateret!',
+                'it_IT' : 'Piano di fatturazione base aggiornato'
            },
         'Problems updating Basic Billing Plan':{ 
                 'de_DE' : 'Problem beim Aktualisieren des einfachen Tarifplans',
@@ -138,7 +148,8 @@ if(!dojo._hasResource["translations.PlanViewBasic"]){ //_hasResource checks adde
                 'id_ID' : 'Bermasalah dalam mengupdate rencana billing',
                 'th_TH' : 'มีปัญหาในการปรับปรุงแผนการเรียกเก็บเงินขั้นพื้นฐาน',
                 'pt_BR' : 'Problemas ao atualizar Plano de Bilhetagem Básico',
-                'da_DK' : 'Problemer med at opdatere standardfaktureringsoversigten'
+                'da_DK' : 'Problemer med at opdatere standardfaktureringsoversigten',
+                'it_IT' : 'problemi durante l\'aggiornamento del piano di fatturazione base'
            }
     };
 

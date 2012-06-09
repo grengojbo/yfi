@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Ganti Bahasa',
             'th_TH' : 'เปลี่ยนภาษา',
             'pt_BR' : 'Alterar Idioma',
-            'da_DK' : 'Skift sprog'
+            'da_DK' : 'Skift sprog',
+            'it_IT' : 'Modifica lingua'
            },
         'Change Password' : {
             'de_DE' : 'Kennwort aendern',
@@ -30,7 +31,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Ganti kata sandi',
             'th_TH' : 'เปลี่ยนรหัสผ่าน',
             'pt_BR' : 'Alterar Senha',
-            'da_DK' : 'Skift adgangskode'
+            'da_DK' : 'Skift adgangskode',
+            'it_IT' : 'Modifica password'
            },
         'Username' : {
             'de_DE' : 'Benutzername',
@@ -42,7 +44,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
-            'da_DK' : 'Brugernavn'
+            'da_DK' : 'Brugernavn',
+            'it_IT' : 'Nome utente'
            },
         'Group' : {
             'de_DE' : 'Gruppe',
@@ -54,7 +57,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Group',
             'th_TH' : 'กลุ่ม',
             'pt_BR' : 'Grupo',
-            'da_DK' : 'Gruppe'
+            'da_DK' : 'Gruppe',
+            'it_IT' : 'Gruppo'
            },
         'Exit' : {
             'de_DE' : 'Exit',
@@ -66,7 +70,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Keluar',
             'th_TH' : 'ออกจากระบบ',
             'pt_BR' : 'Sair',
-            'da_DK' : 'Afslut'
+            'da_DK' : 'Afslut',
+            'it_IT' : 'Uscita'
            },
         'Change Password for' : {
             'de_DE' : 'Kennwort &auml;ndern f&uuml;r',
@@ -78,7 +83,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Ganti kata sandi untuk',
             'th_TH' : 'เปลี่ยนรหัสผ่านสำหรับ',
             'pt_BR' : 'Alterar Senha de',
-            'da_DK' : 'Skift adgangskode for'
+            'da_DK' : 'Skift adgangskode for',
+            'it_IT' : 'Modifica password per'
            },
         'New Password' : {
             'de_DE' : 'Neues Kennwort',
@@ -90,7 +96,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Kata sandi baru',
             'th_TH' : 'รหัสผ่านใหม่',
             'pt_BR' : 'Nova Senha',
-            'da_DK' : 'Ny adgangskode'
+            'da_DK' : 'Ny adgangskode',
+            'it_IT' : 'Nuova password'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -102,7 +109,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Password Changed OK' : {
             'de_DE' : 'Kennwort &auml;ndern OK',
@@ -114,7 +122,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Ganti kata sandi berhasil',
             'th_TH' : 'เปลี่ยนรหัสผ่านเรียบร้อยแล้ว',
             'pt_BR' : 'Senha Alterada OK',
-            'da_DK' : 'Adgangskode ændret!'
+            'da_DK' : 'Adgangskode ændret!',
+            'it_IT' : 'Password modificata!'
            },
         'Change Language for' : {
             'de_DE' : 'Sprache &auml;ndern f&uuml;r',
@@ -126,7 +135,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Ganti bahasa untuk',
             'th_TH' : 'เปลี่ยนภาษาสำหรับ',
             'pt_BR' : 'Alterar Idioma de',
-            'da_DK' : 'Skift sprog for'
+            'da_DK' : 'Skift sprog for',
+            'it_IT' : 'Modifica lingua per'
            },
         'Language' : {
             'de_DE' : 'Sprache',
@@ -138,7 +148,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
-            'da_DK' : 'Sprog'
+            'da_DK' : 'Sprog',
+            'it_IT' : 'Lingua'
            },
         'Language Changed OK' : {
             'de_DE' : 'Sprache ge&auml;ndert',
@@ -150,7 +161,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Penggantian bahasa berhasil',
             'th_TH' : 'เปลี่ยนภาษาเรียบร้อยแล้ว',
             'pt_BR' : 'Idioma Alterado OK',
-            'da_DK' : 'Sprog er ændret!'
+            'da_DK' : 'Sprog er ændret!',
+            'it_IT' : 'Lingua modificata!'
            },
         'Log out to activate' : {
             'de_DE' : 'F&uuml;r Aktivierung bitte abmelden',
@@ -162,7 +174,8 @@ if(!dojo._hasResource["translations.Banner"]){ //_hasResource checks added by bu
             'id_ID' : 'Log out untuk mengaktifkan',
             'th_TH' : 'ออกจากระบบเพื่อให้มีผล',
             'pt_BR' : 'Fazer o logout para ativar',
-            'da_DK' : 'Log ud for at aktivere ændringer'
+            'da_DK' : 'Log ud for at aktivere ændringer',
+            'it_IT' : 'Disconnettersi per attivare'
            }
     };
 

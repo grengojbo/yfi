@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'MAC Address',
             'th_TH' : 'MAC Address',
             'pt_BR' : 'Endereço MAC',
-            'da_DK' : 'MAC adresse'
+            'da_DK' : 'MAC adresse',
+            'it_IT' : 'Indirizzo MAC'
            },
         'IP Address': { 
             'de_DE' : 'IP Adresse',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'IP Address',
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
-            'da_DK' : 'IP adresse'
+            'da_DK' : 'IP adresse',
+            'it_IT' : 'Indirizzo IP'
            },
         'Subnet Mask': { 
             'de_DE' : 'Subnet Mask',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'Subnet Mask',
             'th_TH' : 'Subnet Mask',
             'pt_BR' : 'Máscara de Subrede',
-            'da_DK' : 'Subnetmaske'
+            'da_DK' : 'Subnetmaske',
+            'it_IT' : 'Maschera sottorete'
            },
         'Gateway': { 
             'de_DE' : 'Gateway',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'Gateway',
             'th_TH' : 'Gateway',
             'pt_BR' : 'Gateway',
-            'da_DK' : 'Gateway'
+            'da_DK' : 'Gateway',
+            'it_IT' : 'Gateway'
            },
         'DNS Server': { 
             'de_DE' : 'DNS Server',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'DNS Server',
             'th_TH' : 'DNS Server',
             'pt_BR' : 'Servidor DNS',
-            'da_DK' : 'DNS server'
+            'da_DK' : 'DNS server',
+            'it_IT' : 'Server DNS'
            },
         'Save': { 
             'de_DE' : 'Speichern',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Auto Setup Network updated OK': { 
             'de_DE' : 'Netzwerk-Auto-Setup aktualisiert',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'Auto Setup Jaringan terupdate OK',
             'th_TH' : 'ปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'Rede Autoconfigurável atualizada OK',
-            'da_DK' : 'Automatisk netværksopsætning opdateret!'
+            'da_DK' : 'Automatisk netværksopsætning opdateret!',
+            'it_IT' : 'Configurazione automatica della rete aggiornata'
            },
         'Problems updating Auto Setup Network': { 
             'de_DE' : 'Problem beim aktualisieren Netzwerk-Auto-Setup',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'id_ID' : 'Auto Setup Jaringan gagal terupdate',
             'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar a Rede Autoconfigurável',
-            'da_DK' : 'Problemer med at opdatere den automatiske netværksopsætning'
+            'da_DK' : 'Problemer med at opdatere den automatiske netværksopsætning',
+            'it_IT' : 'Problemi durante la configurazione automatica della rete'
            }
     };
 

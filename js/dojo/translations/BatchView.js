@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
-            'da_DK' : 'Filter'
+            'da_DK' : 'Filter',
+            'it_IT' : 'Filtro'
            },
         'Field': { 
             'de_DE' : 'Feld',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
-            'da_DK' : 'Felt'
+            'da_DK' : 'Felt',
+            'it_IT' : 'Campo'
            },
         'Voucher': { 
             'de_DE' : 'Ticket',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Voucher',
             'th_TH' : 'คูปอง',
             'pt_BR' : 'Voucher',
-            'da_DK' : 'Adgangskort'
+            'da_DK' : 'Adgangskort',
+            'it_IT' : 'Voucher'
            },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Profile',
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Creator': { 
             'de_DE' : 'Erzeugt von',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Pembuat',
             'th_TH' : 'ผู้สร้าง',
             'pt_BR' : 'Criador',
-            'da_DK' : 'Oprettet af'
+            'da_DK' : 'Oprettet af',
+            'it_IT' : 'Creato da'
            },
         'Realm': { 
             'de_DE' : 'Standort',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Realm',
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
-            'da_DK' : 'Hotspot zone'
+            'da_DK' : 'Hotspot zone',
+            'it_IT' : 'Dominio'
            },
         'Created': { 
             'de_DE' : 'Erzeugt',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Dibuat',
             'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
-            'da_DK' : 'Oprettet'
+            'da_DK' : 'Oprettet',
+            'it_IT' : 'Creato'
            },
         'Status': { 
             'de_DE' : 'Status',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Status',
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Status',
-            'da_DK' : 'Status'
+            'da_DK' : 'Status',
+            'it_IT' : 'Stato'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'new': {
             'de_DE' : 'neu',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Baru',
             'th_TH' : 'สร้างใหม่',
             'pt_BR' : 'novo',
-            'da_DK' : 'ny'
+            'da_DK' : 'ny',
+            'it_IT' : 'Nuovo'
            },
         'used': {
             'de_DE' : 'verwendet',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'terpakai',
             'th_TH' : 'ใช้ไป',
             'pt_BR' : 'usado',
-            'da_DK' : 'udnyttet'
+            'da_DK' : 'udnyttet',
+            'it_IT' : 'usato(i)'
            },
         'depleted': {
             'de_DE' : 'verbraucht',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Habis',
             'th_TH' : 'ถูกทำให้หมดลง',
             'pt_BR' : 'expirado',
-            'da_DK' : 'udløbet'
+            'da_DK' : 'udløbet',
+            'it_IT' : 'scaduto'
            },
         'Removing Vouchers': {
             'de_DE' : 'Tickets entfernen',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Hapus Voucher',
             'th_TH' : 'ลบคูปอง',
             'pt_BR' : 'Removendo Vouchers',
-            'da_DK' : 'Fjerner adgangskort'
+            'da_DK' : 'Fjerner adgangskort',
+            'it_IT' : 'Cancellazione Vouchers'
            },
         'Voucher(s) Removed OK': {
             'de_DE' : 'Ticket(s) entfernt',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'penghapusan Voucher berhasil',
             'th_TH' : 'คูปองถูกลบแล้ว',
             'pt_BR' : 'Voucher(s) Removido(s) OK',
-            'da_DK' : 'Adgangskort fjernet!'
+            'da_DK' : 'Adgangskort fjernet!',
+            'it_IT' : 'Voucher eliminato(i)'
            },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
-            'da_DK' : 'Åbner detaljer for'
+            'da_DK' : 'Åbner detaljer for',
+            'it_IT' : 'Apri dettagli per'
            }
     };
 

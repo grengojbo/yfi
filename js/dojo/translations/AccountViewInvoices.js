@@ -7,16 +7,17 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
 
     translations.AccountViewInvoices.phrases     = {
         'Result count': {
-			'de_DE' : 'Summe', 
-	        'es_ES' : 'Número',
+            'de_DE' : 'Summe', 
+            'es_ES' : 'Número',
             'af_ZA' : 'Aantal',
             'fr_FR' : 'Total',
             'ms_MY' : 'Bilangan hasil',
-		    'nl_NL' : 'Aantal',
+            'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-			'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'pt_BR' : 'Total',
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Start Date': {
             'de_DE' : 'Startdatum', 
@@ -28,7 +29,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Tanggal mulai',
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de Início',
-            'da_DK' : 'Startdato'
+            'da_DK' : 'Startdato',
+            'it_IT' : 'Data inizio'
            },
         'End Date': {
             'de_DE' : 'Enddatum', 
@@ -40,7 +42,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Tanggal berakhir',
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data do Final',
-            'da_DK' : 'Slutdato'
+            'da_DK' : 'Slutdato',
+            'it_IT' : 'Data fine'
            },
         'Billing Plan': { 
             'de_DE' : 'Rechnungsplan',
@@ -52,7 +55,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Rencana billing',
             'th_TH' : 'แผนการเรียกเก็บเงิน',
             'pt_BR' : 'Plano de Bilhetagem',
-            'da_DK' : 'Faktureringsoversigt'
+            'da_DK' : 'Faktureringsoversigt',
+            'it_IT' : 'Piano di fatturazione'
            },
         'Total': { 
             'de_DE' : 'Summe',
@@ -64,7 +68,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Total',
             'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
-            'da_DK' : 'I alt'
+            'da_DK' : 'I alt',
+            'it_IT' : 'Totale'
            },
         'Sum of Invoices': {
             'de_DE' : 'Rechungssumme',
@@ -76,7 +81,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Jumlah tagihan',
             'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
-            'da_DK' : 'Samlede opgørelser'
+            'da_DK' : 'Samlede opgørelser',
+            'it_IT' : 'Totale fatture'
            },
         'Sum of Payments': { 
             'de_DE' : 'Summe Zahlungen',
@@ -88,7 +94,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Jumlah Pembayaran',
             'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
-            'da_DK' : 'Samlede betalinger'
+            'da_DK' : 'Samlede betalinger',
+            'it_IT' : 'Totale pagamenti'
            },
         'Outstanding' : { 
             'de_DE' : 'Ausst&auml;ndig',
@@ -100,7 +107,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Belum lunas',
             'th_TH' : 'ค้างชำระ',
             'pt_BR' : 'Pendentes',
-            'da_DK' : 'Udestående'
+            'da_DK' : 'Udestående',
+            'it_IT' : 'In sospeso'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -112,7 +120,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -124,7 +133,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Delete Invoice(s)': {
             'de_DE' : 'Rechnung l&ouml;schen',
@@ -136,7 +146,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Hapus tagihan',
             'th_TH' : 'ลบใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Deletar Fatura(s)',
-            'da_DK' : 'Slet opgørelse(r)'
+            'da_DK' : 'Slet opgørelse(r)',
+            'it_IT' : 'Cancella fatture'
            },
         'Create New Invoice' : {
             'de_DE' : 'Neue Rechnung erstellen',
@@ -148,7 +159,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Buat tagihan baru',
             'th_TH' : 'สร้างใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Criar Nova Fatura',
-            'da_DK' : 'Generér ny opgørelse'
+            'da_DK' : 'Generér ny opgørelse',
+            'it_IT' : 'Crea nuova fattura'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -160,7 +172,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'End date must be AFTER Start date': {
             'de_DE' : 'Enddatum muss HINTER dem Startdatum liegen',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'วันสิ้นสุดต้องอยู่หลังจากวันเริ่มต้น',
             'pt_BR' : 'A data do final deve ser POSTERIOR à data de início',
             'da_DK' : 'Generér ny opgørelse',
-            'da_DK' : 'Slutdato skal være SENERE end startdato'
+            'da_DK' : 'Slutdato skal være SENERE end startdato',
+            'it_IT' : 'La data di fine deve essere successiva a quella di inizio'
            },
         'Selected Dates in Existing Invoice' : {
             'de_DE' : 'Ausgew&auml;hltes Datum in vorhandener Rechnung',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Tanggal yang terpilih dalam tagihan yang ada',
             'th_TH' : 'วันที่เลือกในใบกำกับสินค้า/ใบแจ้งหนี้เคยมีอยู่แล้ว',
             'pt_BR' : 'Datas selecionadas na fatura existente',
-            'da_DK' : 'Valgte datoer i eksisterende opgørelse'
+            'da_DK' : 'Valgte datoer i eksisterende opgørelse',
+            'it_IT' : 'Selezionare date di fatture esistenti'
            },
         'New Invoice Added': {
             'de_DE' : 'Neue Rechnung hinzugef&uuml;gt',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'tagihan telah ditambahkan',
             'th_TH' : 'เพิ่มใบกำกับสินค้า/ใบแจ้งหนี้แล้ว',
             'pt_BR' : 'Nova Fatura Adicionada',
-            'da_DK' : 'Ny opgørelse tilføjet'
+            'da_DK' : 'Ny opgørelse tilføjet',
+            'it_IT' : 'Nuova fattura aggiunta'
            },
         'Send e-Mail to user':{
             'de_DE' : 'E-Mail an Benutzer senden',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Kirim email ke User',
             'th_TH' : 'ส่งอีเมลหาผู้ใช้',
             'pt_BR' : 'Enviar email ao usuário',
-            'da_DK' : 'Send e-mail til bruger'
+            'da_DK' : 'Send e-mail til bruger',
+            'it_IT' : 'Invia e-Mail ad utente'
            },
         'Subject': {
             'de_DE' : 'Betreff',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Judul',
             'th_TH' : 'หัวเรื่อง',
             'pt_BR' : 'Assunto',
-            'da_DK' : 'Emne'
+            'da_DK' : 'Emne',
+            'it_IT' : 'Oggetto'
            },
         'Message': {
             'de_DE' : 'Nachricht',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Pesan',
             'th_TH' : 'ข้อความ',
             'pt_BR' : 'Mensagem',
-            'da_DK' : 'Besked'
+            'da_DK' : 'Besked',
+            'it_IT' : 'Messaggio'
            },
         'Attach Invoice(s)': {
             'de_DE' : 'Rechnug(en) anfuegen',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Ikutkan tagihan',
             'th_TH' : 'แนบใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Anexar Fatura(s)',
-            'da_DK' : 'Vedhæft opgørelse(r)'
+            'da_DK' : 'Vedhæft opgørelse(r)',
+            'it_IT' : 'Allega fattura(e)'
            },
         'OK': {
             'de_DE' : 'OK',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
-            'da_DK' : 'OK'
+            'da_DK' : 'OK',
+            'it_IT' : 'OK'
            },
         'e-Mail send OK': {
             'de_DE' : 'E-Mail gesendet',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Pengiriman email berhasil',
             'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
-            'da_DK' : 'E-mail sendt!'
+            'da_DK' : 'E-mail sendt!',
+            'it_IT' : 'a-Mail inviata correttamente'
            }
     };
 

@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Detail',
             'th_TH' : 'รายละเอียด',
             'pt_BR' : 'Detalhes',
-            'da_DK' : 'Detalje'
+            'da_DK' : 'Detalje',
+            'it_IT' : 'Dettagli'
            },
         'Logo': { 
             'de_DE' : 'Logo',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Logo',
             'th_TH' : 'โลโก้',
             'pt_BR' : 'Logo',
-            'da_DK' : 'Logo'
+            'da_DK' : 'Logo',
+            'it_IT' : 'Logo'
            },
         'Name':{ 	
             'de_DE' : 'Name',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Append To Name':{ 
             'de_DE' : 'Zusatzname',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Nama singkat',
             'th_TH' : 'ผนวกกับชื่อ',
             'pt_BR' : 'Adicionar ao Nome',
-            'da_DK' : 'Tilføj til navn'
+            'da_DK' : 'Tilføj til navn',
+            'it_IT' : 'Aggiungi al nome'
            },
         'Phone':{ 
             'de_DE' : 'Telefon',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Telepon',
             'th_TH' : 'โทรศัพท์',
             'pt_BR' : 'Telefone',
-            'da_DK' : 'Telefon'
+            'da_DK' : 'Telefon',
+            'it_IT' : 'Telefono'
             },
         'Cell':{ 
             'de_DE' : 'Mobil',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'HP',
             'th_TH' : 'มือถือ',
             'pt_BR' : 'Celular',
-            'da_DK' : 'Mobil'
+            'da_DK' : 'Mobil',
+            'it_IT' : 'Cell'
             },
         'e-mail':{ 
             'de_DE' : 'E-Mail',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Email',
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
-            'da_DK' : 'E-mail'
+            'da_DK' : 'E-mail',
+            'it_IT' : 'e-Mail'
             },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
             },
         'Add Realm': { 
             'de_DE' : 'Standort hinzuf&uuml;gen',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Tambahkan realm',
             'th_TH' : 'เพิ่มเขตพื้นที่',
             'pt_BR' : 'Adicionar Zona',
-            'da_DK' : 'Tilføj hotspot zone'
+            'da_DK' : 'Tilføj hotspot zone',
+            'it_IT' : 'Aggiungi dominio'
             },
         'Append String': { 
             'de_DE' : 'Namenszusatz',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'String yang ditampilkan',
             'th_TH' : 'ผนวกข้อความ',
             'pt_BR' : 'Adicionar Texto',
-            'da_DK' : 'Tilføj tekststreng'
+            'da_DK' : 'Tilføj tekststreng',
+            'it_IT' : 'Aggiungi riga'
             },
         'Fax': { 
             'de_DE' : 'Fax',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Faks',
             'th_TH' : 'แฟกซ์',
             'pt_BR' : 'Fax',
-            'da_DK' : 'Fax'
+            'da_DK' : 'Fax',
+            'it_IT' : 'Fax'
             },
         'url':{ 
             'de_DE' : 'URL',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'URL',
             'th_TH' : 'URL',
             'pt_BR' : 'url',
-            'da_DK' : 'url'
+            'da_DK' : 'url',
+            'it_IT' : 'url'
             },
         'Address':{ 
             'de_DE' : 'Adresse',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
-            'da_DK' : 'Adresse'
+            'da_DK' : 'Adresse',
+            'it_IT' : 'Indirizzo'
             },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
             },
         'Realm updated OK':{ 
             'de_DE' : 'Standort aktualisiert',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Update Realm berhasil',
             'th_TH' : 'ปรับปรุงเขตพื้นที่เรียบร้อยแล้ว',
             'pt_BR' : 'Zona atualizada OK',
-            'da_DK' : 'Hotspot zone opdateret!'
+            'da_DK' : 'Hotspot zone opdateret!',
+            'it_IT' : 'Dominio aggiornato correttamente'
             },
         'Problems updating realm':{ 
             'de_DE' : 'Problem beim aktualisieren des Standorts',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Update Realm bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงเขตพื้นที่',
             'pt_BR' : 'Problemas ao atualizar a zona',
-            'da_DK' : 'Problemer med at opdatere hotspot zone'
+            'da_DK' : 'Problemer med at opdatere hotspot zone',
+            'it_IT' : 'Problemi durante l\'aggiornamento del domini'
             },
         'Upload':{ 
             'de_DE' : 'Upload',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Upload',
             'th_TH' : 'อัพโหลด',
             'pt_BR' : 'Upload',
-            'da_DK' : 'Upload'
+            'da_DK' : 'Upload',
+            'it_IT' : 'Carica'
             },
         'Uploading, please wait':{
             'de_DE' : 'Upload, bitte warten',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Mengupload, Silahkan tunggu',
             'th_TH' : 'กำลังอัพโหลด กรุณารอ',
             'pt_BR' : 'Fazendo upload, por favor aguarde',
-            'da_DK' : 'Uploader, vent venligst...'
+            'da_DK' : 'Uploader, vent venligst...',
+            'it_IT' : 'Caricamento in corso, attendere'
         },
         'Image uploaded OK':{ 
             'de_DE' : 'Bild Upload OK',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.RealmView"]){ //_hasResource checks added by
             'id_ID' : 'Upload gambar berhasil',
             'th_TH' : 'อัพโหลดรูปเรียบร้อยแล้ว',
             'pt_BR' : 'Imagem carregada OK',
-            'da_DK' : 'Billede uploaded!'
+            'da_DK' : 'Billede uploaded!',
+            'it_IT' : 'Immagine caricata'
             }
     };
 

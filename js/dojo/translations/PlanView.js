@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PlanView"]){ //_hasResource checks added by 
             'id_ID' : 'Basic',
             'th_TH' : 'ขั้นพื้นฐาน',
             'pt_BR' : 'Básico',
-            'da_DK' : 'Basal'
+            'da_DK' : 'Basal',
+            'it_IT' : 'Base'
            },
         'Promotions': { 
             'de_DE' : 'Promotion',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PlanView"]){ //_hasResource checks added by 
             'id_ID' : 'Promosi',
             'th_TH' : 'โปรโมชั่น',
             'pt_BR' : 'Promoções',
-            'da_DK' : 'Kampagne'
+            'da_DK' : 'Kampagne',
+            'it_IT' : 'Promozione'
            },
         'Extra Caps': { 
             'de_DE' : 'Extra Kapazit&auml;t',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PlanView"]){ //_hasResource checks added by 
             'id_ID' : 'Caps tambahan',
             'th_TH' : 'Cap เพิ่มเติม',
             'pt_BR' : 'Extras',
-            'da_DK' : 'Forhøjet forbrugsgrænse'
+            'da_DK' : 'Forhøjet forbrugsgrænse',
+            'it_IT' : 'Extra'
            }
     };
 

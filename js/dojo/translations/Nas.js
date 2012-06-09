@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Saring',
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
-            'da_DK' : 'Filter'
+            'da_DK' : 'Filter',
+            'it_IT' : 'Filtro'
            },
         'Field': { 
             'de_DE' : 'Feld',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Daerah',
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
-            'da_DK' : 'Felt'
+            'da_DK' : 'Felt',
+            'it_IT' : 'Campo'
            },
         'IP Address': { 
             'de_DE' : 'IP Adresse',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Alamat IP',
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
-            'da_DK' : 'IP adresse'
+            'da_DK' : 'IP adresse',
+            'it_IT' : 'Indirizzo IP'
            },
         'Name': { 
             'de_DE' : 'Name',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Type': { 
             'de_DE' : 'Type',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Type',
             'th_TH' : 'ชนิด',
             'pt_BR' : 'Tipo',
-            'da_DK' : 'Type'
+            'da_DK' : 'Type',
+            'it_IT' : 'Tipo'
            },
         'Status': { 
             'de_DE' : 'Status',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Status',
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
-            'da_DK' : 'Status'
+            'da_DK' : 'Status',
+            'it_IT' : 'Stato'
            },
         'Users Connected': { 
             'de_DE' : 'Benutzer verbunden',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'User terhubung',
             'th_TH' : 'ผู้ใช้เชื่อมต่อ',
             'pt_BR' : 'Usuários Conectados',
-            'da_DK' : 'Brugere tilsluttet'
+            'da_DK' : 'Brugere tilsluttet',
+            'it_IT' : 'Utenti connessi'
            },
         'Contact Person': { 
             'de_DE' : 'Benutzer kontaktieren',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Contact person',
             'th_TH' : 'ผู้ติดต่อ',
             'pt_BR' : 'Contato',
-            'da_DK' : 'Kontaktperson'
+            'da_DK' : 'Kontaktperson',
+            'it_IT' : 'Persona di riferimento'
            },
         'Realms': { 
             'de_DE' : 'Standort',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Realm',
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
-            'da_DK' : 'Hotspot zone'
+            'da_DK' : 'Hotspot zone',
+            'it_IT' : 'Dominio'
            },
         'Refesh every': { 
             'de_DE' : 'Alle aktualisieren',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Refresh tiap',
             'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
-            'da_DK' : 'Forny hver'
+            'da_DK' : 'Forny hver',
+            'it_IT' : 'Ricarica ogni'
            },
         'seconds': { 
             'de_DE' : 'sekunden',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Detik',
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
-            'da_DK' : 'sekunder'
+            'da_DK' : 'sekunder',
+            'it_IT' : 'secondi'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Daerah',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Deleting NAS Device(s)': {
             'de_DE' : 'NAS Ger&auml;t(e) l&ouml;schen',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Menghapus perangkat NAS',
             'th_TH' : 'ลบอุปกรณ์ NAS',
             'pt_BR' : 'Deletando Dispositivo(s) NAS',
-            'da_DK' : 'Sletter NAS enhed...'
+            'da_DK' : 'Sletter NAS enhed...',
+            'it_IT' : 'Eliminazione apparato(i) NAS'
            },
         'Complete': {
             'de_DE' : 'Fertig',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            },
         'New NAS Device': {
             'de_DE' : 'Neues NAS Ger&auml;t',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Perangkat NAS Baru',
             'th_TH' : 'เพิ่มอุปกรณ์ NAS',
             'pt_BR' : 'Novo Dispositivo NAS',
-            'da_DK' : 'Ny NAS enhed'
+            'da_DK' : 'Ny NAS enhed',
+            'it_IT' : 'Nuovo apparato NAS'
            },
         'New VPN connected NAS Device': {
             'de_DE' : 'Neu verbundens VPN NAS Ger&auml;t',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'VPN baru terhubung ke perangkat NAS',
             'th_TH' : 'New VPN connected NAS Device',
             'pt_BR' : 'Novo Dispositivo NAS conectado por VPN',
-            'da_DK' : 'Ny VPN-forbundet NAS enhed'
+            'da_DK' : 'Ny VPN-forbundet NAS enhed',
+            'it_IT' : 'Nuova connessione VPN-NAS'
            },
         'Secret': {
             'de_DE' : 'Passwort',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Secret',
             'th_TH' : 'Secret',
             'pt_BR' : 'Chave Secreta',
-            'da_DK' : 'Hemmelig'
+            'da_DK' : 'Hemmelig',
+            'it_IT' : 'Password'
            },
         'Available to all': {
             'de_DE' : 'Fuer alle Verfuegbar',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Tersedia untuk semua',
             'th_TH' : 'สามารถใช้ได้กับทั้งหมด',
             'pt_BR' : 'Disponível para todos',
-            'da_DK' : 'Til rådighed for alle'
+            'da_DK' : 'Til rådighed for alle',
+            'it_IT' : 'Disponibile per tutti'
            },
         'Available only to': {
             'de_DE' : 'Verfuegbar nur fuer',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Hanya tersedia untuk',
             'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
-            'da_DK' : 'Kun til rådighed for'
+            'da_DK' : 'Kun til rådighed for',
+            'it_IT' : 'Disponibile solo per'
            },
         'Save': {
             'de_DE' : 'Speichern',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Created NAS Device' :{
             'de_DE' : 'NAS Ger&auml;t anlegen',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Buat perangkat NAS',
             'th_TH' : 'เพิ่มอุปกรณ์ NAS แล้ว',
             'pt_BR' : 'Dispositivo NAS criado',
-            'da_DK' : 'NAS enhed oprettet'
+            'da_DK' : 'NAS enhed oprettet',
+            'it_IT' : 'Dispositivo NAS creato'
            },
         'Problems creating NAS device' :{
             'de_DE' : 'Probleme beim anlegen des NAS Ger&auml;ts',
@@ -281,7 +303,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Bermasalah dalam pembuatan perangkat NAS',
             'th_TH' : 'มีปัญหาในการเพิ่มอุปกรณ์ NAS',
             'pt_BR' : 'Problemas ao criar dispositivo NAS',
-            'da_DK' : 'Problemer med at oprette NAS enhed'
+            'da_DK' : 'Problemer med at oprette NAS enhed',
+            'it_IT' : 'Problemi durante la creazione del dispositivo NAS'
            },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -293,7 +316,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
-            'da_DK' : 'Åbner detaljer for'
+            'da_DK' : 'Åbner detaljer for',
+            'it_IT' : 'Aggiungi dettagli per'
            },
         'Activate Changes': {
             'de_DE' : 'Aktiviere &Auml;nderungen',
@@ -305,7 +329,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Aktifkan perubahan',
             'th_TH' : 'เปลี่ยนการเปิดใช้งาน',
             'pt_BR' : 'Ativar Alterações',
-            'da_DK' : 'Aktivér ændringer'
+            'da_DK' : 'Aktivér ændringer',
+            'it_IT' : 'Attiva modifiche'
            },
         'Fetching latest' :{
             'de_DE' : 'Hole letztes',
@@ -317,7 +342,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'Fetching terakhir',
             'th_TH' : 'ดึงมาล่าสุด',
             'pt_BR' : 'Buscando último',
-            'da_DK' : 'Henter seneste...'
+            'da_DK' : 'Henter seneste...',
+            'it_IT' : 'Ricerca ultime'
            },
         'data' :{
             'de_DE' : 'daten',
@@ -329,7 +355,8 @@ if(!dojo._hasResource["translations.Nas"]){ //_hasResource checks added by build
             'id_ID' : 'data',
             'th_TH' : 'ข้อมูล',
             'pt_BR' : 'dados',
-            'da_DK' : 'data'
+            'da_DK' : 'data',
+            'it_IT' : 'data'
            }
     };
 

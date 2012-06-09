@@ -17,10 +17,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Disable',
             'th_TH' : 'ไม่เปิดใช้งาน',
             'pt_BR' : 'Desativado',
-            'da_DK' : 'Deaktiveret'
+            'da_DK' : 'Deaktiveret',
+            'it_IT' : 'Disabilitato'
            },
         'e-mail':{ 
-            'de_DE' : 'E-Mail',	      
+            'de_DE' : 'E-Mail',  
             'es_ES' : 'Email',
             'af_ZA' : 'e-pos',
             'fr_FR' : 'Email',
@@ -29,10 +30,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Email',
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
-            'da_DK' : 'E-mail'
+            'da_DK' : 'E-mail',
+            'it_IT' : 'e-Mail'
            },
         'Method':{ 
-            'de_DE' : 'Methode',	      
+            'de_DE' : 'Methode',      
             'es_ES' : 'Método',
             'af_ZA' : 'Manier',
             'fr_FR' : 'Méthode',
@@ -41,10 +43,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Metode',
             'th_TH' : 'วิธี',
             'pt_BR' : 'Método',
-            'da_DK' : 'Metode'
+            'da_DK' : 'Metode',
+            'it_IT' : 'Metodo'
            },
         'Address':{ 
-            'de_DE' : 'Adresse',	      
+            'de_DE' : 'Adresse',  
             'es_ES' : 'Dirección',
             'af_ZA' : 'Adres',
             'fr_FR' : 'Adresse',
@@ -53,10 +56,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
-            'da_DK' : 'Adresse'
+            'da_DK' : 'Adresse',
+            'it_IT' : 'Indirizzo'
            },
         'CC':{ 
-            'de_DE' : 'CC',	      
+            'de_DE' : 'CC',    
             'es_ES' : 'CC',
             'af_ZA' : 'CC',
             'fr_FR' : 'CC',
@@ -65,10 +69,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'CC',
             'th_TH' : 'สำเนาถึง',
             'pt_BR' : 'CC',
-            'da_DK' : 'CC'
+            'da_DK' : 'CC',
+            'it_IT' : 'CC'
            },
         'Start Percentage':{
-            'de_DE' : 'Start Prozentsatz',	      
+            'de_DE' : 'Start Prozentsatz',      
             'es_ES' : 'Porcentaje Inicio', 
             'af_ZA' : 'Begin Persentasie',
             'fr_FR' : 'Pourcentage de départ',
@@ -77,10 +82,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Persentase mulai',
             'th_TH' : 'ร้อยละเริ่มต้น',
             'pt_BR' : 'Porcentagem de Início',
-            'da_DK' : 'Startprocent'
+            'da_DK' : 'Startprocent',
+            'it_IT' : 'Percentuale di inizio'
            },
         'Percentage Step':{ 
-            'de_DE' : 'Weiterer Prozentsatz',	      
+            'de_DE' : 'Weiterer Prozentsatz',   
             'es_ES' : 'Porcentaje Paso',
             'af_ZA' : 'Opvolg Persentasie',
             'fr_FR' : 'Pas de pourcentage',
@@ -89,10 +95,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Step Persentase',
             'th_TH' : 'ลำดับขั้นร้อยละ',
             'pt_BR' : 'Porcentagem do Passo',
-            'da_DK' : 'Procenttrin'
+            'da_DK' : 'Procenttrin',
+            'it_IT' : 'Percentuale di step'
            },
         'Save':{ 
-            'de_DE' : 'Speichern',	      
+            'de_DE' : 'Speichern',
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -101,10 +108,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Notification updated OK':{
-            'de_DE' : 'Benachrichtigung aktualisiert',	      
+            'de_DE' : 'Benachrichtigung aktualisiert',   
             'es_ES' : 'Notificación actualizada OK', 
             'af_ZA' : 'Kennisgewing verander',
             'fr_FR' : 'La notification a été mise à jour avec succès',
@@ -113,10 +121,11 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Update Notifikasi berhasil',
             'th_TH' : 'ปรับปรุงการแจ้งเตือนเรียบร้อยแล้ว',
             'pt_BR' : 'Notificação atualizada OK',
-            'da_DK' : 'Oplysning opdateret!'
+            'da_DK' : 'Oplysning opdateret!',
+            'it_IT' : 'Notifica aggiornata correttamente'
            },
         'Problems updating Notification':{ 
-            'de_DE' : 'Problem beim aktualisieren Benachrichtigung',	      
+            'de_DE' : 'Problem beim aktualisieren Benachrichtigung',      
             'es_ES' : 'Problemas actualizando Notificación',
             'af_ZA' : 'Probleme met verandering',
             'fr_FR' : 'Des problèmes sont survenus lors de la mise à jour de la notification',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'id_ID' : 'Update Notifikasi bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงการแจ้งเตือน',
             'pt_BR' : 'Problemas ao atualizar a Notificação',
-            'da_DK' : 'Problemer med at opdatere Oplysning'
+            'da_DK' : 'Problemer med at opdatere Oplysning',
+            'it_IT' : 'Problemi durante l\'aggiornamento della notifica'
            }
     };
 

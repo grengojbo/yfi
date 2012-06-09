@@ -17,10 +17,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Hard',
             'th_TH' : 'Hard',
             'pt_BR' : 'Hard',
-            'da_DK' : 'Hård'
+            'da_DK' : 'Hård',
+            'it_IT' : 'Hard'
            },
         'Soft':{ 
-            'de_DE' : 'Weich',	      
+            'de_DE' : 'Weich', 
             'es_ES' : 'Ligera',
             'af_ZA' : 'Sagte',
             'fr_FR' : 'Doux',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Soft',
             'th_TH' : 'Soft',
             'pt_BR' : 'Soft',
-            'da_DK' : 'Blød'
+            'da_DK' : 'Blød',
+            'it_IT' : 'Soft'
            },
         'Prepaid':{ 
             'de_DE' : 'Prepaid',            
@@ -41,10 +43,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Prepaid',
             'th_TH' : 'เติมเงิน',
             'pt_BR' : 'Pré-Pago',
-            'da_DK' : 'Forudbetalt'
+            'da_DK' : 'Forudbetalt',
+            'it_IT' : 'Prepagato'
            },
         'Cap Type':{ 
-            'de_DE' : 'Kapazitaets Type',	      
+            'de_DE' : 'Kapazitaets Type',
             'es_ES' : 'Tipo de Capacidad',
             'af_ZA' : 'Tipe Kapasiteit',
             'fr_FR' : 'Type de limitation',
@@ -53,10 +56,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Type Cap',
             'th_TH' : 'ชนิดของ Cap',
             'pt_BR' : 'Tipo da Capacidade',
-            'da_DK' : 'Type af datamængdebegrænsning'
+            'da_DK' : 'Type af datamængdebegrænsning',
+            'it_IT' : 'Tipo cap'
            },
         'Name':{ 
-            'de_DE' : 'Vorname',	      
+            'de_DE' : 'Vorname',      
             'es_ES' : 'Nombre',
             'af_ZA' : 'Naam',
             'fr_FR' : 'Nom',
@@ -65,10 +69,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Surname':{ 
-            'de_DE' : 'Nachname',	      
+            'de_DE' : 'Nachname',
             'es_ES' : 'Apellidos',
             'af_ZA' : 'Van',
             'fr_FR' : 'Prénom',
@@ -77,10 +82,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Nama Belakang',
             'th_TH' : 'นามสกุล',
             'pt_BR' : 'Sobrenome',
-            'da_DK' : 'Efternavn'
+            'da_DK' : 'Efternavn',
+            'it_IT' : 'Cognome'
            },
         'Address':{ 
-            'de_DE' : 'Adresse',	      
+            'de_DE' : 'Adresse',      
             'es_ES' : 'Dirección',
             'af_ZA' : 'Adres',
             'fr_FR' : 'Adresse',
@@ -89,10 +95,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
-            'da_DK' : 'Adresse'
+            'da_DK' : 'Adresse',
+            'it_IT' : 'Indirizzo'
            },
         'Phone':{ 
-            'de_DE' : 'Telefon',	      
+            'de_DE' : 'Telefon',      
             'es_ES' : 'Teléfono',
             'af_ZA' : 'Telefoon',
             'fr_FR' : 'Téléphone',
@@ -101,10 +108,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Telepon',
             'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
-            'da_DK' : 'Telefon'
+            'da_DK' : 'Telefon',
+            'it_IT' : 'Telefono'
             },
         'e-mail':{ 
-            'de_DE' : 'E-Mail',	
+            'de_DE' : 'E-Mail',
             'es_ES' : 'Email',
             'af_ZA' : 'e-pos',
             'fr_FR' : 'Email',
@@ -113,10 +121,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Email',
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
-            'da_DK' : 'E-mail'
+            'da_DK' : 'E-mail',
+            'it_IT' : 'e-Mail'
             },
         'Language':{ 
-            'de_DE' : 'Sprache',	      
+            'de_DE' : 'Sprache',
             'es_ES' : 'Idioma',
             'af_ZA' : 'Taalvoorkeur',
             'fr_FR' : 'Langue',
@@ -125,10 +134,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
-            'da_DK' : 'Sprog'
+            'da_DK' : 'Sprog',
+            'it_IT' : 'Lingua'
             },
         'Save':{ 
-            'de_DE' : 'Speichern',	      
+            'de_DE' : 'Speichern',     
             'es_ES' : 'Guardar',
             'af_ZA' : 'Stoor',
             'fr_FR' : 'Sauver',
@@ -137,10 +147,11 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
             },
         'Permanent User updated OK' :{
-            'de_DE' : 'Permanenter Benutzer aktualisiert',	      
+            'de_DE' : 'Permanenter Benutzer aktualisiert',   
             'es_ES' : 'Usuario Permanente actualizado OK',
             'af_ZA' : 'Permanente gebruiker opgedateer',
             'fr_FR' : "L'utilisateur permanent ajouté avec succès",
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Update user permanen berhasil',
             'th_TH' : 'ปรับปรุงผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Usuário Permanente atualizado OK',
-            'da_DK' : 'Permanent bruger opdateret!'
+            'da_DK' : 'Permanent bruger opdateret!',
+            'it_IT' : 'Utente permanente aggiornato!'
             },
         'Problems updating Permanent User' :{
             'de_DE' : 'Probleme beim aktualisieren permanenter Benutzer',	      
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'id_ID' : 'Update user permanen bermasalah',
             'th_TH' : 'มีปัญหาในการปรับปรุงผู้ใช้',
             'pt_BR' : 'Problemas ao atualizar o Usuário Permanente',
-            'da_DK' : 'Problemer med at opdatere den permanente bruger'
+            'da_DK' : 'Problemer med at opdatere den permanente bruger',
+            'it_IT' : 'problemi durante aggiornamento dell\'utente permanente'
             }
     };
 

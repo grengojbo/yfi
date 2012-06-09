@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'id_ID' : 'Metode',
             'th_TH' : 'วิธี',
             'pt_BR' : 'Método',
-            'da_DK' : 'Metode'
+            'da_DK' : 'Metode',
+            'it_IT' : 'Modalità'
            },
         'Address':{ 
             'de_DE' : 'Adresse',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'id_ID' : 'Alamat',
             'th_TH' : 'ที่อยู่อีเมล',
             'pt_BR' : 'Direção',
-            'da_DK' : 'Adresse'
+            'da_DK' : 'Adresse',
+            'it_IT' : 'Indirizzo'
            },
         'CC':{ 
             'de_DE' : 'CC',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'id_ID' : 'CC',
             'th_TH' : 'สำเนาถึง',
             'pt_BR' : 'CC',
-            'da_DK' : 'CC'
+            'da_DK' : 'CC',
+            'it_IT' : 'CC'
            },
         'Start Percentage':{
             'de_DE' : 'Prozent Anfang',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'id_ID' : 'Persentase mulai',
             'th_TH' : 'เปอร์เซ็นต์เริ่มเตือน',
             'pt_BR' : 'Porcentagem de Início',
-            'da_DK' : 'Startprocent'
+            'da_DK' : 'Startprocent',
+            'it_IT' : 'Percentuale inizio'
            },
         'Percentage Step':{ 
             'de_DE' : 'Prozent Verlauf',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.PermanentGeneralNotify"]){ //_hasResource ch
             'id_ID' : 'Langkah persentase',
             'th_TH' : 'เตือนเมื่อเพิ่มขึ้นทุก(เปอร์เซ็นต์)',
             'pt_BR' : 'Porcentagem do Passo',
-            'da_DK' : 'Procenttrin'
+            'da_DK' : 'Procenttrin',
+            'it_IT' : 'Percentuale fase'
            }
     };
 

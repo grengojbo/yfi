@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Reload Data': { 
             'de_DE' : 'Daten neu laden',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Reload data',
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
             'pt_BR' : 'Recarregar Dados',
-            'da_DK' : 'Genindlæs data'
+            'da_DK' : 'Genindlæs data',
+            'it_IT' : 'Ricarica dati'
            },
         'Start date': { 
             'de_DE' : 'Startdatum',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Tanggal Mulai',
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de início',
-            'da_DK' : 'Startdato'
+            'da_DK' : 'Startdato',
+            'it_IT' : 'Data di inizio'
            },
         'End date': { 
             'de_DE' : 'Enddatum',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Tanggal berhenti',
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data de término',
-            'da_DK' : 'Slutdato'
+            'da_DK' : 'Slutdato',
+            'it_IT' : 'Data di fine'
            },
         'Extra time':{ 
             'de_DE' : 'Extra Zeit',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Waktu extra',
             'th_TH' : 'เวลาส่วนที่เพิ่มเติม',
             'pt_BR' : 'Tempo extra',
-            'da_DK' : 'Ekstra tidsrum'
+            'da_DK' : 'Ekstra tidsrum',
+            'it_IT' : 'Tempo extra'
            },
         'Extra data':{ 
             'de_DE' : 'Extra Datum',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Data Extra',
             'th_TH' : 'ข้อมูลส่วนที่เพิ่มเติม',
             'pt_BR' : 'Dados extra',
-            'da_DK' : 'Ekstra data'
+            'da_DK' : 'Ekstra data',
+            'it_IT' : 'Dati extra'
            },
         'Time Used':{ 
             'de_DE' : 'Zeit verbraucht',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Waktu terpakai',
             'th_TH' : 'เวลาที่ใช้',
             'pt_BR' : 'Tempo Usado',
-            'da_DK' : 'Anvendt tidsrum'
+            'da_DK' : 'Anvendt tidsrum',
+            'it_IT' : 'Tempo utilizzato'
            },
         'Time Avail':{ 
             'de_DE' : 'Zeit verf&uuml;gbar',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Waktu tersedia',
             'th_TH' : 'เวลาที่สามารถใช้ได้',
             'pt_BR' : 'Tempo Disponível',
-            'da_DK' : 'Tidsrum til rådighed'
+            'da_DK' : 'Tidsrum til rådighed',
+            'it_IT' : 'Tempo disponibile'
            },
         'Data Used':{ 
             'de_DE' : 'Zeit verbraucht',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Jumlah',
             'th_TH' : 'ข้อมูลที่ใช้',
             'pt_BR' : 'Dados utilizados',
-            'da_DK' : 'Anvendt datamængde'
+            'da_DK' : 'Anvendt datamængde',
+            'it_IT' : 'Dati usati'
            },
         'Data Avail':{ 
             'de_DE' : 'Daten verf&uuml;gbar',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.PermanentGeneralUsage"]){ //_hasResource che
             'id_ID' : 'Jumlah',
             'th_TH' : 'ข้อมูลที่สามารถใช้ได้',
             'pt_BR' : 'Dados Disponíveis',
-            'da_DK' : 'Datamængde til rådighed'
+            'da_DK' : 'Datamængde til rådighed',
+            'it_IT' : 'Dati disponibili'
            }
     };
 

@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Hasil perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Name': { 
             'de_DE' : 'Name',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Currency': { 
             'de_DE' : 'Waehrung',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Mata Uang',
             'th_TH' : 'สกุลเงิน',
             'pt_BR' : 'Moeda',
-            'da_DK' : 'Valuta'
+            'da_DK' : 'Valuta',
+            'it_IT' : 'Valuta'
            },
         'Subscription': { 
             'de_DE' : 'Bestellung',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Pendaftaran',
             'th_TH' : 'ค่าสมาชิก',
             'pt_BR' : 'Assinatura',
-            'da_DK' : 'Abonnement'
+            'da_DK' : 'Abonnement',
+            'it_IT' : 'Abbonamento'
            },
         'Rate/Second':{ 
             'de_DE' : 'Rate/Sekunde',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Biaya/detik',
             'th_TH' : 'อัตรา/วินาที',
             'pt_BR' : 'Taxa/Segundo',
-            'da_DK' : 'Afgift/sekund'
+            'da_DK' : 'Afgift/sekund',
+            'it_IT' : 'Tariffa/Secondo'
            },
         'Rate/Byte':{ 
             'de_DE' : 'Rate/Byte',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Biaya/Byte',
             'th_TH' : 'อัตรา/ไบต์',
             'pt_BR' : 'Taxa/Byte',
-            'da_DK' : 'Afgift/byte'
+            'da_DK' : 'Afgift/byte',
+            'it_IT' : 'Tariffa/Byte'
            },
         'Tax':{ 
             'de_DE' : 'Steuer',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Pajak',
             'th_TH' : 'ภาษี',
             'pt_BR' : 'Taxa',
-            'da_DK' : 'Afgift'
+            'da_DK' : 'Afgift',
+            'it_IT' : 'IVA'
            },
         'Realms':{ 
             'de_DE' : 'Standort',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Realm',
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
-            'da_DK' : 'Hotspot zone'
+            'da_DK' : 'Hotspot zone',
+            'it_IT' : 'Dominio'
            },
         'New Billing Plan':{ 
             'de_DE' : 'Neuer Tarifsplan',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Rencana billing baru',
             'th_TH' : 'เพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Novo Plano de Bilhetagem',
-            'da_DK' : 'Ny faktureringsoversigt'
+            'da_DK' : 'Ny faktureringsoversigt',
+            'it_IT' : 'Nuovo piano di fatturazione'
            },
         'Available to all':{ 
             'de_DE' : 'Verfuegbar fuer alle',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Tersedia untuk semua',
             'th_TH' : 'สามารถใช้ได้กับทั้งหมด',
             'pt_BR' : 'Disponível para todos',
-            'da_DK' : 'Til rådighed for alle'
+            'da_DK' : 'Til rådighed for alle',
+            'it_IT' : 'Disponibile per tutti'
            },
         'Available only to':{ 
             'de_DE' : 'Verfuegbar nur fuer',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Tersedia hanya untuk',
             'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
-            'da_DK' : 'Kun til rådighed for'
+            'da_DK' : 'Kun til rådighed for',
+            'it_IT' : 'Disponibile solo per'
            },
         'Save':{ 
             'de_DE' : 'speichern',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Created New Billing Plan':{ 
             'de_DE' : 'Neuen Tarifplan erstellen',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Buat rencana billing baru',
             'th_TH' : 'เพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Novo Plano de Bilhetagem Criado',
-            'da_DK' : 'Ny faktureringsoversigt oprettet!'
+            'da_DK' : 'Ny faktureringsoversigt oprettet!',
+            'it_IT' : 'Nuovo piano di fatturazione creato'
            },
         'Problems creating Billing Plan':{ 
             'de_DE' : 'Problem beim erstellen Tarifplan',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Bermasalah dalam pembuatan rencana billing',
             'th_TH' : 'มีปัญหาในการเพิ่มแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Problemas ao criar Plano de Bilhetagem',
-            'da_DK' : 'Problemer med at oprette faktureringsoversigt'
+            'da_DK' : 'Problemer med at oprette faktureringsoversigt',
+            'it_IT' : 'problemi durante la creazione del nuovo piano di fatturazione'
            },
         'Opening detail for':{ 
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Buka detail untuk',
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
-            'da_DK' : 'Åbner detaljer for'
+            'da_DK' : 'Åbner detaljer for',
+            'it_IT' : 'Apri dettagli per'
            },
         'Deleting Billing Plan(s)':{ 
             'de_DE' : 'Tarifplan l&ouml;schen',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Hapus rencana billing',
             'th_TH' : 'ลบแผนการเรียกเก็บเงิน',
             'pt_BR' : 'Deletando Plano(s) de Bilhetagem',
-            'da_DK' : 'Slet faktureringsoversigt(er)'
+            'da_DK' : 'Slet faktureringsoversigt(er)',
+            'it_IT' : 'Elimina piano(i) di fatturazione'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.Plans"]){ //_hasResource checks added by bui
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            }
     };
 

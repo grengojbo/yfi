@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute Profil',
             'th_TH' : 'Attribute กลุ่มผู้ใช้',
             'pt_BR' : 'Atributos do Perfil',
-            'da_DK' : 'Profilattributter'
+            'da_DK' : 'Profilattributter',
+            'it_IT' : 'Attributi profilo'
            },
         'Private Attributes':{ 
             'de_DE' : 'Pers&ouml;nliche Eigenschaften',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute Pribadi',
             'th_TH' : 'Attribute ส่วนตัว',
             'pt_BR' : 'Atributos Privados',
-            'da_DK' : 'Private attributter'
+            'da_DK' : 'Private attributter',
+            'it_IT' : 'Attributi privati'
            },
         'Activity':{ 
             'de_DE' : 'Aktivit&auml;t',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Aktifitas',
             'th_TH' : 'ประวัติการใช้',
             'pt_BR' : 'Atividade',
-            'da_DK' : 'Aktivitet'
+            'da_DK' : 'Aktivitet',
+            'it_IT' : 'Attività'
            },
         'Change Profile':{ 
             'de_DE' : 'Profil &auml;ndern',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Ubah Profil',
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Alterar Perfil',
-            'da_DK' : 'Skift profil'
+            'da_DK' : 'Skift profil',
+            'it_IT' : 'Modifica profilo'
            },
         'Profile':{ 
             'de_DE' : 'Profil',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Profil',
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
-            'da_DK' : 'Profil'
+            'da_DK' : 'Profil',
+            'it_IT' : 'Profilo'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Profile Changed':{ 
             'de_DE' : 'Profile ge&auml;ndert',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Profil diubah',
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้แล้ว',
             'pt_BR' : 'Perfil Alterado',
-            'da_DK' : 'Profil skiftet!'
+            'da_DK' : 'Profil skiftet!',
+            'it_IT' : 'Profilo modificato'
            },
         'Problems changing profile':{ 
             'de_DE' : 'Probleme beim &auml;ndern des Profils',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Perubahan profil bermasalah',
             'th_TH' : 'มีปัญหาในการเปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas ao alterar o perfil',
-            'da_DK' : 'Problemer med at ændre profil'
+            'da_DK' : 'Problemer med at ændre profil',
+            'it_IT' : 'problemi durante la modifica del profilo'
            },
         'Check':{
             'de_DE' : 'Kontrollieren', 
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Check',
             'th_TH' : 'Check',
             'pt_BR' : 'Check',
-            'da_DK' : 'Kontrollér'
+            'da_DK' : 'Kontrollér',
+            'it_IT' : 'Verifica'
            },
         'Reply':{ 
             'de_DE' : 'Antworten',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Reply',
             'th_TH' : 'Reply',
             'pt_BR' : 'Reply',
-            'da_DK' : 'Svar'
+            'da_DK' : 'Svar',
+            'it_IT' : 'Rispondi'
            },
         'Add Private Attribute':{
             'de_DE' : 'Pers&ouml;liche Eigenschaft hinzuf&uuml;gen',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Tambah Attribute Pribadi',
             'th_TH' : 'เพิ่ม Attribute ส่วนตัว',
             'pt_BR' : 'Adicionar Atributo Privado',
-            'da_DK' : 'Tilføj privat attribut'
+            'da_DK' : 'Tilføj privat attribut',
+            'it_IT' : 'Aggiungi attributo privato'
         },
         'Vendor':{ 
             'de_DE' : 'Hersteller',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Vendor',
             'th_TH' : 'Vendor',
             'pt_BR' : 'Distribuidor',
-            'da_DK' : 'Udbyder'
+            'da_DK' : 'Udbyder',
+            'it_IT' : 'Marca'
            },
         'Attribute': { 
             'de_DE' : 'Eigenschaft',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute',
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
-            'da_DK' : 'Attribut'
+            'da_DK' : 'Attribut',
+            'it_IT' : 'Attributo'
            },
         'Check/Reply': { 
             'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Check/Reply',
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
-            'da_DK' : 'Kontrollér/svar'
+            'da_DK' : 'Kontrollér/svar',
+            'it_IT' : 'Verifica/Rispondi'
            },
         'Operator':{ 
             'de_DE' : 'Ersteller',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Operator',
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
-            'da_DK' : 'Operatør'
+            'da_DK' : 'Operatør',
+            'it_IT' : 'Operatore'
            },
         'Value':{ 
             'de_DE' : 'Wert',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Nilai',
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
-            'da_DK' : 'Værdi'
+            'da_DK' : 'Værdi',
+            'it_IT' : 'Valore'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Attribute added':{ 
             'de_DE' : 'Eigenschaft hinzugef&uuml;gt',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute ditambahkan',
             'th_TH' : 'เพิ่ม Attribute แล้ว',
             'pt_BR' : 'Atributo adicionado',
-            'da_DK' : 'Attribut tilføjet'
+            'da_DK' : 'Attribut tilføjet',
+            'it_IT' : 'Attributo aggiunto'
            },
         'Problems adding attribute':{ 
             'de_DE' : 'Problem beim hinzuf&uuml;gen der Eigenschaft',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Penambahan Attribute bermasalah',
             'th_TH' : 'มีปัญหาในการเพิ่ม Attribute',
             'pt_BR' : 'Problemas ao adicionar atributo',
-            'da_DK' : 'Problemer med at tilføje attribut'
+            'da_DK' : 'Problemer med at tilføje attribut',
+            'it_IT' : 'Problemi durante l\'aggiunta dell\'attributo'
            },
         'Edit selection limit to one':{ 
             'de_DE' : 'Es kann nur eine Eigenschaft bearbeitet werden',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Pilihan yang di edit dibatasi satu',
             'th_TH' : 'แก้ไขได้ทีละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Editar limite de seleção limitado a um',
-            'da_DK' : 'Kun en kan redigeres af gangen'
+            'da_DK' : 'Kun en kan redigeres af gangen',
+            'it_IT' : 'Modifica possibile ad una selezione per volta'
            },
          'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Anda belum memilih' ,
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Deleting Private Attribute(s)':{ 
             'de_DE' : 'Pers&ouml;liche Eigenschaft(en) l&ouml;schen',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Menghapus Attibute Pribadi',
             'th_TH' : 'ลบ Attribute ส่วนตัว',
             'pt_BR' : 'Deletando Atributo(s) Privado(s)',
-            'da_DK' : 'Slet privat(e) attribut(ter)'
+            'da_DK' : 'Slet privat(e) attribut(ter)',
+            'it_IT' : 'Elimina attributo(i) privato(i)'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -281,7 +303,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Komplit' ,
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Completato'
            },
         'Delete Activity records':{
             'de_DE' : 'Aktive Datens&auml;tze l&ouml;schen',
@@ -293,7 +316,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Hapus rekaman aktifitas', 
             'th_TH' : 'ลบบันทึกความเคลื่อนไหว',
             'pt_BR' : 'Deletando registros de atividade',
-            'da_DK' : 'Slet aktivitetsregistreringer'
+            'da_DK' : 'Slet aktivitetsregistreringer',
+            'it_IT' : 'Elimina record attività'
            },
         'Delete Activity records Complete':{ 
             'de_DE' : 'Aktive Datens&auml;tze gel&ouml;scht',
@@ -305,7 +329,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Hapus rekaman aktifitas komplit' ,
             'th_TH' : 'ลบบันทึกความเคลื่อนไหวเสร็จสมบูรณ์',
             'pt_BR' : 'Registros de Atividade deletados',
-            'da_DK' : 'Aktivitetsregistreringer slettet!'
+            'da_DK' : 'Aktivitetsregistreringer slettet!',
+            'it_IT' : 'Eliminazione record attività completato'
            },
         'Edit Private Attribute':{ 
             'de_DE' : 'Pers&ouml;liche Eigenschaft bearbeiten',
@@ -317,7 +342,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Mengedit Attibute Pribadi',
             'th_TH' : 'แก้ไข Attribute ส่วนตัว',
             'pt_BR' : 'Editar Atributo Privado',
-            'da_DK' : 'Redigér privat attribut'
+            'da_DK' : 'Redigér privat attribut',
+            'it_IT' : 'Modifica attributo privato'
            },
         'Attribute changed':{ 
             'de_DE' : 'Eigenschaft ge&auml;ndert',
@@ -329,7 +355,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Attribute diubah',
             'th_TH' : 'Attribute ถูกเปลี่ยนแปลงแล้ว',
             'pt_BR' : 'Atributo alterado',
-            'da_DK' : 'Attribut ændret'
+            'da_DK' : 'Attribut ændret',
+            'it_IT' : 'Attributo modificato'
            },
         'Problems changing attribute':{ 
             'de_DE' : 'Problem beim &auml;ndern der Eigenschaft',
@@ -341,7 +368,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Perubahan Attribute bermasalah',
             'th_TH' : 'มีปัญหาในการเปลี่ยนแปลง Attribute',
             'pt_BR' : 'Problemas ao alterar atributo',
-            'da_DK' : 'Problemer med at ændre attribut'
+            'da_DK' : 'Problemer med at ændre attribut',
+            'it_IT' : 'Problemi durante la modifica dell&#39attributo'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -353,7 +381,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'MAC': { 
             'de_DE' : 'MAC',
@@ -365,7 +394,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'MAC',
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
-            'da_DK' : 'MAC'
+            'da_DK' : 'MAC',
+            'it_IT' : 'MAC'
            },
         'IP': { 
             'de_DE' : 'IP',
@@ -377,7 +407,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'IP',
             'th_TH' : 'IP',
             'pt_BR' : 'IP',
-            'da_DK' : 'IP'
+            'da_DK' : 'IP',
+            'it_IT' : 'IP'
            },
         'Started':{ 
             'de_DE' : 'Gestartet',
@@ -389,7 +420,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Mulai',
             'th_TH' : 'เริ่ม',
             'pt_BR' : 'Iniciado',
-            'da_DK' : 'Startet'
+            'da_DK' : 'Startet',
+            'it_IT' : 'Avviato'
            },
         'Stoped':{ 
             'de_DE' : 'Gestoppt',
@@ -401,7 +433,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Berhenti',
             'th_TH' : 'หยุด',
             'pt_BR' : 'Terminado',
-            'da_DK' : 'Stoppet'
+            'da_DK' : 'Stoppet',
+            'it_IT' : 'Fermato'
            },
         'Duration':{ 
             'de_DE' : 'Dauer',
@@ -413,7 +446,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Durasi',
             'th_TH' : 'ช่วงเวลา',
             'pt_BR' : 'Duração',
-            'da_DK' : 'Varighed'
+            'da_DK' : 'Varighed',
+            'it_IT' : 'Durata'
            },
         'Data TX':{ 
             'de_DE' : 'Daten empfangen',
@@ -425,11 +459,12 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Data TX',
             'th_TH' : 'ข้อมูลที่ส่งไป',
             'pt_BR' : 'Dados TX',
-            'da_DK' : 'TX data'
+            'da_DK' : 'TX data',
+            'it_IT' : 'Dati inviati'
            },
         'Data RX':{ 	
             'de_DE' : 'Daten gesendet',
-      	    'es_ES' : 'Datos RX',
+            'es_ES' : 'Datos RX',
             'af_ZA' : 'Data Ontvang',
             'fr_FR' : 'Données RX',
             'ms_MY' : 'Data RX',
@@ -437,7 +472,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Data RX',
             'th_TH' : 'ข้อมูลที่รับมา',
             'pt_BR' : 'Dados RX',
-            'da_DK' : 'RX data'
+            'da_DK' : 'RX data',
+            'it_IT' : 'Dati ricevuti'
            },
         'Data Total':{ 
             'de_DE' : 'Summe Daten',
@@ -449,7 +485,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Total data',
             'th_TH' : 'ข้อมูลทั้งหมด',
             'pt_BR' : 'Dados Totais',
-            'da_DK' : 'Samlet datamængde'
+            'da_DK' : 'Samlet datamængde',
+            'it_IT' : 'Dati totali'
            },
         'Still Active':{ 
             'de_DE' : 'Noch aktiv',
@@ -461,7 +498,8 @@ if(!dojo._hasResource["translations.VoucherView"]){ //_hasResource checks added 
             'id_ID' : 'Masih aktif',
             'th_TH' : 'ยังใช้งานอยู่',
             'pt_BR' : 'Permanece Ativo',
-            'da_DK' : 'Stadig aktiv'
+            'da_DK' : 'Stadig aktiv',
+            'it_IT' : 'Ancora attivo'
            }
     };
 

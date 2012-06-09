@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Reload',
             'th_TH' : 'เรียกใหม่',
             'pt_BR' : 'Atualizar',
-            'da_DK' : 'Genindlæs'
+            'da_DK' : 'Genindlæs',
+            'it_IT' : 'Ricarica'
            },
         'Device Info': { 
             'de_DE' : 'Ger&auml;te Information',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Translate me',
             'th_TH' : 'ข้อมูลอุปกรณ์',
             'pt_BR' : 'Informação do Dispositivo',
-            'da_DK' : 'Enhedsinfo'
+            'da_DK' : 'Enhedsinfo',
+            'it_IT' : 'Informazioni dispositivo'
            },
         'Fetched latest Device Info': { 
             'de_DE' : 'Letzte Ger&auml;te Information geholt',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Mengambil Info perangkat terakhir',
             'th_TH' : 'เรียกดูข้อมูลอุปกรณ์ล่าสุด',
             'pt_BR' : 'Informação do último Dispositivo encontrado',
-            'da_DK' : 'Hentet seneste enhedsinfo'
+            'da_DK' : 'Hentet seneste enhedsinfo',
+            'it_IT' : 'Ricaricate ultime informazioni'
            },
         'Firmware': { 
             'de_DE' : 'Firmware',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Firmware',
             'th_TH' : 'Firmware',
             'pt_BR' : 'Firmware',
-            'da_DK' : 'Firmware'
+            'da_DK' : 'Firmware',
+            'it_IT' : 'Firmware'
            },
         'Time': { 
             'de_DE' : 'Zeit',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Waktu',
             'th_TH' : 'เวลา',
             'pt_BR' : 'Tempo',
-            'da_DK' : 'Tid'
+            'da_DK' : 'Tid',
+            'it_IT' : 'Ora'
            },
         'Uptime': { 
             'de_DE' : 'Laufzeit',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'Waktu Up',
             'th_TH' : 'เปิดทำงานมาเป็นเวลา',
             'pt_BR' : 'Tempo de Atividade',
-            'da_DK' : 'Oppetid'
+            'da_DK' : 'Oppetid',
+            'it_IT' : 'Tempo di attività'
            },
         'Load': { 
             'de_DE' : 'Laden',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'id_ID' : 'DiMuat',
             'th_TH' : 'โหลด',
             'pt_BR' : 'Carga',
-            'da_DK' : 'Belastning'
+            'da_DK' : 'Belastning',
+            'it_IT' : 'Carico'
            }
     };
 

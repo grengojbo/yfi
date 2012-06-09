@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Info Compulsory',
             'th_TH' : 'ข้อมูลที่จำเป็น',
             'pt_BR' : 'Informação Obrigatória',
-            'da_DK' : 'Obligatoriske oplysninger'
+            'da_DK' : 'Obligatoriske oplysninger',
+            'it_IT' : 'Informazioni obbligatorie'
            },
         'Optional Info': { 
             'de_DE' : 'Optionale Information',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Info Opsional',
             'th_TH' : 'ข้อมูลเพิ่มเติม',
             'pt_BR' : 'Informação Opcional',
-            'da_DK' : 'Valgfrie oplysninger'
+            'da_DK' : 'Valgfrie oplysninger',
+            'it_IT' : 'Informazioni opzionali'
            },
         'Availability': { 
             'de_DE' : 'Verf&uuml;gbarkeit',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Ketersediaan',
             'th_TH' : 'ที่มีให้',
             'pt_BR' : 'Disponibilidade',
-            'da_DK' : 'Tilgængelighed'
+            'da_DK' : 'Tilgængelighed',
+            'it_IT' : 'Disponibilità'
            },
          'IP Address': {
             'de_DE' : 'IP Adresse',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Alamat IP',
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
-            'da_DK' : 'IP adresse'
+            'da_DK' : 'IP adresse',
+            'it_IT' : 'Indirizzo IP'
            },
         'Name': { 
             'de_DE' : 'Name',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Nama',
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
-            'da_DK' : 'Navn'
+            'da_DK' : 'Navn',
+            'it_IT' : 'Nome'
            },
         'Secret': {
             'de_DE' : 'Passwort',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Secret',
             'th_TH' : 'Secret',
             'pt_BR' : 'Chave Secreta',
-            'da_DK' : 'Hemmelig'
+            'da_DK' : 'Hemmelig',
+            'it_IT' : 'password'
            },
         'Contact Person': { 
             'de_DE' : 'Benutzer kontaktieren',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Contact Person',
             'th_TH' : 'ผู้ติดต่อ',
             'pt_BR' : 'Contato',
-            'da_DK' : 'Kontaktperson'
+            'da_DK' : 'Kontaktperson',
+            'it_IT' : 'Persona di riferimento'
            },
         'Available to all': {
             'de_DE' : 'Fuer alle Verfuegbar',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Tersedia untuk semua',
             'th_TH' : 'สามารถใช้ได้กับทั้งหมด',
             'pt_BR' : 'Disponível para todos',
-            'da_DK' : 'Til rådighed for alle'
+            'da_DK' : 'Til rådighed for alle',
+            'it_IT' : 'Disponibile per tutti'
            },
         'Available only to': {
             'de_DE' : 'Verfuegbar nur fuer',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Hanya tersedia untuk',
             'th_TH' : 'สามารถใช้ได้เฉพาะ',
             'pt_BR' : 'Disponível somente para',
-            'da_DK' : 'Kun til rådighed for'
+            'da_DK' : 'Kun til rådighed for',
+            'it_IT' : 'Disponibile solo per'
            },
         'Save': {
             'de_DE' : 'Speichern',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'NAS compulsory data updated': {
             'de_DE' : 'Obligatorisches NAS Daten Update',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Data compulsory NAS sudah terupdate',
             'th_TH' : 'ปรับปรุงข้อมูลที่จำเป็นของอุปกรณ์ NAS',
             'pt_BR' : 'Dados obrigatórios do NAS atualizados',
-            'da_DK' : 'NAS enhedens obligatoriske oplysninger er opdateret'
+            'da_DK' : 'NAS enhedens obligatoriske oplysninger er opdateret',
+            'it_IT' : 'Informazioni obbligatorie dispositivo NAS aggiornate'
            },
         'Problems updating compulsory data': {
             'de_DE' : 'Problem bei obligatorischen NAS Daten Update',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Bermasalah dalam mengupdate Data compulsory',
             'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลที่จำเป็น',
             'pt_BR' : 'Problemas ao atualizar dados obrigatórios',
-            'da_DK' : 'Problemer med at opdatere de obligatoriske indstillinger'
+            'da_DK' : 'Problemer med at opdatere de obligatoriske indstillinger',
+            'it_IT' : 'problemi durante l\'aggiornamento delle informazioni obbligatorie'
            },
         'PPTP Client Detail': { 
             'de_DE' : 'PPTP Benutzer Details',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Detail klien PPTP',
             'th_TH' : 'รายละเอียดผู้ใช้ PPTP',
             'pt_BR' : 'Detalhes do Cliente PPTP',
-            'da_DK' : 'PPTP klient detaljer'
+            'da_DK' : 'PPTP klient detaljer',
+            'it_IT' : 'Dettagli client PPTP'
            },
         'Username': { 
             'de_DE' : 'Benutzername',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Username',
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
-            'da_DK' : 'Brugernavn'
+            'da_DK' : 'Brugernavn',
+            'it_IT' : 'Nome utente'
            },
         'Password': { 
             'de_DE' : 'Kennwort',
@@ -185,7 +199,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Kata sandi',
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
-            'da_DK' : 'Adgangskode'
+            'da_DK' : 'Adgangskode',
+            'it_IT' : 'password'
            },
         'Server Name': { 
             'de_DE' : 'Server Name',
@@ -197,7 +212,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Nama server',
             'th_TH' : 'ชื่อของเซิร์ฟเวอร์',
             'pt_BR' : 'Nome do Servidor',
-            'da_DK' : 'Servernavn'
+            'da_DK' : 'Servernavn',
+            'it_IT' : 'Nome server'
            },
         'Server IP': { 
             'de_DE' : 'Server IP Adresse',
@@ -209,7 +225,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'IP server',
             'th_TH' : 'IP ของเซิร์ฟเวอร์',
             'pt_BR' : 'IP do Servidor',
-            'da_DK' : 'IP adresse'
+            'da_DK' : 'IP adresse',
+            'it_IT' : 'IP del Server'
            },
         'Type': { 
             'de_DE' : 'Type',
@@ -221,7 +238,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Type',
             'th_TH' : 'ชนิด',
             'pt_BR' : 'Tipo',
-            'da_DK' : 'Type'
+            'da_DK' : 'Type',
+            'it_IT' : 'Tipo'
            },
         'Port': { 
             'de_DE' : 'Port',
@@ -233,7 +251,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Port',
             'th_TH' : 'พอร์ต',
             'pt_BR' : 'Porta',
-            'da_DK' : 'Port'
+            'da_DK' : 'Port',
+            'it_IT' : 'Porta'
            },
         'Community': { 
             'de_DE' : 'Gemeinschaft',
@@ -245,7 +264,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Komunitas',
             'th_TH' : 'ชุมชน',
             'pt_BR' : 'Comunidade',
-            'da_DK' : 'Fællesskab'
+            'da_DK' : 'Fællesskab',
+            'it_IT' : 'Comunità'
            },
         'Description': { 
             'de_DE' : 'Beschreibung',
@@ -257,7 +277,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Deskripsi',
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
-            'da_DK' : 'Beskrivelse'
+            'da_DK' : 'Beskrivelse',
+            'it_IT' : 'Descrizione'
            },
         'Active Monitor':{ 
             'de_DE' : 'Monitor Aktief',
@@ -269,7 +290,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Monitor Aktif',
             'th_TH' : 'ติดตามงาน',
             'pt_BR' : 'Monitor Ativo',
-            'da_DK' : 'Aktiv overvågning'
+            'da_DK' : 'Aktiv overvågning',
+            'it_IT' : 'Monitor attivo(i)'
            },
         'Longitude' :{ 
             'de_DE' : 'Laengengrad',
@@ -281,7 +303,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Bujur',
             'th_TH' : 'ลองจิจูด',
             'pt_BR' : 'Longitude',
-            'da_DK' : 'Længdegrad'
+            'da_DK' : 'Længdegrad',
+            'it_IT' : 'Longitudine'
            },
         'Latitude':{ 
             'de_DE' : 'Breitengrad',
@@ -293,7 +316,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Lintang',
             'th_TH' : 'ละติจูด',
             'pt_BR' : 'Latitude',
-            'da_DK' : 'Breddegrad'
+            'da_DK' : 'Breddegrad',
+            'it_IT' : 'latitudine'
            },
         'NAS optional data updated' : { 
             'de_DE' : 'Optionales NAS Daten Update',
@@ -305,7 +329,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Data Opsional NAS terupdate',
             'th_TH' : 'ข้อมูลเพิ่มเติมของ NAS ถูกปรับปรุงแล้ว',
             'pt_BR' : 'Dados opcionais do NAS atualizados',
-            'da_DK' : 'De valgfrie indstillinger for NAS enheden er opdateret'
+            'da_DK' : 'De valgfrie indstillinger for NAS enheden er opdateret',
+            'it_IT' : 'Informazioni opzionali dispositivo NAS aggiornate'
            },
         'Problems updating optional data': { 
             'de_DE' : 'Problem beim optionalen NAS Daten Update',
@@ -317,7 +342,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Bermasalah dalam mengupdate data opsional',
             'th_TH' : 'ปัญหาการปรับปรุงข้อมูลเพิ่มเติม',
             'pt_BR' : 'Problemas ao atualizar os dados opcionais',
-            'da_DK' : 'Problemer med at opdatere de valgfrie indstillinger'
+            'da_DK' : 'Problemer med at opdatere de valgfrie indstillinger',
+            'it_IT' : 'Problemi durante l\'aggiornamento delle informazioni opzionali'
            },
         'State': { 
             'de_DE' : 'Status',
@@ -329,7 +355,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Propinsi',
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
-            'da_DK' : 'Tilstand'
+            'da_DK' : 'Tilstand',
+            'it_IT' : 'Stato'
            },
         'Duration': { 
             'de_DE' : 'Dauer',
@@ -341,7 +368,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Durasi',
             'th_TH' : 'ช่วงเวลา',
             'pt_BR' : 'Duração',
-            'da_DK' : 'Varighed'
+            'da_DK' : 'Varighed',
+            'it_IT' : 'Durata'
            },
         'Started': { 
             'de_DE' : 'Gestartet',
@@ -353,7 +381,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Mulai',
             'th_TH' : 'เริ่ม',
             'pt_BR' : 'Iniciado',
-            'da_DK' : 'Begyndt'
+            'da_DK' : 'Begyndt',
+            'it_IT' : 'Avviato'
            },
         'Ended': { 
             'de_DE' : 'Beendet',
@@ -365,7 +394,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Berakhir',
             'th_TH' : 'สิ้นสุด',
             'pt_BR' : 'Finalizado',
-            'da_DK' : 'Afsluttet'
+            'da_DK' : 'Afsluttet',
+            'it_IT' : 'Finito'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -377,7 +407,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Jumlah',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'No Selection made': {
             'de_DE' : 'keine Auswahl getroffen',
@@ -389,7 +420,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Deleting Availability Entries': {
             'de_DE' : 'Verf&uuml;gbar Eintr&auml;ge l&ouml;schen',
@@ -401,7 +433,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Menghapus Entries',
             'th_TH' : 'ลบรายการที่มีให้',
             'pt_BR' : 'Deletando Entradas de Disponibilidade',
-            'da_DK' : 'Sletter indstillinger om tilgængelighed...'
+            'da_DK' : 'Sletter indstillinger om tilgængelighed...',
+            'it_IT' : 'Eliminazione informazioni di disponibilità'
            },
         'complete': {
             'de_DE' : 'Fertig',
@@ -413,7 +446,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Komplit',
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'completo',
-            'da_DK' : 'afsluttet'
+            'da_DK' : 'afsluttet',
+            'it_IT' : 'completo'
            },
         'Up':{
             'de_DE' : 'Verf&uuml;gbar',
@@ -425,7 +459,8 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Up',
             'th_TH' : 'Up',
             'pt_BR' : 'Para cima',
-            'da_DK' : 'Oppe'
+            'da_DK' : 'Oppe',
+            'it_IT' : 'Su'
            },
         'Down':{
             'de_DE' : 'Nicht Verf&uuml;gbar',
@@ -437,13 +472,16 @@ if(!dojo._hasResource["translations.NasView"]){ //_hasResource checks added by b
             'id_ID' : 'Down',
             'th_TH' : 'Down',
             'pt_BR' : 'Para baixo',
-            'da_DK' : 'Nede'
-           }
+            'da_DK' : 'Nede',
+            'it_IT' : 'Giù'
+           },
         'Photo':{
-            'th_TH' : 'รูปภาพ'
-           }
+            'th_TH' : 'รูปภาพ',
+            'it_IT' : 'Foto'
+           },
         'Actions':{
-            'th_TH' : 'คำสั่ง'
+            'th_TH' : 'คำสั่ง',
+            'it_IT' : 'Azioni'
            }
     };
 

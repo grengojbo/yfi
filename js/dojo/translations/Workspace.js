@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by
             'id_ID' : '',
             'th_TH' : 'กำลังโหลด',
             'pt_BR' : 'Carregando',
-            'da_DK' : 'Indlæser...'
+            'da_DK' : 'Indlæser...',
+            'it_IT' : 'Caricamento'
         }
     };
 

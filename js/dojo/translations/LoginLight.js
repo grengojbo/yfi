@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'Pemakai',
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
-            'da_DK' : 'Brugernavn'
+            'da_DK' : 'Brugernavn',
+            'it_IT' : 'Nome utente'
            },
         'Password': { 
             'de_DE' : 'Passwort',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'Kata Sandi',
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
-            'da_DK' : 'Adgangskode'
+            'da_DK' : 'Adgangskode',
+            'it_IT' : 'Password'
            },
         'Language': { 
             'de_DE' : 'Sprache',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'Bahasa',
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
-            'da_DK' : 'Sprog'
+            'da_DK' : 'Sprog',
+            'it_IT' : 'Lingua'
            },
         'Clear': { 
             'de_DE' : 'Leeren',
@@ -53,9 +56,10 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'Hapus',
             'th_TH' : 'ลบทั้งหมด',
             'pt_BR' : 'Limpar',
-            'da_DK' : 'Slet'
+            'da_DK' : 'Slet',
+            'it_IT' : 'Cancella'
            },
-        'OK': { 	
+        'OK': { 
             'de_DE' : 'OK',
             'es_ES' : 'OK',
             'af_ZA' : 'OK',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'OK',
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
-            'da_DK' : 'OK'
+            'da_DK' : 'OK',
+            'it_IT' : 'OK'
            },
         'Authentication Failed' :{ 
             'de_DE' : 'Authentifizierung fehlgeschlagen',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'id_ID' : 'Autentikasi Gagal',
             'th_TH' : 'การยืนยันตัวตนล้มเหลว',
             'pt_BR' : 'Falha na Autenticação',
-            'da_DK' : 'Godkendelse slået fejl'
+            'da_DK' : 'Godkendelse slået fejl',
+            'it_IT' : 'Autenticazione fallita'
            }
     };
 

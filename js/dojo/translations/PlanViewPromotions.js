@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Kb',
                 'th_TH' : 'กิโลบิต',
                 'pt_BR' : 'Kb',
-                'da_DK' : 'Kb'
+                'da_DK' : 'Kb',
+                'it_IT' : 'Kb'
            },
         'Mb': { 
                 'de_DE' : 'Mb',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Mb',
                 'th_TH' : 'เมกะบิต',
                 'pt_BR' : 'Mb',
-                'da_DK' : 'Mb'
+                'da_DK' : 'Mb',
+                'it_IT' : 'Mb'
            },
         'Gb': { 
                 'de_DE' : 'Gb',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Gb',
                 'th_TH' : 'กิกะบิต',
                 'pt_BR' : 'Gb',
-                'da_DK' : 'Gb'
+                'da_DK' : 'Gb',
+                'it_IT' : 'Gb'
            },
         'Minutes':{ 
                 'de_DE' : 'Minuten',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Menit',
                 'th_TH' : 'นาที',
                 'pt_BR' : 'Minutos',
-                'da_DK' : 'Minutter'
+                'da_DK' : 'Minutter',
+                'it_IT' : 'Minuti'
            },
         'Hours':{ 
                 'de_DE' : 'Stunden',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Jam',
                 'th_TH' : 'ชั่วโมง',
                 'pt_BR' : 'Horas',
-                'da_DK' : 'Timer'
+                'da_DK' : 'Timer',
+                'it_IT' : 'Ore'
            },
         'Days':{ 
                 'de_DE' : 'Tage',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Hari',
                 'th_TH' : 'วัน',
                 'pt_BR' : 'Dias',
-                'da_DK' : 'Dage'
+                'da_DK' : 'Dage',
+                'it_IT' : 'Giorni'
            },
         'Free Data': { 
                 'de_DE' : 'Daten frei',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Free Data',
                 'th_TH' : 'ข้อมูล',
                 'pt_BR' : 'Dados Gratuitos',
-                'da_DK' : 'Gratis datatrafik'
+                'da_DK' : 'Gratis datatrafik',
+                'it_IT' : 'Dati gratis'
            },
         'Data Units':{ 
                 'de_DE' : 'Daten Einheit',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Unit Data',
                 'th_TH' : 'หน่วยข้อมูล',
                 'pt_BR' : 'Unidade de Dados',
-                'da_DK' : 'Data enheder'
+                'da_DK' : 'Data enheder',
+                'it_IT' : 'Unità di dati'
            },
         'Free Time': { 
                 'de_DE' : 'Zeit frei',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Waktu free',
                 'th_TH' : 'เวลา',
                 'pt_BR' : 'Tempo Grátis',
-                'da_DK' : 'Gratis tidsrum'
+                'da_DK' : 'Gratis tidsrum',
+                'it_IT' : 'Tempo gratis'
            },
         'Time Units':{ 
                 'de_DE' : 'Zeit Einheit',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Unit Waktu',
                 'th_TH' : 'หน่วยเวลา',
                 'pt_BR' : 'Unidade de Tempo',
-                'da_DK' : 'Tidsenhed'
+                'da_DK' : 'Tidsenhed',
+                'it_IT' : 'Unità di tempo'
            },
         'Discount':{ 
                 'de_DE' : 'Ermaesigung',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Potongan',
                 'th_TH' : 'ส่วนลด',
                 'pt_BR' : 'Desconto',
-                'da_DK' : 'Rabat'
+                'da_DK' : 'Rabat',
+                'it_IT' : 'Sconto'
            },
         'Save':{ 
                 'de_DE' : 'Speichern',
@@ -149,7 +160,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Simpan',
                 'th_TH' : 'บันทึก',
                 'pt_BR' : 'Salvar',
-                'da_DK' : 'Gem'
+                'da_DK' : 'Gem',
+                'it_IT' : 'Salva'
            },
         'Promotion updated OK':{ 
                 'de_DE' : 'Promotion aktualisiert',
@@ -161,7 +173,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Update Promosi OK',
                 'th_TH' : 'ปรับปรุงโปรโมชั่นเรียบร้อยแล้ว',
                 'pt_BR' : 'Promoção atualizada OK',
-                'da_DK' : 'Kampagne opdateret!'
+                'da_DK' : 'Kampagne opdateret!',
+                'it_IT' : 'Promozione aggiornata!'
            },
         'Problems updating Promotion':{ 
                 'de_DE' : 'Problem beim aktualisieren der Promotion',
@@ -173,7 +186,8 @@ if(!dojo._hasResource["translations.PlanViewPromotions"]){ //_hasResource checks
                 'id_ID' : 'Bermasalah Update Promosi',
                 'th_TH' : 'มีปัญหาในการปรับปรุงโปรโมชั่น',
                 'pt_BR' : 'Problemas ao atualizar Promoção',
-                'da_DK' : 'Problemer med at opdatere kampagne'
+                'da_DK' : 'Problemer med at opdatere kampagne',
+                'it_IT' : 'Problemi durante l\'aggiornamento della promozione'
            }
     };
 

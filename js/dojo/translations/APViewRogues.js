@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Bekend',
             'id_ID' : 'Diketahui',
             'th_TH' : 'ที่รู้จัก',
-            'da_DK' : 'Kendt'
+            'da_DK' : 'Kendt',
+            'it_IT' : 'Conosciuto'
            },
         'Unknown': { 
             'de_DE' : 'Unbekannt',
@@ -27,7 +28,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Onbekend',
             'id_ID' : 'Tidak Diketahui',
             'th_TH' : 'ที่ไม่รู้จัก',
-            'da_DK' : 'Ukendt'
+            'da_DK' : 'Ukendt',
+            'it_IT' : 'Sconosciuto'
            },
         'SSID': { 
             'de_DE' : 'SSID',
@@ -38,7 +40,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'SSID',
             'id_ID' : 'SSID',
             'th_TH' : 'SSID',
-            'da_DK' : 'SSID'
+            'da_DK' : 'SSID',
+            'it_IT' : 'SSID'
            },
         'MAC': { 
             'de_DE' : 'MAC',
@@ -49,7 +52,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'MAC',
             'id_ID' : 'MAC',
             'th_TH' : 'MAC',
-            'da_DK' : 'MAC'
+            'da_DK' : 'MAC',
+            'it_IT' : 'MAC'
            },
         'Mode': { 
             'de_DE' : 'Modus',
@@ -60,7 +64,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Modus',
             'id_ID' : 'Mode',
             'th_TH' : 'โหมด',
-            'da_DK' : 'Tilstand'
+            'da_DK' : 'Tilstand',
+            'it_IT' : 'Modalità'
            },
         'Channel': { 
             'de_DE' : 'Kanal',
@@ -71,7 +76,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Kanaal',
             'id_ID' : 'Channel',
             'th_TH' : 'ช่องสัญญาณ',
-            'da_DK' : 'Kanal'
+            'da_DK' : 'Kanal',
+            'it_IT' : 'Canale'
            },
         'Encryption': { 
             'de_DE' : 'Verschl&uuml;sselung',
@@ -82,7 +88,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Encryptie',
             'id_ID' : 'Enkripsi',
             'th_TH' : 'การเข้ารหัส',
-            'da_DK' : 'Kryptering'
+            'da_DK' : 'Kryptering',
+            'it_IT' : 'Criptaggio'
            },
         'Last Seen': { 
             'de_DE' : 'Letztes gesehen',
@@ -93,7 +100,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Laatst gezien',
             'id_ID' : 'Terakhir terlihat',
             'th_TH' : 'เห็นครั้งล่าสุด',
-            'da_DK' : 'Sidst set'
+            'da_DK' : 'Sidst set',
+            'it_IT' : 'Ultimo contatto'
            },
         'Known / Unknown': { 
             'de_DE' : 'Bekannt / Unbekannt',
@@ -104,7 +112,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Bekend / Onbekend',
             'id_ID' : 'Diketahui/ tidak diketahui',
             'th_TH' : 'ที่รู้จัก/ที่ไม่รู้จัก',
-            'da_DK' : 'Kendt / Ukendt'
+            'da_DK' : 'Kendt / Ukendt',
+            'it_IT' : 'Conosciuto / Sconosciuto'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -115,7 +124,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Aantal',
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -126,7 +136,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Maak eerst een selectie',
             'id_ID' : 'Anda belum memilih',
             'th_TH' : 'ไม่มีการเลือก',
-            'da_DK' : 'Intet valgt'
+            'da_DK' : 'Intet valgt',
+            'it_IT' : 'Nessuna selezione'
            },
         'Delete Nearby Device(s)': { 
             'de_DE' : 'Nahegelegene Ger&auml;t(e) l&ouml;schen',
@@ -137,7 +148,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Verwijder apparaten dichtbij',
             'id_ID' : 'Menghapus Perangkat Nearby',
             'th_TH' : 'ลบ Nearby Device',
-            'da_DK' : 'Slet enhed(er) i nærheden'
+            'da_DK' : 'Slet enhed(er) i nærheden',
+            'it_IT' : 'Elimina dispositivo(i) nelle vicinanze'
            },
         'Save': { 
             'de_DE' : 'Speichern',
@@ -148,7 +160,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Opslaan',
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Change State of Device(s)': { 
             'de_DE' : 'Ger&auml;t(e)status &auml;ndern',
@@ -159,7 +172,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Wijzig apparaatstatus',
             'id_ID' : 'Mengubah Status Perangkat',
             'th_TH' : 'เปลี่ยนสถานะของอุปกรณ์',
-            'da_DK' : 'Skift tilstand for enhed(er)'
+            'da_DK' : 'Skift tilstand for enhed(er)',
+            'it_IT' : 'Cambia stato del(i) dispositivo(i)'
            },
         'Problems changing state of Device(s)': { 
             'de_DE' : 'Problem beim &auml;ndern des Ger&auml;t(e)status',
@@ -170,7 +184,8 @@ if(!dojo._hasResource["translations.APViewRogues"]){ //_hasResource checks added
             'nl_NL' : 'Apparaatstatus wijzigen mislukt',
             'id_ID' : 'Perubahan Status Perangkat bermasalah',
             'th_TH' : 'มีปัญหาในการเปลี่ยนสถานะของอุปกรณ์',
-            'da_DK' : 'Problemer med at skifte tilstand for enhed(er)'
+            'da_DK' : 'Problemer med at skifte tilstand for enhed(er)',
+            'it_IT' : 'Problemi nel cambiare lo stato del(i) dispositivo(i)'
            }
     };
 

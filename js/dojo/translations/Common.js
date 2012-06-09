@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Silahkan Konfirmasi',
             'th_TH' : 'กรุณายืนยัน',
             'pt_BR' : 'Por favor confirme',
-            'da_DK' : 'Bekræft venligst'
+            'da_DK' : 'Bekræft venligst',
+            'it_IT' : 'Si prega di confermare'
         },
         'Please confirm your action' : {
             'de_DE' : 'Bitte Auswahl best&auml;tigen',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Silahkan Konfirmasi tindakan anda',
             'th_TH' : 'กรุณายืนยัน',
             'pt_BR' : 'Por favor confirme sua ação',
-            'da_DK' : 'Bekræft venligst dit valg'
+            'da_DK' : 'Bekræft venligst dit valg',
+            'it_IT' : 'Si prega di confermare l\'azione'
            },
         'Yes' : {
             'de_DE' : 'Ja',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Ya',
             'th_TH' : 'ใช่',
             'pt_BR' : 'Sim',
-            'da_DK' : 'Ja'
+            'da_DK' : 'Ja',
+            'it_IT' : 'Si'
            },
         'No' : {
             'de_DE' : 'Nein',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Tidak',
             'th_TH' : 'ไม่ใช่',
             'pt_BR' : 'Não',
-            'da_DK' : 'Nej'
+            'da_DK' : 'Nej',
+            'it_IT' : 'No'
            },
         'Under Construction' : {
             'de_DE' : 'In Arbeit',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Sedang dalam perbaikan',
             'th_TH' : 'กำลังพัฒนา',
             'pt_BR' : 'Em Construção',
-            'da_DK' : 'Under opbygning'
+            'da_DK' : 'Under opbygning',
+            'it_IT' : 'In costruzione'
            },
         'Component Under Construction' : {
             'de_DE' : 'Komponente in Arbeit',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Komponen Sedang dalam perbaikan',
             'th_TH' : 'ส่วนประกอบกำลังพัฒนา',
             'pt_BR' : 'Componente em Construção',
-            'da_DK' : 'Komponent er under opbygning'
+            'da_DK' : 'Komponent er under opbygning',
+            'it_IT' : 'Componente in costruzione'
            },
         'Working' : {
             'de_DE' : 'Arbeite',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Sedang Bekerja',
             'th_TH' : 'ทำงาน',
             'pt_BR' : 'Trabalhando',
-            'da_DK' : 'Arbejder...'
+            'da_DK' : 'Arbejder...',
+            'it_IT' : 'Sto elaborando'
         },
         'Please Wait' : {
             'de_DE' : 'Bitte warten',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'id_ID' : 'Silahkan tunggu',
             'th_TH' : 'กรุณารอ',
             'pt_BR' : 'Por favor aguarde',
-            'da_DK' : 'Vent venligst'
+            'da_DK' : 'Vent venligst',
+            'it_IT' : 'Si prega di attendere'
         }
     };
 

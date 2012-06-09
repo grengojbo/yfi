@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Refresh tiap',
             'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
-            'da_DK' : 'Forny hver'
+            'da_DK' : 'Forny hver',
+            'it_IT' : 'Ricarica ogni'
            },
         'seconds': { 
             'de_DE' : 'Sekunden',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'detik',
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
-            'da_DK' : 'sekunder'
+            'da_DK' : 'sekunder',
+            'it_IT' : 'secondi'
            },
         'SSID': { 
             'de_DE' : 'SSID',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'SSID',
             'th_TH' : 'SSID',
             'pt_BR' : 'SSID',
-            'da_DK' : 'SSID'
+            'da_DK' : 'SSID',
+            'it_IT' : 'SSID'
            },
         'MAC': { 
             'de_DE' : 'MAC',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'MAC',
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
-            'da_DK' : 'MAC'
+            'da_DK' : 'MAC',
+            'it_IT' : 'MAC'
            },
         'Channel': { 
             'de_DE' : 'Kanal',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Channel',
             'th_TH' : 'ช่องสัญญาณ',
             'pt_BR' : 'Canal',
-            'da_DK' : 'Kanal'
+            'da_DK' : 'Kanal',
+            'it_IT' : 'Canale'
            },
         'Rate': { 
             'de_DE' : 'Geschwindigkeit',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Rate',
             'th_TH' : 'อัตรา',
             'pt_BR' : 'Taxa',
-            'da_DK' : 'Hastighed'
+            'da_DK' : 'Hastighed',
+            'it_IT' : 'Velocità'
            },
         'Quality': { 
             'de_DE' : 'Qualit&auml;t',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Kualitas',
             'th_TH' : 'คุณภาพ',
             'pt_BR' : 'Qualidade',
-            'da_DK' : 'Kvalitet'
+            'da_DK' : 'Kvalitet',
+            'it_IT' : 'Qualità'
            },
         'Last Seen': { 
             'de_DE' : 'Als letztes gesehen',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Terakhir terlihat',
             'th_TH' : 'เห็นครั้งล่าสุด',
             'pt_BR' : 'Visto pela última vez',
-            'da_DK' : 'Sidst set'
+            'da_DK' : 'Sidst set',
+            'it_IT' : 'Ultimo contatto'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Hasil Perhitungan',
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
-            'da_DK' : 'Antal'
+            'da_DK' : 'Antal',
+            'it_IT' : 'Risultato'
            },
         'Fetching latest': { 
             'de_DE' : 'Hole das letzte',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Ambil data Terakhir',
             'th_TH' : 'ดึงมาล่าสุด',
             'pt_BR' : 'Buscando último',
-            'da_DK' : 'Henter seneste'
+            'da_DK' : 'Henter seneste',
+            'it_IT' : 'Recupero ultime'
            },
         'Wireless Clients': { 
             'de_DE' : 'Wireless Clients',
@@ -137,7 +147,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'id_ID' : 'Client Wireless',
             'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
-            'da_DK' : 'Trådløse klienter'
+            'da_DK' : 'Trådløse klienter',
+            'it_IT' : 'Clienti wireless'
            }
     };
 

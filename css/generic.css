@@ -587,6 +587,18 @@ color: green;
     width:48px;
 }
 
+.FancyIcon .it_IT {
+    background-image:url('../img/flags/it_IT.png');
+    height:32px;
+    width:32px;
+}
+
+.FancyIcon .it_IT:hover {
+    background-image:url('../img/flags/it_IT_over.png');
+    height:48px;
+    width:48px;
+}
+
 .FancyIcon .da_DK {
     background-image:url('../img/flags/da_DK.png');
     height:32px;

@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'VPN Server',
             'th_TH' : 'VPN Server',
             'pt_BR' : 'Servidor VPN',
-            'da_DK' : 'VPN server'
+            'da_DK' : 'VPN server',
+            'it_IT' : 'Server VPN'
            },
         'Tunnel IP': { 
             'de_DE' : 'Tunnel IP',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'IP Tunnel',
             'th_TH' : 'Tunnel IP',
             'pt_BR' : 'Túnel IP',
-            'da_DK' : 'IP tunnel'
+            'da_DK' : 'IP tunnel',
+            'it_IT' : 'Tunnel IP'
            },
         'Tunnel Mask': { 
             'de_DE' : 'Tunnel Netmask',
@@ -41,7 +43,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Tunnel Mask',
             'th_TH' : 'Tunnel Mask',
             'pt_BR' : 'Máscara do Túnel',
-            'da_DK' : 'Tunnelmaske'
+            'da_DK' : 'Tunnelmaske',
+            'it_IT' : 'Maschera Tunnel'
            },
         'Tunnel Broadcast': { 
             'de_DE' : 'Tunnel Broadcast',
@@ -53,7 +56,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'TUnnel Broadcast',
             'th_TH' : 'Tunnel Broadcast',
             'pt_BR' : 'Broadcast do Túnel',
-            'da_DK' : 'Tunnel broadcast'
+            'da_DK' : 'Tunnel broadcast',
+            'it_IT' : 'Broadcast tunnel'
            },
         'CA': { 
             'de_DE' : 'CA',
@@ -65,7 +69,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'CA',
             'th_TH' : 'CA',
             'pt_BR' : 'CA',
-            'da_DK' : 'Certifikat autoritet'
+            'da_DK' : 'Certifikat autoritet',
+            'it_IT' : 'Autorità certificati'
            },
         'Cert': { 
             'de_DE' : 'Zertifikat',
@@ -77,7 +82,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Cert',
             'th_TH' : 'ใบรับรอง',
             'pt_BR' : 'Certificado',
-            'da_DK' : 'Certifikat'
+            'da_DK' : 'Certifikat',
+            'it_IT' : 'Certificati'
            },
         'Key': { 
             'de_DE' : 'Schl&uuml;ssel',
@@ -89,7 +95,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Kunci',
             'th_TH' : 'คีย์',
             'pt_BR' : 'Chave',
-            'da_DK' : 'Nøgle'
+            'da_DK' : 'Nøgle',
+            'it_IT' : 'Chiave'
            },
         'Save': { 
             'de_DE' : 'Speichern',
@@ -101,7 +108,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Simpan',
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
-            'da_DK' : 'Gem'
+            'da_DK' : 'Gem',
+            'it_IT' : 'Salva'
            },
         'Auto Setup VPN updated OK': { 
             'de_DE' : 'VPN-Auto-Setup aktualisiert',
@@ -113,7 +121,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Auto Setup VPN berhasil terupdate',
             'th_TH' : 'ปรับปรุงข้อมูลติดตั้ง VPN แบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'VPN Autoconfigurável atualizada OK',
-            'da_DK' : 'Automatisk VPN-opsætning opdateret!'
+            'da_DK' : 'Automatisk VPN-opsætning opdateret!',
+            'it_IT' : 'Aggiornamento automatic VPN aggiornato'
            },
         'Problems updating Auto Setup VPN': { 
             'de_DE' : 'Problem beim aktualisieren VPN-Auto-Setup',
@@ -125,7 +134,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'id_ID' : 'Auto Setup VPN gagal terupdate',
             'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้ง VPN แบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar a VPN Autoconfigurável',
-            'da_DK' : 'Problemer med at opdatere den automatiske VPN-opsætning'
+            'da_DK' : 'Problemer med at opdatere den automatiske VPN-opsætning',
+            'it_IT' : 'Problemi durante l\'aggiornamento automatico della VPN'
            }
     };
 
