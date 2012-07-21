@@ -209,16 +209,31 @@ dojo.require('components.Common');
         components.QElements.addPair({          label:tr.tr({'module': 'NasView','phrase':"Name",'lang':l}),       divToAdd: frmEdit.domNode,   inpName:'shortname', inpRequired:true, isLast:false, value: nas.shortname});
         components.QElements.addPair({          label:tr.tr({'module': 'NasView','phrase':"Secret",'lang':l}),     divToAdd: frmEdit.domNode,   inpName:'secret',    inpRequired:true, isLast:false, value: nas.secret});
         components.QElements.addComboBox({      label:tr.tr({'module': 'NasView','phrase':"Contact Person",'lang':l}),url:urlPersonList, divToAdd: frmEdit.domNode,inpName:'user_id',inpRequired:true, isLast:false,searchAttr:'name',value: nas.user_id});
-        
+       
+        var d=document.createElement('div');
+ 
         if(components.LoginLight.UserInfo.group == components.Const.admin){       //Only Available to Administrators
             if(nas.available_to_all == true){
-                components.QElements.addCheckPair({label:tr.tr({'module': 'NasView','phrase':"Available to all",'lang':l}),divToAdd: frmEdit.domNode,inpName:'available_all', inpRequired:true,checked: 'checked',value: 'on',isLast: false});
+                components.QElements.addCheckPair({label:tr.tr({'module': 'NasView','phrase':"Available to all",'lang':l}),divToAdd: frmEdit.domNode,inpName:'available_all', inpRequired:true,checked: 'checked',value: 'on',isLast: false,id:'all'+nasID });
+                dojo.style(d,"display","none");
             }else{
-                components.QElements.addCheckPair({label:tr.tr({'module': 'NasView','phrase':"Available to all",'lang':l}),divToAdd: frmEdit.domNode,inpName:'available_all', inpRequired:true,value: 'on',isLast: false});
+                components.QElements.addCheckPair({label:tr.tr({'module': 'NasView','phrase':"Available to all",'lang':l}),divToAdd: frmEdit.domNode,inpName:'available_all', inpRequired:true,value: 'on',isLast: false,id:'all'+nasID});
+                dojo.style(d,"display","block");
             }
+
+            //Get the checkbox
+            var ipt = dijit.byId('all'+nasID);
+            dojo.connect(ipt,'onChange', function(){
+                    var me = this;
+                     if(me.checked){
+                        dojo.style(d,"display","none");
+                    }else{
+                        dojo.style(d,"display","block");
+                    }
+            });
+
         }
 
-        var d=document.createElement('div');
             dojo.place(d,frmEdit.domNode);
                 components.QElements.addMultiSelect({
                                                        label:      tr.tr({'module': 'NasView','phrase':"Available only to",'lang':l}),

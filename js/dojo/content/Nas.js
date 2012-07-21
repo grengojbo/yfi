@@ -203,7 +203,8 @@ dojo.require('components.Common');
                 grid = new dojox.grid.DataGrid({
                                 structure: layout,
                                 rowsPerPage: 40,
-                                rowSelector: '10px'
+                                rowSelector: '10px',
+                                escapeHTMLInData: false
                                 }, document.createElement("div"));
 
                      dojo.connect(grid,'_onFetchComplete', function(){
@@ -334,7 +335,11 @@ dojo.require('components.Common');
 
         var dlgAdd  = new dijit.Dialog({
                 title: heading,
-                style: "width: 420px"
+                style: "width: 420px",
+                onCancel: function(){
+                   this.destroyRecursive(); 
+
+                }
         });
             var frmAdd    = new dijit.form.Form({ encType:"multipart/form-data",action:"",method:"POST"},document.createElement("div"));
 
@@ -355,10 +360,25 @@ dojo.require('components.Common');
                 components.QElements.addPair({          label:tr.tr({'module': 'Nas','phrase':"Secret",'lang':l}),     divToAdd: frmAdd.domNode,   inpName:'secret',inpRequired:true, isLast:false});
                 components.QElements.addComboBox({      label:tr.tr({'module': 'Nas','phrase':"Contact Person",'lang':l}),url:urlPersonList, divToAdd: frmAdd.domNode,inpName:'user_id',inpRequired:true, isLast:false,searchAttr:'name'});
 
-                if(components.LoginLight.UserInfo.group == components.Const.admin){       //Only Available to Administrators
-                    components.QElements.addCheckPair({label:tr.tr({'module': 'Nas','phrase':"Available to all",'lang':l}),divToAdd: frmAdd.domNode,inpName:'available_all', inpRequired:true,checked: 'checked',value: 'on',isLast: false});
-                }
                 var d=document.createElement('div');
+
+                if(components.LoginLight.UserInfo.group == components.Const.admin){       //Only Available to Administrators
+                    components.QElements.addCheckPair({label:tr.tr({'module': 'Nas','phrase':"Available to all",'lang':l}),divToAdd: frmAdd.domNode,inpName:'available_all', inpRequired:true,checked: 'checked',value: 'on',isLast: false, id: 'nasAvToAll'});
+                    
+                    //Get the checkbox
+                    var ipt = dijit.byId('nasAvToAll');
+                    dojo.connect(ipt,'onChange', function(){
+                        var me = this;
+                        if(me.checked){
+                            dojo.style(d,"display","none");
+                        }else{
+                            dojo.style(d,"display","block");
+                        }
+                    });
+                    //Hide by default
+                    dojo.style(d,"display","none");
+                }
+                
                 dojo.place(d,frmAdd.domNode);
                     components.QElements.addMultiSelect({
                                                             label:      tr.tr({'module': 'Nas','phrase':"Available only to",'lang':l}),

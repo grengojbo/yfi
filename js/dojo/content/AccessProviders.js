@@ -84,7 +84,8 @@ dojo.require('components.Common');
                 grid = new dojox.grid.DataGrid({
                                 structure: layout,
                                 rowsPerPage: 40,
-                                rowSelector: '10px'
+                                rowSelector: '10px',
+                                escapeHTMLInData: false
                                 }, document.createElement("div"));
 
                 dojo.connect(grid,'_onFetchComplete', function(){
