@@ -203,7 +203,7 @@ dojo.require('components.Common');
        
         var dlgAdd  = new dijit.Dialog({
                 title: tr.tr({'module': 'Users','phrase':"New Permanent User",'lang':l}),
-                style: "width: 420px"
+                style: "width: 420px;"
         });
             var frmAdd    = new dijit.form.Form({ encType:"multipart/form-data",action:"",method:"POST"},document.createElement("div"));
 
@@ -221,7 +221,9 @@ dojo.require('components.Common');
                 components.QElements.addComboBox({      label:tr.tr({'module': 'Users','phrase':"Language",'lang':l}),url:urlLanguages, divToAdd: frmAdd.domNode,inpName:'language',inpRequired:true, isLast:false,searchAttr: 'name'});
                 components.QElements.addComboBox({      label:tr.tr({'module': 'Users','phrase':"Realm",'lang':l}),url:urlRealmList, divToAdd: frmAdd.domNode,inpName:'realm',inpRequired:true, isLast:false,searchAttr: 'name'});
                 components.QElements.addComboBox({      label:tr.tr({'module': 'Users','phrase':"Profile",'lang':l}),url:urlProfileList, divToAdd: frmAdd.domNode,inpName:'profile',inpRequired:true, isLast:false,searchAttr:'name'});
-                components.QElements.addComboBox({ label:tr.tr({'module': 'Users','phrase':"Cap Type",'lang':l}),data:data_op, divToAdd: frmAdd.domNode,inpName:'cap',inpRequired:true, isLast:true,searchAttr:'name',value: 'hard'});
+                components.QElements.addComboBox({ label:tr.tr({'module': 'Users','phrase':"Cap Type",'lang':l}),data:data_op, divToAdd: frmAdd.domNode,inpName:'cap',inpRequired:true, isLast:false,searchAttr:'name',value: 'hard'});
+
+                components.QElements.addDateTextBox({ label:'Expires on',divToAdd: frmAdd.domNode,inpName:'expire_on',inpRequired:true,isLast:true});
 
                 var btnAdd = new dijit.form.Button({style:"margin:10px; margin-left: 136px;",label:tr.tr({'module': 'Users','phrase':"Save",'lang':l}),iconClass:"saveIcon"},document.createElement("div"));
                 dojo.place(btnAdd.domNode,frmAdd.domNode);
