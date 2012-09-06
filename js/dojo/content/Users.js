@@ -224,6 +224,13 @@ dojo.require('components.Common');
                 components.QElements.addComboBox({ label:tr.tr({'module': 'Users','phrase':"Cap Type",'lang':l}),data:data_op, divToAdd: frmAdd.domNode,inpName:'cap',inpRequired:true, isLast:false,searchAttr:'name',value: 'hard'});
 
                 components.QElements.addDateTextBox({ label:'Expires on',divToAdd: frmAdd.domNode,inpName:'expire_on',inpRequired:true,isLast:true});
+                var wList = dijit.findWidgets(frmAdd.domNode);
+                dojo.forEach(wList, function(item){
+                    if(item.declaredClass == 'dijit.form.DateTextBox'){
+                        //Set the date in the future
+                        item.set('value', new Date("2017-01-01"));
+                    }
+                });
 
                 var btnAdd = new dijit.form.Button({style:"margin:10px; margin-left: 136px;",label:tr.tr({'module': 'Users','phrase':"Save",'lang':l}),iconClass:"saveIcon"},document.createElement("div"));
                 dojo.place(btnAdd.domNode,frmAdd.domNode);

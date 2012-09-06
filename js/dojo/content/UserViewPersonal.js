@@ -64,6 +64,18 @@ dojo.require('components.Translator');
         dojo.place(hiddenId,frmEdit.domNode);
 
             components.QElements.addComboBox({ label:tr.tr({'module': 'UserViewPersonal','phrase':"Cap Type",'lang':l}),data:data_op, divToAdd: frmEdit.domNode,inpName:'cap',inpRequired:true, isLast:false,searchAttr:'name',value: user.cap});
+
+             components.QElements.addDateTextBox({ label:'Expires on',divToAdd: frmEdit.domNode,inpName:'expire_on',inpRequired:true,isLast:false});
+                var wList = dijit.findWidgets(frmEdit.domNode);
+                dojo.forEach(wList, function(item){
+                    if(item.declaredClass == 'dijit.form.DateTextBox'){
+                        //Set the date in the future
+                        var d = new Date(0); // The 0 there is the key, which sets the date to the epoch
+                        d.setUTCSeconds(user.expire_on);
+                        item.set('value', d);
+                    }
+                });
+
             components.QElements.addPair({label:tr.tr({'module': 'UserViewPersonal','phrase':"Name",'lang':l}),     divToAdd: frmEdit.domNode,inpName:'name',       inpRequired:false,  isLast:false,   value: user.name});
             components.QElements.addPair({label:tr.tr({'module': 'UserViewPersonal','phrase':"Surname",'lang':l}),  divToAdd: frmEdit.domNode,inpName:'surname',    inpRequired:false,  isLast:false,   value: user.surname});
             components.QElements.addTextArea({label:tr.tr({'module': 'UserViewPersonal','phrase':"Address",'lang':l}), divToAdd: frmEdit.domNode,inpName:'address', inpRequired:false,  isLast:false,   value: user.address });

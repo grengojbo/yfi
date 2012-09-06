@@ -232,6 +232,12 @@ dojo.require('components.Common');
                     return;
                 }
 
+                //We can not edit the 'Expiration' attribute here
+                if(attribute == 'Expiration'){
+                    dijit.byId('componentsMainToaster').setContent('<b>'+tr.tr({'module': 'UserViewPrivate','phrase':"Change Expiration on User Detail Tab",'lang':l})+'</b>','error',components.Const.toasterError);
+                    return;
+                }
+
                 var attr_id     =  gridPrivate.store.getValue(items[0],'id');
                 var op          =  gridPrivate.store.getValue(items[0],'op');
                 var value       =  gridPrivate.store.getValue(items[0],'value');
@@ -274,10 +280,14 @@ dojo.require('components.Common');
                             function(selectedItem) {
                             if(selectedItem !== null) {
                                 var attribute =  grid.store.getValue(selectedItem,'name');
-                                if((attribute != 'Cleartext-Password')&(urlDeletePrivate == url)){       //We can not delete 'Cleartext-Password'
+                                if( (attribute != 'Cleartext-Password')&&
+                                    (attribute != 'Expiration')&&
+                                    (urlDeletePrivate == url)
+                                ){       //We can not delete 'Cleartext-Password'
                                     var id = grid.store.getValue(selectedItem,'id');
                                     itemList.push(id);
                                 }
+                                
                             }
                         });
             cuvp.doSelection(grid,message,url,itemList,id);
