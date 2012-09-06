@@ -85,6 +85,16 @@ dojo.require('components.Translator');
             components.QElements.addLabelPair({label:tr.tr({'module': 'PermanentGeneralPersonal','phrase':"Profile",'lang':l}), divToAdd: frmEdit.domNode, inpRequired:true,isLast:false, value: user.profile });
         }
 
+        //-- Expires on...
+        components.QElements.addLabelPair({
+                label:'Expires on', 
+                divToAdd: frmEdit.domNode, 
+                inpRequired:true,
+                isLast:false, 
+                value: timeConverter(user.expire_on) 
+        });
+        
+
         //-- Name --
         if(right.name == true){
             saveFlag = true;
@@ -169,6 +179,21 @@ dojo.require('components.Translator');
 
         dojo.place(frmEdit.domNode,divContainer);
     }
+
+
+    function timeConverter(UNIX_timestamp){
+        var a = new Date(UNIX_timestamp*1000);
+        var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+        var year = a.getFullYear();
+        var month = months[a.getMonth()];
+        var date = a.getDate();
+        var hour = a.getHours();
+        var min = a.getMinutes();
+        var sec = a.getSeconds();
+        var time = date+' '+month+' '+year+' '+hour+':'+min+':'+sec ;
+        return time;
+    }
+
 
 })();//(function(){
 
