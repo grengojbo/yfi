@@ -22,12 +22,6 @@ dojo.require('components.Common');
     var cc              = content.CreditCard;
     var urlActCrCard    = components.Const.cake+'cc_transactions/json_actions/';
     var urlcrCardIndex  = components.Const.cake+'cc_transactions/json_index/';
-    var urlBillingPlanList = components.Const.cake+'billing_plans/json_index/';
-    var urlAcctntAdd    = components.Const.cake+'accnts/json_add/?';
-    var urlDelete       = components.Const.cake+'accnts/json_del/?';
-    var urlPayment      = components.Const.cake+'accnts/json_payment_add/?';
-    var urlPDF          = components.Const.cake+'accnts/pdf_latest/?';
-    var urlMail         = components.Const.cake+'accnts/json_send_mail/?';
     var tr              = components.Translator; 
     var l               = components.LoginLight.UserInfo.l_iso;
     
@@ -172,25 +166,24 @@ dojo.require('components.Common');
         grid.setStore(jsonStore,query,{ignoreCase: true});
     }
 
-    cc.edit  = function(){
-
-       // var ts          = Number(new Date());
-      //  var jsonStore   = new dojox.data.QueryReadStore({ url: urlAccountsIndex+ts });
-      //  grid.setStore(jsonStore,query,{ignoreCase: true});
-    }
-
-    cc.add  = function(){
-
-       // var ts          = Number(new Date());
-      //  var jsonStore   = new dojox.data.QueryReadStore({ url: urlAccountsIndex+ts });
-      //  grid.setStore(jsonStore,query,{ignoreCase: true});
-    }
-
-    cc.del  = function(){
-
-       // var ts          = Number(new Date());
-      //  var jsonStore   = new dojox.data.QueryReadStore({ url: urlAccountsIndex+ts });
-      //  grid.setStore(jsonStore,query,{ignoreCase: true});
+    cc.view  = function(){
+        console.log('View transactions');
+        var items = grid.selection.getSelected();
+        if(items.length){
+            dojo.forEach(
+                            items,
+                            function(selectedItem) {
+                            if(selectedItem !== null) {
+                                var id      = grid.store.getValue(selectedItem,'id');
+                                var created = grid.store.getValue(selectedItem,'created');
+                                dijit.byId('componentsMainToaster').setContent('<b>Opening Credit Card transaction detail</b>','message',components.Const.toasterInfo);
+                                dojo.publish("/actions/CreditCardView", [id,created]);
+                                console.log("CC transaction with id "+id+" selected");
+                            }
+                        });
+        }else{
+            dijit.byId('componentsMainToaster').setContent('No Selection made','error',components.Const.toasterError);
+        }
     }
 
     //=================================
