@@ -44,6 +44,9 @@ dojo.require('components.Common');
             dojo.place(divActions,divGridAction);
             //-----------------------------------------------------------
 
+                var divResults      = document.createElement("div");
+                dojo.addClass(divResults, "divGridResults");
+            dojo.place(divResults,divGridAction);
         dojo.place(divGridAction,divParent);
         //-------------------------------------------------------------
 
