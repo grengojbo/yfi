@@ -611,6 +611,18 @@ color: green;
     width:48px;
 }
 
+.FancyIcon .fa_IR {
+    background-image:url('../img/flags/fa_IR.png');
+    height:32px;
+    width:32px;
+}
+
+.FancyIcon .fa_IR:hover {
+    background-image:url('../img/flags/fa_IR_over.png');
+    height:48px;
+    width:48px;
+}
+
 
 .FancyIcon .settings {
     background-image:url('../img/actions/settings.png');

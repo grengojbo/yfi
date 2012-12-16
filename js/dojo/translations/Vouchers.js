@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+	    'fa_IR' : 'فیلتر'
            },
          'Field': { 
             'de_DE' : 'Feld',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+	    'fa_IR' : 'فیلد'
            },
          'Voucher': { 
             'de_DE' : 'Ticket',
@@ -96,7 +98,8 @@ if(!dojo._hasResource["translations.Vouchers"]){ //_hasResource checks added by 
             'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
             'da_DK' : 'Oprettet',
-            'it_IT' : 'Creato'
+            'it_IT' : 'Creato',
+	    'fa_IR' : 'ساخته شد'
            },
         'Status': { 
             'de_DE' : 'Status',
