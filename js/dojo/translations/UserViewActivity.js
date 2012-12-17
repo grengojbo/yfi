@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewActivity"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Reload Data':{ 
             'de_DE' : 'Seite neu laden',      
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
             'pt_BR' : 'Recarregar Dados',
             'da_DK' : 'Genindlæs data',
-            'it_IT' : 'Ricarica dati'
+            'it_IT' : 'Ricarica dati',
+			'fa_IR' : 'بارگذاری مجدد داده'
            },
         'MAC':{ 
             'de_DE' : 'MAC',      
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
             'da_DK' : 'MAC',
-            'it_IT' : 'MAC'
+            'it_IT' : 'MAC',
+			'fa_IR' : 'MAC'
            },
         'IP':{ 
             'de_DE' : 'IP',      
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'IP',
             'pt_BR' : 'IP',
             'da_DK' : 'IP',
-            'it_IT' : 'IP'
+            'it_IT' : 'IP',
+			'fa_IR' : 'IP'
            },
         'Started':{ 
             'de_DE' : 'Gestartet',     
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'เริ่ม',
             'pt_BR' : 'Iniciado',
             'da_DK' : 'Startet',
-            'it_IT' : 'Avviato'
+            'it_IT' : 'Avviato',
+			'fa_IR' : 'شروع شده'
            },
         'Stoped':{ 
             'de_DE' : 'Gestoppt',     
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'หยุด',
             'pt_BR' : 'Terminado',
             'da_DK' : 'Stoppet',
-            'it_IT' : 'Terminato'
+            'it_IT' : 'Terminato',
+			'fa_IR' : 'به پایان رسیده'
            },
         'Duration':{ 
             'de_DE' : 'Dauer',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ช่วงเวลา',
             'pt_BR' : 'Duração',
             'da_DK' : 'Varighed',
-            'it_IT' : 'Durata'
+            'it_IT' : 'Durata',
+			'fa_IR' : 'مدت زمان'
            },
         'Data TX':{ 
             'de_DE' : 'Daten gesendet', 
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ข้อมูลที่ส่งไป',
             'pt_BR' : 'Dados TX',
             'da_DK' : 'TX data',
-            'it_IT' : 'Dati inviati'
+            'it_IT' : 'Dati inviati',
+			'fa_IR' : 'داده ارسالی TX'
            },
         'Data RX':{ 
             'de_DE' : 'Daten empfangen',      
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ข้อมูลที่รับมา',
             'pt_BR' : 'Dados RX',
             'da_DK' : 'RX data',
-            'it_IT' : 'Dati ricevuti'
+            'it_IT' : 'Dati ricevuti',
+			'fa_IR' : 'داده دریافتی RX'
            },
         'Data Total':{ 
             'de_DE' : 'Daten Gesamt',  
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ข้อมูลทั้งหมด',
             'pt_BR' : 'Dados Totais',
             'da_DK' : 'Samlet datamængde',
-            'it_IT' : 'Dati totali'
+            'it_IT' : 'Dati totali',
+			'fa_IR' : 'مجموع داده ها'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',      
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'Delete Activity records':{ 
             'de_DE' : 'Aufzeichnungen l&ouml;schen',    
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ลบบันทึกความเคลื่อนไหว',
             'pt_BR' : 'Deletar registro de Atividades',
             'da_DK' : 'Slet aktivitetsposteringer',
-            'it_IT' : 'Elimina informazioni di attività'
+            'it_IT' : 'Elimina informazioni di attività',
+			'fa_IR' : 'حذف کردن رکوردهای فعالیت'
            },
         'Delete Activity records Complete':{
             'de_DE' : 'Aufzeichnungen erfolgreich gel&ouml;scht',  
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewActivity"]){ //_hasResource checks a
             'th_TH' : 'ลบบันทึกความเคลื่อนไหวเสร็จสมบูรณ์',
             'pt_BR' : 'Registro de Atividades deletado',
             'da_DK' : 'Aktivitetsposteringer slettet',
-            'it_IT' : 'Eliminazione informazioni di attività completata'
+            'it_IT' : 'Eliminazione informazioni di attività completata',
+			'fa_IR' : 'پاک کردن رکوردهای کارکرد با موفقیت انجام شد'
            }
     };
 

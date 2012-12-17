@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewPersonal"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'Hard',
             'pt_BR' : 'Hard',
             'da_DK' : 'Hård',
-            'it_IT' : 'Hard'
+            'it_IT' : 'Hard',
+			'fa_IR' : 'سخت'
            },
         'Soft':{ 
             'de_DE' : 'Weich', 
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'Soft',
             'pt_BR' : 'Soft',
             'da_DK' : 'Blød',
-            'it_IT' : 'Soft'
+            'it_IT' : 'Soft',
+			'fa_IR' : 'نرم'
            },
         'Prepaid':{ 
             'de_DE' : 'Prepaid',            
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'เติมเงิน',
             'pt_BR' : 'Pré-Pago',
             'da_DK' : 'Forudbetalt',
-            'it_IT' : 'Prepagato'
+            'it_IT' : 'Prepagato',
+			'fa_IR' : 'پیش پرداخته'
            },
         'Cap Type':{ 
             'de_DE' : 'Kapazitaets Type',
@@ -70,7 +73,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
             'da_DK' : 'Navn',
-            'it_IT' : 'Nome'
+            'it_IT' : 'Nome',
+			'fa_IR' : 'نام'
            },
         'Surname':{ 
             'de_DE' : 'Nachname',
@@ -83,7 +87,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'นามสกุล',
             'pt_BR' : 'Sobrenome',
             'da_DK' : 'Efternavn',
-            'it_IT' : 'Cognome'
+            'it_IT' : 'Cognome',
+			'fa_IR' : 'نام خانوادگی'
            },
         'Address':{ 
             'de_DE' : 'Adresse',      
@@ -96,7 +101,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
             'da_DK' : 'Adresse',
-            'it_IT' : 'Indirizzo'
+            'it_IT' : 'Indirizzo',
+			'fa_IR' : 'آدرس'
            },
         'Phone':{ 
             'de_DE' : 'Telefon',      
@@ -109,7 +115,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon',
-            'it_IT' : 'Telefono'
+            'it_IT' : 'Telefono',
+			'fa_IR' : 'تلفن'
             },
         'e-mail':{ 
             'de_DE' : 'E-Mail',
@@ -122,7 +129,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail',
-            'it_IT' : 'e-Mail'
+            'it_IT' : 'e-Mail',
+			'fa_IR' : 'ایمیل'
             },
         'Language':{ 
             'de_DE' : 'Sprache',
@@ -135,7 +143,9 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
             'da_DK' : 'Sprog',
-            'it_IT' : 'Lingua'
+            'it_IT' : 'Lingua',
+			'fa_IR' : 'زبان'
+			
             },
         'Save':{ 
             'de_DE' : 'Speichern',     
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
             },
         'Permanent User updated OK' :{
             'de_DE' : 'Permanenter Benutzer aktualisiert',   
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ปรับปรุงผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Usuário Permanente atualizado OK',
             'da_DK' : 'Permanent bruger opdateret!',
-            'it_IT' : 'Utente permanente aggiornato!'
+            'it_IT' : 'Utente permanente aggiornato!',
+			'fa_IR' : 'کاربر ثابت با موفقیت بروزرسانی شد'
             },
         'Problems updating Permanent User' :{
             'de_DE' : 'Probleme beim aktualisieren permanenter Benutzer',	      
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'มีปัญหาในการปรับปรุงผู้ใช้',
             'pt_BR' : 'Problemas ao atualizar o Usuário Permanente',
             'da_DK' : 'Problemer med at opdatere den permanente bruger',
-            'it_IT' : 'problemi durante aggiornamento dell\'utente permanente'
+            'it_IT' : 'problemi durante aggiornamento dell\'utente permanente',
+			'fa_IR' : 'ایرادات بروزرسانی کاربر ثابت'
             }
     };
 

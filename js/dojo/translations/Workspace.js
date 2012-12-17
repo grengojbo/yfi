@@ -1,6 +1,4 @@
-
-
-if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
+﻿if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Workspace"] = true;
     dojo.provide("translations.Workspace");
 
@@ -18,7 +16,8 @@ if(!dojo._hasResource["translations.Workspace"]){ //_hasResource checks added by
             'th_TH' : 'กำลังโหลด',
             'pt_BR' : 'Carregando',
             'da_DK' : 'Indlæser...',
-            'it_IT' : 'Caricamento'
+            'it_IT' : 'Caricamento',
+			'fa_IR' : 'بارگذاری'
         }
     };
 

@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewNotify"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'ไม่เปิดใช้งาน',
             'pt_BR' : 'Desativado',
             'da_DK' : 'Deaktiveret',
-            'it_IT' : 'Disabilitato'
+            'it_IT' : 'Disabilitato',
+			'fa_IR' : 'غیر فعال'
            },
         'e-mail':{ 
             'de_DE' : 'E-Mail',  
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail',
-            'it_IT' : 'e-Mail'
+            'it_IT' : 'e-Mail',
+			'fa_IR' : 'ایمیل'
            },
         'Method':{ 
             'de_DE' : 'Methode',      
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'วิธี',
             'pt_BR' : 'Método',
             'da_DK' : 'Metode',
-            'it_IT' : 'Metodo'
+            'it_IT' : 'Metodo',
+			'fa_IR' : 'نحوه'
            },
         'Address':{ 
             'de_DE' : 'Adresse',  
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
             'da_DK' : 'Adresse',
-            'it_IT' : 'Indirizzo'
+            'it_IT' : 'Indirizzo',
+			'fa_IR' : 'آدرس'
            },
         'CC':{ 
             'de_DE' : 'CC',    
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'สำเนาถึง',
             'pt_BR' : 'CC',
             'da_DK' : 'CC',
-            'it_IT' : 'CC'
+            'it_IT' : 'CC',
+			'fa_IR' : 'CC'
            },
         'Start Percentage':{
             'de_DE' : 'Start Prozentsatz',      
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'ร้อยละเริ่มต้น',
             'pt_BR' : 'Porcentagem de Início',
             'da_DK' : 'Startprocent',
-            'it_IT' : 'Percentuale di inizio'
+            'it_IT' : 'Percentuale di inizio',
+			'fa_IR' : 'درصد'
            },
         'Percentage Step':{ 
             'de_DE' : 'Weiterer Prozentsatz',   
@@ -96,7 +102,7 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'ลำดับขั้นร้อยละ',
             'pt_BR' : 'Porcentagem do Passo',
             'da_DK' : 'Procenttrin',
-            'it_IT' : 'Percentuale di step'
+            'it_IT' : 'Percentuale di step',
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -109,7 +115,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Notification updated OK':{
             'de_DE' : 'Benachrichtigung aktualisiert',   
@@ -122,7 +129,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'ปรับปรุงการแจ้งเตือนเรียบร้อยแล้ว',
             'pt_BR' : 'Notificação atualizada OK',
             'da_DK' : 'Oplysning opdateret!',
-            'it_IT' : 'Notifica aggiornata correttamente'
+            'it_IT' : 'Notifica aggiornata correttamente',
+			'fa_IR' : 'اطلاعیه با موفقیت بروزرسانی شد'
            },
         'Problems updating Notification':{ 
             'de_DE' : 'Problem beim aktualisieren Benachrichtigung',      
@@ -135,7 +143,8 @@ if(!dojo._hasResource["translations.UserViewNotify"]){ //_hasResource checks add
             'th_TH' : 'มีปัญหาในการปรับปรุงการแจ้งเตือน',
             'pt_BR' : 'Problemas ao atualizar a Notificação',
             'da_DK' : 'Problemer med at opdatere Oplysning',
-            'it_IT' : 'Problemi durante l\'aggiornamento della notifica'
+            'it_IT' : 'Problemi durante l\'aggiornamento della notifica',
+			'fa_IR' : 'ایرادات بروزرسانی اطلاعیه'
            }
     };
 

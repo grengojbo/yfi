@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewProfile"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil',
-            'it_IT' : 'Profilo'
+            'it_IT' : 'Profilo',
+			'fa_IR' : 'پروفایل'
            },
         'Attribute': { 
             'de_DE' : 'Eigenschaft',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut',
-            'it_IT' : 'Attributo'
+            'it_IT' : 'Attributo',
+			'fa_IR' : 'صفت'
            },
         'Check/Reply': { 
             'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
             'da_DK' : 'Kontrollér/svar',
-            'it_IT' : 'Verifica/Rispondi'
+            'it_IT' : 'Verifica/Rispondi',
+			'fa_IR' : 'Check/Reply'
            },
         'Operator':{ 
             'de_DE' : 'Ersteller',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør',
-            'it_IT' : 'operatore'
+            'it_IT' : 'operatore',
+			'fa_IR' : 'اپراتور'
            },
         'Value':{ 
             'de_DE' : 'Wert',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
             'da_DK' : 'Værdi',
-            'it_IT' : 'Valore'
+            'it_IT' : 'Valore',
+			'fa_IR' : 'مقدار'
             },
         'Change Profile':{ 
             'de_DE' : 'Profil &auml;ndern',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Alterar Perfil',
             'da_DK' : 'Skift profil',
-            'it_IT' : 'Modifica profilo'
+            'it_IT' : 'Modifica profilo',
+			'fa_IR' : 'تغییر پروفایل'
            },
         'Profile':{ 
             'de_DE' : 'Profil',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil',
-            'it_IT' : 'Profilo'
+            'it_IT' : 'Profilo',
+			'fa_IR' : 'پروفایل'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Profile Changed':{ 
             'de_DE' : 'Profil ge&auml;ndert',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'เปลี่ยนกลุ่มผู้ใช้แล้ว',
             'pt_BR' : 'Perfil Alterado',
             'da_DK' : 'Profil skiftet!',
-            'it_IT' : 'Profilo modificato'
+            'it_IT' : 'Profilo modificato',
+			'fa_IR' : 'پروفایل تغییر کرد'
            },
         'Problems changing profile':{ 
             'de_DE' : 'Problem beim &auml;ndern des Profils',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewProfile"]){ //_hasResource checks ad
             'th_TH' : 'มีปัญหาในการเปลี่ยนกลุ่มผู้ใช้',
             'pt_BR' : 'Problemas na alteração do perfil',
             'da_DK' : 'Problemer med at skifte profil',
-            'it_IT' : 'Problemi durante la modifica del profilo'
+            'it_IT' : 'Problemi durante la modifica del profilo',
+			'fa_IR' : 'ایرادات تغییر در پروفایل'
            }
     };
 

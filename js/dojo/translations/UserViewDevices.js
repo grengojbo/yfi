@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewDevices"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
             'da_DK' : 'MAC',
-            'it_IT' : 'MAC'
+            'it_IT' : 'MAC',
+			'fa_IR' : 'MAC'
            },
         'Description':{ 
             'de_DE' : 'Beschreibung',            
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
             'da_DK' : 'Beskrivelse',
-            'it_IT' : 'Descrizione'
+            'it_IT' : 'Descrizione',
+			'fa_IR' : 'توضیحات'
            },
         'Last Contact':{ 
             'de_DE' : 'Letzter Kontakt',            
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'ติดต่อครั้งล่าสุด',
             'pt_BR' : 'Último Contato',
             'da_DK' : 'Seneste kontakt',
-            'it_IT' : 'Ultimo contatto'
+            'it_IT' : 'Ultimo contatto',
+			'fa_IR' : 'آخرین تماس'
            },
         'Result count':{ 
             'de_DE' : 'Summe', 
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Add Device':{ 
             'de_DE' : 'Ger&auml;t hinzuf&uuml;gen',            
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'เพิ่มอุปกรณ์',
             'pt_BR' : 'Adicionar Dispositivo',
             'da_DK' : 'Tilføj enhed',
-            'it_IT' : 'Aggiungi apparato'
+            'it_IT' : 'Aggiungi apparato',
+			'fa_IR' : 'اضافه کردن دستگاه'
            },
         'MAC Address':{ 
             'de_DE' : 'MAC Adresse',            
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'MAC Address',
             'pt_BR' : 'Endereço MAC',
             'da_DK' : 'MAC adresse',
-            'it_IT' : 'Indirizzo MAC'
+            'it_IT' : 'Indirizzo MAC',
+			'fa_IR' : 'آدرس MAC'
             },
         'Save':{ 
             'de_DE' : 'Speichern',            
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Device added OK':{ 
             'de_DE' : 'Ger&auml;t hinzugef&uuml;gt',           
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'เพิ่มอุปกรณ์เรียบร้อยแล้ว',
             'pt_BR' : 'Dispositivo adicionado OK',
             'da_DK' : 'Enhed tilføjet!',
-            'it_IT' : 'Dispositivo aggiunto correttamente'
+            'it_IT' : 'Dispositivo aggiunto correttamente',
+			'fa_IR' : 'دستگاه با موفقیت اضافه شد'
            },
         'Problems adding device':{ 
             'de_DE' : 'Probleme beim hinzuf&uuml;gen des Ger&auml;tes',            
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'มีปัญหาในการเพิ่มอุปกรณ์',
             'pt_BR' : 'Problemas ao adicionar novo dispositivo',
             'da_DK' : 'Problemer med at tilføje enhed',
-            'it_IT' : 'Problema in aggiunta dispositivo'
+            'it_IT' : 'Problema in aggiunta dispositivo',
+			'fa_IR' : 'ایرادات اضافه کردن دستگاه'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',      
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'Deleting Device(s)':{ 
             'de_DE' : 'Ger&auml;t(e) l&ouml;schen',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'ลบอุปกรณ์',
             'pt_BR' : 'Deletando Dispositivo(s)',
             'da_DK' : 'Sletter enhed(er)',
-            'it_IT' : 'Eliminazione dispositivo'
+            'it_IT' : 'Eliminazione dispositivo',
+			'fa_IR' : 'حذف کردن دستگاه(ها)'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',            
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
             'da_DK' : 'Afsluttet',
-            'it_IT' : 'Completato'
+            'it_IT' : 'Completato',
+			'fa_IR' : 'کامل'
            },
         'never':{ 
             'de_DE' : 'niemals',            
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'ไม่เคย',
             'pt_BR' : 'nunca',
             'da_DK' : 'aldrig',
-            'it_IT' : 'mai'
+            'it_IT' : 'mai',
+			'fa_IR' : 'هیچگاه'
            },
         'Reload Data':{ 
             'de_DE' : 'Seite neu laden',           
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.UserViewDevices"]){ //_hasResource checks ad
             'th_TH' : 'เรียกข้อมูลใหม่อีกครั้ง',
             'pt_BR' : 'Recarregar Dados',
             'da_DK' : 'Genindlæs data',
-            'it_IT' : 'Ricarica dati'
+            'it_IT' : 'Ricarica dati',
+			'fa_IR' : 'بارگذاری مجدد داده ها'
            }
     };
 

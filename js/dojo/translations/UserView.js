@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserView"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'รายละเอียดผู้ใช้',
             'pt_BR' : 'Detalhes do Usuário',
             'da_DK' : 'Brugerdetaljer',
-            'it_IT' : 'Dettagli utente'
+            'it_IT' : 'Dettagli utente',
+			'fa_IR' : 'مشخصات کاربر'
            },
         'Notification':{ 
             'de_DE' : 'Benachrichtigung',      
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'การแจ้งเตือน',
             'pt_BR' : 'Notificação',
             'da_DK' : 'Oplysning',
-            'it_IT' : 'Notifica'
+            'it_IT' : 'Notifica',
+			'fa_IR' : 'اطلاعیه'
            },
         'Usage':{ 
             'de_DE' : 'Verwendung',  
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'การใช้',
             'pt_BR' : 'Uso',
             'da_DK' : 'Brug',
-            'it_IT' : 'utilizzo'
+            'it_IT' : 'utilizzo',
+			'fa_IR' : 'کارکرد'
            },
         'Profile Attributes':{
             'de_DE' : 'Profil Eigenschaften',    
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'Attribute กลุ่มผู้ใช้',
             'pt_BR' : 'Atributos do Perfil',
             'da_DK' : 'Profilattributter',
-            'it_IT' : 'Attributi profilo'
+            'it_IT' : 'Attributi profilo',
+			'fa_IR' : 'صفات پروفایل'
            },
         'Private Attributes':{ 
             'de_DE' : 'Private Eigenschaften',     
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'Attribute ส่วนตัว',
             'pt_BR' : 'Atributos Privados',
             'da_DK' : 'Private egenskaber',
-            'it_IT' : 'Attributi privati'
+            'it_IT' : 'Attributi privati',
+			'fa_IR' : 'صفات اختصاصی'
            },
         'Activity':{ 
             'de_DE' : 'Aktivit&auml;t',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'ความเคลื่อนไหว',
             'pt_BR' : 'Atividade',
             'da_DK' : 'Aktivitet',
-            'it_IT' : 'Attività'
+            'it_IT' : 'Attività',
+			'fa_IR' : 'فعالیت'
            },
         'Extra Services':{ 
             'de_DE' : 'Extra Service',    
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'บริการเพิ่มเติม',
             'pt_BR' : 'Serviços Extras',
             'da_DK' : 'Yderligere tjenester',
-            'it_IT' : 'Servizi aggiuntivi'
+            'it_IT' : 'Servizi aggiuntivi',
+			'fa_IR' : 'سرویس های افزونه'
            },
         'Devices':{ 
             'de_DE' : 'Ger&auml;t',            
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'อุปกรณ์',
             'pt_BR' : 'Dispositivos',
             'da_DK' : 'Enheder',
-            'it_IT' : 'Dispositivi'
+            'it_IT' : 'Dispositivi',
+			'fa_IR' : 'دستگاهها'
            },
         'Internet Credit':{ 
             'de_DE' : 'Internet Kredit',            
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserView"]){ //_hasResource checks added by 
             'th_TH' : 'เครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Crédito de Internet',
             'da_DK' : 'Internetkredit',
-            'it_IT' : 'Credito internet'
+            'it_IT' : 'Credito internet',
+			'fa_IR' : 'اعتبار اینترنت'
            }
     };
 

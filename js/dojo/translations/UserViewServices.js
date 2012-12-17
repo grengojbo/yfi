@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewServices"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Date': {
             'de_DE' : 'Datum', 
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'วันที่',
             'pt_BR' : 'Data',
             'da_DK' : 'Dato',
-            'it_IT' : 'Data'
+            'it_IT' : 'Data',
+			'fa_IR' : 'تاریخ'
            },
         'Title': {
             'de_DE' : 'Titel', 
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'ชื่อเรื่อง',
             'pt_BR' : 'Título',
             'da_DK' : 'Titel',
-            'it_IT' : 'Titolo'
+            'it_IT' : 'Titolo',
+			'fa_IR' : 'تیتر'
            },
         'Description': { 
             'de_DE' : 'Beschreibung',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'คำอธิบาย',
             'pt_BR' : 'Descrição',
             'da_DK' : 'Beskrivelse',
-            'it_IT' : 'Descrizione'
+            'it_IT' : 'Descrizione',
+			'fa_IR' : 'توضیحات'
            },
         'Amount': { 
             'de_DE' : 'Betrag',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'ราคา',
             'pt_BR' : 'Quantia',
             'da_DK' : 'Mængde',
-            'it_IT' : 'Totale'
+            'it_IT' : 'Totale',
+			'fa_IR' : 'مقدار'
            },
         'Add Extra Service': {
             'de_DE' : 'Extra Service hinzuf&uuml;gen',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'เพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Adicionar Serviço Extra',
             'da_DK' : 'Tilføj ekstra tjeneste',
-            'it_IT' : 'Aggiungi servizi aggiuntivi'
+            'it_IT' : 'Aggiungi servizi aggiuntivi',
+			'fa_IR' : 'افزودن سرویس اضافی'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Extra service added OK':{
             'de_DE' : 'Extra Service hinzugef&uuml;gt',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'เพิ่มบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço extra adicionado OK',
             'da_DK' : 'Ekstra tjeneste tilføjet!',
-            'it_IT' : 'Servizi aggiuntivi aggiunti!'
+            'it_IT' : 'Servizi aggiuntivi aggiunti!',
+			'fa_IR' : 'سرویس اضافی با موفقیت افزوده شد'
             },
         'Problems adding extra service':{ 
             'de_DE' : 'Problem beim hinzuf&uuml;gen Extra Service', 
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'มีปัญหาในการเพิ่มบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao adicionar serviço extra',
             'da_DK' : 'Problemer med at tilføje ekstra tjeneste',
-            'it_IT' : 'Problemi durante l\'aggiunta dei servizi'
+            'it_IT' : 'Problemi durante l\'aggiunta dei servizi',
+			'fa_IR' : 'ایرادات افزودن سرویس اضافی'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen', 
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'Deleting Extra Service(s)':{ 
             'de_DE' : 'Extra Service(s) l&ouml;schen',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'ลบบริการเพิ่มเติม',
             'pt_BR' : 'Deletar Serviço(s) Extra(s)',
             'da_DK' : 'Sletter ekstra tjenester',
-            'it_IT' : 'Elimina servizi aggiuntivi'
+            'it_IT' : 'Elimina servizi aggiuntivi',
+			'fa_IR' : 'پاک کردن سرویسهای افزونه'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
             'da_DK' : 'Afsluttet',
-            'it_IT' : 'Completato'
+            'it_IT' : 'Completato',
+			'fa_IR' : 'کامل'
            },
         'Edit of Extra Service Limited to one' :{ 
             'de_DE' : 'Es kann nur ein Extra Service bearbeitet werden',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'แก้ไขการให้บริการเพิ่มเติมได้ทีละรายการเท่านั้น',
             'pt_BR' : 'Edição do Serviço Extra é limitado a um',
             'da_DK' : 'Kun én ekstra tjeneste kan redigeres af gangen',
-            'it_IT' : 'Modifica servizi aggiuntivi limitata ad uno alla volta'
+            'it_IT' : 'Modifica servizi aggiuntivi limitata ad uno alla volta',
+			'fa_IR' : 'ویرایش سرویس افزونه را محدود به یک کن'
            },
         'Edit Extra Service':{ 
             'de_DE' : 'Extra Service bearbeiten',  
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'แก้ไขบริการเพิ่มเติม',
             'pt_BR' : 'Editar Serviço Extra',
             'da_DK' : 'Redigér ekstra tjenester',
-            'it_IT' : 'Modifica servizi aggiuntivi'
+            'it_IT' : 'Modifica servizi aggiuntivi',
+			'fa_IR' : 'ویرایش سرویس افزونه'
            },
         'Extra service updated OK':{ 
             'de_DE' : 'Extra Service aktualisiert',
@@ -200,7 +214,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'ปรับปรุงบริการเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Serviço Extra atualizado OK',
             'da_DK' : 'Ekstra tjenester opdateret!',
-            'it_IT' : 'Servizi aggiuntivi aggiornati'
+            'it_IT' : 'Servizi aggiuntivi aggiornati',
+			'fa_IR' : 'سرویس افزونه با موفقیت بروزرسانی شد'
            },
         'Problems updating extra service':{ 
             'de_DE' : 'Problem beim aktualisieren Extra Service',      
@@ -213,7 +228,8 @@ if(!dojo._hasResource["translations.UserViewServices"]){ //_hasResource checks a
             'th_TH' : 'มีปัญหาในการปรับปรุงบริการเพิ่มเติม',
             'pt_BR' : 'Problemas ao atualizar o serviço extra',
             'da_DK' : 'Problemer med at opdatere ekstra tjenester',
-            'it_IT' : 'problemi durante l\'aggiornamento dei servizi aggiuntivi'
+            'it_IT' : 'problemi durante l\'aggiornamento dei servizi aggiuntivi',
+			'fa_IR' : 'ایرادات به روز کردن سرویس افزونه'
            }
     };
 

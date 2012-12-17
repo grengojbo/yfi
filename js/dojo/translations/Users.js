@@ -1,5 +1,3 @@
-
-
 if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Users"] = true;
     dojo.provide("translations.Users");
@@ -18,7 +16,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'Hard',
             'pt_BR' : 'Hard',
             'da_DK' : 'Hård',
-            'it_IT' : 'Hard'
+            'it_IT' : 'Hard',
+			'fa_IR' : 'سخت'
            },
         'Soft':{ 
             'de_DE' : 'Weich',       
@@ -31,7 +30,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'Soft',
             'pt_BR' : 'Soft',
             'da_DK' : 'Blød',
-            'it_IT' : 'Soft'
+            'it_IT' : 'Soft',
+			'fa_IR' : 'نرم'
            },
         'Prepaid':{ 
             'de_DE' : 'Vorausbezahlt',       
@@ -44,7 +44,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เติมเงิน',
             'pt_BR' : 'Pré-Pago',
             'da_DK' : 'Forudbetalt',
-            'it_IT' : 'Prepagato'
+            'it_IT' : 'Prepagato',
+			'fa_IR' : 'پیش پرداخته'
            },
         'e-mail':{ 	
             'de_DE' : 'E-Mail',      
@@ -57,7 +58,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail',
-            'it_IT' : 'e-Mail'
+            'it_IT' : 'e-Mail',
+			'fa_IR' : 'ایمیل'
            },
         'Filter':{ 
             'de_DE' : 'Filter',       
@@ -70,7 +72,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+			'fa_IR' : 'فیلتر'
            },
         'Field':{ 
             'de_DE' : 'Feld',        
@@ -83,7 +86,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+			'fa_IR' : 'فیلد'
            },
         'Username':{ 
             'de_DE' : 'Benutzername',    
@@ -96,7 +100,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
             'da_DK' : 'Brugernavn',
-            'it_IT' : 'Nome utente'
+            'it_IT' : 'Nome utente',
+			'fa_IR' : 'نام کاربری'
            },
         'Profile':{ 
             'de_DE' : 'Profil',       
@@ -109,7 +114,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil',
-            'it_IT' : 'Profilo'
+            'it_IT' : 'Profilo',
+			'fa_IR' : 'پروفایل'
            },
         'Creator':{ 
             'de_DE' : 'Ersteller',     
@@ -122,7 +128,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ผู้สร้าง',
             'pt_BR' : 'Criador',
             'da_DK' : 'Ophavsmand',
-            'it_IT' : 'Creato da'
+            'it_IT' : 'Creato da',
+			'fa_IR' : 'سازنده'
            },
         'Realm':{ 
             'de_DE' : 'Standort',        
@@ -135,7 +142,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone',
-            'it_IT' : 'Dominio'
+            'it_IT' : 'Dominio',
+			'fa_IR' : 'حوزه'
            },
         'Data':{ 
             'de_DE' : 'Daten',      
@@ -148,7 +156,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ข้อมูล',
             'pt_BR' : 'Dados',
             'da_DK' : 'Data',
-            'it_IT' : 'Dati'
+            'it_IT' : 'Dati',
+			'fa_IR' : 'داده'
            },
         'Time':{ 
             'de_DE' : 'Zeit',       
@@ -161,7 +170,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เวลา',
             'pt_BR' : 'Tempo',
             'da_DK' : 'Tid',
-            'it_IT' : 'Tempo'
+            'it_IT' : 'Tempo',
+			'fa_IR' : 'زمان'
            },
         'Data Usage':{
             'de_DE' : 'Daten verbraucht',        
@@ -174,7 +184,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'การใช้ข้อมูล',
             'pt_BR' : 'Dados Utilizados',
             'da_DK' : 'Datamængde',
-            'it_IT' : 'Dati utilizzati'
+            'it_IT' : 'Dati utilizzati',
+			'fa_IR' : 'کارکرد داده'
            },
         'Time Usage':{
             'de_DE' : 'Zeit verbraucht',      
@@ -187,7 +198,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'การใช้เวลา',
             'pt_BR' : 'Tempo Utilizado',
             'da_DK' : 'Tidsforbrug',
-            'it_IT' : 'Tempo utilizzato'
+            'it_IT' : 'Tempo utilizzato',
+			'fa_IR' : 'کارکرد زمان'
            },
         'Active/Disabled':{
             'de_DE' : 'Aktiv/Inaktiv',    
@@ -200,7 +212,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ใช้งาน/ไม่ใช้งาน',
             'pt_BR' : 'Ativo/Desativado',
             'da_DK' : 'Aktiv/slået fra',
-            'it_IT' : 'Attivo/Non attivo'
+            'it_IT' : 'Attivo/Non attivo',
+			'fa_IR' : 'فعال/غیرفعال'
            },
         'Result count':{ 
             'de_DE' : 'Summe',     
@@ -213,7 +226,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'New Permanent User':{
             'de_DE' : 'Neuer dauerhafter Benutzer',       
@@ -226,7 +240,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เพิ่มผู้ใช้',
             'pt_BR' : 'Novo Usuário Permanente',
             'da_DK' : 'Ny permanent bruger',
-            'it_IT' : 'Nuovo utente permanente'
+            'it_IT' : 'Nuovo utente permanente',
+			'fa_IR' : 'کاربر ثابت جدید'
            },
         'Password':{ 
             'de_DE' : 'Kennwort',       
@@ -239,7 +254,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
             'da_DK' : 'Adgangskode',
-            'it_IT' : 'Password'
+            'it_IT' : 'Password',
+			'fa_IR' : 'گذر واژه'
            },
         'Name': { 
             'de_DE' : 'Nachname',       
@@ -252,7 +268,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
             'da_DK' : 'Navn',
-            'it_IT' : 'Nome'
+            'it_IT' : 'Nome',
+			'fa_IR' : 'نام'
            },
         'Surname':{ 
             'de_DE' : 'Vorname',     
@@ -265,7 +282,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'นามสกุล',
             'pt_BR' : 'Sobrenome',
             'da_DK' : 'Efternavn',
-            'it_IT' : 'Cognome'
+            'it_IT' : 'Cognome',
+			'fa_IR' : 'نام خانوادگی'
            },
         'Address':{ 
             'de_DE' : 'Adresse',    
@@ -278,7 +296,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
             'da_DK' : 'Adresse',
-            'it_IT' : 'Indirizzo'
+            'it_IT' : 'Indirizzo',
+			'fa_IR' : 'آدرس'
            },
         'Phone':{ 
             'de_DE' : 'Telefon',       
@@ -291,7 +310,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon',
-            'it_IT' : 'Telefono'
+            'it_IT' : 'Telefono',
+			'fa_IR' : 'تلفن'
             },
         'e-mail':{ 
             'de_DE' : 'E-Mail',     
@@ -304,7 +324,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail',
-            'it_IT' : 'e-Mail'
+            'it_IT' : 'e-Mail',
+			'fa_IR' : 'ایمیل'
             },
         'Activate':{ 
             'de_DE' : 'Aktivieren',      
@@ -317,7 +338,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปิดใช้งาน',
             'pt_BR' : 'Ativar',
             'da_DK' : 'Aktivér',
-            'it_IT' : 'Attiva'
+            'it_IT' : 'Attiva',
+			'fa_IR' : 'فعال'
             },
         'Language':{ 
             'de_DE' : 'Sprache',      
@@ -330,7 +352,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
             'da_DK' : 'Sprog',
-            'it_IT' : 'Lingua'
+            'it_IT' : 'Lingua',
+			'fa_IR' : 'زبان'
             },
         'Cap Type':{ 
             'de_DE' : 'Kapazitaets Type',       
@@ -343,7 +366,7 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ชนิดของ Cap',
             'pt_BR' : 'Tipo de Capacidade',
             'da_DK' : 'Trafikmængdetype',
-            'it_IT' : 'Tipo cap'
+            'it_IT' : 'Tipo cap',
             },
         'Save':{ 
             'de_DE' : 'Speichern',      
@@ -356,7 +379,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
             },
         'New Permanent User created OK':{ 
             'de_DE' : 'Neuer dauerhafter Benutzer angelegt',       
@@ -369,7 +393,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เพิ่มผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Novo Usuário Permanente criado OK',
             'da_DK' : 'Ny permanent bruger oprettet!',
-            'it_IT' : 'Nuovo utente permanente creato!'
+            'it_IT' : 'Nuovo utente permanente creato!',
+			'fa_IR' : 'کاربر ثابت جدید با موفقیت به سیستم افزوده شد'
             },
         'Duplicates - Change username':{ 
             'de_DE' : 'Duplikat - Benutzername &auml;ndern',       
@@ -382,7 +407,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ซ้ำ - เปลี่ยนชื่อผู้ใช้',
             'pt_BR' : 'Duplicados - Altere o nome do usuário',
             'da_DK' : 'Dubletter - skift brugernavn',
-            'it_IT' : 'Nome utente già esistente - usa un altro'
+            'it_IT' : 'Nome utente già esistente - usa un altro',
+			'fa_IR' : 'تکراری - نام کاربری را تغییر دهید'
             },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',      
@@ -395,7 +421,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
             },
         'Removing Permanent Users':{ 
             'de_DE' : 'Dauerhaften Benutzer l&ouml;schen',       
@@ -408,7 +435,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ลบผู้ใช้',
             'pt_BR' : 'Removendo Usuários Permanentes',
             'da_DK' : 'Fjerner permanente brugere',
-            'it_IT' : 'Eliminazione utente permanente'
+            'it_IT' : 'Eliminazione utente permanente',
+			'fa_IR' : 'پاک کردن کاربر ثابت'
             },
         'Opening detail for':{ 
             'de_DE' : 'Deatails &ouml;ffnen f&uuml;r',
@@ -421,7 +449,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
             'da_DK' : 'Åbner detaljer for',
-            'it_IT' : 'Apertura dettagli per'
+            'it_IT' : 'Apertura dettagli per',
+			'fa_IR' : 'باز کردن جزئییات برای'
             },
         'Permanent User(s) Disabled/Enabled OK':{ 
             'de_DE' : 'Dauerhafte(r) Benutzer Deaktiviert/Aktiviert OK',     
@@ -434,7 +463,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปิดใช้งาน/ไม่เปิดใช้งาน ผู้ใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Usuário(s) Permanente(s) Desativado(s)/Ativado(s) OK',
             'da_DK' : 'Permanent(e) bruger(e) deaktiveret/aktiveret!',
-            'it_IT' : 'Attivazione/Disattivazione utente(i) permanente(i) completata'
+            'it_IT' : 'Attivazione/Disattivazione utente(i) permanente(i) completata',
+			'fa_IR' : 'کاربر(های) ثابت با موقیت فعال/غیرفعال شدند'
             },
         'Password Change selection limit to one':{ 
             'de_DE' : 'Kennw&ouml;rter k&ouml;nnen nur f&uuml;r einzelne Benutzer ge&auml;ndert werden',      
@@ -447,7 +477,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปลี่ยนรหัสผ่านได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'A alteração da senha é limitada somente a um usuário',
             'da_DK' : 'Kun én adgangskode kan ændres af gangen',
-            'it_IT' : 'Modifica password un utente alla volta'
+            'it_IT' : 'Modifica password un utente alla volta',
+			'fa_IR' : 'تغییر گذرواژه محدود به یک انتخاب'
             },
         'Change Password for':{ 
             'de_DE' : 'Kennwort &auml;ndern f&uuml;r',       
@@ -460,7 +491,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปลี่ยนรหัสผ่านสำหรับ',
             'pt_BR' : 'Alterar a senha de',
             'da_DK' : 'Skift adgangskode for',
-            'it_IT' : 'Modifica password per'
+            'it_IT' : 'Modifica password per',
+			'fa_IR' : 'تغییر گذرواژه برای'
             },
         'New Password':{ 
             'de_DE' : 'Neues Kennwort',  
@@ -473,7 +505,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'รหัสผ่านใหม่',
             'pt_BR' : 'Nova Senha',
             'da_DK' : 'Ny adgangskode',
-            'it_IT' : 'Nuova password'
+            'it_IT' : 'Nuova password',
+			'fa_IR' : 'گذرواژه جدید'
             },
         'Password Changed OK':{ 
             'de_DE' : 'Kennwort &auml;ndern OK',      
@@ -486,7 +519,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปลี่ยนรหัสผ่านเรียบร้อยแล้ว',
             'pt_BR' : 'Senha Alterada OK',
             'da_DK' : 'Adgangskode ændret!',
-            'it_IT' : 'Password modificata'
+            'it_IT' : 'Password modificata',
+			'fa_IR' : 'گذرواژه با موفیت تغییر کرد'
             },
         'Send message to users':{ 
             'de_DE' : 'Nachricht an Benutzer senden',       
@@ -499,7 +533,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ส่งข้อความไปยังผู้ใช้',
             'pt_BR' : 'Enviar mensagem aos usuários',
             'da_DK' : 'Send besked til brugere',
-            'it_IT' : 'Invia messaggio al/agli utente(i)'
+            'it_IT' : 'Invia messaggio al/agli utente(i)',
+			'fa_IR' : 'ارسال پیام به کاربران'
             },
         'Message Type':{ 
             'de_DE' : 'Nachrichts Type',      
@@ -512,7 +547,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ประเภทข้อความ',
             'pt_BR' : 'Tipo de Mensagem',
             'da_DK' : 'Besked type',
-            'it_IT' : 'Tipo messaggio'
+            'it_IT' : 'Tipo messaggio',
+			'fa_IR' : 'نوع پیام'
             },
         'Subject':{ 
             'de_DE' : 'Betreff',     
@@ -525,7 +561,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'หัวเรื่อง',
             'pt_BR' : 'Assunto',
             'da_DK' : 'Emne',
-            'it_IT' : 'Oggetto'
+            'it_IT' : 'Oggetto',
+			'fa_IR' : 'موضوع'
             },
         'Message':{ 
             'de_DE' : 'Nachricht',        
@@ -538,7 +575,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ข้อความ',
             'pt_BR' : 'Mensagem',
             'da_DK' : 'Besked',
-            'it_IT' : 'Messaggio'
+            'it_IT' : 'Messaggio',
+			'fa_IR' : 'پیام'
             },
         'OK':{ 
             'de_DE' : 'OK',   
@@ -551,7 +589,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
             'da_DK' : 'OK',
-            'it_IT' : 'OK'
+            'it_IT' : 'OK',
+			'fa_IR' : 'تایید'
             },
         'Message send OK':{
             'de_DE' : 'Nachricht gesendet',      
@@ -564,7 +603,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ส่งข้อความเรียบร้อยแล้ว',
             'pt_BR' : 'Mensagem enviada OK',
             'da_DK' : 'Besked afsendt!',
-            'it_IT' : 'Invio messaggio riuscito'
+            'it_IT' : 'Invio messaggio riuscito',
+			'fa_IR' : 'پیام با موفقیت ارسال شد'
             },
         'Active':{ 
             'de_DE' : 'Aktiv',  
@@ -577,7 +617,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'เปิดใช้งาน',
             'pt_BR' : 'Ativo',
             'da_DK' : 'Aktiv',
-            'it_IT' : 'Attivo'
+            'it_IT' : 'Attivo',
+			'fa_IR' : 'فعال'
             },
         'Disabled':{ 
             'de_DE' : 'Deaktiviert',  
@@ -590,7 +631,8 @@ if(!dojo._hasResource["translations.Users"]){ //_hasResource checks added by bui
             'th_TH' : 'ไม่เปิดใช้งาน',
             'pt_BR' : 'Desativado',
             'da_DK' : 'Slået fra',
-            'it_IT' : 'Disabilitato'
+            'it_IT' : 'Disabilitato',
+			'fa_IR' : 'غیرفعال'
             }
     };
 

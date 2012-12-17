@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewUsage"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Kb': { 
             'de_DE' : 'Kb',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'กิโลบิต',
             'pt_BR' : 'Kb',
             'da_DK' : 'Kb',
-            'it_IT' : 'Kb'
+            'it_IT' : 'Kb',
+			'fa_IR' : 'Kb'
            },
         'Mb': { 
             'de_DE' : 'Mb',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เมกะบิต',
             'pt_BR' : 'Mb',
             'da_DK' : 'Mb',
-            'it_IT' : 'Mb'
+            'it_IT' : 'Mb',
+			'fa_IR' : 'Mb'
            },
         'Gb': { 
             'de_DE' : 'Gb',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'กิกะบิต',
             'pt_BR' : 'Gb',
             'da_DK' : 'Gb',
-            'it_IT' : 'Gb'
+            'it_IT' : 'Gb',
+			'fa_IR' : 'Gb'
            },
         'Start date': { 
             'de_DE' : 'Startdatum',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de Início',
             'da_DK' : 'Startdato',
-            'it_IT' : 'Data di inizio'
+            'it_IT' : 'Data di inizio',
+			'fa_IR' : 'تاریخ شروع'
            },
         'End date': { 
             'de_DE' : 'Enddatum',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data de Término',
             'da_DK' : 'Slutdato',
-            'it_IT' : 'Data di fine'
+            'it_IT' : 'Data di fine',
+			'fa_IR' : 'تاریخ پایان'
            },
         'Extra time':{ 
             'de_DE' : 'Extra Zeit',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เวลาส่วนที่เพิ่มเติม',
             'pt_BR' : 'Tempo extra',
             'da_DK' : 'Ekstra tidsramme',
-            'it_IT' : 'Tempo extra'
+            'it_IT' : 'Tempo extra',
+			'fa_IR' : 'زمان اضافی'
            },
         'Extra data':{
             'de_DE' : 'Extra Datum', 
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ข้อมูลส่วนที่เพิ่มเติม',
             'pt_BR' : 'Dados extras',
             'da_DK' : 'Ekstra datamængde',
-            'it_IT' : 'Dati extra'
+            'it_IT' : 'Dati extra',
+			'fa_IR' : 'تاریخ اضافی'
            },
         'Time Used':{ 
             'de_DE' : 'Zeit verbraucht',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ใช้เวลาไป',
             'pt_BR' : 'Tempo Utilizado',
             'da_DK' : 'Anvendt tid',
-            'it_IT' : 'Tempo utilizzato'
+            'it_IT' : 'Tempo utilizzato',
+			'fa_IR' : 'زمان استفاده'
             },
         'Time Avail':{ 
             'de_DE' : 'Zeit verf&uuml;gbar',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เวลาที่สามารถใช้ได้',
             'pt_BR' : 'Tempo Disponível',
             'da_DK' : 'Tid til rådighed',
-            'it_IT' : 'Tempo disponibile'
+            'it_IT' : 'Tempo disponibile',
+			'fa_IR' : 'زمان قابل استفاده'
            },
         'Data Used':{ 
             'de_DE' : 'Daten verbraucht',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ใช้ข้อมูลไป',
             'pt_BR' : 'Dados Utilizados',
             'da_DK' : 'Udnyttet datatrafik',
-            'it_IT' : 'Dati usati'
+            'it_IT' : 'Dati usati',
+			'fa_IR' : 'داده های استفاده شده'
            },
         'Data Avail':{ 
             'de_DE' : 'Daten verf&uuml;gbar',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ข้อมูลที่สามารถใช้ได้',
             'pt_BR' : 'Dados Disponíveis',
             'da_DK' : 'Data til rådighed',
-            'it_IT' : 'Dati disponibili'
+            'it_IT' : 'Dati disponibili',
+			'fa_IR' : 'تاریخ قابل استفاده'
            },
         'Add Extra Time' :{ 
             'de_DE' : 'Extra Zeit hinzuf&uuml;gen',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เพิ่มเวลาส่วนเพิ่มเติม',
             'pt_BR' : 'Adicionar Tempo Extra',
             'da_DK' : 'Tilføj ekstra tidsforbrug',
-            'it_IT' : 'Aggiungi tempo extra'
+            'it_IT' : 'Aggiungi tempo extra',
+			'fa_IR' : 'اضافه کردن زمان'
            },
         'Hours':{ 
             'de_DE' : 'Stunden',
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ชั่วโมง',
             'pt_BR' : 'Horas',
             'da_DK' : 'Timer',
-            'it_IT' : 'Ore'
+            'it_IT' : 'Ore',
+			'fa_IR' : 'ساعت'
            },
         'Minutes':{ 
             'de_DE' : 'Minuten',
@@ -200,7 +214,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'นาที',
             'pt_BR' : 'Minutos',
             'da_DK' : 'Minutter',
-            'it_IT' : 'Minuti'
+            'it_IT' : 'Minuti',
+			'fa_IR' : 'دقیقه'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -213,7 +228,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Extra Time add OK':{ 
             'de_DE' : 'Extra Zeit hinzugef&uuml;gt',
@@ -226,7 +242,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เพิ่มเวลาส่วนเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Tempo Extra adicionado OK',
             'da_DK' : 'Ekstra tidsforbrug tilføjet!',
-            'it_IT' : 'Tempo extra aggiunto'
+            'it_IT' : 'Tempo extra aggiunto',
+			'fa_IR' : 'زمان اضافی با موفقیت اضافه شد'
            },
         'Add Extra Data':{ 
             'de_DE' : 'Extra Datum hinzuf&uuml;gen',
@@ -239,7 +256,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เพิ่มข้อมูลส่วนเพิ่มเติม',
             'pt_BR' : 'Adicionar Dados Extras',
             'da_DK' : 'Tilføj ekstra datamængde',
-            'it_IT' : 'Aggiungi dati extra'
+            'it_IT' : 'Aggiungi dati extra',
+			'fa_IR' : 'اضافه کردن داده تکمیلی'
            },
         'Amount':{ 
             'de_DE' : 'Betrag',
@@ -252,7 +270,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'จำนวน',
             'pt_BR' : 'Quantia',
             'da_DK' : 'Mængde',
-            'it_IT' : 'Totale'
+            'it_IT' : 'Totale',
+			'fa_IR' : 'مقدار'
            },
         'Unit':{ 
             'de_DE' : 'Einheit',
@@ -265,7 +284,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'หน่วย',
             'pt_BR' : 'Unidade',
             'da_DK' : 'Enhed',
-            'it_IT' : 'Unità'
+            'it_IT' : 'Unità',
+			'fa_IR' : 'واحد'
            },
         'Extra Data add OK': { 
             'de_DE' : 'Extra Daten hinzugef&uuml;gt',
@@ -278,7 +298,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'เพิ่มข้อมูลส่วนเพิ่มเติมเรียบร้อยแล้ว',
             'pt_BR' : 'Dados Extras adicionado OK',
             'da_DK' : 'Ekstra datamængde tilføjet!',
-            'it_IT' : 'Dati extra aggiunti'
+            'it_IT' : 'Dati extra aggiunti',
+			'fa_IR' : 'داده های اضافی با موفقیت اضافه شد'
            },
         'Delete Data Cap': { 
             'de_DE' : 'Datenkapazit&auml;t l&ouml;schen',
@@ -317,7 +338,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ไม่มีอะไรที่จะลบ',
             'pt_BR' : 'Nada a deletar',
             'da_DK' : 'Intet at fjerne',
-            'it_IT' : 'Niente da rimuovere'
+            'it_IT' : 'Niente da rimuovere',
+			'fa_IR' : 'چیزی برای حذف کردن نیست'
            },
         'Existing Caps': { 
             'de_DE' : 'Bestehende Kapazit&auml;t',
@@ -343,7 +365,8 @@ if(!dojo._hasResource["translations.UserViewUsage"]){ //_hasResource checks adde
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
            },
         'Deleted Cap': { 
             'de_DE' : 'Entfernte Kapazit&auml;t',

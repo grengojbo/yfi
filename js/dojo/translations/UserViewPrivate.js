@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.UserViewPrivate"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
         },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil',
-            'it_IT' : 'Profilo'
+            'it_IT' : 'Profilo',
+			'fa_IR' : 'پروفایل'
            },
         'Attribute': { 
             'de_DE' : 'Eigenschaft',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'Attribute',
             'pt_BR' : 'Atributo',
             'da_DK' : 'Attribut',
-            'it_IT' : 'Attributi'
+            'it_IT' : 'Attributi',
+			'fa_IR' : 'صفت'
            },
         'Check/Reply': { 
             'de_DE' : '&Uuml;berpr&uuml;fen/Antworten',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'Check/Reply',
             'pt_BR' : 'Check/Reply',
             'da_DK' : 'Kontrollér/svar',
-            'it_IT' : 'Verifica/Rispondi'
+            'it_IT' : 'Verifica/Rispondi',
+			'fa_IR' : 'Check/Reply'
            },
         'Operator':{ 
             'de_DE' : 'Operator',     
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'Operator',
             'pt_BR' : 'Operador',
             'da_DK' : 'Operatør',
-            'it_IT' : 'Operatore'
+            'it_IT' : 'Operatore',
+			'fa_IR' : 'اپراتور'
            },
         'Value':{ 
             'de_DE' : 'Wert',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'ค่า',
             'pt_BR' : 'Valor',
             'da_DK' : 'Værdi',
-            'it_IT' : 'Valore'
+            'it_IT' : 'Valore',
+			'fa_IR' : 'مقدار'
            },
         'Add Private Attribute':{
             'de_DE' : 'Pers&ouml;nliche Eigenschaft hinzuf&uuml;gen',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'เพิ่ม Attribute ส่วนตัว',
             'pt_BR' : 'Adicionar Atributo Privado',
             'da_DK' : 'Tilføj privat attribut',
-            'it_IT' : 'Aggiungi attributo privato'
+            'it_IT' : 'Aggiungi attributo privato',
+			'fa_IR' : 'افزودن صفت شخصی'
            },
         'Vendor':{ 
             'de_DE' : 'Hersteller',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'Vendor',
             'pt_BR' : 'Distribuidor',
             'da_DK' : 'Leverandør',
-            'it_IT' : 'Marca'
+            'it_IT' : 'Marca',
+			'fa_IR' : 'سازنده'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Attribute added':{ 
             'de_DE' : 'Attribut hinzugef&uuml;gt',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'เพิ่ม Attribute แล้ว',
             'pt_BR' : 'Atributo adicionado',
             'da_DK' : 'Attribut tilføjet!',
-            'it_IT' : 'Attributo aggiunto'
+            'it_IT' : 'Attributo aggiunto',
+			'fa_IR' : 'صفت افزوده شد'
            },
         'Problems adding attribute':{ 
             'de_DE' : 'Problem beim hinzuf&uuml;gen der Eigenschaft',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'มีปัญหาในการเพิ่ม Attribute',
             'pt_BR' : 'Problemas ao adicionar o atributo',
             'da_DK' : 'Problemer med at tilføje attribut',
-            'it_IT' : 'Problemi in aggiunta attributo'
+            'it_IT' : 'Problemi in aggiunta attributo',
+			'fa_IR' : 'ایرادات اضافه کردن صفت'
            },
         'Edit selection limit to one':{ 
             'de_DE' : 'Auswahl zum bearbeiten ist auf 1 limitiert',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'แก้ไขได้ครั้งละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Editar limite de seleção somente a um',
             'da_DK' : 'Kun én kan ændres af gangen',
-            'it_IT' : 'Modifica possibile ad una sola selezione alla volta'
+            'it_IT' : 'Modifica possibile ad una sola selezione alla volta',
+			'fa_IR' : 'محدودیت انتخاب ویرایش یک'
            },
         'Change Password On Users Tab':{
             'de_DE' : '&Auml;ndern Sie das Kennwort in der Registerkarte "Benutzer"',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'เปลี่ยนรหัสผ่านบนแท็บของผู้ใช้',
             'pt_BR' : 'Alterar Senha na Aba Usuários',
             'da_DK' : 'Skift adgangskode på brugerfane',
-            'it_IT' : 'Modifica la password nel campo dell\'utente'
+            'it_IT' : 'Modifica la password nel campo dell\'utente',
+			'fa_IR' : 'تعویض گذرواژه در نوار کاربران'
            },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
            },
         'Edit Private Attribute':{ 
             'de_DE' : 'Pers&ouml;nliches Eigenschaft bearbeiten',
@@ -200,7 +214,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'แก้ไข Attribute ส่วนตัว',
             'pt_BR' : 'Editar Atributo Privado',
             'da_DK' : 'Redigér den private attribut',
-            'it_IT' : 'Modifica attributi privati'
+            'it_IT' : 'Modifica attributi privati',
+			'fa_IR' : 'ویرایش صفت اختصاصی'
            },
         'Attribute changed':{ 
             'de_DE' : 'Eigenschaft ge&auml;ndert',
@@ -213,7 +228,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'เปลี่ยนแปลง Attribute แล้ว',
             'pt_BR' : 'Atributo alterado',
             'da_DK' : 'Attribut ændret!',
-            'it_IT' : 'Attributi modificati'
+            'it_IT' : 'Attributi modificati',
+			'fa_IR' : 'صفت تغییر کرد'
            },
         'Problems changing attribute':{ 
             'de_DE' : 'Problem beim &auml;ndern der Eigenschaft',
@@ -226,7 +242,8 @@ if(!dojo._hasResource["translations.UserViewPrivate"]){ //_hasResource checks ad
             'th_TH' : 'มีปัญหาในการเปลี่ยนแปลง Attribute',
             'pt_BR' : 'Problemas ao alterar o atributo',
             'da_DK' : 'Problemer med at ændre attribut',
-            'it_IT' : 'Problemi durante la modifica degli attributi'
+            'it_IT' : 'Problemi durante la modifica degli attributi',
+			'fa_IR' : 'ایرادات تغییر صفت'
            }
     };
 
