@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.ASViewWireless"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'การตั้งค่าทั่วไป',
             'pt_BR' : 'Configurações Comuns',
             'da_DK' : 'Fælles indstillinger',
-            'it_IT' : 'Settaggi comuni'
+            'it_IT' : 'Settaggi comuni',
+			'fa_IR' : 'تنظیمات عمومی'
            },
         'Enabled': { 
             'de_DE' : 'Aktiviert',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'เปิดใช้งาน',
             'pt_BR' : 'Ativado',
             'da_DK' : 'Aktiveret',
-            'it_IT' : 'Attivato'
+            'it_IT' : 'Attivato',
+			'fa_IR' : 'فعال شده'
            },
         'Channel': { 
             'de_DE' : 'Kanal',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'ช่องสัญญาณ',
             'pt_BR' : 'Canal',
             'da_DK' : 'Kanal',
-            'it_IT' : 'Canale'
+            'it_IT' : 'Canale',
+			'fa_IR' : 'کانال'
            },
         'Power': { 
             'de_DE' : 'Power',
@@ -57,8 +60,10 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'กำลัง',
             'pt_BR' : 'Potência',
             'da_DK' : 'Styrke',
-            'it_IT' : 'Potenza'
+            'it_IT' : 'Potenza',
+			'fa_IR' : 'قدرت'
            },
+		   
         'Connect Distance': { 
             'de_DE' : 'Verbindungsabstand',
             'es_ES' : 'Conexión a Distancia',
@@ -70,7 +75,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'ระยะเชื่อมต่อ',
             'pt_BR' : 'Conexão à Distância',
             'da_DK' : 'Forbindelsesafstand',
-            'it_IT' : 'Distanza di collegamento'
+            'it_IT' : 'Distanza di collegamento',
+			'fa_IR' : 'فاصله تماس'
            },
         'Secure SSID': { 
             'de_DE' : 'Sichere SSID',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'SSID',
             'pt_BR' : 'SSID',
             'da_DK' : 'SSID',
-            'it_IT' : 'SSID'
+            'it_IT' : 'SSID',
+			'fa_IR' : 'شناسه بیسیم'
            },
         'RADIUS Server': { 
             'de_DE' : 'RADIUS-Server',
@@ -122,7 +129,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'Shared Secret',
             'pt_BR' : 'Chave Compartilhada',
             'da_DK' : 'Delt hemmelig nøgle',
-            'it_IT' : 'Chiave condivisa'
+            'it_IT' : 'Chiave condivisa',
+			'fa_IR' : 'رمز مشترک'
            },
         'Open SSID': { 
             'de_DE' : 'Open-SSID',
@@ -148,7 +156,8 @@ if(!dojo._hasResource["translations.ASViewWireless"]){ //_hasResource checks add
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Auto Setup Wireless updated OK': { 
             'de_DE' : 'Wireless-Auto-Setup aktualisiert',

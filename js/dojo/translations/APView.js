@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'รายละเอียด',
             'pt_BR' : 'Detalhe',
             'da_DK' : 'Detaljer',
-            'it_IT' : 'Dettagli'
+            'it_IT' : 'Dettagli',
+            'fa_IR' : 'جزئیات'
            },
         'Rights': { 
             'de_DE' : 'Rechte',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'สิทธิ์',
             'pt_BR' : 'Permissões',
             'da_DK' : 'Rettigheder',
-            'it_IT' : 'Privilegi'
+            'it_IT' : 'Privilegi',
+            'fa_IR' : 'حقوق'
            },
         'Username' : {
             'de_DE' : 'Benutzername',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do usuário',
             'da_DK' : 'Brugernavn',
-            'it_IT' : 'Nome utente'
+            'it_IT' : 'Nome utente',
+            'fa_IR' : 'نام کاربری'
            },
         'Name' : {
             'de_DE' : 'Vorname',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
             'da_DK' : 'Fornavn',
-            'it_IT' : 'Nome'
+            'it_IT' : 'Nome',
+            'fa_IR' : 'نام'
            },
         'Surname' : {
             'de_DE' : 'Nachname',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'นามสกุล',
             'pt_BR' : 'Sobrenome',
             'da_DK' : 'Efternavn',
-            'it_IT' : 'Cognome'
+            'it_IT' : 'Cognome',
+            'fa_IR' : 'نام خانوادگی'
            },
         'Phone' : {
             'de_DE' : 'Telefon',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'โทร.',
             'pt_BR' : 'Telefone',
             'da_DK' : 'Telefon',
-            'it_IT' : 'Telefono'
+            'it_IT' : 'Telefono',
+            'fa_IR' : 'تلفن'
             },
         'Address' : {
             'de_DE' : 'Adresse',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'ที่อยู่',
             'pt_BR' : 'Endereço',
             'da_DK' : 'Adresse',
-            'it_IT' : 'Indirizzo'
+            'it_IT' : 'Indirizzo',
+            'fa_IR' : 'آدرس'
             },
         'e-mail' : {
             'de_DE' : 'E-Mail',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'อีเมล',
             'pt_BR' : 'Email',
             'da_DK' : 'E-mail',
-            'it_IT' : 'e-Mail'
+            'it_IT' : 'e-Mail',
+            'fa_IR' : 'ایمیل'
             },
         'Language' : {
             'de_DE' : 'Sprache',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
             'da_DK' : 'Sprog',
-            'it_IT' : 'Lingua'
+            'it_IT' : 'Lingua',
+            'fa_IR' : 'زبان'
             },
         'Activate': { 
             'de_DE' : 'Aktivieren',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'เปิดใช้งาน',
             'pt_BR' : 'Ativar',
             'da_DK' : 'Aktivér',
-            'it_IT' : 'Attiva'
+            'it_IT' : 'Attiva',
+            'fa_IR' : 'فعال'
             },
         'Realms': { 
             'de_DE' : 'Standort',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zonas',
             'da_DK' : 'Hotspot zone',
-            'it_IT' : 'Dominio'
+            'it_IT' : 'Dominio',
+            'fa_IR' : 'حوزه ها'
             },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+            'fa_IR' : 'ذخیره'
             },
         'Access Provider updated OK' : {
             'de_DE' : 'Dienstanbieter aktualisiert',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'ปรับปรุงผู้บริหารการเข้าใช้เรียบร้อยแล้ว',
             'pt_BR' : 'Provedor de Acesso atualizado OK',
             'da_DK' : 'Udbyder opdateret!',
-            'it_IT' : 'Access Provider aggiornato!'
+            'it_IT' : 'Access Provider aggiornato!',
+            'fa_IR' : 'Access Provider updated OK'
             },
         'Problems updating Access Provider' :{
             'de_DE' : 'Problem beim aktualisieren Dienstanbieter',
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.APView"]){ //_hasResource checks added by bu
             'th_TH' : 'มีปัญหาในการปรับปรุงผู้บริหารการเข้าใช้',
             'pt_BR' : 'Problemas ao atualizar o Provedor de Acesso',
             'da_DK' : 'Problemer med at opdatere udbyder',
-            'it_IT' : 'Problemi durante l\'aggiornamento'
+            'it_IT' : 'Problemi durante l\'aggiornamento',
+            'fa_IR' : 'Problems updating Access Provider'
             }
     };
 

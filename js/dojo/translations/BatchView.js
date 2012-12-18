@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.BatchView"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+			'fa_IR' : 'فیلتر'
            },
         'Field': { 
             'de_DE' : 'Feld',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+			'fa_IR' : 'فیلد'
            },
         'Voucher': { 
             'de_DE' : 'Ticket',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'คูปอง',
             'pt_BR' : 'Voucher',
             'da_DK' : 'Adgangskort',
-            'it_IT' : 'Voucher'
+            'it_IT' : 'Voucher',
+			'fa_IR' : 'کوپن'
            },
         'Profile': { 
             'de_DE' : 'Profil',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'กลุ่มผู้ใช้',
             'pt_BR' : 'Perfil',
             'da_DK' : 'Profil',
-            'it_IT' : 'Profilo'
+            'it_IT' : 'Profilo',
+			'fa_IR' : 'پروفایل'
            },
         'Creator': { 
             'de_DE' : 'Erzeugt von',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ผู้สร้าง',
             'pt_BR' : 'Criador',
             'da_DK' : 'Oprettet af',
-            'it_IT' : 'Creato da'
+            'it_IT' : 'Creato da',
+			'fa_IR' : 'ایجاد کننده'
            },
         'Realm': { 
             'de_DE' : 'Standort',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone',
-            'it_IT' : 'Dominio'
+            'it_IT' : 'Dominio',
+			'fa_IR' : 'حوزه'
            },
         'Created': { 
             'de_DE' : 'Erzeugt',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'สร้างเมื่อ',
             'pt_BR' : 'Criado',
             'da_DK' : 'Oprettet',
-            'it_IT' : 'Creato'
+            'it_IT' : 'Creato',
+			'fa_IR' : 'ایجاد شده'
            },
         'Status': { 
             'de_DE' : 'Status',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Status',
             'da_DK' : 'Status',
-            'it_IT' : 'Stato'
+            'it_IT' : 'Stato',
+			'fa_IR' : 'وضعیت'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'new': {
             'de_DE' : 'neu',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'สร้างใหม่',
             'pt_BR' : 'novo',
             'da_DK' : 'ny',
-            'it_IT' : 'Nuovo'
+            'it_IT' : 'Nuovo',
+			'fa_IR' : 'جدید'
            },
         'used': {
             'de_DE' : 'verwendet',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ใช้ไป',
             'pt_BR' : 'usado',
             'da_DK' : 'udnyttet',
-            'it_IT' : 'usato(i)'
+            'it_IT' : 'usato(i)',
+			'fa_IR' : 'مصرف شده'
            },
         'depleted': {
             'de_DE' : 'verbraucht',
@@ -187,7 +199,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'ลบคูปอง',
             'pt_BR' : 'Removendo Vouchers',
             'da_DK' : 'Fjerner adgangskort',
-            'it_IT' : 'Cancellazione Vouchers'
+            'it_IT' : 'Cancellazione Vouchers',
+			'fa_IR' : 'پاک کردن کوپن ها'
            },
         'Voucher(s) Removed OK': {
             'de_DE' : 'Ticket(s) entfernt',
@@ -200,7 +213,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'คูปองถูกลบแล้ว',
             'pt_BR' : 'Voucher(s) Removido(s) OK',
             'da_DK' : 'Adgangskort fjernet!',
-            'it_IT' : 'Voucher eliminato(i)'
+            'it_IT' : 'Voucher eliminato(i)',
+			'fa_IR' : 'کوپن ها با موفقیت پاک شدند'
            },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -213,7 +227,8 @@ if(!dojo._hasResource["translations.BatchView"]){ //_hasResource checks added by
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
             'da_DK' : 'Åbner detaljer for',
-            'it_IT' : 'Apri dettagli per'
+            'it_IT' : 'Apri dettagli per',
+			'fa_IR' : 'باز کردن جزئیات برای'
            }
     };
 

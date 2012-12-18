@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Formatters"] = true;
@@ -70,7 +70,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'Negative',
             'pt_BR' : 'Negativo',
             'da_DK' : 'Negativ',
-            'it_IT' : 'Negativo'
+            'it_IT' : 'Negativo',
+			'fa_IR' : 'منفی'
            },
         'days': { 
             'de_DE' : 'Tage',
@@ -83,7 +84,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'วัน',
             'pt_BR' : 'dias',
             'da_DK' : 'dage',
-            'it_IT' : 'giorni'
+            'it_IT' : 'giorni',
+			'fa_IR' : 'روز'
            },
         'hours': { 
             'de_DE' : 'Stunden',
@@ -96,7 +98,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'ชั่วโมง',
             'pt_BR' : 'horas',
             'da_DK' : 'timer',
-            'it_IT' : 'ore'
+            'it_IT' : 'ore',
+			'fa_IR' : 'ساعت'
            },
         'minutes': { 
             'de_DE' : 'Minuten',
@@ -109,7 +112,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'นาที',
             'pt_BR' : 'minutos',
             'da_DK' : 'minutter',
-            'it_IT' : 'minuti'
+            'it_IT' : 'minuti',
+			'fa_IR' : 'دقیقه'
            },
         'seconds': { 
             'de_DE' : 'Sekunden',
@@ -122,7 +126,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
             'da_DK' : 'sekunder',
-            'it_IT' : 'secondi'
+            'it_IT' : 'secondi',
+			'fa_IR' : 'ثانیه'
            },
         'Check':{ 
             'de_DE' : 'Kontrollieren',
@@ -161,7 +166,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'ยังใช้งานอยู่',
             'pt_BR' : 'Ainda Ativo',
             'da_DK' : 'Stadig aktiv',
-            'it_IT' : 'Attivo permanentemente'
+            'it_IT' : 'Attivo permanentemente',
+			'fa_IR' : 'هنوز فعال'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -174,7 +180,8 @@ if(!dojo._hasResource["translations.Formatters"]){ //_hasResource checks added b
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
             'da_DK' : 'Afsluttet',
-            'it_IT' : 'Completato'
+            'it_IT' : 'Completato',
+			'fa_IR' : 'کامل'
            }
     };
 

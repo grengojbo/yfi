@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AutoSetup"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'เรียกรายการมาดูใหม่',
             'pt_BR' : 'Atualizar Lista',
             'da_DK' : 'Genindlæs liste',
-            'it_IT' : 'Ricarica lista'
+            'it_IT' : 'Ricarica lista',
+			'fa_IR' : 'بازنشانی لیست'
            },
         'Edit Selected': { 
             'de_DE' : 'Auswahl bearbeiten',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'แก้ไขที่เลือก',
             'pt_BR' : 'Editar Selecionado',
             'da_DK' : 'Rediger valgte',
-            'it_IT' : 'Modifica selezionato'
+            'it_IT' : 'Modifica selezionato',
+			'fa_IR' : 'ویرایش انتخاب شده'
            },
         'Add': { 
             'de_DE' : 'Hinzuf&uuml;gen',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'เพิ่ม',
             'pt_BR' : 'Adicionar',
             'da_DK' : 'Tilføj',
-            'it_IT' : 'Aggiungi'
+            'it_IT' : 'Aggiungi',
+			'fa_IR' : 'افزودن'
            },
         'Delete Selected': { 
             'de_DE' : 'Auswahl l&ouml;schen',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'ลบที่เลือก',
             'pt_BR' : 'Deletar Selecionado',
             'da_DK' : 'Slet valgte',
-            'it_IT' : 'Elimina selezionato'
+            'it_IT' : 'Elimina selezionato',
+			'fa_IR' : 'حذف انتخاب شده'
            },
         'MAC Address': { 
             'de_DE' : 'MAC-Adresse',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'MAC Address',
             'pt_BR' : 'Endereço MAC',
             'da_DK' : 'MAC adresse',
-            'it_IT' : 'Indirizzo MAC'
+            'it_IT' : 'Indirizzo MAC',
+			'fa_IR' : 'آدس مک'
            },
         'IP Address': { 
             'de_DE' : 'IP Adresse',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
             'da_DK' : 'IP adresse',
-            'it_IT' : 'Indirizzo IP'
+            'it_IT' : 'Indirizzo IP',
+			'fa_IR' : 'آدرس آی پی'
            },
         'VPN IP Address': { 
             'de_DE' : 'VPN IP Adresse',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'VPN IP Address',
             'pt_BR' : 'Endereço IP da VPN',
             'da_DK' : 'VPN IP adresse',
-            'it_IT' : 'Indirizzo IP della VPN'
+            'it_IT' : 'Indirizzo IP della VPN',
+			'fa_IR' : 'VPN IP Address'
            },
         'Contact IP': { 
             'de_DE' : 'Kontakt IP',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'IP ที่ติดต่อ',
             'pt_BR' : 'IP de Contato',
             'da_DK' : 'Kontakt IP',
-            'it_IT' : 'IP Contatto'
+            'it_IT' : 'IP Contatto',
+			'fa_IR' : 'Contact IP'
            },
         'Last Contact': { 
             'de_DE' : 'Letzter Kontakt',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'ติดต่อครั้งล่าสุด',
             'pt_BR' : 'Último Contato',
             'da_DK' : 'Sidste kontakt',
-            'it_IT' : 'Ultimo Contatto'
+            'it_IT' : 'Ultimo Contatto',
+			'fa_IR' : 'آخرین تماس'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Opening detail for': { 
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
             'da_DK' : 'Åbner detaljer for',
-            'it_IT' : 'Apri dettagli per'
+            'it_IT' : 'Apri dettagli per',
+			'fa_IR' : 'بازکردن جزئیات برای'
            },
         'No Selection made': { 
             'de_DE' : 'Keine Auswahl getroffen',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'New Auto Setup Device': { 
             'de_DE' : 'Neues automatisch konfiguriertes Ger&auml;t',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'ติดตั้งข้อมูลอุปกรณ์ใหม่แบบอัตโนมัติ',
             'pt_BR' : 'Novo Dispositivo Autoconfigurável',
             'da_DK' : 'Ny enhed med automatisk opsætning',
-            'it_IT' : 'Auto configurazione nuovo apparato'
+            'it_IT' : 'Auto configurazione nuovo apparato',
+			'fa_IR' : 'تنظیمات خودکار دستگاه'
            },
         'Subnet Mask': { 
             'de_DE' : 'Subnet Mask',
@@ -226,7 +239,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Created New Auto Setup Device': { 
             'de_DE' : 'Neues Auto-Setup-Ger&auml;t hinzuf&uuml;gen',
@@ -253,17 +267,20 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
         'Date' : {
             'de_DE' : 'Datum',
             'th_TH' : 'วันที่',
-            'it_IT' : 'Data'
+            'it_IT' : 'Data',
+			'fa_IR' : 'تاریخ'
            },
        'Complete' : {
             'de_DE' : 'Fertig',
             'th_TH' : 'สมบูรณ์',
-            'it_IT' : 'Completo'
+            'it_IT' : 'Completo',
+			'fa_IR' : 'کامل'
            },
        'New Note' : {
             'de_DE' : 'Neue Notiz erfassen',
             'th_TH' : 'เพิ่มบันทึกย่อ',
-            'it_IT' : 'Nuova nota'
+            'it_IT' : 'Nuova nota',
+			
            },
        'Note added' : {
             'de_DE' : 'Notiz hinzugefuegt',
@@ -299,7 +316,8 @@ if(!dojo._hasResource["translations.AutoSetup"]){ //_hasResource checks added by
             'th_TH' : 'ไม่เคย',
             'pt_BR' : 'nunca',
             'da_DK' : 'aldrig',
-            'it_IT' : 'mai'
+            'it_IT' : 'mai',
+			'fa_IR' : 'هیچگاه'
            }
     };
 

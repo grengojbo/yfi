@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Chilli"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
             'da_DK' : 'Brugernavn',
-            'it_IT' : 'Nome utente'
+            'it_IT' : 'Nome utente',
+			'fa_IR' : 'نام کاربری'
            },
         'Password': { 
             'de_DE' : 'Passwort',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
             'da_DK' : 'Adgangskode',
-            'it_IT' : 'Password'
+            'it_IT' : 'Password',
+			'fa_IR' : 'گذرواژه'
            },
         'Language': { 
             'de_DE' : 'Sprache',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
             'da_DK' : 'Sprog',
-            'it_IT' : 'Lingua'
+            'it_IT' : 'Lingua',
+			'fa_IR' : 'زبان'
            },
         'OK': { 
             'de_DE' : 'OK',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
             'da_DK' : 'OK',
-            'it_IT' : 'OK'
+            'it_IT' : 'OK',
+			'fa_IR' : 'تایید'
            },
         'Authentication Failed' :{
             'de_DE' : 'Authentifizierung fehlgeschlagen',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'การยืนยันตัวตนล้มเหลว',
             'pt_BR' : 'Falha na Autenticação',
             'da_DK' : 'Godkendelse slået fejl',
-            'it_IT' : 'Autenticazione fallita'
+            'it_IT' : 'Autenticazione fallita',
+			'fa_IR' : 'اعتبار سنجی ناموفق بود'
            },
         'Working - Please wait' : {
             'de_DE' : 'Lade - bitte warten...',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'กำลังทำงาน - โปรดรอ',
             'pt_BR' : 'Trabalhando - Por favor aguarde',
             'da_DK' : 'Arbejder - vent venligst',
-            'it_IT' : 'Elaborazione - Attendere prego'
+            'it_IT' : 'Elaborazione - Attendere prego',
+			'fa_IR' : 'درحال کار - لطفا" صبر کنید'
         },
         'Not a Hotspot' : {
             'de_DE' : 'Kein Hotspot',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ไม่มี hotspot',
             'pt_BR' : 'Não é um Hotspot',
             'da_DK' : 'Ikke et hotspot',
-            'it_IT' : 'Non è un HotSpot'
+            'it_IT' : 'Non è un HotSpot',
+			'fa_IR' : 'هات اسپات نیست'
         },
         'Feedback in pop-up': {
             'de_DE' : 'Feedback im Pop-Up Fenster',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'แสดงหน้าต่าง Pop Up',
             'pt_BR' : 'Resultados em um popup',
             'da_DK' : 'Tilbagemelding i pop-op',
-            'it_IT' : 'Statistiche in pop-up'
+            'it_IT' : 'Statistiche in pop-up',
+			'fa_IR' : 'بازخور در یک پنجره جدید'
         },
         'Usage': {
             'de_DE' : 'Verbraucht',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ใช้งาน',
             'pt_BR' : 'Uso',
             'da_DK' : 'Brug',
-            'it_IT' : 'Utilizzo'
+            'it_IT' : 'Utilizzo',
+			'fa_IR' : 'مصرف'
         },
         'Stats': {
             'de_DE' : 'Statistik',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
             'da_DK' : 'Statistik',
-            'it_IT' : 'Statistiche'
+            'it_IT' : 'Statistiche',
+			'fa_IR' : 'وضعیت'
         },
         'Time Used': {
             'de_DE' : 'Zeit verbraucht',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'เวลาที่ใช้ไป',
             'pt_BR' : 'Tempo de Uso',
             'da_DK' : 'Tid udnyttet',
-            'it_IT' : 'Tempo utilizzato'
+            'it_IT' : 'Tempo utilizzato',
+			'fa_IR' : 'زمان استفاده شده'
         },
         'Data Used': {
             'de_DE' : 'Daten verbraucht',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ข้อมูลที่ใช้ไป',
             'pt_BR' : 'Dados Usados',
             'da_DK' : 'Datamængde udnyttet',
-            'it_IT' : 'Dati utilizzati'
+            'it_IT' : 'Dati utilizzati',
+			'fa_IR' : 'داده استفاده شده'
         },
         'Used': {
             'de_DE' : 'Verbraucht',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ใช้ไป',
             'pt_BR' : 'Usado',
             'da_DK' : 'Benyttet',
-            'it_IT' : 'Usato(i)'
+            'it_IT' : 'Usato(i)',
+			'fa_IR' : 'استفاده شده'
         },
         'Available': {
             'de_DE' : 'Verf&uuml;gbar',
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'คงเหลือใช้ได้',
             'pt_BR' : 'Disponível',
             'da_DK' : 'Tilgængelig',
-            'it_IT' : 'Disponibile'
+            'it_IT' : 'Disponibile',
+			'fa_IR' : 'در دسترس'
         },
         'Are you sure you want to disconnect': {
             'de_DE' : 'Moechten Sie sich wirklich trennen?',
@@ -200,7 +214,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'คุณแน่ใจหรือไม่ที่จะตัดการเชื่อมต่อ?',
             'pt_BR' : 'Você está certo de que deseja desconectar',
             'da_DK' : 'Er du sikker på du ønsker at afbryde',
-            'it_IT' : 'Sicuro di volersi disconnettere'
+            'it_IT' : 'Sicuro di volersi disconnettere',
+			'fa_IR' : 'آیا اطمینان به قطع کردن دارید ؟'
         },
         'Connected': {
             'de_DE' : 'Verbunden',
@@ -213,7 +228,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'เชื่อมต่อแล้ว',
             'pt_BR' : 'Conectado',
             'da_DK' : 'Tilsluttet',
-            'it_IT' : 'Connesso'
+            'it_IT' : 'Connesso',
+			'fa_IR' : 'متصل شد'
         },
         'Session ID': {
             'de_DE' : 'Session ID',
@@ -226,7 +242,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'หมายเลข Session',
             'pt_BR' : 'ID da Sessão',
             'da_DK' : 'Forbindelses ID',
-            'it_IT' : 'ID di sessione'
+            'it_IT' : 'ID di sessione',
+			'fa_IR' : 'Session ID'
         },
         'Not available': {
             'de_DE' : 'Nicht verf&uuml;gbar',
@@ -239,7 +256,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ใช้งานไม่ได้',
             'pt_BR' : 'Não disponível',
             'da_DK' : 'Ikke tilgængelig',
-            'it_IT' : 'Non disponibile'
+            'it_IT' : 'Non disponibile',
+			'fa_IR' : 'در دسترس نیست'
         },
         'Max Session Time': {
             'de_DE' : 'Maximale Verbindungsdauer',
@@ -265,7 +283,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ไม่จำกัด',
             'pt_BR' : 'Ilimitado',
             'da_DK' : 'ubegrænset',
-            'it_IT' : 'illimitato'
+            'it_IT' : 'illimitato',
+			'fa_IR' : 'نا محدود'
         },
         'Max Idle Time': {
             'de_DE' : 'Maximale Leerlaufzeit',
@@ -291,7 +310,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'เวลาเริ่มต้น',
             'pt_BR' : 'Hora de Início',
             'da_DK' : 'Starttid',
-            'it_IT' : 'Ora di inizio'
+            'it_IT' : 'Ora di inizio',
+			'fa_IR' : 'زمان شروع'
         },
         'Session Time':{
             'de_DE' : 'Session Zeit',
@@ -330,7 +350,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ดาวน์โหลด',
             'pt_BR' : 'Download realizado',
             'da_DK' : 'Hentet',
-            'it_IT' : 'Scaricato'
+            'it_IT' : 'Scaricato',
+			'fa_IR' : 'دانلود شده'
         },
         'Uploaded' :{
             'de_DE' : 'Gesendet',
@@ -343,7 +364,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'อัพโหลด',
             'pt_BR' : 'Upload Realizado',
             'da_DK' : 'Sendt',
-            'it_IT' : 'Inviato'
+            'it_IT' : 'Inviato',
+			'fa_IR' : 'آپلود شده'
         },
         'Original URL' :{
             'de_DE' : 'Startseite',
@@ -356,7 +378,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'URL เริ่มใช้',
             'pt_BR' : 'URL Original',
             'da_DK' : 'Original URL',
-            'it_IT' : 'Indirizzo originale'
+            'it_IT' : 'Indirizzo originale',
+			'fa_IR' : 'آدرس اصلی'
         },
         'logout' :{
             'de_DE' : 'abmelden',
@@ -369,7 +392,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ออกจากระบบ',
             'pt_BR' : 'Efetuar logout',
             'da_DK' : 'log ud',
-            'it_IT' : 'Disconnessione'
+            'it_IT' : 'Disconnessione',
+			'fa_IR' : 'خروج'
         },
         'Connect':{
             'de_DE' : 'Verbinden',
@@ -382,7 +406,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'เชื่อมต่อ',
             'pt_BR' : 'Conectar',
             'da_DK' : 'Opret forbindelse',
-            'it_IT' : 'Connetti'
+            'it_IT' : 'Connetti',
+			'fa_IR' : 'اتصال'
         },
         'Disconnect' : {
             'de_DE' : 'Trennen',
@@ -395,7 +420,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ตัดการเชื่อมต่อ',
             'pt_BR' : 'Desconectar',
             'da_DK' : 'Afbryd forbindelse',
-            'it_IT' : 'Disconnetti'
+            'it_IT' : 'Disconnetti',
+			'fa_IR' : 'قطع'
         },
         'Loggin in - Please wait': {
             'de_DE' : 'Anmeldung l&auml;uft - bitte warten...',
@@ -408,7 +434,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'กำลังเข้าสู่ระบบ - กรุณารอ',
             'pt_BR' : 'Efetuando o Login - Por favor aguarde',
             'da_DK' : 'Logger ind - vent venligst',
-            'it_IT' : 'Connessione - Attendere prego'
+            'it_IT' : 'Connessione - Attendere prego',
+			'fa_IR' : 'در حال ورود - لطفا صبر کنید'
         },
         'Bytes': {
             'de_DE' : 'Bytes',
@@ -421,7 +448,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'ไบต์',
             'pt_BR' : 'Bytes',
             'da_DK' : 'Bytes',
-            'it_IT' : 'Bytes'
+            'it_IT' : 'Bytes',
+			'fa_IR' : 'بایت'
         },
         'Kilobytes' : {
             'de_DE' : 'Kilobytes',
@@ -434,7 +462,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'กิโลไบต์',
             'pt_BR' : 'Kilobytes',
             'da_DK' : 'Kilobytes',
-            'it_IT' : 'Kilobytes'
+            'it_IT' : 'Kilobytes',
+			'fa_IR' : 'کیلوبایت'
         },
         'Megabytes' : {
             'de_DE' : 'Megabytes',
@@ -447,7 +476,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'เมกะไบต์',
             'pt_BR' : 'Megabytes',
             'da_DK' : 'Megabytes',
-            'it_IT' : 'Megabytes'
+            'it_IT' : 'Megabytes',
+			'fa_IR' : 'مگابایت'
         },
       'Gigabytes' : {
             'de_DE' : 'Gigabytes',
@@ -460,7 +490,8 @@ if(!dojo._hasResource["translations.Chilli"]){ //_hasResource checks added by bu
             'th_TH' : 'กิกะไบต์',
             'pt_BR' : 'Gigabytes',
             'da_DK' : 'Gigabytes',
-            'it_IT' : 'Gigabytes'
+            'it_IT' : 'Gigabytes',
+			'fa_IR' : 'گیگابایت'
         }
     };
 

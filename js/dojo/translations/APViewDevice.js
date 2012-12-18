@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.APViewDevice"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'เรียกใหม่',
             'pt_BR' : 'Atualizar',
             'da_DK' : 'Genindlæs',
-            'it_IT' : 'Ricarica'
+            'it_IT' : 'Ricarica',
+			'fa_IR' : 'بازنشانی'
            },
         'Device Info': { 
             'de_DE' : 'Ger&auml;te Information',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'ข้อมูลอุปกรณ์',
             'pt_BR' : 'Informação do Dispositivo',
             'da_DK' : 'Enhedsinfo',
-            'it_IT' : 'Informazioni dispositivo'
+            'it_IT' : 'Informazioni dispositivo',
+			'fa_IR' : 'مشخصات دستگاه'
            },
         'Fetched latest Device Info': { 
             'de_DE' : 'Letzte Ger&auml;te Information geholt',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'เรียกดูข้อมูลอุปกรณ์ล่าสุด',
             'pt_BR' : 'Informação do último Dispositivo encontrado',
             'da_DK' : 'Hentet seneste enhedsinfo',
-            'it_IT' : 'Ricaricate ultime informazioni'
+            'it_IT' : 'Ricaricate ultime informazioni',
+			'fa_IR' : 'آخرین وضعیت دستگاه ها'
            },
         'Firmware': { 
             'de_DE' : 'Firmware',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'Firmware',
             'pt_BR' : 'Firmware',
             'da_DK' : 'Firmware',
-            'it_IT' : 'Firmware'
+            'it_IT' : 'Firmware',
+			'fa_IR' : 'میان افزار'
            },
         'Time': { 
             'de_DE' : 'Zeit',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'เวลา',
             'pt_BR' : 'Tempo',
             'da_DK' : 'Tid',
-            'it_IT' : 'Ora'
+            'it_IT' : 'Ora',
+			'fa_IR' : 'زمان'
            },
         'Uptime': { 
             'de_DE' : 'Laufzeit',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'เปิดทำงานมาเป็นเวลา',
             'pt_BR' : 'Tempo de Atividade',
             'da_DK' : 'Oppetid',
-            'it_IT' : 'Tempo di attività'
+            'it_IT' : 'Tempo di attività',
+			'fa_IR' : 'زمان کار'
            },
         'Load': { 
             'de_DE' : 'Laden',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.APViewDevice"]){ //_hasResource checks added
             'th_TH' : 'โหลด',
             'pt_BR' : 'Carga',
             'da_DK' : 'Belastning',
-            'it_IT' : 'Carico'
+            'it_IT' : 'Carico',
+			'fa_IR' : 'بازنشانی'
            }
     };
 

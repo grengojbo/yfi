@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.ASViewNetwork"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'MAC Address',
             'pt_BR' : 'Endereço MAC',
             'da_DK' : 'MAC adresse',
-            'it_IT' : 'Indirizzo MAC'
+            'it_IT' : 'Indirizzo MAC',
+			'fa_IR' : 'MAC Address'
            },
         'IP Address': { 
             'de_DE' : 'IP Adresse',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço IP',
             'da_DK' : 'IP adresse',
-            'it_IT' : 'Indirizzo IP'
+            'it_IT' : 'Indirizzo IP',
+			'fa_IR' : 'IP Address'
            },
         'Subnet Mask': { 
             'de_DE' : 'Subnet Mask',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'Subnet Mask',
             'pt_BR' : 'Máscara de Subrede',
             'da_DK' : 'Subnetmaske',
-            'it_IT' : 'Maschera sottorete'
+            'it_IT' : 'Maschera sottorete',
+			'fa_IR' : 'Subnet Mask'
            },
         'Gateway': { 
             'de_DE' : 'Gateway',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'Gateway',
             'pt_BR' : 'Gateway',
             'da_DK' : 'Gateway',
-            'it_IT' : 'Gateway'
+            'it_IT' : 'Gateway',
+			'fa_IR' : 'Gateway'
            },
         'DNS Server': { 
             'de_DE' : 'DNS Server',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'DNS Server',
             'pt_BR' : 'Servidor DNS',
             'da_DK' : 'DNS server',
-            'it_IT' : 'Server DNS'
+            'it_IT' : 'Server DNS',
+			'fa_IR' : 'DNS Server'
            },
         'Save': { 
             'de_DE' : 'Speichern',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Auto Setup Network updated OK': { 
             'de_DE' : 'Netzwerk-Auto-Setup aktualisiert',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'ปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'Rede Autoconfigurável atualizada OK',
             'da_DK' : 'Automatisk netværksopsætning opdateret!',
-            'it_IT' : 'Configurazione automatica della rete aggiornata'
+            'it_IT' : 'Configurazione automatica della rete aggiornata',
+			'fa_IR' : 'تنظیمات خودکار شبکه با موفقیت بروزرسانی شد'
            },
         'Problems updating Auto Setup Network': { 
             'de_DE' : 'Problem beim aktualisieren Netzwerk-Auto-Setup',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.ASViewNetwork"]){ //_hasResource checks adde
             'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้งเครือข่ายแบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar a Rede Autoconfigurável',
             'da_DK' : 'Problemer med at opdatere den automatiske netværksopsætning',
-            'it_IT' : 'Problemi durante la configurazione automatica della rete'
+            'it_IT' : 'Problemi durante la configurazione automatica della rete',
+			'fa_IR' : 'ایرادات بروزرسانی خودکار شبکه'
            }
     };
 

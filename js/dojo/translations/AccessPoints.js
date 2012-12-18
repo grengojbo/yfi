@@ -1,4 +1,4 @@
-
+﻿
 if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AccessPoints"] = true;
     dojo.provide("translations.AccessPoints");
@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+			'fa_IR' : 'فیلتر'
            },
         'Field': {
             'de_DE' : 'Feld',
@@ -30,7 +31,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+			'fa_IR' : 'فیلد'
            },
         'Name': {
             'de_DE' : 'Name',
@@ -43,7 +45,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ชื่อ',
             'pt_BR' : 'Nome',
             'da_DK' : 'Navn',
-            'it_IT' : 'Nome'
+            'it_IT' : 'Nome',
+			'fa_IR' : 'نام'
            },
         'IP Address': {
             'de_DE' : 'IP Adresse',
@@ -56,7 +59,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'IP Address',
             'pt_BR' : 'Endereço de IP',
             'da_DK' : 'IP adresse',
-            'it_IT' : 'Indirizzo IP'
+            'it_IT' : 'Indirizzo IP',
+			'fa_IR' : 'آدرس IP'
            },
         'Refresh every': {
             'de_DE' : 'alle aktualisieren', 
@@ -69,7 +73,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Genindlæs',
-            'it_IT' : 'Ricarica ogni'
+            'it_IT' : 'Ricarica ogni',
+			'fa_IR' : 'بروز کردن هر'
            },
         'seconds': {
             'de_DE' : 'Sekunden',
@@ -82,7 +87,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
             'da_DK' : 'sekunder',
-            'it_IT' : 'Secondi'
+            'it_IT' : 'Secondi',
+			'fa_IR' : 'ثانیه'
            },
         'Status': {
             'de_DE' : 'Status',
@@ -95,7 +101,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'สถานะ',
             'pt_BR' : 'Estado',
             'da_DK' : 'Status',
-            'it_IT' : 'Stato'
+            'it_IT' : 'Stato',
+			'fa_IR' : 'وضعیت'
            },
         'Wireless Clients': {
             'de_DE' : 'Wireless Clients',
@@ -108,7 +115,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter',
-            'it_IT' : 'Clienti Wireless'
+            'it_IT' : 'Clienti Wireless',
+			'fa_IR' : 'کاربران بیسیم'
            },
         'Rogue Warnings': {
             'de_DE' : 'Vorwarnung',
@@ -121,7 +129,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'คำเตือนเกี่ยวกับการใช้งานผิดปกติ',
             'pt_BR' : 'Avisos',
             'da_DK' : 'Advarsler',
-            'it_IT' : 'Avvertenze'
+            'it_IT' : 'Avvertenze',
+			'fa_IR' : 'ایرادات اساسی'
            },
         'Result count': {
             'de_DE' : 'Summe',
@@ -134,7 +143,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Registros',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultano'
+            'it_IT' : 'Risultano',
+			'fa_IR' : 'مجموع نتایج'
            },
         'Opening detail for': {
             'de_DE' : 'Details &ouml;ffnen f&uuml;r',
@@ -147,7 +157,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'เปิดข้อมูลสำหรับ',
             'pt_BR' : 'Abrindo detalhes de',
             'da_DK' : 'Åbner detaljer for',
-            'it_IT' : 'Apri dettagli per'
+            'it_IT' : 'Apri dettagli per',
+			'fa_IR' : 'باز کردن جزئیات برای'
            },
         'No Selection made': {
             'es_ES' : 'No ha seleccionado nada',
@@ -159,7 +170,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
            },
         'Fetching latest' :{
             'de_DE' : 'Keine Auswahl getroffen',
@@ -172,7 +184,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'ดึงมาล่าสุด',
             'pt_BR' : 'Buscando último',
             'da_DK' : 'Henter seneste',
-            'it_IT' : 'Recupero più recente'
+            'it_IT' : 'Recupero più recente',
+			'fa_IR' : 'گرفتن آخرینها'
            },
         'Access Points' :{
             'de_DE' : 'Zugangspunkte',
@@ -186,7 +199,8 @@ if(!dojo._hasResource["translations.AccessPoints"]){ //_hasResource checks added
             'th_TH' : 'Access Point',
             'pt_BR' : 'Ponto de Acesso',
             'da_DK' : 'Access points',
-            'it_IT' : 'Access Points'
+            'it_IT' : 'Access Points',
+			'fa_IR' : 'اکسس پوینتها'
            }
     };
 

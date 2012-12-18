@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.Actions"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Actions"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.Actions"]){ //_hasResource checks added by b
             'th_TH' : 'เลือก',
             'pt_BR' : 'selecionado',
             'da_DK' : 'Valgt',
-            'it_IT' : 'selezionato'
+            'it_IT' : 'selezionato',
+			'fa_IR' : 'انتخاب شده'
            }
     };
 

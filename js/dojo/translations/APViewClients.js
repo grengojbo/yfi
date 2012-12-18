@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.APViewClients"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'รีเฟรชทุก ๆ',
             'pt_BR' : 'Atualizar a cada',
             'da_DK' : 'Forny hver',
-            'it_IT' : 'Ricarica ogni'
+            'it_IT' : 'Ricarica ogni',
+			'fa_IR' : 'بروز رسانی هر'
            },
         'seconds': { 
             'de_DE' : 'Sekunden',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'วินาที',
             'pt_BR' : 'segundos',
             'da_DK' : 'sekunder',
-            'it_IT' : 'secondi'
+            'it_IT' : 'secondi',
+			'fa_IR' : 'ثانیه'
            },
         'SSID': { 
             'de_DE' : 'SSID',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'SSID',
             'pt_BR' : 'SSID',
             'da_DK' : 'SSID',
-            'it_IT' : 'SSID'
+            'it_IT' : 'SSID',
+			'fa_IR' : 'SSID'
            },
         'MAC': { 
             'de_DE' : 'MAC',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'MAC',
             'pt_BR' : 'MAC',
             'da_DK' : 'MAC',
-            'it_IT' : 'MAC'
+            'it_IT' : 'MAC',
+			'fa_IR' : 'MAC'
            },
         'Channel': { 
             'de_DE' : 'Kanal',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'ช่องสัญญาณ',
             'pt_BR' : 'Canal',
             'da_DK' : 'Kanal',
-            'it_IT' : 'Canale'
+            'it_IT' : 'Canale',
+			'fa_IR' : 'کانال'
            },
         'Rate': { 
             'de_DE' : 'Geschwindigkeit',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'อัตรา',
             'pt_BR' : 'Taxa',
             'da_DK' : 'Hastighed',
-            'it_IT' : 'Velocità'
+            'it_IT' : 'Velocità',
+			'fa_IR' : 'سرعت'
            },
         'Quality': { 
             'de_DE' : 'Qualit&auml;t',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'คุณภาพ',
             'pt_BR' : 'Qualidade',
             'da_DK' : 'Kvalitet',
-            'it_IT' : 'Qualità'
+            'it_IT' : 'Qualità',
+			'fa_IR' : 'کیفیت'
            },
         'Last Seen': { 
             'de_DE' : 'Als letztes gesehen',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'เห็นครั้งล่าสุด',
             'pt_BR' : 'Visto pela última vez',
             'da_DK' : 'Sidst set',
-            'it_IT' : 'Ultimo contatto'
+            'it_IT' : 'Ultimo contatto',
+			'fa_IR' : 'آخرین مشاهده'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Fetching latest': { 
             'de_DE' : 'Hole das letzte',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'ดึงมาล่าสุด',
             'pt_BR' : 'Buscando último',
             'da_DK' : 'Henter seneste',
-            'it_IT' : 'Recupero ultime'
+            'it_IT' : 'Recupero ultime',
+			'fa_IR' : 'گرفتن آخرین ها'
            },
         'Wireless Clients': { 
             'de_DE' : 'Wireless Clients',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.APViewClients"]){ //_hasResource checks adde
             'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter',
-            'it_IT' : 'Clienti wireless'
+            'it_IT' : 'Clienti wireless',
+			'fa_IR' : 'کاربران بی سیم'
            }
     };
 

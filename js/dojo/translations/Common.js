@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Common"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'กรุณายืนยัน',
             'pt_BR' : 'Por favor confirme',
             'da_DK' : 'Bekræft venligst',
-            'it_IT' : 'Si prega di confermare'
+            'it_IT' : 'Si prega di confermare',
+			'fa_IR' : 'لطفا تایید کنید'
         },
         'Please confirm your action' : {
             'de_DE' : 'Bitte Auswahl best&auml;tigen',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'กรุณายืนยัน',
             'pt_BR' : 'Por favor confirme sua ação',
             'da_DK' : 'Bekræft venligst dit valg',
-            'it_IT' : 'Si prega di confermare l\'azione'
+            'it_IT' : 'Si prega di confermare l\'azione',
+			'fa_IR' : 'لطفا عملیات خودرا تایید کنید'
            },
         'Yes' : {
             'de_DE' : 'Ja',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'ใช่',
             'pt_BR' : 'Sim',
             'da_DK' : 'Ja',
-            'it_IT' : 'Si'
+            'it_IT' : 'Si',
+			'fa_IR' : 'بله'
            },
         'No' : {
             'de_DE' : 'Nein',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'ไม่ใช่',
             'pt_BR' : 'Não',
             'da_DK' : 'Nej',
-            'it_IT' : 'No'
+            'it_IT' : 'No',
+			'fa_IR' : 'نه'
            },
         'Under Construction' : {
             'de_DE' : 'In Arbeit',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'กำลังพัฒนา',
             'pt_BR' : 'Em Construção',
             'da_DK' : 'Under opbygning',
-            'it_IT' : 'In costruzione'
+            'it_IT' : 'In costruzione',
+			'fa_IR' : 'در دست ساخت'
            },
         'Component Under Construction' : {
             'de_DE' : 'Komponente in Arbeit',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'ส่วนประกอบกำลังพัฒนา',
             'pt_BR' : 'Componente em Construção',
             'da_DK' : 'Komponent er under opbygning',
-            'it_IT' : 'Componente in costruzione'
+            'it_IT' : 'Componente in costruzione',
+			'fa_IR' : 'کامپوننت در حال ساخت'
            },
         'Working' : {
             'de_DE' : 'Arbeite',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'ทำงาน',
             'pt_BR' : 'Trabalhando',
             'da_DK' : 'Arbejder...',
-            'it_IT' : 'Sto elaborando'
+            'it_IT' : 'Sto elaborando',
+			'fa_IR' : 'درحال کار'
         },
         'Please Wait' : {
             'de_DE' : 'Bitte warten',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.Common"]){ //_hasResource checks added by bu
             'th_TH' : 'กรุณารอ',
             'pt_BR' : 'Por favor aguarde',
             'da_DK' : 'Vent venligst',
-            'it_IT' : 'Si prega di attendere'
+            'it_IT' : 'Si prega di attendere',
+			'fa_IR' : 'صبر کنید'
         }
     };
 

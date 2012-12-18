@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Credits"] = true;
@@ -57,7 +57,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'นาที',
             'pt_BR' : 'Minutos',
             'da_DK' : 'Minutter',
-            'it_IT' : 'Minuti'
+            'it_IT' : 'Minuti',
+			'fa_IR' : 'دقیقه'
            },
         'Hours':{ 
             'de_DE' : 'Stunden',
@@ -70,7 +71,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ชั่วโมง',
             'pt_BR' : 'Horas',
             'da_DK' : 'Timer',
-            'it_IT' : 'Ore'
+            'it_IT' : 'Ore',
+			'fa_IR' : 'ساعت'
            },
         'Days':{ 
             'de_DE' : 'Tage',
@@ -83,7 +85,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'วัน',
             'pt_BR' : 'Dias',
             'da_DK' : 'Dage',
-            'it_IT' : 'Giorni'
+            'it_IT' : 'Giorni',
+			'fa_IR' : 'روز'
            },
         'Filter':{
             'de_DE' : 'Filter',
@@ -96,7 +99,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+			'fa_IR' : 'فیلتر'
            },
         'Field':{ 
             'de_DE' : 'Feld',
@@ -109,7 +113,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+			'fa_IR' : 'فیلد'
            },
         'Id':{ 
             'de_DE' : 'Id',
@@ -135,7 +140,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone',
-            'it_IT' : 'Dominio'
+            'it_IT' : 'Dominio',
+			'fa_IR' : 'حوزه'
            },
         'Expiry date': { 
             'de_DE' : 'Ablaufdatum',
@@ -148,7 +154,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'วันที่หมดอายุ',
             'pt_BR' : 'Data de expiração',
             'da_DK' : 'Udløbsdato',
-            'it_IT' : 'Data di scadenza'
+            'it_IT' : 'Data di scadenza',
+			'fa_IR' : 'تاریخ انقضا'
            },
         'Creator':{ 
             'de_DE' : 'Ersteller',
@@ -161,7 +168,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ผู้สร้าง',
             'pt_BR' : 'Criador',
             'da_DK' : 'Oprettet af',
-            'it_IT' : 'Creato da'
+            'it_IT' : 'Creato da',
+			'fa_IR' : 'ایجاد کننده'
            },
         'User':{ 
             'de_DE' : 'Benutzer',
@@ -174,7 +182,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ผู้ใช้',
             'pt_BR' : 'Usuário',
             'da_DK' : 'Bruger',
-            'it_IT' : 'Utente'
+            'it_IT' : 'Utente',
+			'fa_IR' : 'کاربر'
            },
         'Time':{ 
             'de_DE' : 'Zeit',
@@ -187,7 +196,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เวลา',
             'pt_BR' : 'Tempo',
             'da_DK' : 'Tid',
-            'it_IT' : 'Tempo'
+            'it_IT' : 'Tempo',
+			'fa_IR' : 'زمان'
            },
         'Data':{ 
             'de_DE' : 'Daten',
@@ -200,7 +210,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ข้อมูล',
             'pt_BR' : 'Dados',
             'da_DK' : 'Data',
-            'it_IT' : 'Dati'
+            'it_IT' : 'Dati',
+			'fa_IR' : 'داده'
            },
         'Attached to':{ 
             'de_DE' : 'Angef&uuml;gt zu',
@@ -213,7 +224,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เติมให้กับ',
             'pt_BR' : 'Anexado à',
             'da_DK' : 'Vedhæft til',
-            'it_IT' : 'Collegato a'
+            'it_IT' : 'Collegato a',
+			'fa_IR' : 'الحاق شده به'
            },
         'Result count':{ 
             'de_DE' : 'Summe',
@@ -226,7 +238,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Add Internet Credit':{ 
             'de_DE' : 'Internet Kredit hinzuf&uuml;gen',
@@ -239,7 +252,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เพิ่มเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Adicionar Crédito de Internet',
             'da_DK' : 'Tilføj Internet kredit',
-            'it_IT' : 'Aggiungi credito Intetrnet'
+            'it_IT' : 'Aggiungi credito Intetrnet',
+			'fa_IR' : 'افزودن اعتبار اینترنت'
            },
         'Unit':{ 
             'de_DE' : 'Einheit',
@@ -252,7 +266,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'หน่วย',
             'pt_BR' : 'Unidade',
             'da_DK' : 'Enhed',
-            'it_IT' : 'Unità'
+            'it_IT' : 'Unità',
+			'fa_IR' : 'واحد'
            },
         'Save':{ 
             'de_DE' : 'Speichern',
@@ -265,7 +280,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Internet Credit added OK':{ 
             'de_DE' : 'Internet Kredit hinzugef&uuml;gt',
@@ -278,7 +294,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เพิ่มเครดิตอินเตอร์เน็ตเรียบร้อยแล้ว',
             'pt_BR' : 'Crédito de Internet adicionado OK',
             'da_DK' : 'Internet kredit tilføjet!',
-            'it_IT' : 'Credito Internet aggiunto!'
+            'it_IT' : 'Credito Internet aggiunto!',
+			'fa_IR' : 'اعتبار اینترنت با موفقیت انجام شد'
             },
         'Problems adding Internet Credit':{ 
             'de_DE' : 'Probleme beim hinzuf&uuml;gen Internet Kredit',
@@ -291,7 +308,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'มีปัญหาในการเพิ่มเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Problemas ao adicionar Créditos de Internet',
             'da_DK' : 'Problemer med at vedhæfte Internet kredit',
-            'it_IT' : 'Problemi durante l\'aggiunta del credito Internet'
+            'it_IT' : 'Problemi durante l\'aggiunta del credito Internet',
+			'fa_IR' : 'ایرادات اضافه کردن اعتبار'
            },
         'Edit of Internet Credit limited to one':{ 
             'de_DE' : 'Aktualisierung von Internet Kredit auf 1 limitiert',
@@ -304,7 +322,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'แก้ไขเครดิตอินเตอร์เน็ตได้ทีละหนึ่งรายการ',
             'pt_BR' : 'Edição do Crédito de Internet limitado à um',
             'da_DK' : 'Kun én Internet kredit kan redigeres af gangen',
-            'it_IT' : 'Modificare un credito Internet per volta'
+            'it_IT' : 'Modificare un credito Internet per volta',
+			'fa_IR' : 'ویرایش اعتبار اینترنت محدود به یک انتخاب است'
         },
         'No Selection made':{ 
             'de_DE' : 'Keine Auswahl getroffen',
@@ -317,7 +336,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی صورت نگرفته'
            },
         'Attachment of Internet Credit limited to one':{ 
             'de_DE' : 'Anf&uuml;gen von Internet Kredit auf 1 limitiert',
@@ -330,7 +350,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เติมเครดิตอินเตอร์เน็ตได้ทีละหนึ่งรายการเท่านั้น',
             'pt_BR' : 'Anexar o Crédito de Internet limitado à um',
             'da_DK' : 'Kun én Internet kredit kan vedhæftes',
-            'it_IT' : 'Collegare un credito internet alla volta'
+            'it_IT' : 'Collegare un credito internet alla volta',
+			'fa_IR' : 'الحاق اعتبار اینترنت محدود به یک انتخاب میباشد'
         },
         'Edit Internet Credit':{ 
             'de_DE' : 'Internet Kredit bearbeiten',
@@ -343,7 +364,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'แก้ไขเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Editar Crédito de Internet',
             'da_DK' : 'Redigér Internet kredit',
-            'it_IT' : 'Modifica credito Internet'
+            'it_IT' : 'Modifica credito Internet',
+			'fa_IR' : 'ویرایش اعتبار اینترنت'
            },
         'Internet Credit attached OK':{ 
             'de_DE' : 'Internet Kredit hinzugef&uuml;gt',
@@ -356,7 +378,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เติมเครดิตอินเตอร์เน็ตเรียบร้อยแล้ว',
             'pt_BR' : 'Crédito de Internet anexado OK',
             'da_DK' : 'Internet kredit vedhæftet!',
-            'it_IT' : 'Credito internet collegato correttamente!'
+            'it_IT' : 'Credito internet collegato correttamente!',
+			'fa_IR' : 'اعتباراینترنت با موفقیت الحاق شد'
            },
         'Problems attaching Internet Credit':{ 
             'de_DE' : 'Problem beim hinzuf&uuml;gen Internet Kredit',
@@ -369,7 +392,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'มีปัญหาในการเติมเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Problemas ao adicionar Crédito de Internet',
             'da_DK' : 'Problemer med at vedhæfte Internet kredit',
-            'it_IT' : 'Problemi durante il collegamento del credito Internet'
+            'it_IT' : 'Problemi durante il collegamento del credito Internet',
+			'fa_IR' : 'ایرادات الحاق اعتبار اینترنت'
            },
         'Attach Internet Credit':{ 
             'de_DE' : 'Internet Kredit anf&uuml;gen',
@@ -382,7 +406,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'เติมเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Anexar Crédito de Internet',
             'da_DK' : 'Vedhæft Internet kredit',
-            'it_IT' : 'Collega credito Internet'
+            'it_IT' : 'Collega credito Internet',
+			'fa_IR' : 'الحاق اعتبار اینترنت'
            },
         'Prepaid user' :{ 
             'de_DE' : 'Prepaid Benutzer',
@@ -395,7 +420,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ผู้ใช้ระบบเติมเงิน',
             'pt_BR' : 'Usuário Pré-Pago',
             'da_DK' : 'Forudbetalende bruger',
-            'it_IT' : 'Utenti prepagati'
+            'it_IT' : 'Utenti prepagati',
+			'fa_IR' : 'کاربر پیش پرداخت'
            },
         'Deleting Internet Credit(s)':{ 
             'de_DE' : 'Internet Kredit(e) l&ouml;schen',
@@ -408,7 +434,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'ลบเครดิตอินเตอร์เน็ต',
             'pt_BR' : 'Deletando Crédito(s) de Internet',
             'da_DK' : 'Sletter Internet kredit(ter)',
-            'it_IT' : 'Eliminazione del(i) credito(i) Internet'
+            'it_IT' : 'Eliminazione del(i) credito(i) Internet',
+			'fa_IR' : 'پاک کردن اعتبار اینترنت'
            },
         'Complete':{ 
             'de_DE' : 'Fertig',
@@ -421,7 +448,8 @@ if(!dojo._hasResource["translations.Credits"]){ //_hasResource checks added by b
             'th_TH' : 'สมบูรณ์',
             'pt_BR' : 'Completo',
             'da_DK' : 'Afsluttet',
-            'it_IT' : 'Completo'
+            'it_IT' : 'Completo',
+			'fa_IR' : 'کامل'
            }
 
     };

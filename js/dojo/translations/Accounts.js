@@ -1,4 +1,4 @@
-if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
+﻿if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.Accounts"] = true;
     dojo.provide("translations.Accounts");
 
@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ตัวกรอง',
             'pt_BR' : 'Filtro',
             'da_DK' : 'Filter',
-            'it_IT' : 'Filtro'
+            'it_IT' : 'Filtro',
+			'fa_IR' : 'فیلتر'
            },
          'Field': {
             'de_DE' : 'Feld', 
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ฟิลด์',
             'pt_BR' : 'Campo',
             'da_DK' : 'Felt',
-            'it_IT' : 'Campo'
+            'it_IT' : 'Campo',
+			'fa_IR' : 'فیلد'
            },
           'Username': { 
             'de_DE' : 'Benutzername',
@@ -42,7 +44,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
             'da_DK' : 'Brugernavn',
-            'it_IT' : 'Nome utente'
+            'it_IT' : 'Nome utente',
+			'fa_IR' : 'نام کاربری'
            },
         'Realm': {
             'de_DE' : 'Standort',
@@ -55,7 +58,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'เขตพื้นที่',
             'pt_BR' : 'Zona',
             'da_DK' : 'Hotspot zone',
-            'it_IT' : 'Dominio'
+            'it_IT' : 'Dominio',
+			'fa_IR' : 'حوزه'
            },
         'Latest Start Date': {
             'de_DE' : 'Spaetestes Startdatum',
@@ -68,7 +72,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันเริ่มต้นครั้งล่าสุด',
             'pt_BR' : 'Última Data de Início',
             'da_DK' : 'Seneste ibrugtagningsdato',
-            'it_IT' : 'Ultima data di inizio'
+            'it_IT' : 'Ultima data di inizio',
+			'fa_IR' : 'آخرین تاریخ شروع'
            },
         'Latest End Date': {
             'de_DE' : 'Spaetestets Enddatum', 
@@ -81,7 +86,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันสิ้นสุดครั้งล่าสุด',
             'pt_BR' : 'Última Data do Final',
             'da_DK' : 'Seneste slutdato',
-            'it_IT' : 'Ultima data di fine'
+            'it_IT' : 'Ultima data di fine',
+			'fa_IR' : 'آخرین تاریخ پایان'
            },
         'Billing Plan': { 
             'de_DE' : 'Rechungsplan',
@@ -94,7 +100,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'แผนการเรียกเก็บเงิน',
             'pt_BR' : 'Plano de Bilhetagem',
             'da_DK' : 'Faktureringsplan',
-            'it_IT' : 'Piano di fatturazione'
+            'it_IT' : 'Piano di fatturazione',
+			'fa_IR' : 'برنامه مالی'
            },
          'Outstanding': { 
             'de_DE' : 'Ausstaendig',
@@ -107,7 +114,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ค้างชำระ',
             'pt_BR' : 'Pendente',
             'da_DK' : 'Udestående',
-            'it_IT' : 'In sospeso'
+            'it_IT' : 'In sospeso',
+			'fa_IR' : 'Outstanding'
            },
         'Paid': { 
             'de_DE' : 'Bezahlt',
@@ -120,7 +128,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'จ่ายเงิน',
             'pt_BR' : 'Pago',
             'da_DK' : 'Betalt',
-            'it_IT' : 'Paga'
+            'it_IT' : 'Paga',
+			'fa_IR' : 'پرداخت شده'
            },
         'Result count': { 
             'de_DE' : 'Summe',
@@ -133,7 +142,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
          'Account detail for': {
             'de_DE' : 'Kontodetails f&uuml;r',
@@ -146,7 +156,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'รายละเอียดบัญชีสำหรับ',
             'pt_BR' : 'Detalhe da conta de',
             'da_DK' : 'Kontodetaljer for',
-            'it_IT' : 'Dettagi acconto per'
+            'it_IT' : 'Dettagi acconto per',
+			'fa_IR' : 'جزییات کاربری برای'
            },
         'No Selection made': {
             'de_DE' : 'Letzte Rechnung loeschen',
@@ -160,7 +171,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
            },
         'Delete Last Invoice': {
             'de_DE' : 'Letzte Rechnung loeschen',
@@ -173,7 +185,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ลบใบกำกับสินค้า/ใบแจ้งหนี้/ใบแจ้งหนี้ล่าสุด',
             'pt_BR' : 'Deletar Última Fatura',
             'da_DK' : 'Slet seneste opgørelse',
-            'it_IT' : 'Cancella ultima fattura'
+            'it_IT' : 'Cancella ultima fattura',
+			'fa_IR' : 'پاک کردن آخرین فاکتور'
            },
         'Send e-Mail to users': {
             'de_DE' : 'E-Mail an Benutzer senden',
@@ -186,7 +199,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ส่งอีเมลถึงผู้ใช้',
             'pt_BR' : 'Enviar email aos usuários',
             'da_DK' : 'Send e-mail til brugere',
-            'it_IT' : 'Invia e-Mail agli utenti'
+            'it_IT' : 'Invia e-Mail agli utenti',
+			'fa_IR' : 'ارسال ایمیل به کاربران'
            },
         'Subject': {
             'de_DE' : 'Betreff',
@@ -199,7 +213,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'หัวเรื่อง',
             'pt_BR' : 'Assunto',
             'da_DK' : 'Emne',
-            'it_IT' : 'Oggetto'
+            'it_IT' : 'Oggetto',
+			'fa_IR' : 'موضوع'
            },
         'Message': {
             'de_DE' : 'Nachricht',
@@ -212,7 +227,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ข้อความ',
             'pt_BR' : 'Mensagem',
             'da_DK' : 'Besked',
-            'it_IT' : 'Messaggio'
+            'it_IT' : 'Messaggio',
+			'fa_IR' : 'پیام'
            },
         'Attach Invoice': {
             'de_DE' : 'Rechnung anfuegen',
@@ -225,7 +241,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'แนบใบกำกับสินค้า/ใบแจ้งหนี้/ใบแจ้งหนี้',
             'pt_BR' : 'Anexar Fatura',
             'da_DK' : 'Vedhæft opgørelse',
-            'it_IT' : 'Allega fattura'
+            'it_IT' : 'Allega fattura',
+			'fa_IR' : 'الحاق فاکتور'
            },
          'OK': {
             'de_DE' : 'OK',
@@ -238,7 +255,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
             'da_DK' : 'OK',
-            'it_IT' : 'OK'
+            'it_IT' : 'OK',
+			'fa_IR' : 'تایید'
            },
         'e-Mail send OK': {
             'de_DE' : 'E-Mail gesendet',
@@ -251,7 +269,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!',
-            'it_IT' : 'Invio e-Mail eseguito'
+            'it_IT' : 'Invio e-Mail eseguito',
+			'fa_IR' : 'ایمیل ارسال شد'
            },
         'Amount': {
             'de_DE' : 'Betrag',
@@ -264,8 +283,9 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'จำนวน',
             'pt_BR' : 'Quantia',
             'da_DK' : 'Beløb',
-            'it_IT' : 'Totale'
-           },
+            'it_IT' : 'Totale',
+			'fa_IR' : 'مقدار'
+			},
         'All outstanding': {
             'de_DE' : 'Betrag ausstaendig',
             'es_ES' : 'Todos los pendientes',
@@ -277,7 +297,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ยอดค้างชำระ',
             'pt_BR' : 'Todos os pendentes',
             'da_DK' : 'Samlet udestående',
-            'it_IT' : 'Tutte in sospeso'
+            'it_IT' : 'Tutte in sospeso',
+			'fa_IR' : 'All outstanding'
            },
         'New payment(s) added': {
             'de_DE' : 'Neue Zahlung(en) hinzugefuegt',
@@ -290,7 +311,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'เพิ่มการชำระเงินแล้ว',
             'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)',
             'da_DK' : 'Ny(e) betaling(er) tilføjet',
-            'it_IT' : 'Nuovo pagamento(i) aggiunto(i)'
+            'it_IT' : 'Nuovo pagamento(i) aggiunto(i)',
+			'fa_IR' : 'پرداختهای جدید اضافه شدند'
            },
         'Problems adding new payments': {
             'de_DE' : 'Probleme beim hinzufuegen von neuen Zahlung(en)',
@@ -303,7 +325,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงิน',
             'pt_BR' : 'Problemas ao adicionar novos pagamentos',
             'da_DK' : 'Problemer med at registrere nye betalinger',
-            'it_IT' : 'Problemi in aggiunta nuovi pagamenti'
+            'it_IT' : 'Problemi in aggiunta nuovi pagamenti',
+			'fa_IR' : 'ایرادات اضافه کردن پرداختهای جدید'
            },
         'New Payment' : {
             'de_DE' : 'Neue Zahlung',
@@ -316,7 +339,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'การชำระเงินใหม่',
             'pt_BR' : 'Novo Pagamento',
             'da_DK' : 'Ny betaling',
-            'it_IT' : 'Nuovo pagamento'
+            'it_IT' : 'Nuovo pagamento',
+			'fa_IR' : 'پرداخت جدید'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -329,7 +353,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Create New Set of Invoices' : {
             'de_DE' : 'Neue Rechnungsformulare hinzufuegen',
@@ -342,7 +367,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'สร้างชุดของใบกำกับสินค้า/ใบแจ้งหนี้',
             'pt_BR' : 'Criar Novo Conjunto de Faturas',
             'da_DK' : 'Generér nyt sæt opgørelser',
-            'it_IT' : 'Crea un nuovo set di fatture'
+            'it_IT' : 'Crea un nuovo set di fatture',
+			'fa_IR' : 'ایجاد سری جدید فاکتور'
            },
         'Start Date' : {
             'de_DE' : 'Startdatum',
@@ -355,7 +381,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันเริ่มต้น',
             'pt_BR' : 'Data de Início',
             'da_DK' : 'Startdato',
-            'it_IT' : 'Data inizio'
+            'it_IT' : 'Data inizio',
+			'fa_IR' : 'تاریخ شروع'
            },
         'End Date' : {
             'de_DE' : 'Enddatum',
@@ -368,7 +395,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันสิ้นสุด',
             'pt_BR' : 'Data do Final',
             'da_DK' : 'Slutdato',
-            'it_IT' : 'Data fine'
+            'it_IT' : 'Data fine',
+			'fa_IR' : 'تاریخ پایان'
            },
          'End date must be AFTER Start date' : {
             'de_DE' : 'Enddatum muß HINTER dem Startdatum liegen',
@@ -381,7 +409,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันสิ้นสุดต้องอยู่หลังจากวันเริ่มต้น',
             'pt_BR' : 'A data do final deve ser POSTERIOR à data de início',
             'da_DK' : 'Slutdatoen skal ligge SENERE end startdatoen',
-            'it_IT' : 'La data di fine deve essere successiva a quella di inizio'
+            'it_IT' : 'La data di fine deve essere successiva a quella di inizio',
+			'fa_IR' : 'تاریخ پایان باید بعد از تاریخ شروع باشد'
            },
         'Start Date must be AFTER Latest End Date': {
             'de_DE' : 'Startdatum muß NACH dem laengsten Enddatum liegen',
@@ -394,7 +423,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'วันเริ่มต้นต้องหลังจากวันสิ้นสุดของครั้งก่อน',
             'pt_BR' : 'A data de início deve ser POSTEIOR à data do final',
             'da_DK' : 'Startdatoen skal ligge SENERE end seneste slutdato',
-            'it_IT' : 'La data di inizio deve essere successiva all\'ultima data di fine'
+            'it_IT' : 'La data di inizio deve essere successiva all\'ultima data di fine',
+			'fa_IR' : 'تاریخ شروع باید بعد از آخرین تاریخ پایان باشد'
            },
         'New Set Complete': {
             'de_DE' : 'Neue Formulare hinzugefuegt',
@@ -407,7 +437,8 @@ if(!dojo._hasResource["translations.Accounts"]){ //_hasResource checks added by 
             'th_TH' : 'ชุดใหม่เสร็จสมบูรณ์',
             'pt_BR' : 'Novo Conjunto Completado',
             'da_DK' : 'Nyt sæt genereret!',
-            'it_IT' : 'Nuovo set completato'
+            'it_IT' : 'Nuovo set completato',
+			'fa_IR' : 'سری جدید کامل شد'
            }
     };
 

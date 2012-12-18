@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AccountViewPayments"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'จำนวนผลลัพธ์',
             'pt_BR' : 'Total',
             'da_DK' : 'Antal',
-            'it_IT' : 'Risultato'
+            'it_IT' : 'Risultato',
+			'fa_IR' : 'تعداد نتایج'
            },
         'Date': { 
             'de_DE' : 'Datum',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'วันที่',
             'pt_BR' : 'Data',
             'da_DK' : 'Dato',
-            'it_IT' : 'Data'
+            'it_IT' : 'Data',
+			'fa_IR' : 'تاریخ'
            },
         'Amount': { 
             'de_DE' : 'Betrag',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'จำนวน',
             'pt_BR' : 'Quantia',
             'da_DK' : 'Beløb',
-            'it_IT' : 'Importo'
+            'it_IT' : 'Importo',
+			'fa_IR' : 'مقدار'
            },
         'Total': { 
             'de_DE' : 'Summe',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ทั้งหมด',
             'pt_BR' : 'Total',
             'da_DK' : 'I alt',
-            'it_IT' : 'Totale'
+            'it_IT' : 'Totale',
+			'fa_IR' : 'مجموع'
            },
         'Sum of Invoices': { 
             'de_DE' : 'Rechungssumme',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ใบกำกับสินค้า/ใบแจ้งหนี้ทั้งหมด',
             'pt_BR' : 'Soma das Faturas',
             'da_DK' : 'Samlet opgørelse',
-            'it_IT' : 'Totale fattura'
+            'it_IT' : 'Totale fattura',
+			'fa_IR' : 'مجموع فاکتورها'
            },
         'Sum of Payments': { 
             'de_DE' : 'Summe Zahlungen',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'การชำระเงินทั้งหมด',
             'pt_BR' : 'Soma dos Pagamentos',
             'da_DK' : 'Samlede betalinger',
-            'it_IT' : 'Totale pagamenti'
+            'it_IT' : 'Totale pagamenti',
+			'fa_IR' : 'مجموع پرداختی'
            },
         'Outstanding' : { 
             'de_DE' : 'Ausstehend',
@@ -96,7 +102,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ค้างชำระ',
             'pt_BR' : 'Pendentes',
             'da_DK' : 'Udestående',
-            'it_IT' : 'In sospeso'
+            'it_IT' : 'In sospeso',
+			'fa_IR' : 'Outstanding'
            },
         'No Selection made': {
             'de_DE' : 'Keine Auswahl getroffen',
@@ -109,7 +116,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ไม่มีการเลือก',
             'pt_BR' : 'Não há nada selecionado',
             'da_DK' : 'Intet valgt',
-            'it_IT' : 'Nessuna selezione'
+            'it_IT' : 'Nessuna selezione',
+			'fa_IR' : 'هیچ انتخابی انجام نشده'
            },
         'Save' : {
             'de_DE' : 'Speichern',
@@ -122,7 +130,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Delete Payment(s)': {
             'de_DE' : 'Zahlung(en) loeschen',
@@ -135,7 +144,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ลบการชำระเงิน',
             'pt_BR' : 'Deletar Pagamento(s)',
             'da_DK' : 'Slet betaling(er)',
-            'it_IT' : 'Elimina pagamento(i)'
+            'it_IT' : 'Elimina pagamento(i)',
+			'fa_IR' : 'حذف پرداختی ها'
            },
         'New Payment' : {
             'de_DE' : 'Neue Zahlung',
@@ -148,7 +158,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'เพิ่มการชำระเงิน',
             'pt_BR' : 'Novo Pagamento',
             'da_DK' : 'Ny betaling',
-            'it_IT' : 'Nuovo pagamento'
+            'it_IT' : 'Nuovo pagamento',
+			'fa_IR' : 'پرداختی جدید'
            },
         'New payment(s) added': {
             'de_DE' : 'Neue Zahlung(en) hinzugef&uuml;gt',
@@ -161,7 +172,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'เพิ่มการชำระเงินแล้ว',
             'pt_BR' : 'Novo(s) pagamento(s) adicionado(s)',
             'da_DK' : 'Ny betaling tilføjet',
-            'it_IT' : 'Nuovo(i) pagamento(i)'
+            'it_IT' : 'Nuovo(i) pagamento(i)',
+			'fa_IR' : 'پرداختی جدید'
            },
        'Send e-Mail to user':{
             'de_DE' : 'E-Mail an Benutzer senden',
@@ -174,7 +186,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ส่งอีเมลหาผู้ใช้',
             'pt_BR' : 'Enviar email ao usuário',
             'da_DK' : 'Send e-mail til bruger',
-            'it_IT' : 'Invia email all\'utente'
+            'it_IT' : 'Invia email all\'utente',
+			'fa_IR' : 'ارسال ایمیل به کاربر'
            },
         'Subject': {
             'de_DE' : 'Betreff',
@@ -187,7 +200,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'หัวเรื่อง',
             'pt_BR' : 'Assunto',
             'da_DK' : 'Emne',
-            'it_IT' : 'Oggetto'
+            'it_IT' : 'Oggetto',
+			'fa_IR' : 'موضوع'
            },
         'Message': {
             'de_DE' : 'Nachricht',
@@ -200,7 +214,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ข้อความ',
             'pt_BR' : 'Mensagem',
             'da_DK' : 'Besked',
-            'it_IT' : 'Messaggio'
+            'it_IT' : 'Messaggio',
+			'fa_IR' : 'پیغام'
            },
         'Attach Payment(s)': {
             'de_DE' : 'Zahlung(en) hinzuf&uuml;gen',
@@ -213,7 +228,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'แนบการชำระเงิน',
             'pt_BR' : 'Anexar Pagamento(s)',
             'da_DK' : 'Vedhæft betaling(er)',
-            'it_IT' : 'Allega pagamento(i)'
+            'it_IT' : 'Allega pagamento(i)',
+			'fa_IR' : 'الحاق پرداختی ها'
            },
         'OK': {
             'de_DE' : 'OK',
@@ -226,7 +242,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
             'da_DK' : 'OK',
-            'it_IT' : 'OK'
+            'it_IT' : 'OK',
+			'fa_IR' : 'تایید'
            },
         'e-Mail send OK': {
             'de_DE' : 'E-Mail versendet',
@@ -239,7 +256,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'ส่งอีเมลเรียบร้อย',
             'pt_BR' : 'Email enviado OK',
             'da_DK' : 'E-mail sendt!',
-            'it_IT' : 'Email inviata correttamente!'
+            'it_IT' : 'Email inviata correttamente!',
+			'fa_IR' : 'ایمیل با موفقیت ارسال شد'
            },
         'Problems adding new payments': {
             'de_DE' : 'Probleme beim hinzuf&uuml;gen von Zahlungen',
@@ -252,7 +270,8 @@ if(!dojo._hasResource["translations.AccountViewInvoices"]){ //_hasResource check
             'th_TH' : 'มีปัญหาในการเพิ่มการชำระเงิน',
             'pt_BR' : 'Problemas ao adicionar novos pagamentos',
             'da_DK' : 'Problemer med at tilføje nye betalinger',
-            'it_IT' : 'Problemi nell aggiunta di nuovi pagamenti'
+            'it_IT' : 'Problemi nell aggiunta di nuovi pagamenti',
+			'fa_IR' : 'ایرادات افزودن پرداختی جدید'
            }
     };
 

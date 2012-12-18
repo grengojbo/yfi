@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.ASViewVpn"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'VPN Server',
             'pt_BR' : 'Servidor VPN',
             'da_DK' : 'VPN server',
-            'it_IT' : 'Server VPN'
+            'it_IT' : 'Server VPN',
+			'fa_IR' : 'VPN Server'
            },
         'Tunnel IP': { 
             'de_DE' : 'Tunnel IP',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'Tunnel IP',
             'pt_BR' : 'Túnel IP',
             'da_DK' : 'IP tunnel',
-            'it_IT' : 'Tunnel IP'
+            'it_IT' : 'Tunnel IP',
+			'fa_IR' : 'Tunnel IP'
            },
         'Tunnel Mask': { 
             'de_DE' : 'Tunnel Netmask',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'Tunnel Mask',
             'pt_BR' : 'Máscara do Túnel',
             'da_DK' : 'Tunnelmaske',
-            'it_IT' : 'Maschera Tunnel'
+            'it_IT' : 'Maschera Tunnel',
+			'fa_IR' : 'Tunnel Mask'
            },
         'Tunnel Broadcast': { 
             'de_DE' : 'Tunnel Broadcast',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'Tunnel Broadcast',
             'pt_BR' : 'Broadcast do Túnel',
             'da_DK' : 'Tunnel broadcast',
-            'it_IT' : 'Broadcast tunnel'
+            'it_IT' : 'Broadcast tunnel',
+			'fa_IR' : 'Tunnel Broadcast'
            },
         'CA': { 
             'de_DE' : 'CA',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'CA',
             'pt_BR' : 'CA',
             'da_DK' : 'Certifikat autoritet',
-            'it_IT' : 'Autorità certificati'
+            'it_IT' : 'Autorità certificati',
+			'fa_IR' : 'CA'
            },
         'Cert': { 
             'de_DE' : 'Zertifikat',
@@ -109,7 +114,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Auto Setup VPN updated OK': { 
             'de_DE' : 'VPN-Auto-Setup aktualisiert',
@@ -122,7 +128,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'ปรับปรุงข้อมูลติดตั้ง VPN แบบอัตโนมัติเรียบร้อยแล้ว',
             'pt_BR' : 'VPN Autoconfigurável atualizada OK',
             'da_DK' : 'Automatisk VPN-opsætning opdateret!',
-            'it_IT' : 'Aggiornamento automatic VPN aggiornato'
+            'it_IT' : 'Aggiornamento automatic VPN aggiornato',
+			'fa_IR' : 'خود تنظیمی vpn با موفقیت بروز شدن'
            },
         'Problems updating Auto Setup VPN': { 
             'de_DE' : 'Problem beim aktualisieren VPN-Auto-Setup',
@@ -135,7 +142,8 @@ if(!dojo._hasResource["translations.ASViewVpn"]){ //_hasResource checks added by
             'th_TH' : 'มีปัญหาในการปรับปรุงข้อมูลติดตั้ง VPN แบบอัตโนมัติ',
             'pt_BR' : 'Problemas ao atualizar a VPN Autoconfigurável',
             'da_DK' : 'Problemer med at opdatere den automatiske VPN-opsætning',
-            'it_IT' : 'Problemi durante l\'aggiornamento automatico della VPN'
+            'it_IT' : 'Problemi durante l\'aggiornamento automatico della VPN',
+			'fa_IR' : 'ایرادات حین راه اندازی تنظیمات خودکار vpn'
            }
     };
 

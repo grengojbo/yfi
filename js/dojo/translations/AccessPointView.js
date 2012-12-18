@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.AccessPointView"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'th_TH' : 'ข้อมูลอุปกรณ์',
             'pt_BR' : 'Informação do Dispositivo',
             'da_DK' : 'Information om enheden',
-            'it_IT' : 'Informazioni dispositivo'
+            'it_IT' : 'Informazioni dispositivo',
+			'fa_IR' : 'اطلاعات دستگاه'
            },
         'Wireless Clients': {
             'de_DE' : 'Wireless Clients',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'th_TH' : 'ลูกข่ายระบบไร้สาย',
             'pt_BR' : 'Clientes Wireless',
             'da_DK' : 'Trådløse klienter',
-            'it_IT' : 'Clienti wireless'
+            'it_IT' : 'Clienti wireless',
+			'fa_IR' : 'کاربران بیسیم'
            },
         'Nearby Devices': { 
             'de_DE' : 'Ger&auml;te in Reichweite',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.AccessPointView"]){ //_hasResource checks ad
             'th_TH' : 'Nearby Devices',
             'pt_BR' : 'Dispositivos Próximos',
             'da_DK' : 'Enheder i nærheden',
-            'it_IT' : 'Dispositivi vicini'
+            'it_IT' : 'Dispositivi vicini',
+			'fa_IR' : 'دستگاههای نزدیک'
            }
     };
 

@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.LoginLight"] = true;
@@ -18,7 +18,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'ชื่อผู้ใช้',
             'pt_BR' : 'Nome do Usuário',
             'da_DK' : 'Brugernavn',
-            'it_IT' : 'Nome utente'
+            'it_IT' : 'Nome utente',
+			'fa_IR' : 'نام کاربری'
            },
         'Password': { 
             'de_DE' : 'Passwort',
@@ -31,7 +32,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'รหัสผ่าน',
             'pt_BR' : 'Senha',
             'da_DK' : 'Adgangskode',
-            'it_IT' : 'Password'
+            'it_IT' : 'Password',
+			'fa_IR' : 'گذرواژه'
            },
         'Language': { 
             'de_DE' : 'Sprache',
@@ -44,7 +46,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'ภาษา',
             'pt_BR' : 'Idioma',
             'da_DK' : 'Sprog',
-            'it_IT' : 'Lingua'
+            'it_IT' : 'Lingua',
+			'fa_IR' : 'زبان'
            },
         'Clear': { 
             'de_DE' : 'Leeren',
@@ -57,7 +60,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'ลบทั้งหมด',
             'pt_BR' : 'Limpar',
             'da_DK' : 'Slet',
-            'it_IT' : 'Cancella'
+            'it_IT' : 'Cancella',
+			'fa_IR' : 'پاک کردن'
            },
         'OK': { 
             'de_DE' : 'OK',
@@ -70,7 +74,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'ตกลง',
             'pt_BR' : 'OK',
             'da_DK' : 'OK',
-            'it_IT' : 'OK'
+            'it_IT' : 'OK',
+			'fa_IR' : 'تایید'
            },
         'Authentication Failed' :{ 
             'de_DE' : 'Authentifizierung fehlgeschlagen',
@@ -83,7 +88,8 @@ if(!dojo._hasResource["translations.LoginLight"]){ //_hasResource checks added b
             'th_TH' : 'การยืนยันตัวตนล้มเหลว',
             'pt_BR' : 'Falha na Autenticação',
             'da_DK' : 'Godkendelse slået fejl',
-            'it_IT' : 'Autenticazione fallita'
+            'it_IT' : 'Autenticazione fallita',
+			'fa_IR' : 'اعتبارسنجی ناموفق بود'
            }
     };
 

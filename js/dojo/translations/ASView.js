@@ -1,4 +1,4 @@
-
+﻿
 
 if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["tranlations.ASView"] = true;
@@ -17,7 +17,8 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'id_ID' : 'Jaringan',
             'th_TH' : 'เครือข่าย',
             'da_DK' : 'Netværk',
-            'it_IT' : 'Rete'
+            'it_IT' : 'Rete',
+			'fa_IR' : 'شبکه'
            },
  
         'Wireless' : {
@@ -30,7 +31,8 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'id_ID' : 'Wireless',
             'th_TH' : 'ระบบไร้สาย',
             'da_DK' : 'Trådløs',
-            'it_IT' : 'Wireless'
+            'it_IT' : 'Wireless',
+			'fa_IR' : 'بیسبم'
            },
         'OpenVPN' : {
             'de_DE' : 'OpenVPN',
@@ -42,7 +44,8 @@ if(!dojo._hasResource["translations.ASView"]){ //_hasResource checks added by bu
             'id_ID' : 'OpenVPN',
             'th_TH' : 'OpenVPN',
             'da_DK' : 'OpenVPN',
-            'it_IT' : 'OpenVPN'
+            'it_IT' : 'OpenVPN',
+			'fa_IR' : 'OpenVPN'
            }
     };
 

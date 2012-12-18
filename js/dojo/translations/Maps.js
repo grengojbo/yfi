@@ -1,4 +1,4 @@
-
+﻿
 if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by build. Do not use _hasResource directly in your code.
     dojo._hasResource["translations.Maps"] = true;
     dojo.provide("translations.Maps");
@@ -16,7 +16,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'ปกติ',
             'pt_BR' : 'Normal',
             'da_DK' : 'Normal',
-            'it_IT' : 'Normale'
+            'it_IT' : 'Normale',
+			'fa_IR' : 'نرمال'
            },
         'Satellite': { 
             'de_DE' : 'Satellit',
@@ -29,7 +30,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'ดาวเทียม',
             'pt_BR' : 'Satélite',
             'da_DK' : 'Satellit',
-            'it_IT' : 'Satellite'
+            'it_IT' : 'Satellite',
+			'fa_IR' : 'ماهواره'
            },
         'Hybrid': { 
             'de_DE' : 'Hybrid',
@@ -42,7 +44,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'ลูกผสม',
             'pt_BR' : 'Híbrido',
             'da_DK' : 'Hybrid',
-            'it_IT' : 'Ibrida'
+            'it_IT' : 'Ibrida',
+			'fa_IR' : 'هایبرید'
            },
         'Action Required': { 
             'de_DE' : 'Aktion ben&ouml;tigt',
@@ -55,7 +58,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'จำเป็นต้องทำ',
             'pt_BR' : 'Ação Requerida',
             'da_DK' : 'En handling er nødvendig',
-            'it_IT' : 'Azione richiesta'
+            'it_IT' : 'Azione richiesta',
+			'fa_IR' : 'نیاز به اقدام'
            },
         'New position': { 
             'de_DE' : 'Neue Position',
@@ -68,7 +72,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'เพิ่มตำแหน่ง',
             'pt_BR' : 'Nova posição',
             'da_DK' : 'Ny position',
-            'it_IT' : 'Nuova posizione'
+            'it_IT' : 'Nuova posizione',
+			'fa_IR' : 'پوزیشن جدید'
            },
         'Longitude': { 
             'de_DE' : 'Laengengrad',
@@ -107,7 +112,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'บันทึก',
             'pt_BR' : 'Salvar',
             'da_DK' : 'Gem',
-            'it_IT' : 'Salva'
+            'it_IT' : 'Salva',
+			'fa_IR' : 'ذخیره'
            },
         'Cancel': { 
             'de_DE' : 'Abrechen',
@@ -133,7 +139,9 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'ลบ',
             'pt_BR' : 'Deletar',
             'da_DK' : 'Slet',
-            'it_IT' : 'Elimina'
+            'it_IT' : 'Elimina',
+			'fa_IR' : 'حذف'
+			
            },
         'New marker already on map': { 
             'de_DE' : 'Neue Markierung bereits auf Karte ',
@@ -172,7 +180,8 @@ if(!dojo._hasResource["translations.Maps"]){ //_hasResource checks added by buil
             'th_TH' : 'สามารถใช้ได้',
             'pt_BR' : 'Disponível',
             'da_DK' : 'Til rådighed',
-            'it_IT' : 'Disponibile'
+            'it_IT' : 'Disponibile',
+			'fa_IR' : 'دردسترس'
            },
         'Drag and drop marker to required position': { 
             'de_DE' : 'Markierung zu neuer Postion ziehen',
