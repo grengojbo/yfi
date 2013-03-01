@@ -30,11 +30,13 @@ dojo.require('components.Common');
     var urlActivityRefresh  = components.Const.cake+'radaccts/json_show_active/1/?';
     var urlKickUsers    = components.Const.cake+'radaccts/json_kick_users_off/';
     var urlStopOpen     = components.Const.cake+'radaccts/json_stop_open/';
+    var urlDoEdit       = components.Const.cake+'radaccts/json_return_type_and_id/';
 
     var grid;
     var t;  //Text box for filter
     var intervalID;
     var newStore;
+    var query           = {'realm':'*'};
 
     ca.create  = function(divParent){
 
@@ -90,7 +92,7 @@ dojo.require('components.Common');
                     console.log("The value to filter..."+ filterOn);
                     var val = t.attr('value');
 
-                    var query = {'realm' : val+'*'};
+                    query = {'realm' : val+'*'};
                     if(filterOn == 'realm'){
                        query = {'realm' : val+'*'};
                     }
@@ -139,7 +141,7 @@ dojo.require('components.Common');
             dojo.place(update, divGridAction);
             var inpNumber = new dijit.form.NumberSpinner({
                                     style: "width:100px",
-                                    value: components.Const.defaultInterval,
+                                    value: 100, //Change to 100 to lighten the load on the server
                                     smallDelta: 1,
                                     id: 'contentActivityInterval',
                                     intermediateChanges: true,
@@ -214,7 +216,7 @@ dojo.require('components.Common');
 
                   var ts = Number(new Date());
                   var jsonStore = new dojo.data.ItemFileWriteStore({ url: urlAcctIndex+ts });
-                  grid.setStore(jsonStore,{'realm':'*'},{ignoreCase: true});
+                  grid.setStore(jsonStore,query,{ignoreCase: true});
             //---- END Grid----------------
         },100);
 
@@ -316,6 +318,12 @@ dojo.require('components.Common');
     
     }
 
+    ca.reload  = function(){
+        var ts = Number(new Date());
+        var jsonStore = new dojo.data.ItemFileWriteStore({ url: urlAcctIndex+ts });
+        grid.setStore(jsonStore,query,{ignoreCase: true});
+    }
+
 
     ca.checkToRemove = function(latestStore){
 
@@ -349,34 +357,65 @@ dojo.require('components.Common');
     }
 
     ca.edit   = function(){
-
-        console.log("Edit action clicked");
+        console.log("Edit action clicked 2013");
         var items = grid.selection.getSelected();
         if(items.length){
             dojo.forEach(
                             items,
                             function(selectedItem) {
-                            if(selectedItem !== null) {
-                                var voucher_id      = grid.store.getValue(selectedItem,'voucher_id');
-                                var user_id         = grid.store.getValue(selectedItem,'user_id');
+                            if(selectedItem !== null) {      
                                 var username        = grid.store.getValue(selectedItem,'username');
-                                if(voucher_id != undefined){
-                                    dijit.byId('componentsMainToaster').setContent('<b>'+tr.tr({'module': 'Activity','phrase':"Opening detail for",'lang':l})+' '+username+'</b>','message',components.Const.toasterInfo);
-                                    dojo.publish("/actions/VoucherView", [voucher_id,username]);
-                                    console.log("Voucher with id "+voucher_id+" selected");
-                                }
-
-                                if(user_id != undefined){
-                                    dijit.byId('componentsMainToaster').setContent('<b>'+tr.tr({'module': 'Activity','phrase':"Opening detail for",'lang':l})+' '+username+'</b>','message',components.Const.toasterInfo);
-                                    dojo.publish("/actions/UserView", [user_id,username]);
-                                    console.log("Permanet User with id "+user_id+" selected");
-                                }
+                                ca.doEdit(username);  
                             }
                         });
         }else{
 
             dijit.byId('componentsMainToaster').setContent(tr.tr({'module': 'Activity','phrase':'No Selection made','lang':l}),'error',components.Const.toasterError);
         }
+    }
+
+    ca.doEdit   = function(username){
+
+        dojo.xhrGet({
+            url: urlDoEdit+username,
+            preventCache: true,
+            handleAs: "json",
+            load: function(response){
+                var voucher_id  = undefined;
+                var user_id     = undefined;
+
+                if(response.json.status == 'ok'){
+                    //See the type of item that was selected...
+                    if(response.json.type == 'voucher'){
+                        voucher_id = response.json.id;
+                    }
+
+                    if(response.json.type == 'user'){
+                        user_id = response.json.id;
+                    }
+                    //Open accordingly...
+                    if(voucher_id != undefined){
+                        dijit.byId('componentsMainToaster').setContent(
+                            '<b>'+tr.tr({'module': 'Activity','phrase':"Opening detail for",'lang':l})+' '+username+'</b>','message',components.Const.toasterInfo);
+                        dojo.publish("/actions/VoucherView", [voucher_id,username]);
+                        console.log("Voucher with id "+voucher_id+" selected");
+                    }
+
+                    if(user_id != undefined){
+                        dijit.byId('componentsMainToaster').setContent('<b>'+tr.tr({'module': 'Activity','phrase':"Opening detail for",'lang':l})+' '+username+'</b>','message',components.Const.toasterInfo);
+                        dojo.publish("/actions/UserView", [user_id,username]);
+                            console.log("Permanet User with id "+user_id+" selected");
+                    } 
+                };
+
+                if(response.json.status == 'error'){
+                    dijit.byId('componentsMainToaster').setContent(response.json.detail,'error');
+                }
+            }
+        });
+
+
+
     }
 
     ca.kick      = function(){
