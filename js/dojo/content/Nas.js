@@ -36,6 +36,7 @@ dojo.require('components.Common');
     var intervalID;
     var newStore;
     var spanRestart;
+    var query           = {'nasname':'*'};
 
     cn.create  = function(divParent){
 
@@ -84,7 +85,7 @@ dojo.require('components.Common');
                     console.log("The value to filter..."+ filterOn);
                     var val = t.attr('value');
 
-                    var query = {'nasname' : val+'*'};
+                    query = {'nasname' : val+'*'};
                     if(filterOn == 'nasname'){
                        query = {'nasname' : val+'*'};
                     }
@@ -137,7 +138,7 @@ dojo.require('components.Common');
             dojo.place(update, divGridAction);
             var inpNumber = new dijit.form.NumberSpinner({
                                     style: "width:100px",
-                                    value: components.Const.defaultInterval,
+                                    value: 100, //Change to 100 in order to decrease the load on the server
                                     smallDelta: 1,
                                     id: 'contentNasInterval',
                                     intermediateChanges: true,
@@ -219,7 +220,7 @@ dojo.require('components.Common');
 
                   var ts = Number(new Date());
                   var jsonStore = new dojo.data.ItemFileWriteStore({ url: urlNasIndex+ts });
-                  grid.setStore(jsonStore,{'nasname':'*'},{ignoreCase: true});
+                  grid.setStore(jsonStore,query,{ignoreCase: true});
             //---- END Grid----------------
         },100);
 
@@ -229,7 +230,7 @@ dojo.require('components.Common');
     cn.reload  = function(){
         var ts = Number(new Date());
         var jsonStore = new dojo.data.ItemFileWriteStore({ url: urlNasIndex+ts });
-        grid.setStore(jsonStore,{'nasname':'*'},{ignoreCase: true});
+        grid.setStore(jsonStore,query,{ignoreCase: true});
     }
 
     cn.del      = function(){
@@ -412,7 +413,7 @@ dojo.require('components.Common');
                                 if(response.json.status == 'ok'){
                                     var ts = Number(new Date());
                                     var jsonStore = new dojo.data.ItemFileWriteStore({ url: urlNasIndex+ts });
-                                    grid.setStore(jsonStore,{'nasname':'*'},{ignoreCase: true});
+                                    grid.setStore(jsonStore,query,{ignoreCase: true});
                                     dlgAdd.destroyRecursive(false); //Destroy the dialog
                                     dijit.byId('componentsMainToaster').setContent('<b>'+tr.tr({'module': 'Nas','phrase':"Created NAS Device",'lang':l})+'</b>','message',components.Const.toasterInfo); //Notify the use that we added it
                                 }else{
